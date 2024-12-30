@@ -1,0 +1,3001 @@
+Location_key,Region_name,District,Population_density,Terrain_type,Distance_to_water
+0,Southwest Region,Fako,103.52,Coastal,4.66
+1,Littoral Region,Sanaga-Maritime,404.57,Plains,17.76
+2,Adamawa Region,Faro-et-Deo,462.01,Coastal,2.7
+3,South Region,Mvila,491.57,Forest,18.94
+4,West Region,Mifi,170.59,Plains,10.61
+5,Far North Region,Mayo-Tsanaga,247.29,Coastal,14.58
+6,Far North Region,Diamare,68.03,Forest,13.0
+7,East Region,Haut-Nyong,256.2,Forest,16.67
+8,Far North Region,Mayo-Danay,481.54,Forest,8.01
+9,North Region,Faro,84.31,Forest,5.42
+10,Southwest Region,Kupe-Manenguba,82.33,Mountainous,9.91
+11,Far North Region,Mayo-Tsanaga,471.38,Coastal,15.21
+12,East Region,Lom-et-Djerem,368.22,Coastal,19.21
+13,South Region,Mvila,363.39,Plains,1.39
+14,South Region,Ocean,166.36,Forest,15.54
+15,West Region,Nde,213.47,Coastal,10.79
+16,Far North Region,Mayo-Sava,373.97,Mountainous,13.74
+17,Northwest Region,Donga-Mantung,359.89,Plains,19.08
+18,Far North Region,Mayo-Tsanaga,299.18,Plains,10.03
+19,Centre Region,Lekie,106.01,Coastal,1.55
+20,Northwest Region,Momo,407.59,Plains,14.91
+21,Far North Region,Mayo-Tsanaga,102.8,Coastal,15.39
+22,Northwest Region,Bui,143.17,Plains,17.31
+23,West Region,Haut-Nkam,454.95,Coastal,3.84
+24,Adamawa Region,Mbere,385.66,Mountainous,10.88
+25,South Region,Dja-et-Lobo,265.19,Plains,8.4
+26,Littoral Region,Moungo,120.15,Coastal,15.13
+27,Adamawa Region,Vina,371.6,Mountainous,14.65
+28,South Region,Ocean,63.56,Forest,1.92
+29,Southwest Region,Lebialem,402.59,Coastal,16.71
+30,Littoral Region,Nkam,218.17,Coastal,4.42
+31,Adamawa Region,Faro-et-Deo,350.54,Plains,9.01
+32,East Region,Kadey,266.49,Plains,19.14
+33,South Region,Ocean,205.04,Mountainous,5.38
+34,Northwest Region,Ngo-Ketunjia,151.81,Mountainous,13.17
+35,Northwest Region,Momo,330.63,Forest,18.49
+36,Adamawa Region,Vina,332.0,Forest,15.57
+37,Littoral Region,Wouri,259.79,Mountainous,4.8
+38,Far North Region,Diamare,303.86,Mountainous,1.72
+39,Adamawa Region,Mayo-Banyo,215.45,Plains,15.93
+40,West Region,Menoua,301.23,Mountainous,13.72
+41,Northwest Region,Bui,223.9,Forest,0.36
+42,Centre Region,Nyong-et-Kelle,238.42,Mountainous,10.75
+43,Northwest Region,Mezam,261.74,Forest,9.03
+44,Southwest Region,Ndian,216.23,Forest,9.29
+45,West Region,Nde,257.07,Forest,13.03
+46,Far North Region,Diamare,458.62,Coastal,10.74
+47,South Region,Mvila,305.88,Coastal,16.35
+48,South Region,Dja-et-Lobo,145.67,Mountainous,0.58
+49,Southwest Region,Kupe-Manenguba,285.78,Mountainous,13.0
+50,Littoral Region,Wouri,408.91,Plains,5.22
+51,South Region,Ocean,88.0,Mountainous,7.96
+52,South Region,Vallee-du-Ntem,465.31,Coastal,3.73
+53,Far North Region,Diamare,317.82,Coastal,16.56
+54,East Region,Kadey,303.14,Plains,15.49
+55,South Region,Mvila,141.28,Forest,8.17
+56,Northwest Region,Donga-Mantung,263.76,Coastal,19.22
+57,Centre Region,Nyong-et-Kelle,202.74,Mountainous,7.49
+58,Littoral Region,Wouri,175.44,Coastal,1.63
+59,West Region,Bamboutos,420.7,Coastal,18.7
+60,Littoral Region,Nkam,376.65,Forest,10.15
+61,Northwest Region,Mezam,154.03,Coastal,6.39
+62,North Region,Mayo-Rey,126.07,Plains,8.76
+63,North Region,Faro,78.59,Mountainous,7.28
+64,West Region,Haut-Nkam,322.14,Plains,5.05
+65,South Region,Ocean,442.01,Coastal,9.62
+66,North Region,Mayo-Rey,67.2,Mountainous,4.02
+67,Adamawa Region,Mbere,321.38,Mountainous,8.87
+68,Adamawa Region,Faro-et-Deo,243.6,Coastal,15.72
+69,Adamawa Region,Djerem,302.33,Plains,7.64
+70,Adamawa Region,Vina,123.84,Plains,13.37
+71,North Region,Mayo-Louti,149.23,Forest,19.52
+72,West Region,Menoua,345.75,Forest,16.42
+73,Far North Region,Mayo-Danay,157.64,Plains,15.72
+74,Adamawa Region,Djerem,296.33,Mountainous,0.7
+75,South Region,Dja-et-Lobo,255.14,Plains,13.71
+76,Northwest Region,Mezam,478.0,Forest,3.78
+77,East Region,Kadey,254.34,Plains,18.04
+78,Littoral Region,Nkam,264.99,Forest,16.39
+79,North Region,Mayo-Rey,248.41,Forest,10.78
+80,Northwest Region,Donga-Mantung,129.51,Coastal,15.96
+81,East Region,Haut-Nyong,475.67,Coastal,0.58
+82,South Region,Ocean,264.25,Coastal,13.76
+83,East Region,Haut-Nyong,410.81,Mountainous,8.33
+84,Adamawa Region,Mayo-Banyo,278.04,Plains,8.81
+85,North Region,Benoue,490.94,Mountainous,17.94
+86,Littoral Region,Sanaga-Maritime,147.63,Mountainous,15.86
+87,Adamawa Region,Mbere,324.21,Plains,17.63
+88,Northwest Region,Bui,431.54,Plains,19.07
+89,Adamawa Region,Djerem,385.9,Mountainous,7.68
+90,South Region,Dja-et-Lobo,94.82,Mountainous,1.1
+91,North Region,Mayo-Louti,359.47,Forest,13.17
+92,East Region,Kadey,348.67,Plains,14.53
+93,East Region,Lom-et-Djerem,252.41,Forest,2.69
+94,West Region,Nde,354.2,Coastal,3.2
+95,Northwest Region,Ngo-Ketunjia,161.47,Mountainous,10.15
+96,West Region,Bamboutos,369.14,Coastal,3.52
+97,Littoral Region,Nkam,410.25,Plains,2.22
+98,Far North Region,Mayo-Kani,236.86,Plains,13.79
+99,West Region,Mifi,373.94,Mountainous,16.51
+100,East Region,Lom-et-Djerem,82.06,Plains,11.11
+101,Northwest Region,Donga-Mantung,175.81,Coastal,19.62
+102,Southwest Region,Fako,283.92,Forest,5.08
+103,Far North Region,Mayo-Tsanaga,337.25,Plains,5.67
+104,Centre Region,Mbam-et-Kim,477.82,Forest,15.17
+105,East Region,Kadey,158.93,Mountainous,16.9
+106,Adamawa Region,Faro-et-Deo,335.85,Plains,11.15
+107,Centre Region,Nyong-et-Kelle,482.87,Plains,3.38
+108,East Region,Haut-Nyong,107.25,Coastal,16.46
+109,Adamawa Region,Vina,332.96,Coastal,7.04
+110,West Region,Haut-Nkam,377.38,Plains,10.46
+111,West Region,Menoua,262.4,Forest,9.99
+112,Littoral Region,Wouri,66.71,Coastal,17.94
+113,East Region,Haut-Nyong,187.56,Mountainous,16.43
+114,Adamawa Region,Mayo-Banyo,462.66,Forest,2.42
+115,Southwest Region,Ndian,50.78,Plains,5.45
+116,South Region,Mvila,477.16,Forest,1.72
+117,East Region,Haut-Nyong,464.11,Mountainous,10.58
+118,Littoral Region,Moungo,206.03,Coastal,1.38
+119,Far North Region,Mayo-Kani,493.94,Plains,13.27
+120,East Region,Boumba-et-Ngoko,241.66,Mountainous,0.81
+121,Littoral Region,Wouri,210.72,Mountainous,8.88
+122,Northwest Region,Momo,317.84,Plains,10.56
+123,Southwest Region,Meme,63.76,Forest,12.59
+124,Northwest Region,Bui,443.84,Coastal,0.33
+125,Littoral Region,Wouri,215.97,Plains,19.15
+126,Far North Region,Diamare,383.32,Coastal,5.31
+127,East Region,Lom-et-Djerem,161.14,Mountainous,16.34
+128,Adamawa Region,Faro-et-Deo,409.22,Mountainous,6.09
+129,East Region,Lom-et-Djerem,133.27,Mountainous,11.15
+130,Adamawa Region,Mayo-Banyo,332.65,Forest,5.95
+131,South Region,Dja-et-Lobo,451.43,Forest,9.47
+132,Littoral Region,Wouri,310.52,Coastal,17.46
+133,West Region,Mifi,90.9,Forest,5.11
+134,Southwest Region,Ndian,169.91,Plains,18.02
+135,Centre Region,Lekie,331.12,Mountainous,13.33
+136,Southwest Region,Kupe-Manenguba,296.17,Forest,3.66
+137,Centre Region,Nyong-et-Kelle,214.16,Coastal,19.98
+138,Far North Region,Diamare,462.09,Forest,10.0
+139,East Region,Haut-Nyong,202.16,Coastal,0.23
+140,Adamawa Region,Mbere,482.49,Coastal,15.13
+141,North Region,Benoue,476.19,Plains,16.84
+142,Far North Region,Mayo-Kani,462.47,Coastal,3.74
+143,Far North Region,Mayo-Tsanaga,396.98,Coastal,3.66
+144,Adamawa Region,Mbere,426.41,Plains,5.73
+145,Littoral Region,Nkam,485.95,Coastal,16.0
+146,Southwest Region,Ndian,448.52,Coastal,4.78
+147,North Region,Mayo-Louti,118.24,Mountainous,3.04
+148,South Region,Mvila,337.9,Mountainous,16.01
+149,Northwest Region,Mezam,100.12,Coastal,8.01
+150,Northwest Region,Bui,85.42,Plains,13.84
+151,West Region,Mifi,423.67,Forest,6.21
+152,Centre Region,Haute-Sanaga,433.69,Mountainous,7.07
+153,Littoral Region,Sanaga-Maritime,241.92,Coastal,19.7
+154,Adamawa Region,Djerem,260.97,Mountainous,11.53
+155,Littoral Region,Wouri,255.21,Coastal,12.35
+156,Centre Region,Nyong-et-Kelle,318.49,Mountainous,7.99
+157,Far North Region,Mayo-Kani,410.65,Mountainous,17.03
+158,Centre Region,Mbam-et-Kim,453.84,Coastal,7.26
+159,Far North Region,Mayo-Danay,355.4,Plains,1.35
+160,Southwest Region,Lebialem,141.25,Mountainous,9.72
+161,Far North Region,Mayo-Tsanaga,157.91,Plains,12.88
+162,North Region,Mayo-Rey,76.55,Coastal,3.56
+163,North Region,Benoue,428.27,Mountainous,8.44
+164,Adamawa Region,Vina,322.26,Plains,5.27
+165,Southwest Region,Ndian,111.56,Plains,9.86
+166,West Region,Bamboutos,370.1,Plains,19.76
+167,Adamawa Region,Vina,128.14,Coastal,13.46
+168,Littoral Region,Moungo,398.29,Mountainous,9.71
+169,Southwest Region,Fako,301.59,Plains,9.2
+170,Adamawa Region,Mayo-Banyo,148.0,Plains,1.12
+171,Northwest Region,Ngo-Ketunjia,297.21,Mountainous,17.59
+172,Southwest Region,Kupe-Manenguba,51.87,Forest,4.07
+173,Centre Region,Mfoundi,167.59,Coastal,5.79
+174,Northwest Region,Momo,220.73,Mountainous,4.66
+175,Northwest Region,Ngo-Ketunjia,94.83,Mountainous,14.44
+176,Centre Region,Mfoundi,104.19,Forest,2.44
+177,South Region,Vallee-du-Ntem,256.6,Plains,7.42
+178,South Region,Vallee-du-Ntem,460.62,Forest,16.45
+179,Far North Region,Diamare,273.54,Plains,14.16
+180,Far North Region,Mayo-Kani,301.87,Plains,12.02
+181,North Region,Mayo-Rey,457.3,Plains,18.4
+182,Adamawa Region,Faro-et-Deo,259.05,Plains,0.64
+183,Southwest Region,Ndian,484.63,Plains,7.29
+184,North Region,Faro,126.87,Mountainous,1.07
+185,Adamawa Region,Vina,494.98,Mountainous,12.66
+186,Adamawa Region,Vina,143.06,Coastal,2.5
+187,North Region,Mayo-Louti,142.3,Plains,8.78
+188,Far North Region,Diamare,384.09,Plains,12.17
+189,North Region,Mayo-Rey,358.25,Coastal,17.68
+190,Far North Region,Mayo-Danay,229.15,Forest,8.47
+191,South Region,Dja-et-Lobo,204.5,Coastal,3.04
+192,West Region,Menoua,165.65,Mountainous,8.43
+193,West Region,Menoua,323.12,Coastal,0.84
+194,Northwest Region,Ngo-Ketunjia,269.37,Mountainous,11.26
+195,Northwest Region,Ngo-Ketunjia,178.71,Forest,14.93
+196,Centre Region,Nyong-et-Kelle,190.41,Plains,2.82
+197,Centre Region,Lekie,124.01,Forest,0.58
+198,West Region,Haut-Nkam,65.5,Plains,16.38
+199,Littoral Region,Moungo,199.97,Forest,11.09
+200,Adamawa Region,Mayo-Banyo,461.0,Mountainous,18.16
+201,Far North Region,Mayo-Danay,53.83,Plains,10.77
+202,South Region,Vallee-du-Ntem,154.63,Coastal,2.73
+203,Far North Region,Mayo-Tsanaga,249.63,Mountainous,5.71
+204,Littoral Region,Moungo,370.43,Coastal,7.49
+205,West Region,Haut-Nkam,51.86,Coastal,10.97
+206,Northwest Region,Bui,138.16,Mountainous,10.85
+207,North Region,Mayo-Louti,429.61,Plains,11.38
+208,Southwest Region,Ndian,158.68,Coastal,0.1
+209,Southwest Region,Fako,200.58,Mountainous,2.85
+210,West Region,Mifi,151.46,Forest,12.43
+211,Far North Region,Diamare,161.28,Coastal,12.64
+212,North Region,Mayo-Louti,339.67,Coastal,2.52
+213,West Region,Bamboutos,331.34,Plains,14.26
+214,Centre Region,Mfoundi,62.7,Forest,15.62
+215,North Region,Benoue,261.34,Mountainous,17.33
+216,East Region,Lom-et-Djerem,485.92,Plains,10.93
+217,Southwest Region,Lebialem,142.72,Plains,2.34
+218,South Region,Vallee-du-Ntem,73.44,Coastal,6.04
+219,West Region,Bamboutos,415.49,Plains,19.02
+220,South Region,Dja-et-Lobo,361.54,Plains,9.62
+221,North Region,Faro,248.93,Coastal,9.27
+222,Littoral Region,Wouri,122.88,Plains,16.46
+223,Northwest Region,Ngo-Ketunjia,60.9,Plains,12.37
+224,South Region,Mvila,412.24,Mountainous,8.36
+225,Centre Region,Nyong-et-Kelle,121.53,Mountainous,10.01
+226,Southwest Region,Ndian,219.9,Forest,5.54
+227,West Region,Menoua,50.95,Coastal,10.7
+228,Northwest Region,Bui,311.61,Coastal,1.43
+229,Far North Region,Mayo-Sava,392.81,Mountainous,9.1
+230,Littoral Region,Sanaga-Maritime,224.95,Mountainous,19.98
+231,Adamawa Region,Djerem,112.96,Plains,19.37
+232,Northwest Region,Momo,379.56,Mountainous,17.24
+233,East Region,Kadey,237.41,Plains,1.28
+234,Adamawa Region,Djerem,369.34,Mountainous,15.92
+235,Adamawa Region,Faro-et-Deo,477.99,Coastal,2.65
+236,West Region,Mifi,451.31,Coastal,11.88
+237,Adamawa Region,Mbere,490.77,Plains,8.03
+238,East Region,Haut-Nyong,288.98,Coastal,0.55
+239,North Region,Faro,104.44,Plains,18.96
+240,East Region,Boumba-et-Ngoko,189.62,Forest,14.28
+241,East Region,Lom-et-Djerem,395.51,Coastal,11.51
+242,Far North Region,Diamare,377.41,Plains,8.51
+243,West Region,Mifi,281.19,Mountainous,11.96
+244,Littoral Region,Sanaga-Maritime,482.7,Forest,18.38
+245,Adamawa Region,Mbere,185.27,Coastal,14.37
+246,Far North Region,Diamare,163.84,Plains,11.36
+247,Littoral Region,Moungo,439.56,Coastal,8.37
+248,South Region,Vallee-du-Ntem,361.46,Mountainous,12.85
+249,Southwest Region,Fako,205.19,Mountainous,9.53
+250,North Region,Mayo-Rey,64.8,Mountainous,1.16
+251,Far North Region,Mayo-Tsanaga,414.49,Plains,5.5
+252,East Region,Kadey,220.05,Forest,11.1
+253,North Region,Mayo-Louti,374.18,Mountainous,12.25
+254,West Region,Nde,206.27,Coastal,11.75
+255,Adamawa Region,Faro-et-Deo,342.9,Forest,6.34
+256,Northwest Region,Mezam,129.83,Forest,5.5
+257,South Region,Mvila,375.69,Coastal,6.06
+258,North Region,Mayo-Rey,405.38,Mountainous,6.14
+259,East Region,Boumba-et-Ngoko,452.34,Plains,8.01
+260,West Region,Haut-Nkam,135.66,Forest,12.77
+261,South Region,Mvila,129.86,Forest,7.12
+262,Far North Region,Mayo-Tsanaga,209.44,Coastal,11.16
+263,North Region,Mayo-Rey,201.64,Plains,4.65
+264,Adamawa Region,Mbere,450.08,Coastal,11.19
+265,South Region,Vallee-du-Ntem,430.3,Forest,13.74
+266,Centre Region,Nyong-et-Kelle,409.89,Coastal,0.19
+267,Northwest Region,Ngo-Ketunjia,154.61,Mountainous,14.73
+268,South Region,Ocean,58.11,Coastal,4.23
+269,Centre Region,Mbam-et-Kim,103.81,Coastal,16.03
+270,East Region,Lom-et-Djerem,305.1,Plains,11.61
+271,Centre Region,Nyong-et-Kelle,390.45,Plains,9.46
+272,South Region,Vallee-du-Ntem,78.64,Forest,14.02
+273,Adamawa Region,Faro-et-Deo,141.38,Mountainous,5.83
+274,West Region,Mifi,453.4,Forest,19.5
+275,North Region,Benoue,76.07,Forest,6.98
+276,Far North Region,Mayo-Danay,386.81,Coastal,11.66
+277,Centre Region,Mbam-et-Kim,61.01,Mountainous,1.06
+278,Adamawa Region,Djerem,242.34,Forest,11.42
+279,Southwest Region,Meme,169.56,Plains,11.26
+280,Centre Region,Lekie,91.84,Plains,12.65
+281,Southwest Region,Ndian,385.02,Forest,4.88
+282,Northwest Region,Ngo-Ketunjia,127.43,Mountainous,15.07
+283,Northwest Region,Bui,331.64,Plains,12.62
+284,Far North Region,Mayo-Kani,186.2,Mountainous,2.46
+285,Centre Region,Lekie,235.3,Mountainous,19.64
+286,North Region,Mayo-Louti,321.76,Mountainous,8.38
+287,East Region,Haut-Nyong,134.63,Plains,7.94
+288,Littoral Region,Moungo,271.76,Mountainous,3.61
+289,Far North Region,Diamare,340.35,Coastal,4.43
+290,North Region,Mayo-Louti,334.32,Plains,3.08
+291,Far North Region,Mayo-Danay,251.04,Plains,13.19
+292,Centre Region,Nyong-et-Kelle,78.57,Forest,15.66
+293,Far North Region,Mayo-Danay,405.44,Plains,15.44
+294,Far North Region,Mayo-Kani,302.18,Mountainous,17.17
+295,Far North Region,Mayo-Danay,336.32,Plains,9.94
+296,Littoral Region,Sanaga-Maritime,61.49,Plains,16.41
+297,South Region,Ocean,145.66,Mountainous,5.99
+298,Northwest Region,Bui,291.99,Plains,14.1
+299,North Region,Mayo-Rey,105.97,Forest,12.19
+300,South Region,Dja-et-Lobo,363.62,Coastal,14.57
+301,Adamawa Region,Faro-et-Deo,362.67,Coastal,18.41
+302,South Region,Vallee-du-Ntem,381.42,Coastal,9.5
+303,West Region,Haut-Nkam,420.01,Forest,12.02
+304,East Region,Lom-et-Djerem,372.86,Plains,8.5
+305,East Region,Boumba-et-Ngoko,486.85,Mountainous,13.96
+306,East Region,Boumba-et-Ngoko,125.33,Forest,4.52
+307,North Region,Faro,94.51,Plains,2.21
+308,Northwest Region,Bui,406.76,Mountainous,16.36
+309,North Region,Benoue,472.57,Mountainous,10.89
+310,South Region,Ocean,296.58,Coastal,2.15
+311,Adamawa Region,Mbere,397.35,Coastal,1.93
+312,North Region,Mayo-Rey,299.83,Coastal,1.58
+313,South Region,Ocean,480.02,Coastal,7.42
+314,East Region,Kadey,195.06,Mountainous,14.29
+315,West Region,Haut-Nkam,357.47,Forest,19.04
+316,East Region,Kadey,357.87,Plains,5.16
+317,Adamawa Region,Mbere,59.97,Coastal,5.57
+318,Littoral Region,Nkam,59.43,Mountainous,13.56
+319,West Region,Mifi,395.31,Mountainous,1.39
+320,Far North Region,Diamare,259.58,Plains,12.57
+321,West Region,Menoua,378.69,Plains,13.07
+322,Northwest Region,Mezam,186.18,Forest,9.45
+323,South Region,Vallee-du-Ntem,273.22,Coastal,7.02
+324,South Region,Ocean,251.77,Forest,14.81
+325,North Region,Benoue,297.25,Mountainous,1.41
+326,Southwest Region,Meme,244.04,Plains,16.69
+327,Littoral Region,Sanaga-Maritime,364.13,Plains,14.59
+328,Far North Region,Diamare,249.61,Coastal,18.47
+329,North Region,Mayo-Rey,398.57,Plains,1.5
+330,Northwest Region,Momo,87.75,Mountainous,9.8
+331,Northwest Region,Momo,330.43,Plains,7.05
+332,Far North Region,Mayo-Tsanaga,102.91,Forest,14.69
+333,East Region,Boumba-et-Ngoko,140.32,Forest,15.41
+334,North Region,Mayo-Louti,292.78,Mountainous,15.54
+335,Adamawa Region,Mayo-Banyo,319.91,Coastal,6.59
+336,Far North Region,Diamare,318.7,Mountainous,10.86
+337,South Region,Dja-et-Lobo,237.8,Plains,12.11
+338,Centre Region,Mfoundi,325.88,Coastal,19.06
+339,Adamawa Region,Djerem,171.27,Forest,18.26
+340,West Region,Nde,54.56,Plains,16.21
+341,Centre Region,Mfoundi,240.93,Coastal,12.87
+342,Northwest Region,Mezam,396.53,Forest,18.1
+343,Adamawa Region,Mbere,430.97,Forest,11.12
+344,Centre Region,Nyong-et-Kelle,477.43,Mountainous,14.35
+345,East Region,Kadey,128.23,Forest,19.49
+346,Littoral Region,Wouri,231.79,Forest,8.17
+347,Southwest Region,Ndian,184.51,Forest,11.49
+348,Southwest Region,Fako,164.24,Plains,14.81
+349,West Region,Haut-Nkam,213.77,Coastal,17.64
+350,Northwest Region,Donga-Mantung,101.38,Mountainous,11.42
+351,Centre Region,Lekie,115.41,Mountainous,14.2
+352,Southwest Region,Kupe-Manenguba,485.97,Plains,18.18
+353,Centre Region,Lekie,381.32,Plains,5.64
+354,Centre Region,Lekie,394.53,Plains,8.21
+355,Adamawa Region,Mbere,175.44,Forest,19.68
+356,East Region,Kadey,168.17,Mountainous,12.43
+357,Littoral Region,Nkam,289.09,Coastal,3.95
+358,Northwest Region,Mezam,65.24,Plains,9.75
+359,North Region,Benoue,383.66,Mountainous,13.98
+360,Far North Region,Mayo-Tsanaga,117.67,Forest,11.27
+361,Adamawa Region,Faro-et-Deo,254.41,Plains,14.04
+362,Adamawa Region,Mbere,102.3,Coastal,19.74
+363,Adamawa Region,Vina,113.21,Coastal,6.2
+364,East Region,Kadey,120.44,Mountainous,17.72
+365,Littoral Region,Wouri,333.16,Plains,0.36
+366,Centre Region,Lekie,433.99,Forest,14.33
+367,Northwest Region,Ngo-Ketunjia,180.16,Coastal,18.27
+368,Northwest Region,Donga-Mantung,170.47,Plains,4.56
+369,Southwest Region,Lebialem,204.57,Mountainous,1.02
+370,Southwest Region,Kupe-Manenguba,216.31,Mountainous,11.65
+371,Far North Region,Mayo-Kani,284.35,Plains,12.88
+372,South Region,Vallee-du-Ntem,272.19,Forest,2.0
+373,Littoral Region,Wouri,239.34,Forest,7.41
+374,West Region,Nde,186.04,Coastal,7.19
+375,West Region,Menoua,243.07,Forest,1.02
+376,Centre Region,Lekie,451.02,Plains,19.25
+377,Southwest Region,Lebialem,332.03,Forest,11.27
+378,South Region,Vallee-du-Ntem,341.15,Forest,19.81
+379,Far North Region,Mayo-Kani,257.31,Coastal,0.55
+380,Adamawa Region,Vina,404.9,Coastal,0.74
+381,North Region,Faro,392.77,Forest,12.23
+382,West Region,Mifi,240.06,Forest,2.46
+383,South Region,Mvila,195.46,Coastal,18.4
+384,East Region,Kadey,222.35,Forest,13.1
+385,North Region,Mayo-Rey,253.9,Plains,14.5
+386,Littoral Region,Wouri,131.16,Plains,14.96
+387,Littoral Region,Sanaga-Maritime,99.98,Coastal,3.05
+388,North Region,Benoue,358.39,Coastal,8.93
+389,Far North Region,Diamare,376.67,Forest,14.34
+390,Littoral Region,Wouri,121.55,Mountainous,3.31
+391,Adamawa Region,Faro-et-Deo,134.32,Forest,0.46
+392,North Region,Benoue,254.8,Mountainous,8.41
+393,Adamawa Region,Mbere,482.31,Mountainous,12.12
+394,West Region,Nde,337.39,Coastal,4.14
+395,Far North Region,Mayo-Sava,473.69,Coastal,3.53
+396,Far North Region,Mayo-Sava,89.66,Mountainous,15.48
+397,Far North Region,Diamare,162.34,Mountainous,8.52
+398,West Region,Nde,198.88,Forest,9.46
+399,Southwest Region,Kupe-Manenguba,283.12,Coastal,16.03
+400,East Region,Haut-Nyong,417.87,Plains,2.97
+401,West Region,Nde,175.47,Forest,1.24
+402,Centre Region,Mbam-et-Kim,132.16,Mountainous,0.57
+403,Southwest Region,Kupe-Manenguba,295.75,Forest,6.65
+404,West Region,Mifi,232.87,Coastal,18.75
+405,Littoral Region,Sanaga-Maritime,236.85,Coastal,6.77
+406,Southwest Region,Lebialem,245.15,Plains,7.92
+407,East Region,Kadey,488.05,Coastal,4.22
+408,Far North Region,Mayo-Kani,467.23,Coastal,3.5
+409,West Region,Haut-Nkam,228.31,Forest,2.56
+410,Southwest Region,Fako,211.47,Coastal,18.51
+411,Northwest Region,Mezam,397.91,Forest,14.4
+412,North Region,Mayo-Louti,452.55,Coastal,18.75
+413,South Region,Vallee-du-Ntem,422.02,Forest,14.46
+414,Adamawa Region,Mbere,416.37,Forest,14.93
+415,East Region,Lom-et-Djerem,191.45,Plains,1.04
+416,Centre Region,Mfoundi,173.24,Mountainous,14.14
+417,West Region,Nde,363.09,Forest,19.32
+418,South Region,Mvila,337.05,Plains,19.16
+419,West Region,Bamboutos,280.77,Plains,19.2
+420,East Region,Lom-et-Djerem,384.39,Forest,0.94
+421,Adamawa Region,Djerem,51.26,Coastal,11.68
+422,Far North Region,Mayo-Tsanaga,156.16,Coastal,2.42
+423,East Region,Haut-Nyong,234.2,Mountainous,19.62
+424,Littoral Region,Wouri,220.94,Mountainous,8.41
+425,Northwest Region,Bui,389.52,Plains,6.79
+426,Adamawa Region,Faro-et-Deo,157.21,Forest,5.57
+427,West Region,Nde,484.44,Plains,6.08
+428,Littoral Region,Nkam,174.28,Forest,17.56
+429,North Region,Mayo-Rey,315.91,Forest,5.79
+430,Adamawa Region,Djerem,160.83,Coastal,17.91
+431,South Region,Mvila,241.04,Coastal,0.96
+432,Adamawa Region,Djerem,491.13,Plains,5.88
+433,East Region,Boumba-et-Ngoko,117.27,Coastal,10.45
+434,Northwest Region,Ngo-Ketunjia,348.47,Plains,18.29
+435,South Region,Vallee-du-Ntem,156.16,Mountainous,3.55
+436,West Region,Menoua,121.74,Forest,15.29
+437,East Region,Kadey,490.2,Plains,11.39
+438,Northwest Region,Mezam,230.31,Mountainous,15.17
+439,Littoral Region,Moungo,200.06,Forest,19.41
+440,North Region,Faro,311.93,Plains,4.53
+441,Adamawa Region,Vina,59.72,Coastal,15.11
+442,East Region,Lom-et-Djerem,406.64,Coastal,5.53
+443,Centre Region,Haute-Sanaga,396.95,Plains,10.4
+444,Littoral Region,Nkam,353.11,Mountainous,17.83
+445,Adamawa Region,Mayo-Banyo,365.38,Plains,12.52
+446,East Region,Kadey,379.98,Forest,15.88
+447,Adamawa Region,Faro-et-Deo,460.52,Mountainous,0.38
+448,East Region,Boumba-et-Ngoko,265.57,Forest,11.87
+449,Northwest Region,Ngo-Ketunjia,308.06,Coastal,9.51
+450,Littoral Region,Moungo,157.57,Forest,19.04
+451,Far North Region,Mayo-Tsanaga,139.18,Mountainous,6.33
+452,Southwest Region,Fako,228.46,Mountainous,10.43
+453,South Region,Vallee-du-Ntem,134.15,Plains,16.32
+454,East Region,Haut-Nyong,127.56,Plains,9.94
+455,North Region,Mayo-Rey,217.47,Plains,15.42
+456,Littoral Region,Moungo,319.15,Mountainous,14.64
+457,Centre Region,Haute-Sanaga,250.33,Forest,10.85
+458,Centre Region,Nyong-et-Kelle,243.52,Mountainous,6.32
+459,Southwest Region,Fako,138.19,Plains,11.37
+460,Southwest Region,Lebialem,79.13,Mountainous,13.64
+461,North Region,Faro,243.52,Forest,0.33
+462,Far North Region,Mayo-Danay,419.65,Mountainous,1.69
+463,South Region,Vallee-du-Ntem,267.82,Mountainous,9.2
+464,North Region,Benoue,282.45,Forest,19.48
+465,South Region,Ocean,312.48,Plains,14.41
+466,Southwest Region,Fako,263.59,Forest,7.97
+467,Centre Region,Haute-Sanaga,277.99,Plains,2.67
+468,South Region,Ocean,275.8,Mountainous,14.44
+469,Centre Region,Lekie,459.09,Mountainous,6.88
+470,North Region,Mayo-Rey,415.68,Mountainous,10.91
+471,East Region,Haut-Nyong,465.9,Plains,17.09
+472,North Region,Mayo-Louti,180.81,Plains,11.22
+473,Southwest Region,Lebialem,182.94,Forest,15.55
+474,East Region,Boumba-et-Ngoko,405.94,Forest,5.24
+475,Centre Region,Mbam-et-Kim,443.94,Mountainous,15.35
+476,South Region,Ocean,461.47,Coastal,5.85
+477,South Region,Mvila,197.29,Plains,19.76
+478,North Region,Mayo-Louti,203.7,Mountainous,15.08
+479,Northwest Region,Donga-Mantung,163.77,Mountainous,19.37
+480,West Region,Haut-Nkam,245.92,Plains,15.22
+481,Southwest Region,Lebialem,474.79,Forest,17.2
+482,East Region,Lom-et-Djerem,226.71,Plains,15.04
+483,Far North Region,Mayo-Tsanaga,362.77,Coastal,1.57
+484,East Region,Kadey,234.94,Forest,4.74
+485,West Region,Nde,487.76,Coastal,6.15
+486,Southwest Region,Meme,154.93,Plains,11.91
+487,West Region,Bamboutos,467.36,Forest,3.04
+488,East Region,Boumba-et-Ngoko,243.65,Mountainous,19.52
+489,East Region,Haut-Nyong,226.85,Mountainous,0.81
+490,Far North Region,Mayo-Kani,135.14,Mountainous,4.43
+491,Centre Region,Haute-Sanaga,183.61,Mountainous,0.92
+492,Littoral Region,Moungo,475.71,Plains,0.69
+493,Centre Region,Haute-Sanaga,367.38,Mountainous,3.41
+494,West Region,Bamboutos,213.66,Mountainous,9.02
+495,West Region,Bamboutos,113.74,Mountainous,17.44
+496,East Region,Boumba-et-Ngoko,377.15,Coastal,0.98
+497,Adamawa Region,Mbere,106.57,Plains,11.86
+498,Northwest Region,Donga-Mantung,222.51,Forest,3.03
+499,East Region,Boumba-et-Ngoko,343.91,Forest,4.93
+500,North Region,Benoue,369.24,Plains,9.3
+501,East Region,Kadey,134.91,Plains,0.15
+502,Adamawa Region,Mayo-Banyo,483.14,Forest,1.89
+503,West Region,Bamboutos,413.85,Coastal,13.2
+504,South Region,Mvila,205.55,Plains,1.22
+505,Centre Region,Haute-Sanaga,494.41,Mountainous,15.02
+506,Far North Region,Mayo-Kani,492.59,Mountainous,9.11
+507,East Region,Kadey,172.2,Coastal,17.59
+508,North Region,Mayo-Louti,278.57,Coastal,18.43
+509,Adamawa Region,Faro-et-Deo,82.47,Forest,17.11
+510,Northwest Region,Donga-Mantung,364.46,Mountainous,16.83
+511,Adamawa Region,Faro-et-Deo,191.85,Forest,18.28
+512,Adamawa Region,Faro-et-Deo,97.89,Plains,6.45
+513,East Region,Boumba-et-Ngoko,474.3,Mountainous,9.89
+514,Southwest Region,Fako,291.75,Mountainous,9.12
+515,Centre Region,Nyong-et-Kelle,296.6,Mountainous,9.22
+516,Northwest Region,Bui,448.69,Mountainous,1.43
+517,Far North Region,Mayo-Sava,252.54,Forest,19.17
+518,Northwest Region,Mezam,202.85,Mountainous,4.86
+519,Littoral Region,Nkam,290.52,Mountainous,5.67
+520,Centre Region,Lekie,357.92,Forest,11.48
+521,Northwest Region,Ngo-Ketunjia,88.62,Mountainous,15.15
+522,East Region,Boumba-et-Ngoko,408.53,Mountainous,19.35
+523,Southwest Region,Fako,124.47,Forest,6.97
+524,South Region,Vallee-du-Ntem,370.81,Forest,8.15
+525,West Region,Nde,180.64,Forest,9.98
+526,West Region,Nde,110.12,Coastal,10.96
+527,Adamawa Region,Faro-et-Deo,56.6,Plains,2.62
+528,Far North Region,Diamare,207.16,Plains,17.39
+529,East Region,Boumba-et-Ngoko,104.69,Mountainous,14.21
+530,Southwest Region,Meme,169.48,Mountainous,2.2
+531,Southwest Region,Fako,355.47,Mountainous,8.44
+532,West Region,Haut-Nkam,245.39,Mountainous,1.23
+533,Far North Region,Mayo-Kani,142.04,Mountainous,12.5
+534,East Region,Kadey,470.37,Mountainous,1.6
+535,Far North Region,Mayo-Tsanaga,247.47,Coastal,5.41
+536,South Region,Vallee-du-Ntem,146.6,Forest,9.26
+537,East Region,Kadey,216.68,Coastal,0.39
+538,Adamawa Region,Vina,78.86,Coastal,10.45
+539,Centre Region,Mfoundi,473.7,Mountainous,15.16
+540,Littoral Region,Nkam,54.75,Mountainous,17.6
+541,Littoral Region,Wouri,84.19,Plains,10.42
+542,Centre Region,Haute-Sanaga,202.0,Mountainous,1.77
+543,East Region,Boumba-et-Ngoko,377.41,Coastal,13.51
+544,North Region,Mayo-Rey,321.61,Coastal,2.91
+545,Centre Region,Haute-Sanaga,437.46,Plains,19.65
+546,Northwest Region,Donga-Mantung,407.48,Coastal,7.15
+547,Northwest Region,Ngo-Ketunjia,251.04,Mountainous,17.83
+548,Northwest Region,Momo,269.24,Forest,7.48
+549,Littoral Region,Nkam,396.29,Plains,10.36
+550,East Region,Boumba-et-Ngoko,69.86,Forest,17.38
+551,Far North Region,Diamare,312.72,Mountainous,14.01
+552,Adamawa Region,Faro-et-Deo,63.51,Coastal,10.91
+553,West Region,Mifi,448.62,Plains,16.38
+554,Adamawa Region,Mbere,411.13,Coastal,16.95
+555,Southwest Region,Lebialem,324.73,Coastal,9.29
+556,East Region,Haut-Nyong,359.73,Mountainous,9.0
+557,North Region,Benoue,476.21,Coastal,9.36
+558,South Region,Dja-et-Lobo,53.01,Coastal,9.41
+559,Centre Region,Mfoundi,365.76,Plains,10.0
+560,Northwest Region,Donga-Mantung,125.79,Mountainous,11.26
+561,Littoral Region,Wouri,428.75,Forest,17.82
+562,North Region,Faro,80.7,Coastal,15.85
+563,Southwest Region,Lebialem,61.51,Forest,0.97
+564,East Region,Kadey,159.8,Plains,17.33
+565,Southwest Region,Ndian,368.02,Forest,9.12
+566,Littoral Region,Nkam,134.66,Mountainous,6.28
+567,South Region,Ocean,292.19,Plains,3.12
+568,East Region,Haut-Nyong,89.35,Forest,2.84
+569,Far North Region,Diamare,486.84,Plains,0.92
+570,West Region,Menoua,371.17,Mountainous,15.36
+571,Adamawa Region,Faro-et-Deo,151.14,Forest,11.07
+572,Centre Region,Haute-Sanaga,309.67,Mountainous,18.04
+573,Far North Region,Mayo-Danay,326.49,Plains,2.08
+574,North Region,Benoue,125.24,Forest,4.31
+575,South Region,Dja-et-Lobo,168.86,Plains,9.29
+576,South Region,Vallee-du-Ntem,195.87,Mountainous,17.79
+577,East Region,Haut-Nyong,459.69,Plains,4.53
+578,Littoral Region,Sanaga-Maritime,451.0,Coastal,5.86
+579,Far North Region,Diamare,219.74,Plains,3.11
+580,North Region,Faro,290.24,Coastal,14.99
+581,Southwest Region,Ndian,397.03,Forest,14.93
+582,West Region,Menoua,469.71,Mountainous,9.34
+583,Littoral Region,Moungo,228.87,Mountainous,4.43
+584,South Region,Dja-et-Lobo,142.28,Plains,9.45
+585,Adamawa Region,Faro-et-Deo,215.39,Mountainous,19.65
+586,Northwest Region,Donga-Mantung,102.93,Plains,16.12
+587,Northwest Region,Bui,256.27,Coastal,1.76
+588,Northwest Region,Bui,56.96,Forest,5.34
+589,Far North Region,Mayo-Tsanaga,401.21,Forest,16.27
+590,Littoral Region,Nkam,94.05,Plains,18.83
+591,East Region,Boumba-et-Ngoko,269.05,Forest,5.02
+592,Centre Region,Lekie,115.95,Coastal,6.66
+593,Southwest Region,Fako,386.89,Mountainous,5.85
+594,North Region,Mayo-Rey,76.29,Coastal,5.78
+595,West Region,Haut-Nkam,132.39,Forest,13.2
+596,West Region,Menoua,374.66,Forest,19.76
+597,North Region,Benoue,412.95,Forest,16.13
+598,Southwest Region,Fako,324.69,Forest,11.27
+599,Littoral Region,Wouri,195.69,Mountainous,7.58
+600,North Region,Benoue,418.88,Plains,5.58
+601,Northwest Region,Ngo-Ketunjia,399.18,Plains,13.85
+602,Southwest Region,Ndian,409.01,Forest,14.57
+603,Southwest Region,Fako,365.96,Plains,9.32
+604,Littoral Region,Moungo,215.18,Plains,15.05
+605,Adamawa Region,Djerem,113.38,Forest,7.22
+606,South Region,Ocean,121.22,Mountainous,17.05
+607,Southwest Region,Kupe-Manenguba,403.57,Mountainous,0.93
+608,Centre Region,Mfoundi,197.79,Mountainous,11.38
+609,North Region,Mayo-Louti,375.28,Coastal,0.1
+610,Southwest Region,Fako,102.07,Mountainous,9.14
+611,East Region,Lom-et-Djerem,466.2,Forest,2.4
+612,Littoral Region,Moungo,91.92,Coastal,4.62
+613,South Region,Mvila,447.1,Plains,4.68
+614,Adamawa Region,Vina,115.0,Mountainous,1.42
+615,West Region,Haut-Nkam,228.76,Forest,9.18
+616,West Region,Mifi,301.61,Coastal,13.22
+617,Littoral Region,Nkam,195.14,Plains,14.57
+618,North Region,Mayo-Louti,298.41,Forest,1.9
+619,Littoral Region,Nkam,246.47,Forest,13.1
+620,Far North Region,Mayo-Kani,215.11,Mountainous,3.71
+621,East Region,Haut-Nyong,150.41,Coastal,12.65
+622,Southwest Region,Fako,392.66,Plains,14.06
+623,Southwest Region,Lebialem,115.14,Forest,2.38
+624,South Region,Dja-et-Lobo,248.25,Forest,4.24
+625,Northwest Region,Ngo-Ketunjia,287.08,Coastal,10.44
+626,Far North Region,Mayo-Danay,259.72,Plains,9.82
+627,East Region,Haut-Nyong,114.81,Coastal,4.9
+628,South Region,Ocean,322.51,Mountainous,16.73
+629,South Region,Mvila,245.85,Plains,2.68
+630,East Region,Kadey,181.74,Coastal,16.16
+631,Littoral Region,Sanaga-Maritime,79.02,Plains,6.04
+632,Southwest Region,Fako,118.71,Forest,4.65
+633,Adamawa Region,Djerem,337.12,Mountainous,14.25
+634,East Region,Lom-et-Djerem,450.46,Forest,12.55
+635,North Region,Faro,250.88,Forest,3.59
+636,East Region,Haut-Nyong,225.47,Mountainous,6.82
+637,North Region,Benoue,233.36,Mountainous,1.7
+638,West Region,Menoua,297.42,Mountainous,6.36
+639,West Region,Mifi,416.99,Mountainous,10.23
+640,Centre Region,Lekie,320.16,Coastal,1.19
+641,Adamawa Region,Mayo-Banyo,56.57,Forest,0.86
+642,Littoral Region,Moungo,252.42,Plains,17.58
+643,Littoral Region,Wouri,135.6,Forest,4.85
+644,Northwest Region,Mezam,196.88,Mountainous,11.94
+645,East Region,Boumba-et-Ngoko,235.39,Coastal,3.17
+646,Centre Region,Mfoundi,362.18,Coastal,15.01
+647,South Region,Dja-et-Lobo,176.4,Coastal,0.9
+648,Far North Region,Diamare,359.18,Coastal,4.75
+649,East Region,Haut-Nyong,83.04,Forest,9.23
+650,South Region,Dja-et-Lobo,282.23,Mountainous,6.36
+651,Northwest Region,Donga-Mantung,290.98,Forest,0.84
+652,Centre Region,Mfoundi,194.25,Plains,8.33
+653,East Region,Boumba-et-Ngoko,126.96,Mountainous,11.26
+654,Far North Region,Mayo-Kani,166.68,Plains,7.32
+655,Far North Region,Mayo-Sava,422.99,Forest,4.92
+656,Centre Region,Lekie,167.39,Coastal,17.14
+657,Southwest Region,Meme,200.03,Mountainous,4.12
+658,Far North Region,Diamare,413.27,Mountainous,9.18
+659,East Region,Haut-Nyong,253.23,Coastal,9.93
+660,East Region,Boumba-et-Ngoko,65.63,Forest,13.55
+661,North Region,Mayo-Louti,460.86,Mountainous,7.66
+662,Littoral Region,Nkam,345.18,Coastal,1.04
+663,Southwest Region,Lebialem,50.47,Plains,0.62
+664,Northwest Region,Mezam,287.55,Coastal,17.31
+665,East Region,Boumba-et-Ngoko,312.27,Mountainous,15.87
+666,Far North Region,Mayo-Tsanaga,124.24,Forest,4.79
+667,Centre Region,Lekie,274.29,Mountainous,9.07
+668,Adamawa Region,Mbere,349.38,Mountainous,4.2
+669,West Region,Nde,335.52,Plains,16.22
+670,Adamawa Region,Faro-et-Deo,437.93,Coastal,11.99
+671,Littoral Region,Nkam,405.82,Plains,13.94
+672,West Region,Mifi,433.2,Coastal,8.89
+673,Southwest Region,Fako,72.39,Plains,2.31
+674,West Region,Mifi,231.09,Mountainous,10.89
+675,Adamawa Region,Mbere,84.49,Coastal,19.19
+676,Southwest Region,Kupe-Manenguba,384.63,Forest,6.97
+677,Adamawa Region,Mayo-Banyo,130.35,Forest,3.21
+678,North Region,Mayo-Louti,373.7,Coastal,5.74
+679,Southwest Region,Kupe-Manenguba,282.5,Coastal,16.15
+680,Adamawa Region,Djerem,174.47,Coastal,2.81
+681,Adamawa Region,Mbere,425.64,Forest,4.8
+682,Southwest Region,Meme,151.95,Mountainous,18.61
+683,Southwest Region,Lebialem,449.44,Mountainous,11.87
+684,Adamawa Region,Djerem,380.74,Forest,9.37
+685,West Region,Haut-Nkam,324.12,Forest,14.97
+686,Far North Region,Mayo-Sava,354.14,Plains,11.42
+687,Centre Region,Mfoundi,55.33,Coastal,6.32
+688,Adamawa Region,Mayo-Banyo,86.15,Mountainous,9.74
+689,Adamawa Region,Mbere,439.45,Plains,17.85
+690,South Region,Dja-et-Lobo,342.22,Coastal,14.85
+691,South Region,Vallee-du-Ntem,429.61,Plains,17.9
+692,Southwest Region,Lebialem,408.68,Plains,12.73
+693,Southwest Region,Lebialem,402.24,Mountainous,4.51
+694,Far North Region,Mayo-Kani,207.56,Coastal,10.23
+695,East Region,Boumba-et-Ngoko,252.52,Coastal,5.32
+696,South Region,Ocean,252.8,Mountainous,6.03
+697,Centre Region,Mbam-et-Kim,300.78,Mountainous,3.75
+698,South Region,Ocean,205.9,Coastal,5.25
+699,Far North Region,Mayo-Kani,165.27,Mountainous,18.32
+700,Northwest Region,Bui,472.97,Forest,17.22
+701,West Region,Menoua,229.27,Plains,13.56
+702,Adamawa Region,Mbere,213.6,Mountainous,2.85
+703,West Region,Menoua,467.16,Plains,19.49
+704,West Region,Bamboutos,475.21,Coastal,10.69
+705,North Region,Mayo-Rey,205.32,Coastal,14.81
+706,Littoral Region,Sanaga-Maritime,103.6,Plains,18.53
+707,Northwest Region,Mezam,427.07,Plains,7.6
+708,Littoral Region,Sanaga-Maritime,64.1,Forest,15.45
+709,East Region,Haut-Nyong,464.14,Plains,6.01
+710,Adamawa Region,Djerem,65.18,Mountainous,3.99
+711,Centre Region,Nyong-et-Kelle,298.74,Coastal,9.08
+712,North Region,Benoue,200.46,Coastal,4.98
+713,Northwest Region,Bui,383.34,Mountainous,3.88
+714,West Region,Mifi,99.03,Forest,5.56
+715,Far North Region,Diamare,208.85,Coastal,10.08
+716,Northwest Region,Momo,120.78,Plains,10.8
+717,Centre Region,Lekie,322.71,Coastal,16.94
+718,North Region,Mayo-Louti,148.43,Plains,12.25
+719,Northwest Region,Donga-Mantung,214.3,Plains,3.77
+720,North Region,Mayo-Rey,481.39,Plains,5.86
+721,Centre Region,Nyong-et-Kelle,135.12,Forest,0.19
+722,South Region,Dja-et-Lobo,347.48,Forest,8.92
+723,Northwest Region,Ngo-Ketunjia,258.16,Plains,16.36
+724,North Region,Mayo-Louti,95.26,Plains,5.71
+725,West Region,Haut-Nkam,420.54,Coastal,15.26
+726,Far North Region,Mayo-Tsanaga,477.4,Mountainous,4.2
+727,Adamawa Region,Vina,110.49,Plains,19.4
+728,North Region,Benoue,271.84,Forest,0.22
+729,East Region,Kadey,59.0,Coastal,6.9
+730,East Region,Haut-Nyong,106.64,Plains,12.56
+731,Far North Region,Mayo-Tsanaga,236.71,Plains,3.44
+732,Northwest Region,Bui,489.14,Coastal,17.37
+733,Adamawa Region,Faro-et-Deo,471.22,Coastal,1.55
+734,Littoral Region,Moungo,190.38,Mountainous,10.86
+735,East Region,Boumba-et-Ngoko,230.37,Plains,19.33
+736,Adamawa Region,Faro-et-Deo,392.07,Coastal,8.17
+737,Littoral Region,Nkam,237.61,Mountainous,19.86
+738,East Region,Boumba-et-Ngoko,469.65,Plains,13.01
+739,Far North Region,Mayo-Tsanaga,244.75,Plains,10.01
+740,West Region,Bamboutos,440.89,Plains,0.49
+741,South Region,Mvila,109.74,Mountainous,18.51
+742,East Region,Kadey,245.1,Mountainous,1.44
+743,East Region,Kadey,78.05,Forest,19.12
+744,Northwest Region,Mezam,137.83,Coastal,10.77
+745,West Region,Mifi,145.6,Mountainous,3.08
+746,East Region,Boumba-et-Ngoko,195.63,Mountainous,4.43
+747,Southwest Region,Kupe-Manenguba,76.6,Forest,15.94
+748,South Region,Ocean,52.26,Coastal,8.8
+749,Centre Region,Nyong-et-Kelle,135.84,Plains,3.42
+750,Centre Region,Mfoundi,382.2,Mountainous,19.35
+751,Adamawa Region,Vina,472.5,Plains,6.75
+752,North Region,Faro,375.62,Coastal,19.55
+753,West Region,Nde,446.49,Mountainous,7.3
+754,East Region,Boumba-et-Ngoko,385.33,Plains,7.59
+755,Littoral Region,Wouri,246.67,Forest,7.17
+756,Adamawa Region,Mayo-Banyo,467.46,Coastal,17.63
+757,Centre Region,Nyong-et-Kelle,192.79,Coastal,8.88
+758,Centre Region,Nyong-et-Kelle,75.47,Forest,3.22
+759,West Region,Nde,430.75,Plains,8.09
+760,Southwest Region,Kupe-Manenguba,190.72,Coastal,6.2
+761,West Region,Menoua,474.14,Plains,19.15
+762,West Region,Mifi,340.77,Coastal,11.52
+763,East Region,Kadey,380.12,Mountainous,2.62
+764,South Region,Mvila,343.96,Forest,1.83
+765,Littoral Region,Sanaga-Maritime,450.39,Mountainous,15.24
+766,Adamawa Region,Djerem,338.34,Coastal,14.55
+767,Littoral Region,Sanaga-Maritime,245.4,Mountainous,16.05
+768,West Region,Menoua,281.47,Coastal,18.2
+769,Littoral Region,Wouri,460.78,Coastal,0.5
+770,Far North Region,Mayo-Danay,466.3,Forest,2.96
+771,Littoral Region,Moungo,139.52,Mountainous,4.62
+772,Far North Region,Diamare,99.44,Plains,14.79
+773,West Region,Menoua,57.92,Mountainous,16.35
+774,East Region,Haut-Nyong,151.89,Forest,6.5
+775,Adamawa Region,Vina,277.26,Coastal,6.53
+776,East Region,Boumba-et-Ngoko,63.81,Plains,18.89
+777,Centre Region,Mfoundi,372.41,Coastal,13.01
+778,North Region,Mayo-Rey,303.47,Forest,7.19
+779,Far North Region,Mayo-Sava,367.33,Forest,11.89
+780,Centre Region,Mfoundi,240.82,Mountainous,12.12
+781,North Region,Mayo-Louti,357.61,Plains,10.69
+782,Southwest Region,Kupe-Manenguba,174.16,Forest,18.66
+783,Southwest Region,Lebialem,239.55,Plains,14.35
+784,Northwest Region,Bui,199.55,Plains,0.19
+785,Far North Region,Mayo-Tsanaga,211.33,Coastal,15.5
+786,Centre Region,Lekie,253.56,Mountainous,12.93
+787,Littoral Region,Sanaga-Maritime,494.06,Coastal,0.87
+788,South Region,Vallee-du-Ntem,387.85,Plains,1.91
+789,East Region,Kadey,201.69,Plains,12.15
+790,Northwest Region,Ngo-Ketunjia,318.11,Coastal,12.24
+791,Far North Region,Mayo-Tsanaga,105.88,Forest,15.21
+792,Northwest Region,Donga-Mantung,103.77,Coastal,8.02
+793,Centre Region,Nyong-et-Kelle,400.77,Mountainous,1.88
+794,Southwest Region,Meme,487.94,Mountainous,1.71
+795,North Region,Benoue,193.44,Forest,8.98
+796,Far North Region,Mayo-Sava,451.62,Plains,4.28
+797,Far North Region,Mayo-Danay,349.76,Coastal,1.86
+798,Northwest Region,Ngo-Ketunjia,216.33,Coastal,9.4
+799,East Region,Kadey,245.15,Coastal,16.95
+800,South Region,Mvila,331.49,Coastal,6.02
+801,South Region,Mvila,423.23,Coastal,9.2
+802,Far North Region,Mayo-Tsanaga,397.41,Forest,8.48
+803,Southwest Region,Lebialem,329.49,Mountainous,8.52
+804,West Region,Mifi,474.97,Mountainous,10.71
+805,West Region,Nde,139.86,Mountainous,13.17
+806,Far North Region,Mayo-Danay,313.62,Plains,6.86
+807,Northwest Region,Bui,117.45,Plains,2.32
+808,South Region,Mvila,166.12,Coastal,8.26
+809,Northwest Region,Ngo-Ketunjia,280.2,Coastal,15.9
+810,Centre Region,Nyong-et-Kelle,394.23,Coastal,8.3
+811,Centre Region,Nyong-et-Kelle,263.34,Coastal,11.7
+812,Centre Region,Haute-Sanaga,403.12,Plains,3.83
+813,Adamawa Region,Vina,131.71,Plains,4.79
+814,Littoral Region,Wouri,309.16,Forest,11.07
+815,East Region,Kadey,375.59,Coastal,12.07
+816,Southwest Region,Meme,125.18,Plains,18.24
+817,Littoral Region,Sanaga-Maritime,119.88,Plains,13.61
+818,East Region,Lom-et-Djerem,299.15,Coastal,3.43
+819,South Region,Mvila,179.2,Coastal,15.64
+820,East Region,Kadey,329.26,Forest,7.84
+821,East Region,Haut-Nyong,398.22,Forest,8.7
+822,Littoral Region,Nkam,191.33,Plains,16.47
+823,Centre Region,Mbam-et-Kim,136.68,Coastal,3.98
+824,North Region,Faro,96.18,Plains,9.63
+825,East Region,Haut-Nyong,169.51,Forest,18.9
+826,West Region,Menoua,334.14,Forest,10.75
+827,Southwest Region,Fako,233.46,Coastal,3.92
+828,Far North Region,Mayo-Danay,90.94,Mountainous,18.6
+829,Far North Region,Mayo-Danay,169.04,Mountainous,3.65
+830,Centre Region,Lekie,275.32,Plains,7.41
+831,South Region,Dja-et-Lobo,499.66,Plains,1.25
+832,Far North Region,Mayo-Danay,405.61,Plains,14.09
+833,Southwest Region,Ndian,196.77,Forest,9.18
+834,Centre Region,Mfoundi,335.24,Forest,1.53
+835,North Region,Benoue,386.19,Coastal,3.45
+836,West Region,Haut-Nkam,459.84,Mountainous,14.66
+837,Adamawa Region,Faro-et-Deo,220.68,Coastal,0.68
+838,West Region,Bamboutos,434.59,Plains,8.02
+839,Centre Region,Mfoundi,461.8,Forest,8.81
+840,East Region,Lom-et-Djerem,457.69,Mountainous,10.34
+841,West Region,Bamboutos,297.54,Mountainous,12.49
+842,Far North Region,Mayo-Tsanaga,372.11,Forest,16.78
+843,Far North Region,Mayo-Tsanaga,217.57,Forest,15.84
+844,Centre Region,Nyong-et-Kelle,54.93,Mountainous,18.01
+845,North Region,Faro,183.16,Mountainous,7.97
+846,Southwest Region,Fako,75.29,Mountainous,1.87
+847,Adamawa Region,Vina,259.97,Coastal,15.19
+848,Centre Region,Lekie,348.14,Coastal,9.4
+849,East Region,Kadey,412.46,Plains,12.18
+850,East Region,Boumba-et-Ngoko,432.01,Forest,4.32
+851,North Region,Mayo-Louti,443.66,Forest,1.86
+852,Centre Region,Mfoundi,139.88,Forest,5.32
+853,Littoral Region,Sanaga-Maritime,371.77,Mountainous,15.14
+854,Southwest Region,Lebialem,411.8,Coastal,18.73
+855,Centre Region,Haute-Sanaga,490.27,Plains,7.97
+856,East Region,Kadey,57.04,Coastal,15.36
+857,Adamawa Region,Vina,235.37,Plains,11.93
+858,Centre Region,Haute-Sanaga,238.26,Forest,9.69
+859,Northwest Region,Momo,324.95,Coastal,5.38
+860,Littoral Region,Wouri,384.41,Coastal,11.37
+861,East Region,Kadey,54.5,Forest,4.97
+862,West Region,Mifi,146.98,Plains,7.66
+863,East Region,Kadey,78.47,Coastal,3.22
+864,Littoral Region,Wouri,324.6,Plains,9.35
+865,Littoral Region,Nkam,101.2,Plains,11.83
+866,North Region,Mayo-Rey,375.73,Coastal,2.49
+867,West Region,Nde,257.5,Plains,12.57
+868,East Region,Kadey,238.46,Forest,14.55
+869,West Region,Mifi,157.21,Plains,8.96
+870,Far North Region,Mayo-Danay,244.53,Forest,14.27
+871,South Region,Vallee-du-Ntem,157.14,Forest,17.47
+872,South Region,Mvila,493.42,Forest,17.08
+873,South Region,Dja-et-Lobo,389.14,Mountainous,4.11
+874,Centre Region,Haute-Sanaga,288.91,Mountainous,8.15
+875,Littoral Region,Sanaga-Maritime,110.89,Forest,10.6
+876,South Region,Vallee-du-Ntem,223.27,Coastal,10.54
+877,Littoral Region,Sanaga-Maritime,257.51,Forest,4.37
+878,West Region,Haut-Nkam,484.28,Plains,7.69
+879,East Region,Haut-Nyong,84.95,Coastal,13.32
+880,Centre Region,Nyong-et-Kelle,330.36,Forest,10.67
+881,Centre Region,Lekie,180.19,Forest,14.33
+882,Centre Region,Lekie,220.75,Plains,17.27
+883,Adamawa Region,Djerem,349.86,Forest,5.67
+884,North Region,Mayo-Rey,92.74,Coastal,1.11
+885,Littoral Region,Nkam,265.64,Mountainous,17.17
+886,Far North Region,Mayo-Kani,467.18,Forest,14.34
+887,North Region,Mayo-Louti,169.02,Forest,4.83
+888,South Region,Vallee-du-Ntem,419.29,Mountainous,6.62
+889,Centre Region,Mfoundi,252.16,Forest,16.68
+890,West Region,Mifi,212.23,Coastal,7.53
+891,West Region,Nde,50.63,Mountainous,4.4
+892,Northwest Region,Bui,80.84,Forest,5.35
+893,North Region,Faro,189.1,Mountainous,14.26
+894,South Region,Dja-et-Lobo,495.12,Forest,17.0
+895,East Region,Haut-Nyong,193.92,Mountainous,11.9
+896,North Region,Faro,491.7,Forest,11.6
+897,East Region,Boumba-et-Ngoko,250.42,Plains,10.82
+898,Northwest Region,Momo,369.86,Plains,18.36
+899,Southwest Region,Fako,217.14,Plains,15.98
+900,Centre Region,Mbam-et-Kim,411.64,Forest,10.66
+901,East Region,Lom-et-Djerem,176.35,Forest,14.36
+902,East Region,Lom-et-Djerem,303.72,Forest,11.45
+903,West Region,Bamboutos,295.25,Forest,19.02
+904,East Region,Kadey,483.5,Mountainous,17.8
+905,Littoral Region,Sanaga-Maritime,236.65,Coastal,3.37
+906,Adamawa Region,Vina,104.9,Coastal,12.21
+907,Northwest Region,Bui,194.1,Mountainous,15.08
+908,Centre Region,Haute-Sanaga,308.84,Mountainous,17.21
+909,South Region,Dja-et-Lobo,187.5,Coastal,8.13
+910,Centre Region,Mfoundi,157.86,Mountainous,18.07
+911,Centre Region,Mfoundi,141.1,Forest,1.4
+912,West Region,Bamboutos,154.34,Mountainous,1.41
+913,Centre Region,Haute-Sanaga,405.79,Plains,17.03
+914,Southwest Region,Fako,401.71,Forest,14.53
+915,Centre Region,Haute-Sanaga,210.11,Plains,18.8
+916,Adamawa Region,Vina,157.66,Plains,4.9
+917,North Region,Mayo-Louti,406.66,Coastal,2.72
+918,North Region,Mayo-Rey,376.21,Plains,12.08
+919,Southwest Region,Lebialem,246.35,Coastal,15.9
+920,West Region,Haut-Nkam,312.93,Mountainous,11.79
+921,North Region,Faro,344.01,Plains,4.69
+922,East Region,Boumba-et-Ngoko,457.78,Forest,14.02
+923,Northwest Region,Mezam,95.81,Plains,19.3
+924,Centre Region,Nyong-et-Kelle,255.3,Forest,1.45
+925,Adamawa Region,Vina,433.57,Forest,18.16
+926,East Region,Lom-et-Djerem,416.64,Mountainous,19.35
+927,Far North Region,Mayo-Tsanaga,207.93,Plains,13.09
+928,North Region,Faro,375.35,Mountainous,8.1
+929,Southwest Region,Fako,365.41,Coastal,13.56
+930,Southwest Region,Ndian,89.78,Mountainous,7.82
+931,East Region,Boumba-et-Ngoko,283.93,Plains,11.19
+932,East Region,Boumba-et-Ngoko,372.86,Forest,15.13
+933,Far North Region,Mayo-Danay,405.51,Plains,13.67
+934,Littoral Region,Nkam,156.09,Plains,1.95
+935,North Region,Mayo-Rey,95.05,Coastal,0.83
+936,Northwest Region,Donga-Mantung,131.49,Mountainous,14.47
+937,Littoral Region,Sanaga-Maritime,394.56,Plains,16.62
+938,Far North Region,Mayo-Sava,63.27,Forest,18.91
+939,West Region,Haut-Nkam,128.88,Coastal,15.16
+940,West Region,Menoua,333.81,Forest,17.45
+941,Far North Region,Mayo-Sava,219.38,Coastal,14.72
+942,Adamawa Region,Faro-et-Deo,382.47,Forest,11.59
+943,Adamawa Region,Djerem,75.81,Coastal,2.33
+944,Southwest Region,Fako,365.75,Plains,13.21
+945,Littoral Region,Wouri,450.74,Mountainous,12.6
+946,Southwest Region,Meme,215.29,Coastal,16.67
+947,Littoral Region,Nkam,146.8,Mountainous,1.69
+948,West Region,Menoua,409.96,Mountainous,18.6
+949,Far North Region,Mayo-Danay,486.73,Mountainous,12.0
+950,East Region,Kadey,494.49,Mountainous,10.1
+951,Southwest Region,Meme,55.42,Coastal,6.19
+952,Adamawa Region,Faro-et-Deo,365.99,Coastal,14.73
+953,East Region,Haut-Nyong,491.22,Coastal,4.25
+954,Southwest Region,Meme,471.34,Forest,16.06
+955,North Region,Faro,94.32,Forest,7.88
+956,Adamawa Region,Faro-et-Deo,96.21,Coastal,4.7
+957,Northwest Region,Mezam,456.83,Coastal,19.09
+958,Far North Region,Mayo-Tsanaga,185.97,Mountainous,18.11
+959,Littoral Region,Moungo,455.46,Forest,9.87
+960,South Region,Dja-et-Lobo,256.08,Plains,2.92
+961,Littoral Region,Sanaga-Maritime,463.3,Coastal,8.82
+962,Littoral Region,Moungo,272.67,Coastal,9.79
+963,South Region,Ocean,70.9,Mountainous,4.67
+964,Far North Region,Mayo-Tsanaga,170.02,Forest,13.09
+965,Adamawa Region,Faro-et-Deo,344.26,Mountainous,14.08
+966,Littoral Region,Wouri,257.63,Coastal,3.34
+967,East Region,Haut-Nyong,262.99,Coastal,8.79
+968,West Region,Mifi,494.71,Mountainous,8.19
+969,North Region,Benoue,65.4,Mountainous,18.57
+970,East Region,Haut-Nyong,369.2,Forest,1.71
+971,East Region,Kadey,112.15,Plains,12.86
+972,Centre Region,Nyong-et-Kelle,91.8,Mountainous,16.44
+973,North Region,Benoue,64.38,Forest,16.87
+974,Northwest Region,Bui,376.48,Plains,10.49
+975,East Region,Kadey,403.21,Coastal,4.69
+976,Adamawa Region,Mayo-Banyo,115.16,Plains,12.03
+977,Southwest Region,Kupe-Manenguba,454.94,Coastal,9.43
+978,Southwest Region,Fako,409.81,Mountainous,13.07
+979,Littoral Region,Wouri,156.4,Mountainous,5.02
+980,Far North Region,Mayo-Kani,375.55,Plains,5.78
+981,East Region,Boumba-et-Ngoko,357.24,Forest,7.1
+982,North Region,Mayo-Louti,82.73,Mountainous,7.75
+983,South Region,Dja-et-Lobo,397.79,Mountainous,16.8
+984,South Region,Ocean,292.27,Forest,11.51
+985,Littoral Region,Sanaga-Maritime,469.05,Coastal,10.76
+986,North Region,Mayo-Louti,368.27,Mountainous,5.73
+987,West Region,Menoua,129.44,Plains,9.18
+988,Southwest Region,Kupe-Manenguba,94.83,Coastal,8.44
+989,West Region,Menoua,160.49,Plains,10.98
+990,Far North Region,Mayo-Danay,187.74,Mountainous,11.54
+991,Centre Region,Nyong-et-Kelle,150.14,Mountainous,11.98
+992,Adamawa Region,Djerem,497.86,Mountainous,4.91
+993,South Region,Dja-et-Lobo,145.75,Coastal,14.63
+994,Adamawa Region,Djerem,424.8,Coastal,9.46
+995,Centre Region,Mfoundi,132.55,Coastal,1.14
+996,Littoral Region,Wouri,212.95,Plains,5.9
+997,Adamawa Region,Mayo-Banyo,388.55,Plains,12.42
+998,West Region,Nde,271.38,Forest,13.63
+999,Southwest Region,Kupe-Manenguba,307.02,Forest,16.16
+1000,Northwest Region,Bui,120.94,Plains,1.43
+1001,West Region,Nde,121.09,Coastal,10.89
+1002,East Region,Kadey,374.07,Plains,15.64
+1003,Northwest Region,Donga-Mantung,255.36,Plains,18.03
+1004,East Region,Haut-Nyong,64.27,Forest,0.9
+1005,Centre Region,Nyong-et-Kelle,291.35,Forest,15.64
+1006,West Region,Menoua,147.45,Coastal,0.16
+1007,South Region,Mvila,110.7,Plains,15.32
+1008,Littoral Region,Wouri,338.69,Plains,11.12
+1009,Littoral Region,Sanaga-Maritime,435.4,Coastal,13.4
+1010,East Region,Kadey,205.15,Mountainous,3.49
+1011,Southwest Region,Fako,436.37,Coastal,19.17
+1012,South Region,Dja-et-Lobo,361.98,Mountainous,18.7
+1013,South Region,Dja-et-Lobo,316.6,Forest,10.96
+1014,East Region,Boumba-et-Ngoko,284.06,Mountainous,2.29
+1015,West Region,Mifi,81.42,Plains,11.21
+1016,West Region,Nde,459.08,Coastal,3.47
+1017,North Region,Mayo-Rey,414.48,Forest,17.28
+1018,East Region,Haut-Nyong,431.22,Forest,0.32
+1019,Southwest Region,Lebialem,222.21,Mountainous,4.94
+1020,Southwest Region,Kupe-Manenguba,267.03,Mountainous,18.88
+1021,West Region,Bamboutos,104.16,Coastal,4.62
+1022,Far North Region,Mayo-Kani,270.39,Forest,8.61
+1023,Southwest Region,Meme,230.94,Coastal,7.35
+1024,Littoral Region,Moungo,141.61,Coastal,4.32
+1025,Centre Region,Lekie,347.37,Coastal,8.38
+1026,Adamawa Region,Djerem,293.3,Plains,7.9
+1027,Southwest Region,Fako,128.39,Plains,17.5
+1028,East Region,Lom-et-Djerem,343.18,Plains,11.84
+1029,Far North Region,Mayo-Sava,96.66,Coastal,8.24
+1030,North Region,Benoue,316.6,Forest,7.15
+1031,Far North Region,Mayo-Tsanaga,420.29,Coastal,15.58
+1032,North Region,Mayo-Rey,445.32,Coastal,19.61
+1033,North Region,Mayo-Louti,236.55,Plains,13.03
+1034,Adamawa Region,Mayo-Banyo,244.49,Coastal,9.09
+1035,Southwest Region,Meme,91.94,Mountainous,18.4
+1036,Littoral Region,Sanaga-Maritime,122.66,Forest,6.39
+1037,Northwest Region,Ngo-Ketunjia,364.92,Mountainous,12.31
+1038,Southwest Region,Lebialem,257.52,Plains,18.98
+1039,East Region,Lom-et-Djerem,149.29,Forest,12.77
+1040,Southwest Region,Ndian,422.8,Forest,4.88
+1041,Littoral Region,Nkam,196.39,Mountainous,1.03
+1042,Northwest Region,Mezam,348.06,Forest,16.71
+1043,North Region,Mayo-Rey,428.68,Coastal,2.94
+1044,Adamawa Region,Djerem,248.95,Coastal,10.96
+1045,Southwest Region,Lebialem,131.55,Plains,10.35
+1046,Far North Region,Mayo-Sava,319.11,Mountainous,7.67
+1047,North Region,Mayo-Rey,461.61,Mountainous,9.4
+1048,East Region,Boumba-et-Ngoko,425.46,Mountainous,3.13
+1049,Far North Region,Mayo-Tsanaga,71.2,Forest,19.07
+1050,Centre Region,Nyong-et-Kelle,420.92,Plains,15.5
+1051,Northwest Region,Bui,448.08,Coastal,16.09
+1052,North Region,Benoue,130.62,Coastal,1.76
+1053,Northwest Region,Bui,410.22,Mountainous,19.36
+1054,Littoral Region,Nkam,388.44,Forest,1.9
+1055,Southwest Region,Kupe-Manenguba,368.56,Plains,4.49
+1056,Northwest Region,Bui,481.13,Coastal,18.58
+1057,Adamawa Region,Mbere,73.89,Coastal,8.84
+1058,Northwest Region,Mezam,333.95,Coastal,15.66
+1059,Littoral Region,Nkam,432.32,Plains,2.25
+1060,Far North Region,Mayo-Sava,294.04,Plains,10.1
+1061,South Region,Ocean,221.21,Coastal,8.61
+1062,Centre Region,Nyong-et-Kelle,407.31,Plains,0.19
+1063,Northwest Region,Momo,334.05,Coastal,15.94
+1064,Far North Region,Mayo-Tsanaga,485.04,Mountainous,14.85
+1065,Centre Region,Nyong-et-Kelle,425.4,Plains,19.93
+1066,Littoral Region,Nkam,286.68,Forest,10.46
+1067,Southwest Region,Kupe-Manenguba,303.67,Forest,6.43
+1068,Northwest Region,Mezam,146.46,Mountainous,3.03
+1069,East Region,Lom-et-Djerem,458.18,Plains,10.2
+1070,Far North Region,Diamare,73.19,Forest,14.84
+1071,Southwest Region,Lebialem,460.94,Mountainous,5.21
+1072,North Region,Mayo-Rey,359.02,Forest,9.81
+1073,Southwest Region,Kupe-Manenguba,212.53,Mountainous,4.27
+1074,South Region,Dja-et-Lobo,58.62,Coastal,11.13
+1075,Northwest Region,Momo,386.4,Forest,10.35
+1076,South Region,Dja-et-Lobo,180.07,Mountainous,11.29
+1077,Littoral Region,Moungo,84.22,Plains,9.01
+1078,Southwest Region,Kupe-Manenguba,125.58,Coastal,16.81
+1079,Southwest Region,Kupe-Manenguba,74.98,Plains,5.2
+1080,North Region,Mayo-Louti,217.84,Plains,15.48
+1081,Far North Region,Mayo-Danay,106.94,Mountainous,3.31
+1082,Southwest Region,Lebialem,275.14,Mountainous,7.08
+1083,Centre Region,Lekie,383.98,Plains,4.46
+1084,Northwest Region,Momo,222.74,Forest,2.22
+1085,Adamawa Region,Djerem,406.08,Coastal,16.99
+1086,North Region,Mayo-Rey,51.1,Mountainous,13.87
+1087,Northwest Region,Mezam,398.44,Plains,11.56
+1088,Littoral Region,Wouri,51.55,Mountainous,0.35
+1089,Far North Region,Diamare,174.33,Coastal,15.56
+1090,West Region,Menoua,102.12,Mountainous,14.12
+1091,Adamawa Region,Djerem,405.26,Plains,18.03
+1092,Northwest Region,Momo,421.3,Mountainous,6.46
+1093,Far North Region,Mayo-Sava,459.7,Mountainous,16.07
+1094,South Region,Dja-et-Lobo,317.88,Forest,7.44
+1095,Adamawa Region,Vina,217.51,Coastal,6.79
+1096,Adamawa Region,Djerem,324.82,Forest,15.55
+1097,Adamawa Region,Mbere,55.52,Coastal,17.55
+1098,Northwest Region,Bui,448.72,Mountainous,0.69
+1099,North Region,Benoue,492.52,Mountainous,16.53
+1100,South Region,Dja-et-Lobo,368.83,Forest,1.82
+1101,Littoral Region,Moungo,199.78,Coastal,19.48
+1102,North Region,Mayo-Louti,189.25,Coastal,14.23
+1103,Littoral Region,Wouri,277.32,Mountainous,2.85
+1104,Northwest Region,Donga-Mantung,164.58,Forest,12.1
+1105,Littoral Region,Nkam,159.44,Mountainous,2.65
+1106,Far North Region,Mayo-Kani,413.42,Forest,12.18
+1107,Littoral Region,Nkam,112.37,Coastal,10.52
+1108,Adamawa Region,Mayo-Banyo,499.04,Forest,12.26
+1109,Southwest Region,Ndian,251.03,Plains,10.86
+1110,Northwest Region,Donga-Mantung,483.94,Forest,14.12
+1111,North Region,Mayo-Louti,480.27,Forest,2.34
+1112,West Region,Mifi,71.32,Mountainous,15.42
+1113,Northwest Region,Donga-Mantung,142.06,Forest,15.86
+1114,Littoral Region,Nkam,152.62,Forest,18.69
+1115,Far North Region,Diamare,219.91,Mountainous,12.03
+1116,East Region,Haut-Nyong,310.55,Forest,14.67
+1117,North Region,Benoue,307.65,Plains,17.88
+1118,Littoral Region,Moungo,320.87,Mountainous,6.74
+1119,Centre Region,Mbam-et-Kim,74.17,Mountainous,14.09
+1120,Far North Region,Mayo-Danay,102.76,Forest,13.25
+1121,Far North Region,Mayo-Danay,62.06,Coastal,12.37
+1122,Northwest Region,Ngo-Ketunjia,288.19,Coastal,16.08
+1123,North Region,Mayo-Rey,374.99,Plains,5.57
+1124,Far North Region,Mayo-Danay,224.08,Mountainous,15.2
+1125,Centre Region,Nyong-et-Kelle,345.63,Mountainous,19.12
+1126,Centre Region,Nyong-et-Kelle,79.35,Forest,4.79
+1127,Northwest Region,Ngo-Ketunjia,86.07,Forest,11.58
+1128,South Region,Ocean,288.53,Coastal,8.12
+1129,East Region,Kadey,343.82,Coastal,8.55
+1130,Far North Region,Mayo-Kani,210.4,Mountainous,4.94
+1131,Northwest Region,Donga-Mantung,131.29,Plains,7.59
+1132,North Region,Faro,399.92,Coastal,10.76
+1133,Littoral Region,Wouri,324.14,Plains,17.22
+1134,East Region,Kadey,395.82,Plains,19.9
+1135,South Region,Dja-et-Lobo,276.7,Forest,12.42
+1136,South Region,Vallee-du-Ntem,171.34,Plains,17.18
+1137,Northwest Region,Donga-Mantung,131.11,Coastal,14.82
+1138,Far North Region,Mayo-Danay,335.13,Coastal,17.69
+1139,Adamawa Region,Mbere,61.57,Plains,10.47
+1140,Northwest Region,Bui,406.57,Coastal,16.34
+1141,North Region,Benoue,356.15,Mountainous,2.01
+1142,Littoral Region,Wouri,353.93,Forest,2.24
+1143,West Region,Haut-Nkam,420.28,Forest,8.58
+1144,Adamawa Region,Mbere,195.04,Mountainous,15.34
+1145,Adamawa Region,Faro-et-Deo,304.97,Forest,13.19
+1146,Littoral Region,Moungo,171.83,Coastal,18.2
+1147,North Region,Benoue,386.93,Coastal,7.4
+1148,East Region,Haut-Nyong,335.09,Coastal,13.69
+1149,Far North Region,Mayo-Kani,315.6,Coastal,14.21
+1150,Far North Region,Mayo-Tsanaga,366.33,Forest,13.91
+1151,West Region,Haut-Nkam,85.94,Coastal,8.1
+1152,South Region,Dja-et-Lobo,442.19,Mountainous,1.63
+1153,South Region,Mvila,134.27,Mountainous,1.68
+1154,South Region,Mvila,289.21,Plains,17.56
+1155,West Region,Haut-Nkam,433.4,Coastal,16.72
+1156,North Region,Benoue,330.2,Plains,16.94
+1157,Northwest Region,Mezam,498.3,Forest,7.76
+1158,Far North Region,Mayo-Kani,216.99,Coastal,8.94
+1159,East Region,Kadey,389.14,Coastal,13.14
+1160,Littoral Region,Wouri,478.36,Mountainous,0.83
+1161,North Region,Benoue,104.79,Coastal,18.33
+1162,Centre Region,Mfoundi,446.91,Coastal,7.72
+1163,Northwest Region,Momo,58.76,Coastal,7.31
+1164,Littoral Region,Nkam,194.8,Forest,4.63
+1165,Adamawa Region,Djerem,340.87,Forest,18.35
+1166,Northwest Region,Mezam,262.99,Mountainous,2.0
+1167,Centre Region,Nyong-et-Kelle,290.11,Plains,12.7
+1168,East Region,Boumba-et-Ngoko,137.79,Mountainous,17.0
+1169,Centre Region,Haute-Sanaga,336.82,Coastal,12.72
+1170,North Region,Mayo-Louti,148.63,Forest,5.48
+1171,North Region,Faro,265.64,Forest,5.67
+1172,Centre Region,Mbam-et-Kim,206.64,Plains,9.46
+1173,Southwest Region,Ndian,111.75,Mountainous,6.92
+1174,South Region,Mvila,400.54,Forest,12.3
+1175,West Region,Nde,398.62,Plains,19.23
+1176,Adamawa Region,Vina,295.99,Coastal,7.71
+1177,Far North Region,Mayo-Tsanaga,443.45,Coastal,13.58
+1178,Far North Region,Mayo-Kani,458.54,Plains,12.53
+1179,Adamawa Region,Mbere,73.62,Forest,19.08
+1180,South Region,Mvila,202.55,Coastal,6.82
+1181,Far North Region,Diamare,305.18,Mountainous,10.88
+1182,Far North Region,Diamare,109.46,Coastal,9.32
+1183,West Region,Mifi,311.36,Forest,14.26
+1184,Littoral Region,Sanaga-Maritime,244.12,Forest,18.56
+1185,Adamawa Region,Djerem,463.89,Plains,15.82
+1186,Centre Region,Nyong-et-Kelle,306.29,Forest,9.46
+1187,East Region,Boumba-et-Ngoko,485.8,Mountainous,4.12
+1188,Southwest Region,Meme,474.31,Mountainous,9.75
+1189,Centre Region,Mbam-et-Kim,458.26,Mountainous,7.66
+1190,Northwest Region,Mezam,291.92,Coastal,9.99
+1191,Southwest Region,Lebialem,298.45,Mountainous,8.21
+1192,Southwest Region,Ndian,265.8,Coastal,4.73
+1193,West Region,Nde,278.23,Plains,5.47
+1194,North Region,Benoue,443.18,Coastal,16.19
+1195,Adamawa Region,Vina,367.99,Forest,10.89
+1196,West Region,Nde,388.42,Mountainous,16.46
+1197,Northwest Region,Momo,112.16,Coastal,15.52
+1198,East Region,Kadey,347.35,Mountainous,6.06
+1199,Adamawa Region,Djerem,91.43,Plains,1.63
+1200,North Region,Faro,144.4,Mountainous,17.89
+1201,Southwest Region,Ndian,315.09,Coastal,14.58
+1202,East Region,Haut-Nyong,253.29,Coastal,13.99
+1203,East Region,Haut-Nyong,114.92,Coastal,18.97
+1204,North Region,Faro,418.12,Mountainous,9.33
+1205,East Region,Haut-Nyong,263.05,Forest,13.64
+1206,Adamawa Region,Mbere,258.65,Forest,3.9
+1207,West Region,Menoua,50.83,Mountainous,11.29
+1208,North Region,Faro,321.98,Plains,12.93
+1209,Centre Region,Lekie,73.26,Mountainous,0.91
+1210,South Region,Dja-et-Lobo,174.13,Plains,3.04
+1211,West Region,Nde,392.81,Mountainous,9.27
+1212,Centre Region,Lekie,152.01,Mountainous,13.42
+1213,South Region,Mvila,365.81,Coastal,12.51
+1214,Littoral Region,Moungo,95.71,Mountainous,15.62
+1215,Southwest Region,Fako,417.57,Plains,19.07
+1216,South Region,Mvila,206.84,Forest,8.13
+1217,East Region,Kadey,65.15,Coastal,4.69
+1218,South Region,Mvila,316.15,Coastal,3.72
+1219,South Region,Mvila,190.45,Plains,18.43
+1220,North Region,Benoue,195.52,Plains,13.51
+1221,Southwest Region,Lebialem,178.6,Coastal,8.79
+1222,Centre Region,Mfoundi,66.58,Coastal,17.89
+1223,North Region,Mayo-Louti,260.34,Plains,0.55
+1224,Littoral Region,Nkam,171.33,Coastal,15.94
+1225,Adamawa Region,Vina,499.27,Coastal,11.66
+1226,Northwest Region,Momo,117.88,Forest,14.59
+1227,Far North Region,Mayo-Kani,469.03,Plains,4.73
+1228,Adamawa Region,Vina,295.53,Forest,19.41
+1229,South Region,Dja-et-Lobo,485.15,Mountainous,2.03
+1230,Adamawa Region,Mbere,364.58,Plains,6.04
+1231,North Region,Mayo-Rey,182.49,Mountainous,12.34
+1232,West Region,Bamboutos,341.26,Mountainous,11.97
+1233,Adamawa Region,Vina,174.64,Plains,13.63
+1234,Adamawa Region,Vina,243.31,Mountainous,4.22
+1235,West Region,Nde,344.91,Forest,11.74
+1236,Southwest Region,Kupe-Manenguba,450.41,Coastal,18.81
+1237,Far North Region,Diamare,119.19,Plains,12.76
+1238,Centre Region,Nyong-et-Kelle,221.51,Coastal,16.62
+1239,Northwest Region,Ngo-Ketunjia,60.22,Forest,0.72
+1240,Southwest Region,Fako,263.45,Coastal,2.23
+1241,Adamawa Region,Faro-et-Deo,276.82,Plains,17.81
+1242,Northwest Region,Bui,364.63,Plains,19.56
+1243,North Region,Mayo-Louti,424.26,Forest,14.98
+1244,Centre Region,Mfoundi,75.59,Forest,0.77
+1245,North Region,Mayo-Rey,474.45,Plains,13.54
+1246,Northwest Region,Donga-Mantung,315.23,Mountainous,17.46
+1247,South Region,Dja-et-Lobo,220.96,Forest,5.8
+1248,Far North Region,Mayo-Sava,488.53,Plains,11.27
+1249,Southwest Region,Fako,162.42,Mountainous,2.11
+1250,Northwest Region,Mezam,315.9,Mountainous,2.4
+1251,North Region,Benoue,486.78,Plains,9.05
+1252,Far North Region,Diamare,209.65,Forest,16.59
+1253,Littoral Region,Nkam,144.17,Coastal,17.92
+1254,Northwest Region,Bui,244.75,Forest,5.62
+1255,Northwest Region,Momo,340.47,Forest,18.46
+1256,Northwest Region,Donga-Mantung,86.04,Coastal,1.17
+1257,Northwest Region,Momo,55.66,Forest,9.24
+1258,East Region,Lom-et-Djerem,176.21,Coastal,6.14
+1259,South Region,Dja-et-Lobo,91.05,Plains,7.85
+1260,Northwest Region,Mezam,234.96,Plains,11.4
+1261,Far North Region,Mayo-Danay,98.3,Coastal,8.04
+1262,Centre Region,Mbam-et-Kim,176.36,Plains,1.42
+1263,Northwest Region,Momo,252.87,Mountainous,1.19
+1264,Adamawa Region,Faro-et-Deo,306.51,Forest,5.97
+1265,South Region,Vallee-du-Ntem,291.16,Forest,0.72
+1266,West Region,Bamboutos,318.21,Plains,7.8
+1267,Northwest Region,Mezam,242.49,Forest,11.1
+1268,South Region,Vallee-du-Ntem,257.75,Coastal,7.28
+1269,South Region,Mvila,123.28,Plains,5.45
+1270,Littoral Region,Wouri,224.81,Coastal,10.03
+1271,East Region,Lom-et-Djerem,474.22,Mountainous,0.22
+1272,Far North Region,Mayo-Tsanaga,402.03,Forest,13.79
+1273,Far North Region,Mayo-Tsanaga,404.76,Forest,12.98
+1274,Northwest Region,Donga-Mantung,446.95,Forest,4.18
+1275,Adamawa Region,Mayo-Banyo,287.09,Forest,10.52
+1276,North Region,Mayo-Louti,346.32,Coastal,5.4
+1277,North Region,Mayo-Rey,383.51,Forest,18.38
+1278,Southwest Region,Ndian,172.37,Forest,7.46
+1279,Northwest Region,Momo,137.74,Coastal,16.71
+1280,Littoral Region,Nkam,261.26,Forest,16.7
+1281,West Region,Haut-Nkam,308.55,Forest,17.47
+1282,Adamawa Region,Djerem,346.39,Forest,6.81
+1283,Littoral Region,Sanaga-Maritime,278.21,Plains,10.07
+1284,Far North Region,Mayo-Tsanaga,203.81,Mountainous,2.08
+1285,East Region,Kadey,177.19,Forest,16.51
+1286,Littoral Region,Wouri,458.7,Mountainous,2.43
+1287,West Region,Bamboutos,341.4,Mountainous,4.28
+1288,East Region,Haut-Nyong,430.69,Mountainous,2.89
+1289,West Region,Haut-Nkam,291.72,Coastal,19.15
+1290,Littoral Region,Wouri,406.7,Forest,15.84
+1291,West Region,Haut-Nkam,165.29,Coastal,16.33
+1292,North Region,Faro,224.04,Plains,8.54
+1293,Littoral Region,Sanaga-Maritime,475.19,Forest,1.05
+1294,Centre Region,Lekie,155.87,Forest,4.57
+1295,Northwest Region,Ngo-Ketunjia,71.18,Mountainous,14.52
+1296,West Region,Mifi,482.25,Plains,17.78
+1297,Northwest Region,Donga-Mantung,237.93,Mountainous,12.69
+1298,Southwest Region,Meme,101.57,Coastal,3.52
+1299,Adamawa Region,Faro-et-Deo,400.97,Forest,0.68
+1300,Far North Region,Mayo-Kani,273.61,Forest,1.45
+1301,Centre Region,Haute-Sanaga,141.75,Mountainous,5.53
+1302,Northwest Region,Ngo-Ketunjia,446.65,Coastal,18.58
+1303,Northwest Region,Bui,369.41,Forest,16.49
+1304,South Region,Mvila,365.98,Plains,7.13
+1305,Northwest Region,Mezam,203.97,Forest,11.94
+1306,North Region,Mayo-Louti,175.27,Forest,6.86
+1307,Centre Region,Mbam-et-Kim,438.07,Forest,4.02
+1308,West Region,Haut-Nkam,358.56,Forest,9.06
+1309,Northwest Region,Bui,168.96,Mountainous,12.35
+1310,Centre Region,Haute-Sanaga,116.6,Mountainous,0.3
+1311,Centre Region,Mbam-et-Kim,263.07,Coastal,5.84
+1312,Centre Region,Haute-Sanaga,344.46,Plains,18.93
+1313,Northwest Region,Ngo-Ketunjia,426.4,Coastal,12.08
+1314,Adamawa Region,Djerem,166.42,Plains,18.0
+1315,Southwest Region,Kupe-Manenguba,327.49,Mountainous,16.87
+1316,Southwest Region,Ndian,305.62,Forest,5.88
+1317,Littoral Region,Wouri,76.81,Plains,8.39
+1318,Adamawa Region,Vina,456.4,Mountainous,6.67
+1319,Northwest Region,Ngo-Ketunjia,270.05,Plains,17.14
+1320,West Region,Menoua,434.12,Mountainous,12.44
+1321,North Region,Mayo-Louti,74.51,Forest,3.05
+1322,Northwest Region,Momo,100.35,Mountainous,8.69
+1323,North Region,Mayo-Louti,418.18,Mountainous,7.49
+1324,Southwest Region,Meme,206.29,Mountainous,11.27
+1325,North Region,Faro,378.67,Coastal,15.95
+1326,Adamawa Region,Mayo-Banyo,82.96,Plains,0.81
+1327,East Region,Kadey,266.36,Plains,15.87
+1328,Southwest Region,Lebialem,493.59,Coastal,9.95
+1329,North Region,Faro,243.77,Plains,9.72
+1330,East Region,Boumba-et-Ngoko,96.82,Plains,18.89
+1331,Adamawa Region,Mbere,491.83,Mountainous,10.24
+1332,Southwest Region,Ndian,397.07,Coastal,14.22
+1333,Adamawa Region,Mayo-Banyo,477.43,Mountainous,2.85
+1334,North Region,Benoue,402.71,Coastal,1.48
+1335,South Region,Mvila,335.79,Forest,16.47
+1336,Northwest Region,Bui,415.52,Mountainous,0.12
+1337,Southwest Region,Lebialem,374.29,Mountainous,0.13
+1338,Northwest Region,Mezam,210.19,Plains,9.52
+1339,Centre Region,Lekie,212.69,Plains,3.76
+1340,East Region,Lom-et-Djerem,143.48,Coastal,3.1
+1341,North Region,Faro,178.04,Coastal,4.72
+1342,East Region,Boumba-et-Ngoko,114.65,Plains,18.65
+1343,Adamawa Region,Vina,104.61,Plains,18.52
+1344,East Region,Boumba-et-Ngoko,348.67,Forest,3.44
+1345,East Region,Lom-et-Djerem,220.35,Coastal,3.8
+1346,East Region,Lom-et-Djerem,171.48,Coastal,16.24
+1347,Far North Region,Diamare,243.0,Mountainous,15.47
+1348,Centre Region,Mbam-et-Kim,434.15,Forest,3.19
+1349,South Region,Mvila,216.63,Plains,18.8
+1350,South Region,Dja-et-Lobo,428.98,Coastal,15.33
+1351,Littoral Region,Nkam,156.76,Forest,5.92
+1352,North Region,Faro,488.85,Forest,0.42
+1353,West Region,Mifi,224.96,Plains,5.56
+1354,Adamawa Region,Mbere,214.34,Plains,8.62
+1355,East Region,Kadey,266.83,Coastal,9.46
+1356,Far North Region,Mayo-Tsanaga,224.94,Plains,4.41
+1357,Northwest Region,Donga-Mantung,400.99,Coastal,16.42
+1358,Southwest Region,Fako,50.18,Plains,16.14
+1359,Littoral Region,Nkam,373.75,Forest,3.67
+1360,Adamawa Region,Mbere,340.42,Mountainous,8.82
+1361,Far North Region,Mayo-Kani,214.31,Forest,1.74
+1362,Far North Region,Diamare,154.27,Forest,11.27
+1363,West Region,Nde,430.34,Mountainous,11.03
+1364,Littoral Region,Sanaga-Maritime,81.09,Forest,19.85
+1365,South Region,Ocean,277.03,Plains,9.61
+1366,Northwest Region,Ngo-Ketunjia,274.98,Plains,15.78
+1367,East Region,Boumba-et-Ngoko,477.9,Forest,12.65
+1368,East Region,Kadey,153.01,Coastal,16.76
+1369,West Region,Mifi,117.63,Mountainous,1.59
+1370,Northwest Region,Ngo-Ketunjia,438.73,Forest,3.37
+1371,East Region,Lom-et-Djerem,490.86,Forest,2.73
+1372,Northwest Region,Donga-Mantung,342.31,Plains,16.36
+1373,Southwest Region,Kupe-Manenguba,246.92,Plains,17.05
+1374,West Region,Mifi,115.0,Plains,1.63
+1375,Littoral Region,Nkam,174.85,Mountainous,16.0
+1376,East Region,Haut-Nyong,465.85,Mountainous,7.7
+1377,Northwest Region,Mezam,200.12,Plains,17.67
+1378,North Region,Faro,264.78,Forest,8.26
+1379,Far North Region,Mayo-Kani,236.83,Plains,7.58
+1380,East Region,Boumba-et-Ngoko,475.86,Coastal,6.14
+1381,Far North Region,Mayo-Tsanaga,196.28,Plains,4.75
+1382,Northwest Region,Bui,245.0,Plains,4.12
+1383,Northwest Region,Momo,273.71,Forest,1.93
+1384,East Region,Lom-et-Djerem,60.56,Plains,10.61
+1385,North Region,Benoue,434.47,Plains,19.19
+1386,West Region,Haut-Nkam,305.24,Coastal,16.04
+1387,Northwest Region,Bui,370.89,Mountainous,18.85
+1388,East Region,Lom-et-Djerem,145.75,Forest,8.58
+1389,South Region,Mvila,271.17,Coastal,2.07
+1390,Centre Region,Lekie,148.25,Mountainous,1.99
+1391,West Region,Nde,195.83,Mountainous,19.23
+1392,Littoral Region,Moungo,398.72,Coastal,6.22
+1393,East Region,Boumba-et-Ngoko,103.05,Plains,19.28
+1394,South Region,Vallee-du-Ntem,384.2,Mountainous,2.24
+1395,North Region,Mayo-Rey,375.21,Forest,6.3
+1396,East Region,Haut-Nyong,495.5,Forest,7.78
+1397,Northwest Region,Bui,181.74,Mountainous,1.32
+1398,Littoral Region,Wouri,303.91,Plains,10.39
+1399,West Region,Mifi,163.72,Forest,18.58
+1400,North Region,Mayo-Rey,436.85,Forest,0.38
+1401,Adamawa Region,Vina,74.8,Forest,4.44
+1402,West Region,Haut-Nkam,403.46,Mountainous,4.05
+1403,North Region,Mayo-Rey,470.0,Coastal,4.83
+1404,Southwest Region,Kupe-Manenguba,420.06,Mountainous,19.8
+1405,Far North Region,Mayo-Sava,326.19,Coastal,8.97
+1406,Littoral Region,Nkam,458.72,Forest,7.12
+1407,Centre Region,Mbam-et-Kim,243.83,Forest,3.7
+1408,North Region,Faro,132.95,Coastal,18.27
+1409,East Region,Kadey,483.12,Plains,6.64
+1410,Southwest Region,Fako,171.86,Forest,12.38
+1411,West Region,Bamboutos,77.99,Plains,16.48
+1412,North Region,Benoue,356.53,Mountainous,18.15
+1413,West Region,Mifi,185.07,Mountainous,14.46
+1414,Northwest Region,Mezam,195.93,Coastal,3.64
+1415,North Region,Mayo-Louti,323.12,Forest,17.82
+1416,South Region,Dja-et-Lobo,446.73,Plains,13.42
+1417,Northwest Region,Momo,255.62,Plains,15.04
+1418,North Region,Faro,287.84,Mountainous,0.9
+1419,North Region,Benoue,418.81,Plains,3.76
+1420,Northwest Region,Ngo-Ketunjia,166.99,Coastal,13.74
+1421,North Region,Mayo-Rey,50.7,Plains,13.61
+1422,Adamawa Region,Mbere,116.71,Plains,0.94
+1423,East Region,Haut-Nyong,403.86,Coastal,15.08
+1424,Littoral Region,Sanaga-Maritime,151.25,Mountainous,3.61
+1425,Southwest Region,Kupe-Manenguba,100.7,Mountainous,1.75
+1426,West Region,Nde,359.64,Coastal,12.57
+1427,South Region,Ocean,134.65,Forest,9.56
+1428,West Region,Nde,144.56,Forest,12.83
+1429,Far North Region,Mayo-Sava,131.11,Mountainous,7.84
+1430,West Region,Menoua,302.66,Coastal,13.37
+1431,Far North Region,Mayo-Sava,466.92,Coastal,3.66
+1432,South Region,Ocean,81.71,Forest,4.58
+1433,Far North Region,Diamare,441.97,Coastal,19.36
+1434,South Region,Ocean,447.29,Coastal,11.98
+1435,West Region,Nde,386.37,Coastal,2.73
+1436,West Region,Mifi,492.92,Forest,0.32
+1437,North Region,Mayo-Rey,173.54,Forest,7.57
+1438,Littoral Region,Sanaga-Maritime,455.27,Plains,1.57
+1439,West Region,Mifi,223.83,Forest,10.15
+1440,South Region,Ocean,104.12,Forest,9.04
+1441,West Region,Nde,88.08,Coastal,10.62
+1442,Far North Region,Diamare,309.61,Coastal,11.52
+1443,Littoral Region,Nkam,120.52,Mountainous,18.83
+1444,Centre Region,Mbam-et-Kim,194.39,Plains,18.04
+1445,Adamawa Region,Vina,279.67,Mountainous,19.38
+1446,Southwest Region,Ndian,246.72,Mountainous,7.17
+1447,East Region,Kadey,493.98,Forest,1.26
+1448,Far North Region,Mayo-Danay,316.16,Coastal,5.17
+1449,Far North Region,Mayo-Tsanaga,188.46,Forest,4.5
+1450,Centre Region,Nyong-et-Kelle,229.77,Forest,1.06
+1451,Adamawa Region,Faro-et-Deo,468.43,Coastal,5.62
+1452,West Region,Nde,91.43,Coastal,7.54
+1453,Northwest Region,Mezam,173.45,Coastal,5.58
+1454,Southwest Region,Fako,331.36,Plains,15.1
+1455,Centre Region,Mbam-et-Kim,486.69,Coastal,12.38
+1456,East Region,Boumba-et-Ngoko,366.05,Plains,17.51
+1457,South Region,Mvila,477.45,Forest,16.56
+1458,Southwest Region,Lebialem,233.44,Coastal,17.05
+1459,Far North Region,Mayo-Kani,325.56,Plains,6.08
+1460,South Region,Ocean,218.44,Plains,1.16
+1461,Southwest Region,Kupe-Manenguba,312.24,Forest,9.7
+1462,Southwest Region,Kupe-Manenguba,229.19,Forest,3.11
+1463,East Region,Boumba-et-Ngoko,338.28,Mountainous,7.08
+1464,South Region,Ocean,203.69,Plains,10.64
+1465,Centre Region,Lekie,135.81,Plains,11.82
+1466,East Region,Haut-Nyong,361.76,Plains,0.48
+1467,Littoral Region,Nkam,96.97,Mountainous,18.62
+1468,South Region,Ocean,323.58,Forest,4.21
+1469,East Region,Haut-Nyong,343.67,Mountainous,18.89
+1470,Southwest Region,Ndian,191.08,Plains,6.15
+1471,Centre Region,Mfoundi,272.97,Plains,5.54
+1472,Far North Region,Mayo-Danay,408.98,Coastal,9.93
+1473,Adamawa Region,Djerem,177.67,Coastal,7.49
+1474,Adamawa Region,Mbere,494.84,Plains,1.31
+1475,Littoral Region,Moungo,54.04,Coastal,2.69
+1476,South Region,Vallee-du-Ntem,205.62,Mountainous,12.62
+1477,Adamawa Region,Vina,66.59,Plains,17.33
+1478,West Region,Mifi,118.91,Plains,10.49
+1479,Littoral Region,Moungo,228.54,Coastal,0.9
+1480,Littoral Region,Sanaga-Maritime,298.35,Forest,11.48
+1481,Northwest Region,Mezam,349.48,Mountainous,8.27
+1482,Southwest Region,Fako,302.52,Forest,6.24
+1483,Northwest Region,Donga-Mantung,296.61,Coastal,7.74
+1484,North Region,Mayo-Louti,123.3,Plains,8.96
+1485,South Region,Mvila,489.03,Plains,7.66
+1486,North Region,Mayo-Louti,197.6,Coastal,6.73
+1487,Northwest Region,Mezam,234.77,Forest,11.73
+1488,Southwest Region,Kupe-Manenguba,191.99,Coastal,6.66
+1489,Centre Region,Nyong-et-Kelle,252.8,Plains,16.31
+1490,Far North Region,Mayo-Danay,444.4,Coastal,4.5
+1491,South Region,Mvila,305.2,Forest,16.24
+1492,Southwest Region,Meme,223.87,Plains,7.53
+1493,Northwest Region,Donga-Mantung,438.21,Coastal,19.03
+1494,East Region,Kadey,320.69,Forest,4.82
+1495,West Region,Haut-Nkam,69.55,Mountainous,11.91
+1496,Southwest Region,Fako,172.87,Plains,11.39
+1497,Centre Region,Lekie,276.14,Forest,14.66
+1498,Littoral Region,Nkam,67.49,Coastal,9.95
+1499,Southwest Region,Meme,493.64,Forest,3.73
+1500,West Region,Menoua,464.9,Forest,19.07
+1501,Littoral Region,Sanaga-Maritime,296.03,Plains,2.28
+1502,Northwest Region,Ngo-Ketunjia,250.21,Forest,14.87
+1503,Littoral Region,Wouri,432.79,Forest,16.17
+1504,Adamawa Region,Mayo-Banyo,119.48,Mountainous,0.73
+1505,Adamawa Region,Djerem,102.53,Coastal,14.74
+1506,West Region,Mifi,192.06,Coastal,10.85
+1507,Centre Region,Mfoundi,207.42,Plains,19.61
+1508,Northwest Region,Ngo-Ketunjia,299.17,Forest,4.3
+1509,East Region,Lom-et-Djerem,362.68,Coastal,11.54
+1510,East Region,Boumba-et-Ngoko,211.18,Forest,10.22
+1511,Far North Region,Mayo-Kani,165.86,Coastal,14.18
+1512,East Region,Lom-et-Djerem,232.72,Plains,14.25
+1513,Centre Region,Haute-Sanaga,304.02,Forest,3.41
+1514,Southwest Region,Ndian,361.35,Coastal,18.65
+1515,Adamawa Region,Vina,323.29,Coastal,18.35
+1516,Northwest Region,Mezam,333.18,Coastal,4.94
+1517,East Region,Lom-et-Djerem,173.88,Forest,0.86
+1518,Littoral Region,Wouri,207.89,Coastal,12.0
+1519,South Region,Ocean,476.73,Forest,12.68
+1520,East Region,Boumba-et-Ngoko,492.16,Coastal,16.72
+1521,Littoral Region,Wouri,183.25,Plains,11.29
+1522,Littoral Region,Wouri,456.59,Coastal,11.56
+1523,Far North Region,Mayo-Sava,241.74,Mountainous,1.36
+1524,Far North Region,Mayo-Tsanaga,414.44,Mountainous,12.43
+1525,Centre Region,Haute-Sanaga,392.14,Plains,5.53
+1526,South Region,Ocean,351.24,Mountainous,1.74
+1527,South Region,Dja-et-Lobo,100.3,Coastal,0.42
+1528,West Region,Nde,439.82,Plains,13.36
+1529,South Region,Vallee-du-Ntem,241.91,Mountainous,6.5
+1530,Far North Region,Mayo-Danay,405.78,Forest,9.6
+1531,Northwest Region,Bui,335.85,Plains,13.23
+1532,Centre Region,Nyong-et-Kelle,263.99,Forest,17.3
+1533,Far North Region,Mayo-Sava,132.9,Coastal,8.03
+1534,Littoral Region,Sanaga-Maritime,262.95,Coastal,9.35
+1535,Southwest Region,Meme,244.78,Mountainous,8.72
+1536,North Region,Faro,397.5,Mountainous,2.53
+1537,West Region,Haut-Nkam,238.24,Mountainous,3.91
+1538,South Region,Dja-et-Lobo,382.35,Plains,5.58
+1539,Far North Region,Diamare,270.52,Forest,16.62
+1540,Littoral Region,Moungo,470.05,Plains,1.75
+1541,South Region,Mvila,291.41,Coastal,1.23
+1542,North Region,Mayo-Rey,366.32,Plains,6.47
+1543,Southwest Region,Ndian,475.42,Mountainous,12.53
+1544,South Region,Mvila,288.18,Plains,11.26
+1545,North Region,Mayo-Louti,104.09,Forest,5.51
+1546,Far North Region,Mayo-Kani,356.69,Coastal,5.29
+1547,Littoral Region,Wouri,444.89,Forest,18.4
+1548,Southwest Region,Fako,162.96,Forest,7.5
+1549,Northwest Region,Donga-Mantung,207.42,Plains,1.71
+1550,Northwest Region,Momo,287.39,Plains,5.81
+1551,West Region,Nde,224.63,Mountainous,17.86
+1552,Northwest Region,Bui,400.76,Mountainous,11.55
+1553,West Region,Nde,264.11,Plains,19.71
+1554,Southwest Region,Kupe-Manenguba,499.05,Plains,12.79
+1555,South Region,Mvila,426.61,Plains,19.46
+1556,Southwest Region,Meme,263.56,Mountainous,11.57
+1557,West Region,Mifi,111.48,Coastal,1.58
+1558,Adamawa Region,Djerem,451.36,Forest,7.74
+1559,West Region,Menoua,73.43,Forest,11.26
+1560,West Region,Menoua,249.88,Plains,11.65
+1561,West Region,Haut-Nkam,50.39,Coastal,6.88
+1562,West Region,Haut-Nkam,109.04,Mountainous,6.69
+1563,Centre Region,Lekie,456.31,Forest,15.46
+1564,Far North Region,Mayo-Kani,321.95,Plains,19.58
+1565,Far North Region,Diamare,438.63,Mountainous,8.57
+1566,Adamawa Region,Djerem,376.39,Forest,2.78
+1567,Northwest Region,Bui,64.2,Mountainous,17.86
+1568,Centre Region,Mfoundi,333.85,Mountainous,15.95
+1569,Littoral Region,Nkam,152.06,Forest,8.49
+1570,Southwest Region,Kupe-Manenguba,455.36,Mountainous,9.78
+1571,Centre Region,Lekie,368.29,Forest,2.53
+1572,Far North Region,Mayo-Kani,459.23,Coastal,1.68
+1573,Adamawa Region,Vina,415.13,Forest,1.25
+1574,Northwest Region,Donga-Mantung,467.75,Coastal,8.18
+1575,Littoral Region,Sanaga-Maritime,131.33,Coastal,3.7
+1576,Centre Region,Haute-Sanaga,238.59,Plains,13.34
+1577,Southwest Region,Ndian,268.03,Forest,4.6
+1578,Southwest Region,Ndian,345.2,Coastal,7.22
+1579,North Region,Mayo-Rey,99.23,Plains,16.68
+1580,Southwest Region,Meme,177.63,Mountainous,2.38
+1581,Adamawa Region,Djerem,461.83,Coastal,8.94
+1582,North Region,Benoue,463.96,Plains,7.84
+1583,East Region,Lom-et-Djerem,237.27,Plains,5.87
+1584,South Region,Vallee-du-Ntem,250.01,Plains,9.27
+1585,North Region,Mayo-Louti,382.22,Forest,18.3
+1586,West Region,Haut-Nkam,265.67,Plains,4.79
+1587,Littoral Region,Wouri,196.91,Coastal,4.55
+1588,Centre Region,Haute-Sanaga,149.3,Forest,4.62
+1589,Adamawa Region,Mayo-Banyo,397.91,Plains,9.4
+1590,West Region,Menoua,108.81,Mountainous,17.75
+1591,Littoral Region,Nkam,268.68,Forest,17.55
+1592,Adamawa Region,Faro-et-Deo,493.55,Forest,3.69
+1593,North Region,Benoue,174.19,Mountainous,17.55
+1594,North Region,Benoue,486.5,Forest,1.6
+1595,Littoral Region,Moungo,127.88,Mountainous,5.51
+1596,South Region,Ocean,55.92,Forest,17.54
+1597,East Region,Lom-et-Djerem,227.58,Forest,10.56
+1598,Littoral Region,Sanaga-Maritime,78.46,Plains,18.28
+1599,Northwest Region,Mezam,232.32,Forest,15.61
+1600,Littoral Region,Moungo,141.93,Plains,16.49
+1601,Centre Region,Mbam-et-Kim,490.03,Mountainous,2.2
+1602,West Region,Bamboutos,377.79,Coastal,0.58
+1603,Far North Region,Mayo-Tsanaga,489.17,Plains,19.48
+1604,South Region,Vallee-du-Ntem,317.57,Forest,4.48
+1605,West Region,Menoua,399.36,Coastal,6.64
+1606,Far North Region,Mayo-Tsanaga,63.19,Plains,14.37
+1607,West Region,Menoua,299.51,Coastal,1.54
+1608,Far North Region,Diamare,222.89,Forest,16.0
+1609,Littoral Region,Sanaga-Maritime,353.26,Plains,17.58
+1610,Littoral Region,Sanaga-Maritime,419.68,Coastal,2.69
+1611,Littoral Region,Moungo,70.84,Mountainous,14.81
+1612,East Region,Lom-et-Djerem,449.42,Mountainous,4.8
+1613,Northwest Region,Momo,242.84,Coastal,17.36
+1614,East Region,Haut-Nyong,101.95,Plains,8.82
+1615,Littoral Region,Nkam,462.49,Plains,0.53
+1616,Littoral Region,Wouri,441.74,Forest,13.57
+1617,Northwest Region,Momo,147.81,Forest,3.84
+1618,Littoral Region,Wouri,246.69,Mountainous,6.1
+1619,South Region,Vallee-du-Ntem,82.13,Plains,0.24
+1620,Littoral Region,Sanaga-Maritime,215.51,Plains,5.89
+1621,West Region,Nde,205.81,Plains,5.32
+1622,Centre Region,Mfoundi,75.55,Mountainous,19.58
+1623,Centre Region,Haute-Sanaga,124.55,Forest,15.84
+1624,East Region,Lom-et-Djerem,268.38,Plains,5.0
+1625,Southwest Region,Lebialem,268.01,Mountainous,17.08
+1626,Southwest Region,Fako,396.61,Plains,18.92
+1627,Littoral Region,Moungo,102.95,Forest,10.47
+1628,West Region,Menoua,463.0,Coastal,6.35
+1629,Southwest Region,Ndian,268.86,Plains,15.44
+1630,North Region,Benoue,100.37,Coastal,5.08
+1631,South Region,Ocean,427.1,Plains,7.73
+1632,East Region,Lom-et-Djerem,397.39,Mountainous,6.24
+1633,Northwest Region,Bui,122.23,Forest,1.79
+1634,Northwest Region,Bui,443.11,Coastal,9.88
+1635,Adamawa Region,Faro-et-Deo,409.05,Mountainous,1.32
+1636,Northwest Region,Mezam,394.91,Forest,3.4
+1637,South Region,Ocean,50.37,Mountainous,2.43
+1638,Far North Region,Diamare,473.98,Plains,1.32
+1639,Littoral Region,Wouri,214.45,Forest,7.13
+1640,South Region,Dja-et-Lobo,352.73,Forest,14.01
+1641,West Region,Mifi,58.58,Mountainous,16.29
+1642,South Region,Vallee-du-Ntem,316.25,Forest,7.69
+1643,Adamawa Region,Vina,425.94,Forest,6.81
+1644,North Region,Mayo-Louti,241.02,Plains,1.42
+1645,Southwest Region,Ndian,488.88,Forest,12.11
+1646,Northwest Region,Ngo-Ketunjia,199.56,Plains,10.06
+1647,Far North Region,Diamare,170.83,Coastal,17.75
+1648,West Region,Haut-Nkam,146.84,Coastal,12.98
+1649,West Region,Bamboutos,439.18,Coastal,13.02
+1650,Adamawa Region,Faro-et-Deo,285.74,Plains,0.76
+1651,Northwest Region,Mezam,231.97,Plains,16.31
+1652,Far North Region,Mayo-Danay,488.37,Coastal,6.66
+1653,Littoral Region,Wouri,319.23,Coastal,16.54
+1654,West Region,Mifi,270.87,Plains,18.18
+1655,Far North Region,Mayo-Tsanaga,478.36,Mountainous,10.85
+1656,Centre Region,Nyong-et-Kelle,481.06,Coastal,12.23
+1657,Adamawa Region,Vina,457.58,Plains,10.01
+1658,Far North Region,Mayo-Kani,497.69,Plains,3.21
+1659,Adamawa Region,Djerem,187.18,Mountainous,10.18
+1660,North Region,Faro,167.29,Coastal,14.15
+1661,East Region,Lom-et-Djerem,227.6,Plains,2.76
+1662,Centre Region,Haute-Sanaga,344.35,Mountainous,6.3
+1663,Far North Region,Diamare,132.01,Plains,7.55
+1664,East Region,Boumba-et-Ngoko,391.22,Plains,19.75
+1665,South Region,Mvila,296.95,Coastal,1.59
+1666,East Region,Lom-et-Djerem,156.36,Coastal,1.92
+1667,Far North Region,Mayo-Sava,213.14,Mountainous,4.99
+1668,Southwest Region,Ndian,203.26,Plains,14.06
+1669,Northwest Region,Momo,151.72,Plains,2.67
+1670,North Region,Benoue,388.05,Mountainous,1.33
+1671,Littoral Region,Wouri,335.73,Coastal,4.05
+1672,South Region,Vallee-du-Ntem,184.79,Forest,3.31
+1673,East Region,Haut-Nyong,64.22,Coastal,16.43
+1674,Far North Region,Mayo-Tsanaga,312.91,Mountainous,3.91
+1675,Northwest Region,Ngo-Ketunjia,206.03,Forest,8.34
+1676,Littoral Region,Sanaga-Maritime,400.44,Plains,19.27
+1677,Centre Region,Mbam-et-Kim,241.89,Mountainous,6.09
+1678,Centre Region,Lekie,214.82,Coastal,2.82
+1679,Southwest Region,Fako,192.2,Forest,3.36
+1680,Northwest Region,Momo,321.82,Coastal,6.18
+1681,Adamawa Region,Mayo-Banyo,213.49,Coastal,14.3
+1682,North Region,Faro,345.61,Plains,13.45
+1683,Littoral Region,Sanaga-Maritime,431.5,Coastal,13.46
+1684,West Region,Haut-Nkam,239.7,Coastal,3.09
+1685,Northwest Region,Ngo-Ketunjia,147.18,Coastal,10.64
+1686,East Region,Boumba-et-Ngoko,243.04,Plains,0.41
+1687,Adamawa Region,Faro-et-Deo,472.04,Coastal,13.86
+1688,East Region,Haut-Nyong,456.13,Plains,17.43
+1689,North Region,Faro,323.98,Coastal,19.56
+1690,Northwest Region,Bui,67.49,Plains,19.01
+1691,North Region,Mayo-Rey,223.79,Coastal,9.86
+1692,Northwest Region,Momo,64.54,Mountainous,3.8
+1693,Adamawa Region,Mbere,432.06,Coastal,15.42
+1694,West Region,Bamboutos,145.36,Mountainous,14.71
+1695,Littoral Region,Wouri,321.24,Coastal,12.79
+1696,West Region,Nde,152.9,Plains,11.37
+1697,Littoral Region,Wouri,214.55,Plains,14.44
+1698,Centre Region,Mfoundi,277.53,Mountainous,5.21
+1699,North Region,Faro,185.11,Forest,3.02
+1700,South Region,Vallee-du-Ntem,464.68,Coastal,19.5
+1701,North Region,Mayo-Louti,146.56,Forest,6.61
+1702,Littoral Region,Sanaga-Maritime,307.61,Mountainous,7.88
+1703,Adamawa Region,Djerem,239.45,Mountainous,17.44
+1704,North Region,Faro,409.81,Plains,19.75
+1705,South Region,Mvila,263.62,Mountainous,9.1
+1706,Far North Region,Mayo-Sava,100.61,Coastal,10.16
+1707,Northwest Region,Mezam,51.11,Forest,6.04
+1708,Littoral Region,Moungo,377.73,Mountainous,2.34
+1709,South Region,Dja-et-Lobo,425.37,Coastal,2.45
+1710,Far North Region,Diamare,395.68,Plains,5.23
+1711,Centre Region,Lekie,473.89,Forest,17.97
+1712,Adamawa Region,Faro-et-Deo,370.43,Coastal,9.93
+1713,West Region,Bamboutos,104.05,Mountainous,7.94
+1714,Centre Region,Mfoundi,435.03,Mountainous,16.37
+1715,North Region,Mayo-Louti,358.55,Forest,9.76
+1716,South Region,Mvila,357.59,Coastal,3.0
+1717,West Region,Haut-Nkam,265.83,Mountainous,19.14
+1718,West Region,Menoua,401.77,Plains,0.96
+1719,Southwest Region,Lebialem,432.84,Coastal,7.78
+1720,Littoral Region,Nkam,90.43,Plains,4.72
+1721,North Region,Faro,353.73,Plains,8.16
+1722,Littoral Region,Nkam,179.64,Forest,17.02
+1723,Southwest Region,Meme,124.27,Plains,3.31
+1724,West Region,Haut-Nkam,425.41,Forest,13.07
+1725,Adamawa Region,Faro-et-Deo,391.32,Mountainous,16.17
+1726,Southwest Region,Kupe-Manenguba,313.98,Plains,4.08
+1727,South Region,Ocean,383.43,Plains,16.81
+1728,West Region,Menoua,171.76,Mountainous,15.43
+1729,North Region,Faro,282.94,Forest,8.54
+1730,West Region,Haut-Nkam,475.48,Mountainous,2.66
+1731,Centre Region,Mfoundi,118.45,Plains,5.68
+1732,Far North Region,Mayo-Sava,327.88,Forest,5.54
+1733,North Region,Mayo-Louti,360.1,Coastal,17.65
+1734,Far North Region,Mayo-Sava,499.79,Forest,9.05
+1735,South Region,Mvila,265.27,Coastal,19.53
+1736,Northwest Region,Ngo-Ketunjia,68.55,Coastal,19.06
+1737,East Region,Haut-Nyong,323.91,Plains,11.65
+1738,Southwest Region,Fako,340.88,Coastal,9.38
+1739,North Region,Mayo-Louti,345.31,Forest,7.43
+1740,West Region,Haut-Nkam,266.71,Mountainous,8.19
+1741,South Region,Ocean,149.78,Mountainous,8.13
+1742,Centre Region,Haute-Sanaga,443.32,Coastal,17.22
+1743,West Region,Bamboutos,263.12,Plains,6.01
+1744,North Region,Faro,312.64,Mountainous,4.19
+1745,South Region,Dja-et-Lobo,256.46,Mountainous,17.64
+1746,Centre Region,Mbam-et-Kim,79.48,Plains,2.82
+1747,East Region,Boumba-et-Ngoko,415.74,Plains,19.43
+1748,Far North Region,Mayo-Danay,340.29,Forest,17.21
+1749,East Region,Boumba-et-Ngoko,256.66,Plains,16.6
+1750,South Region,Ocean,194.47,Mountainous,1.0
+1751,Adamawa Region,Mbere,216.19,Forest,6.01
+1752,Centre Region,Lekie,489.89,Plains,6.57
+1753,East Region,Lom-et-Djerem,382.12,Forest,16.75
+1754,Southwest Region,Kupe-Manenguba,137.17,Mountainous,3.69
+1755,Northwest Region,Ngo-Ketunjia,85.25,Forest,14.5
+1756,Adamawa Region,Djerem,410.75,Coastal,3.77
+1757,East Region,Kadey,300.33,Mountainous,16.95
+1758,Far North Region,Diamare,427.06,Plains,15.08
+1759,Far North Region,Mayo-Tsanaga,151.46,Coastal,6.94
+1760,East Region,Haut-Nyong,377.26,Mountainous,19.5
+1761,South Region,Dja-et-Lobo,150.42,Plains,1.46
+1762,Far North Region,Mayo-Sava,426.91,Mountainous,6.25
+1763,North Region,Mayo-Rey,152.79,Plains,19.78
+1764,South Region,Ocean,390.26,Forest,13.33
+1765,East Region,Boumba-et-Ngoko,499.68,Plains,9.61
+1766,Centre Region,Mfoundi,388.31,Forest,19.63
+1767,Adamawa Region,Mbere,230.11,Forest,2.85
+1768,Far North Region,Mayo-Kani,241.83,Coastal,17.65
+1769,South Region,Vallee-du-Ntem,445.19,Plains,9.67
+1770,Littoral Region,Nkam,84.38,Forest,6.9
+1771,Littoral Region,Sanaga-Maritime,413.46,Forest,6.14
+1772,Adamawa Region,Mayo-Banyo,186.05,Mountainous,11.8
+1773,West Region,Nde,443.8,Coastal,19.12
+1774,West Region,Haut-Nkam,108.21,Plains,0.96
+1775,Southwest Region,Kupe-Manenguba,122.66,Plains,17.02
+1776,Adamawa Region,Faro-et-Deo,292.23,Mountainous,0.89
+1777,Northwest Region,Ngo-Ketunjia,283.67,Plains,9.92
+1778,North Region,Mayo-Louti,243.95,Mountainous,16.94
+1779,Far North Region,Mayo-Kani,423.72,Coastal,12.48
+1780,Littoral Region,Sanaga-Maritime,101.35,Mountainous,0.29
+1781,Far North Region,Diamare,299.55,Coastal,3.66
+1782,North Region,Benoue,462.5,Coastal,9.36
+1783,Adamawa Region,Mayo-Banyo,182.41,Coastal,18.65
+1784,South Region,Ocean,92.81,Plains,5.46
+1785,North Region,Mayo-Louti,169.24,Plains,15.66
+1786,Littoral Region,Nkam,416.27,Plains,12.25
+1787,Far North Region,Diamare,386.14,Coastal,19.05
+1788,Far North Region,Diamare,99.38,Coastal,16.36
+1789,East Region,Haut-Nyong,256.51,Plains,12.12
+1790,Far North Region,Mayo-Sava,158.31,Coastal,15.65
+1791,Adamawa Region,Vina,332.12,Mountainous,6.11
+1792,North Region,Faro,446.69,Coastal,0.28
+1793,Littoral Region,Nkam,347.2,Forest,15.87
+1794,Adamawa Region,Vina,204.1,Forest,14.31
+1795,Far North Region,Mayo-Sava,98.02,Mountainous,15.47
+1796,Centre Region,Haute-Sanaga,226.37,Coastal,1.95
+1797,South Region,Vallee-du-Ntem,99.87,Forest,2.53
+1798,Littoral Region,Wouri,134.18,Plains,14.67
+1799,North Region,Mayo-Rey,337.51,Mountainous,5.33
+1800,Littoral Region,Nkam,380.5,Forest,12.7
+1801,Littoral Region,Sanaga-Maritime,440.26,Forest,19.38
+1802,Far North Region,Mayo-Kani,487.58,Coastal,15.33
+1803,Northwest Region,Mezam,400.49,Plains,5.68
+1804,Littoral Region,Nkam,242.79,Plains,14.46
+1805,East Region,Kadey,51.65,Plains,14.49
+1806,Adamawa Region,Mbere,124.76,Forest,0.69
+1807,North Region,Benoue,208.53,Plains,8.8
+1808,Centre Region,Nyong-et-Kelle,243.45,Coastal,12.95
+1809,North Region,Benoue,76.08,Mountainous,17.92
+1810,Adamawa Region,Mbere,370.39,Mountainous,16.65
+1811,Littoral Region,Moungo,233.0,Forest,15.09
+1812,Centre Region,Nyong-et-Kelle,182.33,Plains,14.67
+1813,South Region,Dja-et-Lobo,309.93,Plains,10.68
+1814,East Region,Boumba-et-Ngoko,493.94,Coastal,3.09
+1815,Southwest Region,Lebialem,178.59,Plains,8.65
+1816,Littoral Region,Moungo,50.53,Mountainous,11.98
+1817,Northwest Region,Mezam,249.81,Forest,19.29
+1818,East Region,Haut-Nyong,414.17,Plains,11.17
+1819,East Region,Boumba-et-Ngoko,320.16,Mountainous,13.52
+1820,Centre Region,Lekie,195.5,Coastal,1.67
+1821,South Region,Mvila,418.26,Plains,1.34
+1822,East Region,Kadey,292.76,Mountainous,11.01
+1823,Centre Region,Mfoundi,425.17,Plains,8.79
+1824,Far North Region,Diamare,285.21,Forest,11.63
+1825,Centre Region,Nyong-et-Kelle,416.47,Plains,18.21
+1826,Littoral Region,Sanaga-Maritime,226.0,Plains,2.09
+1827,Centre Region,Mfoundi,149.67,Coastal,8.11
+1828,Northwest Region,Bui,366.86,Mountainous,11.32
+1829,South Region,Dja-et-Lobo,60.5,Coastal,6.27
+1830,Littoral Region,Moungo,61.73,Plains,18.78
+1831,Southwest Region,Kupe-Manenguba,155.84,Plains,2.63
+1832,South Region,Ocean,140.51,Forest,18.06
+1833,East Region,Kadey,92.75,Forest,14.96
+1834,Far North Region,Mayo-Kani,349.53,Forest,7.61
+1835,East Region,Kadey,358.13,Coastal,1.06
+1836,North Region,Benoue,293.23,Plains,12.46
+1837,Northwest Region,Mezam,476.99,Mountainous,8.33
+1838,Adamawa Region,Mbere,334.0,Forest,1.51
+1839,South Region,Mvila,123.35,Forest,12.72
+1840,North Region,Benoue,117.08,Coastal,19.51
+1841,Adamawa Region,Djerem,309.23,Mountainous,9.35
+1842,South Region,Ocean,54.4,Coastal,16.52
+1843,East Region,Lom-et-Djerem,67.98,Mountainous,8.09
+1844,Adamawa Region,Mayo-Banyo,353.3,Plains,4.26
+1845,Adamawa Region,Vina,251.94,Coastal,10.56
+1846,Littoral Region,Sanaga-Maritime,491.67,Forest,14.86
+1847,Centre Region,Haute-Sanaga,469.04,Mountainous,1.83
+1848,Littoral Region,Moungo,296.87,Mountainous,4.51
+1849,Southwest Region,Fako,432.53,Forest,16.0
+1850,Far North Region,Mayo-Sava,199.73,Mountainous,0.39
+1851,East Region,Haut-Nyong,355.29,Mountainous,9.24
+1852,South Region,Dja-et-Lobo,303.87,Plains,12.47
+1853,Southwest Region,Lebialem,436.33,Plains,18.7
+1854,East Region,Kadey,199.94,Forest,5.59
+1855,Centre Region,Mbam-et-Kim,395.73,Mountainous,0.4
+1856,Centre Region,Mbam-et-Kim,89.96,Forest,15.14
+1857,Littoral Region,Nkam,134.46,Forest,10.25
+1858,Southwest Region,Lebialem,115.74,Forest,5.64
+1859,Littoral Region,Nkam,144.52,Forest,0.97
+1860,Far North Region,Mayo-Sava,488.97,Forest,2.1
+1861,Adamawa Region,Djerem,140.31,Mountainous,19.46
+1862,South Region,Dja-et-Lobo,289.64,Mountainous,15.63
+1863,Littoral Region,Moungo,483.51,Coastal,2.39
+1864,North Region,Mayo-Louti,328.5,Mountainous,18.12
+1865,Southwest Region,Fako,148.06,Mountainous,16.59
+1866,North Region,Mayo-Rey,131.52,Mountainous,2.04
+1867,East Region,Lom-et-Djerem,146.9,Forest,9.62
+1868,Far North Region,Diamare,399.42,Coastal,5.98
+1869,West Region,Mifi,441.59,Plains,11.3
+1870,East Region,Kadey,341.49,Mountainous,16.76
+1871,Adamawa Region,Vina,453.62,Mountainous,15.4
+1872,Centre Region,Mbam-et-Kim,161.37,Mountainous,14.44
+1873,North Region,Faro,93.93,Coastal,17.48
+1874,Centre Region,Mfoundi,479.01,Mountainous,19.68
+1875,West Region,Haut-Nkam,125.45,Forest,9.59
+1876,Centre Region,Mfoundi,403.92,Plains,7.93
+1877,Southwest Region,Meme,88.86,Forest,1.56
+1878,Centre Region,Mfoundi,342.07,Mountainous,5.76
+1879,East Region,Lom-et-Djerem,451.4,Plains,17.03
+1880,Northwest Region,Ngo-Ketunjia,442.26,Forest,3.75
+1881,Southwest Region,Fako,226.34,Forest,11.93
+1882,Adamawa Region,Djerem,299.14,Mountainous,1.39
+1883,Southwest Region,Meme,194.87,Coastal,4.72
+1884,Southwest Region,Ndian,186.99,Forest,15.67
+1885,North Region,Mayo-Louti,259.43,Coastal,11.42
+1886,North Region,Benoue,102.57,Plains,12.0
+1887,Far North Region,Mayo-Sava,291.14,Mountainous,0.61
+1888,Centre Region,Mfoundi,362.75,Plains,10.96
+1889,West Region,Haut-Nkam,472.26,Forest,11.67
+1890,Southwest Region,Kupe-Manenguba,145.05,Forest,17.51
+1891,South Region,Dja-et-Lobo,168.77,Plains,16.62
+1892,East Region,Lom-et-Djerem,488.82,Coastal,18.23
+1893,East Region,Lom-et-Djerem,451.63,Coastal,1.33
+1894,South Region,Vallee-du-Ntem,463.12,Coastal,4.29
+1895,Southwest Region,Ndian,74.5,Mountainous,10.03
+1896,Northwest Region,Donga-Mantung,472.84,Coastal,19.95
+1897,North Region,Mayo-Rey,418.19,Coastal,11.3
+1898,Centre Region,Haute-Sanaga,385.69,Mountainous,14.4
+1899,Northwest Region,Ngo-Ketunjia,480.25,Plains,4.83
+1900,East Region,Haut-Nyong,489.93,Plains,4.39
+1901,West Region,Bamboutos,208.0,Mountainous,13.23
+1902,South Region,Mvila,461.08,Forest,18.07
+1903,North Region,Mayo-Louti,129.28,Plains,17.83
+1904,Centre Region,Lekie,443.05,Forest,15.02
+1905,North Region,Mayo-Louti,101.87,Plains,4.6
+1906,Southwest Region,Kupe-Manenguba,348.61,Plains,14.17
+1907,Adamawa Region,Faro-et-Deo,169.37,Coastal,3.05
+1908,Centre Region,Lekie,157.9,Plains,0.94
+1909,Far North Region,Diamare,485.77,Coastal,11.06
+1910,East Region,Haut-Nyong,135.88,Coastal,17.01
+1911,Southwest Region,Meme,288.97,Coastal,6.56
+1912,Adamawa Region,Djerem,123.69,Forest,9.65
+1913,West Region,Bamboutos,384.52,Coastal,7.42
+1914,South Region,Ocean,405.09,Coastal,18.81
+1915,South Region,Mvila,219.77,Plains,8.66
+1916,Centre Region,Haute-Sanaga,161.61,Mountainous,14.4
+1917,Northwest Region,Bui,266.51,Coastal,1.24
+1918,North Region,Mayo-Rey,480.43,Forest,5.09
+1919,Littoral Region,Nkam,246.66,Forest,5.46
+1920,North Region,Mayo-Louti,190.36,Mountainous,18.08
+1921,South Region,Mvila,170.89,Coastal,11.35
+1922,North Region,Mayo-Louti,146.27,Mountainous,2.81
+1923,Far North Region,Mayo-Sava,422.46,Coastal,5.14
+1924,Far North Region,Mayo-Tsanaga,263.0,Plains,5.56
+1925,West Region,Menoua,132.48,Plains,2.93
+1926,South Region,Dja-et-Lobo,132.66,Forest,3.26
+1927,Southwest Region,Meme,232.38,Plains,5.15
+1928,North Region,Mayo-Rey,240.26,Mountainous,7.78
+1929,North Region,Faro,291.47,Plains,15.62
+1930,Littoral Region,Moungo,59.14,Forest,1.19
+1931,Centre Region,Lekie,225.13,Coastal,0.21
+1932,Adamawa Region,Djerem,117.68,Mountainous,13.58
+1933,South Region,Ocean,313.55,Forest,7.11
+1934,Northwest Region,Momo,82.31,Forest,3.48
+1935,Northwest Region,Ngo-Ketunjia,71.76,Coastal,8.1
+1936,West Region,Nde,363.49,Mountainous,7.53
+1937,Far North Region,Mayo-Tsanaga,456.55,Plains,16.78
+1938,Centre Region,Nyong-et-Kelle,462.8,Plains,1.02
+1939,Centre Region,Nyong-et-Kelle,279.44,Coastal,2.84
+1940,Littoral Region,Moungo,478.76,Mountainous,4.98
+1941,Northwest Region,Mezam,414.69,Forest,1.03
+1942,Far North Region,Mayo-Kani,112.48,Plains,10.73
+1943,South Region,Mvila,428.28,Mountainous,7.33
+1944,South Region,Mvila,269.68,Coastal,10.21
+1945,Littoral Region,Nkam,101.14,Plains,13.4
+1946,East Region,Haut-Nyong,174.8,Plains,14.19
+1947,Southwest Region,Meme,198.9,Forest,14.96
+1948,Centre Region,Haute-Sanaga,74.68,Forest,11.62
+1949,South Region,Vallee-du-Ntem,85.24,Forest,0.22
+1950,North Region,Faro,77.95,Forest,2.61
+1951,Northwest Region,Mezam,455.4,Mountainous,7.59
+1952,Southwest Region,Lebialem,126.92,Coastal,16.8
+1953,Adamawa Region,Djerem,62.73,Forest,12.26
+1954,West Region,Nde,445.87,Plains,1.02
+1955,Northwest Region,Ngo-Ketunjia,83.36,Coastal,10.57
+1956,East Region,Kadey,315.88,Mountainous,15.12
+1957,Centre Region,Nyong-et-Kelle,442.17,Coastal,7.53
+1958,Far North Region,Mayo-Tsanaga,255.42,Mountainous,17.35
+1959,North Region,Mayo-Rey,243.71,Coastal,10.66
+1960,South Region,Dja-et-Lobo,433.47,Forest,19.58
+1961,Adamawa Region,Vina,258.32,Plains,19.73
+1962,Adamawa Region,Vina,253.3,Mountainous,15.66
+1963,East Region,Haut-Nyong,377.37,Plains,3.75
+1964,West Region,Mifi,341.36,Mountainous,14.3
+1965,South Region,Mvila,174.13,Coastal,0.49
+1966,Adamawa Region,Djerem,166.45,Coastal,6.59
+1967,Centre Region,Mbam-et-Kim,188.55,Forest,5.08
+1968,Adamawa Region,Djerem,157.44,Coastal,17.65
+1969,Far North Region,Mayo-Kani,347.83,Mountainous,11.57
+1970,East Region,Haut-Nyong,204.11,Mountainous,16.01
+1971,Southwest Region,Fako,428.21,Coastal,5.1
+1972,Adamawa Region,Djerem,95.77,Coastal,6.76
+1973,West Region,Bamboutos,136.39,Forest,2.09
+1974,Northwest Region,Bui,84.64,Mountainous,14.18
+1975,West Region,Mifi,444.11,Forest,11.98
+1976,North Region,Mayo-Louti,93.68,Coastal,12.85
+1977,Littoral Region,Moungo,262.76,Mountainous,15.69
+1978,South Region,Dja-et-Lobo,466.68,Coastal,15.13
+1979,Centre Region,Mbam-et-Kim,406.23,Forest,7.02
+1980,North Region,Faro,347.43,Mountainous,12.08
+1981,East Region,Boumba-et-Ngoko,317.98,Mountainous,17.28
+1982,Adamawa Region,Vina,52.97,Mountainous,2.57
+1983,East Region,Kadey,245.83,Coastal,1.38
+1984,Centre Region,Mbam-et-Kim,181.54,Coastal,8.77
+1985,South Region,Dja-et-Lobo,405.64,Forest,6.18
+1986,Adamawa Region,Mayo-Banyo,373.32,Coastal,1.5
+1987,Northwest Region,Donga-Mantung,175.58,Coastal,6.92
+1988,North Region,Mayo-Louti,219.23,Coastal,7.87
+1989,North Region,Faro,350.9,Mountainous,6.42
+1990,North Region,Mayo-Rey,167.28,Mountainous,17.65
+1991,East Region,Haut-Nyong,181.86,Mountainous,7.47
+1992,Littoral Region,Wouri,202.56,Mountainous,13.77
+1993,Southwest Region,Kupe-Manenguba,364.0,Coastal,8.52
+1994,South Region,Vallee-du-Ntem,346.55,Forest,16.46
+1995,Far North Region,Diamare,264.12,Plains,15.09
+1996,Northwest Region,Bui,190.18,Mountainous,15.61
+1997,Centre Region,Mbam-et-Kim,368.14,Mountainous,6.76
+1998,Littoral Region,Wouri,175.32,Forest,3.15
+1999,Southwest Region,Fako,407.91,Coastal,3.62
+2000,Centre Region,Nyong-et-Kelle,205.62,Forest,7.79
+2001,Southwest Region,Meme,457.52,Coastal,17.93
+2002,West Region,Bamboutos,329.05,Forest,13.0
+2003,Centre Region,Mfoundi,308.12,Mountainous,0.27
+2004,West Region,Haut-Nkam,329.93,Coastal,8.11
+2005,Far North Region,Diamare,199.21,Mountainous,14.77
+2006,Centre Region,Lekie,174.56,Forest,15.47
+2007,South Region,Dja-et-Lobo,437.55,Mountainous,17.99
+2008,Littoral Region,Moungo,271.35,Plains,6.03
+2009,West Region,Nde,336.59,Plains,11.09
+2010,Centre Region,Lekie,108.38,Forest,2.55
+2011,East Region,Lom-et-Djerem,301.02,Mountainous,3.1
+2012,Far North Region,Mayo-Kani,253.37,Forest,4.22
+2013,Northwest Region,Bui,337.34,Mountainous,14.48
+2014,Southwest Region,Meme,110.58,Plains,14.13
+2015,Far North Region,Mayo-Tsanaga,231.39,Plains,10.39
+2016,West Region,Menoua,369.77,Coastal,7.73
+2017,North Region,Faro,494.15,Mountainous,15.52
+2018,South Region,Dja-et-Lobo,163.29,Mountainous,18.67
+2019,Centre Region,Lekie,171.11,Plains,19.87
+2020,East Region,Lom-et-Djerem,84.0,Plains,6.65
+2021,Far North Region,Mayo-Sava,420.8,Plains,4.31
+2022,North Region,Mayo-Rey,246.56,Coastal,2.35
+2023,South Region,Ocean,121.15,Plains,12.51
+2024,East Region,Lom-et-Djerem,330.26,Forest,9.41
+2025,South Region,Dja-et-Lobo,446.84,Coastal,4.91
+2026,Adamawa Region,Mbere,199.08,Mountainous,5.43
+2027,South Region,Mvila,448.1,Coastal,14.32
+2028,South Region,Ocean,293.46,Forest,10.93
+2029,South Region,Dja-et-Lobo,96.61,Forest,11.81
+2030,South Region,Dja-et-Lobo,206.64,Coastal,10.25
+2031,Littoral Region,Moungo,374.56,Forest,10.25
+2032,Centre Region,Mbam-et-Kim,269.85,Forest,1.92
+2033,Centre Region,Lekie,184.51,Forest,13.92
+2034,Far North Region,Diamare,458.66,Forest,6.2
+2035,Southwest Region,Meme,180.19,Plains,19.72
+2036,Centre Region,Mbam-et-Kim,102.33,Forest,5.18
+2037,Centre Region,Mfoundi,267.63,Mountainous,1.29
+2038,Northwest Region,Bui,61.44,Plains,4.43
+2039,North Region,Benoue,313.09,Mountainous,0.1
+2040,Southwest Region,Lebialem,151.73,Mountainous,12.39
+2041,Littoral Region,Wouri,341.59,Forest,12.56
+2042,Northwest Region,Mezam,416.92,Coastal,7.71
+2043,Centre Region,Mbam-et-Kim,430.31,Coastal,11.32
+2044,East Region,Lom-et-Djerem,67.16,Forest,16.19
+2045,Northwest Region,Bui,337.15,Plains,9.44
+2046,Adamawa Region,Mayo-Banyo,209.24,Forest,14.77
+2047,East Region,Haut-Nyong,350.76,Plains,8.92
+2048,South Region,Mvila,193.62,Plains,19.93
+2049,Centre Region,Nyong-et-Kelle,66.92,Coastal,12.0
+2050,Southwest Region,Meme,179.39,Mountainous,9.36
+2051,Far North Region,Mayo-Danay,244.35,Mountainous,2.12
+2052,Littoral Region,Moungo,98.78,Coastal,18.87
+2053,Far North Region,Diamare,440.31,Mountainous,7.53
+2054,North Region,Benoue,200.17,Plains,18.9
+2055,Centre Region,Mfoundi,168.59,Coastal,1.16
+2056,South Region,Ocean,174.74,Coastal,13.26
+2057,Littoral Region,Nkam,143.86,Forest,17.3
+2058,Far North Region,Diamare,498.09,Forest,2.92
+2059,Southwest Region,Fako,481.53,Mountainous,15.83
+2060,Centre Region,Mfoundi,315.41,Coastal,8.03
+2061,North Region,Benoue,133.01,Coastal,14.03
+2062,Littoral Region,Nkam,388.69,Coastal,12.37
+2063,Far North Region,Mayo-Kani,181.75,Forest,19.49
+2064,East Region,Haut-Nyong,228.45,Forest,5.75
+2065,Northwest Region,Donga-Mantung,445.11,Coastal,14.36
+2066,South Region,Dja-et-Lobo,73.18,Coastal,16.7
+2067,Centre Region,Mbam-et-Kim,57.36,Mountainous,4.75
+2068,Centre Region,Mfoundi,251.8,Coastal,11.31
+2069,North Region,Mayo-Rey,374.71,Coastal,18.33
+2070,Littoral Region,Nkam,251.05,Plains,2.13
+2071,Adamawa Region,Djerem,222.81,Forest,3.8
+2072,Adamawa Region,Vina,496.36,Plains,3.76
+2073,Far North Region,Mayo-Tsanaga,487.58,Plains,17.97
+2074,Littoral Region,Wouri,468.1,Forest,16.52
+2075,South Region,Vallee-du-Ntem,366.29,Plains,11.07
+2076,East Region,Boumba-et-Ngoko,284.0,Coastal,11.25
+2077,East Region,Haut-Nyong,486.17,Forest,10.51
+2078,Centre Region,Haute-Sanaga,120.57,Forest,17.29
+2079,West Region,Bamboutos,413.76,Mountainous,10.53
+2080,East Region,Haut-Nyong,96.6,Mountainous,4.83
+2081,Southwest Region,Kupe-Manenguba,131.37,Plains,18.24
+2082,Adamawa Region,Mayo-Banyo,408.35,Plains,18.4
+2083,Southwest Region,Ndian,201.68,Mountainous,12.25
+2084,Littoral Region,Moungo,223.87,Mountainous,14.53
+2085,Centre Region,Mbam-et-Kim,470.45,Plains,11.3
+2086,East Region,Haut-Nyong,215.63,Plains,14.49
+2087,Centre Region,Mbam-et-Kim,186.25,Mountainous,1.27
+2088,Far North Region,Mayo-Kani,183.91,Plains,8.96
+2089,Centre Region,Nyong-et-Kelle,300.67,Forest,4.72
+2090,Littoral Region,Nkam,272.44,Coastal,15.16
+2091,South Region,Dja-et-Lobo,165.5,Forest,5.66
+2092,Far North Region,Mayo-Tsanaga,327.35,Mountainous,11.38
+2093,Northwest Region,Bui,361.93,Plains,4.37
+2094,Northwest Region,Momo,173.12,Coastal,13.71
+2095,Northwest Region,Donga-Mantung,158.97,Forest,16.64
+2096,Adamawa Region,Mayo-Banyo,339.81,Forest,7.87
+2097,South Region,Vallee-du-Ntem,206.22,Coastal,16.54
+2098,West Region,Nde,90.99,Forest,5.36
+2099,Centre Region,Mfoundi,205.02,Coastal,16.62
+2100,North Region,Mayo-Rey,192.25,Plains,7.54
+2101,East Region,Lom-et-Djerem,189.04,Plains,2.63
+2102,Centre Region,Nyong-et-Kelle,194.19,Plains,15.43
+2103,West Region,Mifi,179.23,Mountainous,2.78
+2104,Littoral Region,Sanaga-Maritime,200.17,Coastal,15.54
+2105,Centre Region,Haute-Sanaga,225.01,Coastal,10.01
+2106,Southwest Region,Fako,266.03,Plains,13.8
+2107,Northwest Region,Donga-Mantung,481.71,Forest,6.81
+2108,Northwest Region,Mezam,292.59,Mountainous,17.67
+2109,Centre Region,Mbam-et-Kim,301.15,Plains,13.74
+2110,Littoral Region,Wouri,461.8,Plains,3.48
+2111,Far North Region,Mayo-Danay,118.66,Coastal,4.45
+2112,North Region,Benoue,352.24,Mountainous,0.11
+2113,West Region,Nde,174.82,Forest,11.72
+2114,Southwest Region,Fako,315.26,Plains,2.18
+2115,Littoral Region,Moungo,71.88,Coastal,1.68
+2116,West Region,Menoua,218.32,Coastal,1.98
+2117,Centre Region,Nyong-et-Kelle,331.59,Forest,17.15
+2118,Far North Region,Diamare,353.64,Coastal,5.03
+2119,South Region,Vallee-du-Ntem,223.05,Mountainous,11.63
+2120,Littoral Region,Moungo,117.71,Forest,3.95
+2121,West Region,Menoua,429.87,Coastal,0.31
+2122,Adamawa Region,Djerem,324.28,Coastal,13.6
+2123,Centre Region,Mfoundi,221.89,Forest,16.78
+2124,East Region,Lom-et-Djerem,301.55,Plains,15.68
+2125,East Region,Haut-Nyong,264.92,Coastal,3.52
+2126,Littoral Region,Nkam,458.44,Plains,15.35
+2127,Littoral Region,Wouri,333.42,Plains,17.21
+2128,Far North Region,Mayo-Kani,400.3,Plains,18.71
+2129,Littoral Region,Wouri,232.39,Forest,3.13
+2130,South Region,Mvila,130.17,Plains,10.16
+2131,Littoral Region,Moungo,271.18,Forest,16.44
+2132,North Region,Mayo-Rey,74.06,Forest,0.33
+2133,Southwest Region,Fako,390.19,Mountainous,0.66
+2134,Centre Region,Lekie,154.02,Forest,8.17
+2135,North Region,Mayo-Louti,85.58,Mountainous,9.1
+2136,Littoral Region,Moungo,208.55,Plains,5.95
+2137,South Region,Ocean,138.81,Plains,17.71
+2138,Adamawa Region,Mayo-Banyo,185.23,Plains,12.38
+2139,Northwest Region,Ngo-Ketunjia,207.39,Coastal,4.34
+2140,Centre Region,Mbam-et-Kim,451.7,Coastal,10.7
+2141,Centre Region,Mfoundi,144.44,Mountainous,16.56
+2142,North Region,Benoue,455.33,Forest,2.21
+2143,Littoral Region,Wouri,65.44,Coastal,6.37
+2144,East Region,Boumba-et-Ngoko,141.43,Forest,17.77
+2145,Northwest Region,Momo,214.33,Mountainous,14.51
+2146,North Region,Mayo-Louti,319.01,Mountainous,1.91
+2147,Far North Region,Mayo-Kani,437.28,Coastal,18.02
+2148,West Region,Bamboutos,416.48,Coastal,13.45
+2149,West Region,Mifi,183.34,Forest,6.31
+2150,Northwest Region,Mezam,170.51,Coastal,15.98
+2151,Far North Region,Mayo-Danay,453.31,Forest,16.15
+2152,Southwest Region,Fako,362.19,Plains,6.05
+2153,Centre Region,Lekie,356.98,Forest,11.02
+2154,Centre Region,Nyong-et-Kelle,123.32,Plains,2.94
+2155,Far North Region,Mayo-Kani,339.08,Forest,4.81
+2156,South Region,Vallee-du-Ntem,493.83,Mountainous,19.26
+2157,Northwest Region,Mezam,471.8,Coastal,7.88
+2158,South Region,Mvila,355.03,Plains,1.29
+2159,Centre Region,Mfoundi,423.02,Forest,10.77
+2160,North Region,Faro,167.0,Coastal,2.57
+2161,Northwest Region,Mezam,113.57,Forest,4.39
+2162,East Region,Kadey,452.95,Forest,12.68
+2163,South Region,Ocean,435.35,Coastal,1.55
+2164,Adamawa Region,Faro-et-Deo,291.32,Mountainous,7.31
+2165,Northwest Region,Momo,310.23,Plains,15.89
+2166,Southwest Region,Kupe-Manenguba,476.21,Coastal,15.04
+2167,Adamawa Region,Mayo-Banyo,88.62,Plains,17.29
+2168,Southwest Region,Ndian,275.47,Plains,15.09
+2169,Northwest Region,Mezam,158.65,Forest,0.91
+2170,Far North Region,Mayo-Sava,432.38,Coastal,15.11
+2171,Adamawa Region,Mbere,152.06,Coastal,9.73
+2172,Southwest Region,Ndian,248.66,Mountainous,3.77
+2173,Centre Region,Haute-Sanaga,451.26,Forest,10.87
+2174,East Region,Lom-et-Djerem,106.75,Coastal,4.2
+2175,West Region,Bamboutos,415.36,Forest,17.41
+2176,West Region,Menoua,162.96,Mountainous,2.79
+2177,East Region,Lom-et-Djerem,370.14,Coastal,16.82
+2178,Centre Region,Mbam-et-Kim,224.66,Forest,3.42
+2179,Adamawa Region,Vina,339.08,Coastal,9.46
+2180,Centre Region,Lekie,452.28,Forest,13.94
+2181,Centre Region,Nyong-et-Kelle,251.87,Plains,2.08
+2182,West Region,Nde,408.9,Coastal,4.46
+2183,Northwest Region,Bui,125.42,Plains,19.17
+2184,East Region,Haut-Nyong,139.69,Plains,16.76
+2185,Centre Region,Lekie,131.22,Plains,17.48
+2186,Southwest Region,Kupe-Manenguba,311.6,Plains,17.73
+2187,Far North Region,Mayo-Danay,163.22,Mountainous,3.55
+2188,Far North Region,Mayo-Tsanaga,438.69,Coastal,18.24
+2189,Adamawa Region,Mayo-Banyo,389.72,Coastal,15.69
+2190,North Region,Mayo-Rey,360.41,Forest,14.11
+2191,Far North Region,Diamare,346.72,Coastal,6.58
+2192,Southwest Region,Kupe-Manenguba,288.27,Coastal,10.25
+2193,Southwest Region,Lebialem,60.41,Coastal,7.95
+2194,Adamawa Region,Mbere,363.95,Forest,3.28
+2195,Northwest Region,Momo,247.62,Coastal,1.58
+2196,Centre Region,Haute-Sanaga,246.17,Forest,5.49
+2197,Littoral Region,Nkam,171.05,Plains,15.09
+2198,Far North Region,Diamare,303.41,Forest,13.64
+2199,Northwest Region,Donga-Mantung,264.18,Coastal,7.89
+2200,Centre Region,Mfoundi,179.42,Plains,1.67
+2201,Littoral Region,Nkam,269.11,Mountainous,15.46
+2202,East Region,Boumba-et-Ngoko,441.31,Coastal,18.65
+2203,Littoral Region,Nkam,370.86,Forest,11.26
+2204,Northwest Region,Momo,65.69,Mountainous,2.9
+2205,Adamawa Region,Vina,298.26,Plains,12.89
+2206,Centre Region,Mbam-et-Kim,391.25,Coastal,6.75
+2207,Northwest Region,Bui,84.95,Coastal,10.6
+2208,Adamawa Region,Faro-et-Deo,83.72,Forest,13.24
+2209,East Region,Lom-et-Djerem,215.67,Coastal,19.34
+2210,Far North Region,Mayo-Danay,91.67,Forest,2.5
+2211,East Region,Lom-et-Djerem,359.67,Mountainous,11.15
+2212,East Region,Boumba-et-Ngoko,198.16,Coastal,6.4
+2213,West Region,Haut-Nkam,456.79,Plains,19.09
+2214,North Region,Benoue,265.36,Forest,12.97
+2215,Adamawa Region,Mbere,268.75,Forest,2.86
+2216,Adamawa Region,Djerem,112.33,Coastal,12.21
+2217,Far North Region,Mayo-Kani,240.66,Plains,17.4
+2218,Northwest Region,Mezam,223.06,Plains,6.09
+2219,Far North Region,Mayo-Tsanaga,212.25,Coastal,11.06
+2220,South Region,Vallee-du-Ntem,242.33,Coastal,12.79
+2221,Centre Region,Nyong-et-Kelle,279.98,Forest,0.68
+2222,South Region,Mvila,171.63,Forest,0.96
+2223,Centre Region,Nyong-et-Kelle,62.55,Coastal,1.42
+2224,North Region,Faro,113.64,Forest,1.44
+2225,South Region,Vallee-du-Ntem,309.38,Coastal,5.75
+2226,Northwest Region,Bui,395.49,Coastal,1.23
+2227,Littoral Region,Moungo,339.61,Mountainous,11.87
+2228,West Region,Bamboutos,239.19,Plains,14.49
+2229,South Region,Vallee-du-Ntem,295.54,Coastal,1.52
+2230,Far North Region,Mayo-Sava,352.3,Forest,19.78
+2231,Southwest Region,Lebialem,161.71,Forest,15.07
+2232,North Region,Mayo-Louti,180.52,Coastal,10.25
+2233,Far North Region,Mayo-Sava,76.18,Mountainous,7.53
+2234,Northwest Region,Bui,284.69,Mountainous,13.39
+2235,Northwest Region,Momo,343.2,Coastal,10.92
+2236,Adamawa Region,Mbere,289.83,Forest,2.14
+2237,North Region,Faro,377.71,Coastal,8.18
+2238,Littoral Region,Nkam,121.09,Plains,5.11
+2239,East Region,Kadey,452.88,Plains,15.05
+2240,West Region,Mifi,50.81,Plains,5.42
+2241,Southwest Region,Fako,171.8,Coastal,6.99
+2242,West Region,Bamboutos,394.34,Coastal,0.55
+2243,Littoral Region,Nkam,435.83,Mountainous,16.39
+2244,Littoral Region,Wouri,443.46,Forest,4.55
+2245,Adamawa Region,Mbere,132.96,Coastal,5.42
+2246,Southwest Region,Kupe-Manenguba,290.37,Mountainous,14.28
+2247,East Region,Lom-et-Djerem,422.48,Forest,2.47
+2248,Far North Region,Mayo-Sava,236.76,Coastal,18.56
+2249,Northwest Region,Ngo-Ketunjia,67.44,Forest,8.6
+2250,Northwest Region,Mezam,156.88,Plains,14.15
+2251,West Region,Nde,329.09,Forest,0.47
+2252,Northwest Region,Bui,334.83,Plains,1.57
+2253,Littoral Region,Wouri,174.57,Forest,12.0
+2254,Littoral Region,Nkam,180.3,Forest,7.91
+2255,Northwest Region,Mezam,101.77,Coastal,1.04
+2256,Adamawa Region,Vina,487.43,Coastal,15.74
+2257,Littoral Region,Wouri,384.27,Plains,5.45
+2258,Centre Region,Mbam-et-Kim,314.49,Forest,10.34
+2259,Northwest Region,Bui,171.32,Forest,16.93
+2260,South Region,Ocean,185.53,Forest,16.01
+2261,East Region,Haut-Nyong,124.44,Forest,10.62
+2262,West Region,Haut-Nkam,263.97,Coastal,3.63
+2263,Littoral Region,Nkam,337.11,Coastal,15.33
+2264,North Region,Faro,468.25,Mountainous,1.93
+2265,West Region,Mifi,215.52,Forest,1.44
+2266,North Region,Benoue,292.45,Forest,16.4
+2267,Far North Region,Mayo-Tsanaga,355.05,Plains,18.33
+2268,Centre Region,Nyong-et-Kelle,270.28,Plains,14.57
+2269,North Region,Faro,469.57,Coastal,2.46
+2270,Northwest Region,Ngo-Ketunjia,195.59,Plains,9.7
+2271,Centre Region,Mbam-et-Kim,299.22,Coastal,15.6
+2272,Littoral Region,Sanaga-Maritime,409.44,Forest,17.67
+2273,Northwest Region,Momo,242.75,Forest,8.54
+2274,Littoral Region,Sanaga-Maritime,482.37,Mountainous,2.57
+2275,Far North Region,Mayo-Sava,408.26,Plains,14.74
+2276,South Region,Ocean,414.27,Coastal,4.99
+2277,Littoral Region,Moungo,112.18,Mountainous,13.8
+2278,Centre Region,Nyong-et-Kelle,447.74,Coastal,8.61
+2279,South Region,Ocean,363.99,Mountainous,14.45
+2280,Southwest Region,Ndian,76.07,Plains,4.47
+2281,South Region,Vallee-du-Ntem,222.72,Forest,5.1
+2282,East Region,Lom-et-Djerem,457.45,Plains,16.29
+2283,Littoral Region,Wouri,412.92,Forest,13.55
+2284,Littoral Region,Sanaga-Maritime,356.01,Forest,4.96
+2285,Adamawa Region,Djerem,337.77,Forest,2.27
+2286,East Region,Boumba-et-Ngoko,182.0,Forest,0.56
+2287,Northwest Region,Ngo-Ketunjia,129.82,Coastal,12.3
+2288,South Region,Dja-et-Lobo,455.35,Mountainous,6.79
+2289,Southwest Region,Lebialem,241.84,Coastal,1.23
+2290,West Region,Mifi,292.38,Mountainous,19.61
+2291,Adamawa Region,Mbere,201.15,Mountainous,9.85
+2292,North Region,Benoue,494.45,Mountainous,0.68
+2293,South Region,Ocean,250.07,Plains,13.04
+2294,West Region,Menoua,239.29,Coastal,3.32
+2295,Far North Region,Mayo-Sava,172.92,Forest,6.29
+2296,Littoral Region,Moungo,205.41,Plains,17.04
+2297,East Region,Boumba-et-Ngoko,258.82,Forest,9.08
+2298,Centre Region,Mfoundi,410.32,Forest,13.01
+2299,Adamawa Region,Faro-et-Deo,113.04,Mountainous,19.32
+2300,North Region,Mayo-Louti,267.6,Forest,13.1
+2301,Centre Region,Haute-Sanaga,181.31,Plains,8.56
+2302,Southwest Region,Meme,134.28,Mountainous,12.93
+2303,West Region,Nde,225.95,Coastal,16.38
+2304,Northwest Region,Donga-Mantung,414.37,Plains,2.57
+2305,Littoral Region,Moungo,60.03,Mountainous,6.18
+2306,Littoral Region,Wouri,448.87,Forest,14.77
+2307,Northwest Region,Donga-Mantung,160.63,Plains,14.01
+2308,Far North Region,Diamare,447.34,Plains,14.15
+2309,South Region,Vallee-du-Ntem,355.35,Mountainous,2.31
+2310,East Region,Haut-Nyong,344.52,Coastal,19.43
+2311,East Region,Lom-et-Djerem,438.03,Forest,11.09
+2312,Adamawa Region,Djerem,255.64,Coastal,5.32
+2313,Adamawa Region,Mbere,468.85,Forest,14.83
+2314,Adamawa Region,Vina,369.66,Plains,17.17
+2315,Far North Region,Mayo-Kani,440.19,Coastal,15.75
+2316,Far North Region,Mayo-Tsanaga,61.16,Forest,7.66
+2317,East Region,Lom-et-Djerem,412.83,Forest,10.17
+2318,Northwest Region,Momo,125.03,Forest,7.8
+2319,North Region,Benoue,383.54,Coastal,14.23
+2320,Northwest Region,Ngo-Ketunjia,318.83,Coastal,4.44
+2321,West Region,Bamboutos,375.36,Coastal,11.16
+2322,Centre Region,Nyong-et-Kelle,346.93,Coastal,12.55
+2323,North Region,Faro,410.47,Coastal,17.63
+2324,Southwest Region,Fako,55.95,Mountainous,1.22
+2325,East Region,Kadey,361.8,Coastal,2.21
+2326,Littoral Region,Moungo,371.1,Plains,4.12
+2327,Littoral Region,Moungo,474.19,Plains,4.75
+2328,Littoral Region,Wouri,360.82,Mountainous,0.53
+2329,Southwest Region,Ndian,329.63,Mountainous,18.27
+2330,South Region,Mvila,114.24,Plains,1.39
+2331,West Region,Mifi,284.32,Plains,15.92
+2332,Northwest Region,Bui,271.13,Forest,19.31
+2333,South Region,Vallee-du-Ntem,103.79,Mountainous,10.65
+2334,West Region,Nde,220.86,Coastal,5.85
+2335,Adamawa Region,Faro-et-Deo,453.11,Mountainous,6.8
+2336,Northwest Region,Mezam,322.19,Coastal,15.08
+2337,Northwest Region,Bui,167.59,Mountainous,17.38
+2338,South Region,Mvila,64.03,Mountainous,10.14
+2339,North Region,Faro,462.92,Mountainous,4.09
+2340,Littoral Region,Wouri,464.51,Plains,14.79
+2341,Littoral Region,Sanaga-Maritime,157.74,Plains,2.39
+2342,Far North Region,Mayo-Tsanaga,180.72,Mountainous,18.82
+2343,Southwest Region,Fako,246.13,Plains,18.24
+2344,East Region,Haut-Nyong,243.1,Plains,4.04
+2345,Adamawa Region,Faro-et-Deo,82.97,Coastal,4.59
+2346,Littoral Region,Wouri,145.78,Mountainous,4.23
+2347,Adamawa Region,Djerem,183.27,Mountainous,9.9
+2348,Southwest Region,Lebialem,442.78,Forest,8.25
+2349,East Region,Haut-Nyong,423.85,Coastal,14.62
+2350,Far North Region,Mayo-Kani,351.55,Plains,2.0
+2351,Centre Region,Haute-Sanaga,264.21,Mountainous,8.99
+2352,Adamawa Region,Djerem,233.53,Mountainous,17.71
+2353,West Region,Menoua,224.62,Forest,5.92
+2354,Adamawa Region,Vina,218.88,Plains,6.48
+2355,Adamawa Region,Mbere,168.27,Mountainous,4.69
+2356,North Region,Faro,94.49,Coastal,8.64
+2357,South Region,Dja-et-Lobo,378.62,Plains,16.68
+2358,South Region,Dja-et-Lobo,403.91,Plains,11.56
+2359,Far North Region,Diamare,111.94,Mountainous,3.49
+2360,Centre Region,Haute-Sanaga,453.3,Plains,14.67
+2361,Far North Region,Mayo-Sava,485.31,Coastal,7.8
+2362,West Region,Bamboutos,465.95,Mountainous,13.51
+2363,Littoral Region,Nkam,203.25,Forest,7.19
+2364,Centre Region,Nyong-et-Kelle,262.88,Forest,14.69
+2365,West Region,Mifi,144.52,Plains,19.66
+2366,Southwest Region,Fako,250.75,Mountainous,18.18
+2367,South Region,Dja-et-Lobo,54.76,Mountainous,7.94
+2368,North Region,Mayo-Louti,450.05,Coastal,3.65
+2369,Northwest Region,Donga-Mantung,152.66,Coastal,3.59
+2370,West Region,Bamboutos,469.26,Plains,7.83
+2371,Northwest Region,Momo,466.82,Forest,9.23
+2372,Far North Region,Mayo-Kani,212.15,Coastal,1.63
+2373,Centre Region,Nyong-et-Kelle,443.96,Forest,14.59
+2374,Adamawa Region,Vina,274.59,Coastal,4.3
+2375,Southwest Region,Fako,294.21,Mountainous,0.16
+2376,West Region,Mifi,113.55,Plains,17.25
+2377,Centre Region,Nyong-et-Kelle,146.52,Forest,9.42
+2378,Northwest Region,Mezam,211.81,Mountainous,5.94
+2379,West Region,Menoua,174.71,Forest,13.97
+2380,North Region,Mayo-Rey,123.69,Forest,2.67
+2381,Far North Region,Diamare,495.7,Forest,12.78
+2382,Far North Region,Mayo-Sava,499.38,Plains,5.65
+2383,Far North Region,Mayo-Kani,320.17,Plains,2.1
+2384,North Region,Mayo-Louti,408.48,Mountainous,4.22
+2385,Centre Region,Mbam-et-Kim,450.05,Mountainous,17.09
+2386,North Region,Mayo-Louti,426.86,Forest,12.52
+2387,Far North Region,Mayo-Sava,245.62,Plains,0.75
+2388,Southwest Region,Fako,245.94,Mountainous,5.62
+2389,North Region,Faro,408.6,Forest,18.67
+2390,South Region,Dja-et-Lobo,228.84,Forest,0.74
+2391,Littoral Region,Sanaga-Maritime,226.54,Mountainous,3.34
+2392,Adamawa Region,Faro-et-Deo,330.56,Forest,5.76
+2393,East Region,Lom-et-Djerem,233.03,Forest,1.66
+2394,Centre Region,Mbam-et-Kim,337.02,Mountainous,16.37
+2395,South Region,Vallee-du-Ntem,382.03,Mountainous,19.99
+2396,Far North Region,Mayo-Kani,286.6,Forest,4.21
+2397,South Region,Dja-et-Lobo,100.44,Plains,17.3
+2398,North Region,Mayo-Rey,431.45,Mountainous,7.8
+2399,Centre Region,Nyong-et-Kelle,459.4,Mountainous,13.65
+2400,Northwest Region,Bui,490.43,Mountainous,18.37
+2401,Southwest Region,Meme,246.93,Plains,5.16
+2402,Southwest Region,Lebialem,399.83,Plains,2.11
+2403,Littoral Region,Moungo,61.04,Mountainous,15.28
+2404,North Region,Mayo-Louti,100.28,Plains,2.95
+2405,Centre Region,Mfoundi,481.24,Mountainous,10.95
+2406,Southwest Region,Meme,499.01,Plains,12.45
+2407,Littoral Region,Sanaga-Maritime,354.28,Forest,2.75
+2408,South Region,Mvila,233.49,Forest,3.85
+2409,Southwest Region,Meme,94.95,Forest,6.09
+2410,North Region,Benoue,315.61,Mountainous,13.44
+2411,West Region,Nde,362.63,Forest,14.29
+2412,Southwest Region,Kupe-Manenguba,490.15,Forest,12.56
+2413,Centre Region,Haute-Sanaga,179.71,Forest,11.59
+2414,North Region,Mayo-Rey,114.04,Coastal,8.84
+2415,South Region,Ocean,210.95,Mountainous,3.56
+2416,North Region,Faro,169.03,Mountainous,18.58
+2417,Northwest Region,Bui,363.65,Coastal,15.09
+2418,East Region,Boumba-et-Ngoko,274.91,Coastal,15.53
+2419,Littoral Region,Sanaga-Maritime,422.91,Mountainous,18.66
+2420,Far North Region,Mayo-Danay,296.79,Coastal,13.64
+2421,Adamawa Region,Faro-et-Deo,291.97,Coastal,8.58
+2422,Centre Region,Nyong-et-Kelle,463.45,Plains,12.02
+2423,Northwest Region,Mezam,252.7,Mountainous,13.2
+2424,Littoral Region,Moungo,208.81,Forest,17.33
+2425,North Region,Mayo-Louti,363.59,Plains,13.85
+2426,Southwest Region,Kupe-Manenguba,177.49,Plains,19.73
+2427,Northwest Region,Momo,168.39,Coastal,0.79
+2428,East Region,Lom-et-Djerem,211.42,Plains,10.11
+2429,East Region,Kadey,469.15,Plains,12.4
+2430,North Region,Faro,284.94,Forest,2.84
+2431,South Region,Mvila,234.45,Coastal,14.51
+2432,Northwest Region,Mezam,472.42,Plains,10.77
+2433,South Region,Mvila,61.17,Plains,12.02
+2434,West Region,Haut-Nkam,103.51,Forest,18.89
+2435,Northwest Region,Mezam,439.09,Coastal,2.78
+2436,Centre Region,Haute-Sanaga,171.49,Mountainous,7.32
+2437,South Region,Ocean,397.15,Coastal,16.86
+2438,East Region,Lom-et-Djerem,495.86,Forest,18.87
+2439,West Region,Mifi,341.58,Forest,19.58
+2440,West Region,Mifi,442.57,Forest,19.12
+2441,Littoral Region,Wouri,411.27,Mountainous,17.81
+2442,Northwest Region,Donga-Mantung,288.22,Coastal,2.12
+2443,North Region,Benoue,483.44,Mountainous,3.87
+2444,Adamawa Region,Djerem,81.89,Forest,19.63
+2445,Littoral Region,Nkam,136.2,Plains,10.82
+2446,Southwest Region,Ndian,433.54,Forest,2.26
+2447,Centre Region,Mbam-et-Kim,481.0,Forest,18.55
+2448,Adamawa Region,Mayo-Banyo,238.46,Plains,4.63
+2449,Northwest Region,Ngo-Ketunjia,429.96,Coastal,12.53
+2450,Far North Region,Mayo-Tsanaga,498.75,Forest,6.9
+2451,Centre Region,Mfoundi,419.23,Plains,15.76
+2452,East Region,Haut-Nyong,233.82,Mountainous,5.4
+2453,South Region,Dja-et-Lobo,110.53,Coastal,9.48
+2454,East Region,Kadey,396.74,Coastal,3.98
+2455,West Region,Nde,450.8,Forest,17.89
+2456,North Region,Benoue,397.78,Coastal,1.08
+2457,South Region,Mvila,158.71,Coastal,8.96
+2458,East Region,Lom-et-Djerem,167.84,Mountainous,5.11
+2459,North Region,Benoue,236.45,Plains,12.31
+2460,Northwest Region,Donga-Mantung,62.0,Coastal,12.74
+2461,Southwest Region,Ndian,221.77,Plains,0.1
+2462,Littoral Region,Moungo,56.3,Forest,11.07
+2463,Southwest Region,Kupe-Manenguba,452.43,Plains,16.37
+2464,South Region,Ocean,54.96,Forest,0.37
+2465,Northwest Region,Mezam,287.88,Plains,4.26
+2466,West Region,Haut-Nkam,248.12,Plains,15.16
+2467,West Region,Mifi,231.98,Mountainous,1.08
+2468,South Region,Vallee-du-Ntem,341.9,Coastal,10.95
+2469,North Region,Mayo-Rey,149.02,Plains,13.44
+2470,North Region,Mayo-Louti,108.36,Mountainous,4.65
+2471,Northwest Region,Donga-Mantung,320.51,Coastal,1.42
+2472,Littoral Region,Wouri,100.11,Mountainous,14.57
+2473,Far North Region,Mayo-Danay,211.69,Forest,19.3
+2474,North Region,Faro,182.91,Plains,17.22
+2475,Adamawa Region,Faro-et-Deo,233.56,Mountainous,10.19
+2476,South Region,Vallee-du-Ntem,353.03,Forest,18.61
+2477,Adamawa Region,Mayo-Banyo,182.8,Coastal,11.75
+2478,North Region,Faro,214.32,Forest,15.98
+2479,Far North Region,Diamare,277.57,Plains,2.18
+2480,Adamawa Region,Mayo-Banyo,185.16,Plains,6.71
+2481,East Region,Kadey,472.82,Plains,6.09
+2482,West Region,Haut-Nkam,297.76,Plains,17.55
+2483,Far North Region,Diamare,352.06,Forest,15.66
+2484,Centre Region,Mbam-et-Kim,109.0,Coastal,10.52
+2485,Northwest Region,Ngo-Ketunjia,456.59,Forest,18.99
+2486,South Region,Ocean,156.83,Plains,6.3
+2487,North Region,Mayo-Rey,115.77,Mountainous,19.13
+2488,Northwest Region,Mezam,272.34,Coastal,19.66
+2489,Northwest Region,Ngo-Ketunjia,249.42,Plains,10.03
+2490,Centre Region,Haute-Sanaga,143.15,Coastal,6.0
+2491,Littoral Region,Sanaga-Maritime,88.25,Forest,5.44
+2492,North Region,Mayo-Louti,452.69,Mountainous,7.23
+2493,North Region,Mayo-Rey,455.1,Mountainous,3.53
+2494,Far North Region,Mayo-Danay,91.66,Mountainous,13.66
+2495,Northwest Region,Ngo-Ketunjia,196.23,Forest,15.81
+2496,Northwest Region,Donga-Mantung,251.41,Coastal,8.45
+2497,North Region,Benoue,118.87,Coastal,10.9
+2498,Far North Region,Mayo-Sava,377.3,Forest,2.52
+2499,West Region,Nde,67.51,Forest,12.98
+2500,Southwest Region,Meme,373.82,Mountainous,9.25
+2501,South Region,Dja-et-Lobo,444.11,Forest,17.07
+2502,Southwest Region,Kupe-Manenguba,392.89,Plains,14.17
+2503,Centre Region,Lekie,495.76,Coastal,18.64
+2504,Northwest Region,Mezam,318.08,Mountainous,16.81
+2505,Far North Region,Diamare,179.44,Coastal,14.56
+2506,East Region,Boumba-et-Ngoko,250.66,Forest,15.14
+2507,Southwest Region,Fako,161.3,Forest,19.56
+2508,West Region,Mifi,347.76,Mountainous,3.03
+2509,Centre Region,Mfoundi,232.08,Mountainous,4.49
+2510,Adamawa Region,Faro-et-Deo,212.78,Forest,3.54
+2511,Centre Region,Lekie,370.94,Plains,6.75
+2512,South Region,Ocean,144.59,Forest,8.41
+2513,Littoral Region,Moungo,309.57,Plains,13.84
+2514,West Region,Menoua,213.03,Plains,5.5
+2515,Far North Region,Mayo-Danay,127.74,Coastal,11.33
+2516,South Region,Ocean,340.6,Coastal,16.64
+2517,Southwest Region,Meme,194.36,Mountainous,11.75
+2518,Northwest Region,Ngo-Ketunjia,318.05,Forest,2.6
+2519,Far North Region,Mayo-Tsanaga,288.64,Plains,4.87
+2520,Far North Region,Mayo-Kani,338.48,Mountainous,14.56
+2521,East Region,Haut-Nyong,54.77,Plains,10.5
+2522,South Region,Mvila,395.9,Forest,5.73
+2523,South Region,Dja-et-Lobo,197.95,Coastal,12.21
+2524,Centre Region,Mbam-et-Kim,477.83,Plains,9.57
+2525,North Region,Mayo-Louti,316.02,Mountainous,3.67
+2526,Centre Region,Lekie,363.83,Mountainous,0.17
+2527,Northwest Region,Momo,353.69,Forest,15.59
+2528,West Region,Mifi,315.83,Coastal,13.48
+2529,South Region,Vallee-du-Ntem,194.07,Plains,14.19
+2530,Southwest Region,Kupe-Manenguba,487.59,Coastal,6.84
+2531,Northwest Region,Momo,247.29,Forest,11.29
+2532,Far North Region,Mayo-Danay,245.12,Coastal,17.49
+2533,East Region,Lom-et-Djerem,291.66,Coastal,14.59
+2534,Southwest Region,Kupe-Manenguba,414.73,Forest,6.16
+2535,Adamawa Region,Djerem,469.95,Forest,17.02
+2536,Centre Region,Mbam-et-Kim,204.68,Forest,6.35
+2537,East Region,Lom-et-Djerem,193.44,Coastal,7.14
+2538,Southwest Region,Ndian,161.16,Forest,8.51
+2539,Adamawa Region,Djerem,481.2,Plains,13.74
+2540,West Region,Bamboutos,169.09,Mountainous,8.22
+2541,East Region,Kadey,212.57,Forest,19.64
+2542,East Region,Boumba-et-Ngoko,427.79,Mountainous,17.97
+2543,Adamawa Region,Faro-et-Deo,141.92,Forest,16.12
+2544,Far North Region,Mayo-Kani,287.46,Plains,8.15
+2545,West Region,Mifi,246.17,Plains,1.0
+2546,Adamawa Region,Mayo-Banyo,81.35,Forest,19.6
+2547,Far North Region,Mayo-Tsanaga,65.85,Plains,16.46
+2548,Centre Region,Nyong-et-Kelle,233.55,Coastal,18.16
+2549,North Region,Mayo-Louti,325.92,Plains,12.76
+2550,Far North Region,Mayo-Sava,185.78,Plains,5.02
+2551,West Region,Menoua,351.4,Forest,9.67
+2552,Far North Region,Diamare,418.35,Forest,3.72
+2553,Northwest Region,Donga-Mantung,98.96,Mountainous,5.39
+2554,Adamawa Region,Djerem,178.09,Plains,1.45
+2555,North Region,Benoue,485.12,Mountainous,7.33
+2556,Adamawa Region,Djerem,457.37,Forest,19.54
+2557,Southwest Region,Fako,416.42,Forest,10.3
+2558,North Region,Faro,239.91,Coastal,7.94
+2559,Northwest Region,Momo,426.84,Mountainous,18.5
+2560,Adamawa Region,Mayo-Banyo,217.25,Coastal,16.11
+2561,Adamawa Region,Mayo-Banyo,436.0,Forest,15.4
+2562,East Region,Kadey,199.12,Mountainous,10.28
+2563,Adamawa Region,Mayo-Banyo,234.29,Coastal,1.51
+2564,Littoral Region,Sanaga-Maritime,305.0,Plains,0.54
+2565,North Region,Mayo-Louti,92.02,Coastal,9.21
+2566,Adamawa Region,Faro-et-Deo,452.96,Forest,19.13
+2567,West Region,Haut-Nkam,238.6,Forest,3.04
+2568,West Region,Menoua,107.71,Plains,16.17
+2569,Adamawa Region,Vina,236.01,Mountainous,2.41
+2570,Northwest Region,Bui,261.5,Plains,8.56
+2571,West Region,Haut-Nkam,463.26,Mountainous,0.85
+2572,Littoral Region,Nkam,462.08,Mountainous,0.68
+2573,North Region,Mayo-Rey,328.18,Forest,3.56
+2574,Southwest Region,Meme,226.15,Coastal,9.71
+2575,North Region,Faro,152.67,Plains,13.8
+2576,Southwest Region,Fako,142.71,Forest,15.51
+2577,West Region,Nde,496.63,Mountainous,16.31
+2578,West Region,Menoua,480.21,Plains,16.45
+2579,West Region,Nde,255.09,Mountainous,16.15
+2580,East Region,Kadey,289.81,Plains,1.25
+2581,North Region,Mayo-Louti,239.73,Mountainous,0.87
+2582,Southwest Region,Fako,179.38,Plains,15.63
+2583,West Region,Menoua,349.6,Mountainous,4.75
+2584,Adamawa Region,Djerem,494.91,Forest,9.67
+2585,Far North Region,Mayo-Kani,191.35,Plains,9.29
+2586,Far North Region,Mayo-Tsanaga,443.33,Coastal,4.74
+2587,Far North Region,Mayo-Tsanaga,323.31,Forest,15.62
+2588,North Region,Faro,109.93,Forest,14.71
+2589,North Region,Mayo-Louti,74.71,Forest,4.01
+2590,South Region,Vallee-du-Ntem,374.48,Forest,5.97
+2591,Adamawa Region,Faro-et-Deo,392.8,Mountainous,11.55
+2592,South Region,Mvila,241.15,Coastal,13.52
+2593,North Region,Mayo-Rey,254.54,Coastal,3.27
+2594,West Region,Menoua,320.86,Mountainous,17.92
+2595,Centre Region,Lekie,486.41,Coastal,13.21
+2596,Littoral Region,Sanaga-Maritime,94.93,Coastal,12.7
+2597,South Region,Ocean,407.7,Mountainous,12.7
+2598,Centre Region,Nyong-et-Kelle,107.53,Forest,3.05
+2599,Southwest Region,Kupe-Manenguba,475.57,Plains,8.43
+2600,Adamawa Region,Mbere,436.99,Plains,8.39
+2601,South Region,Mvila,102.16,Coastal,9.21
+2602,Southwest Region,Kupe-Manenguba,446.64,Coastal,12.47
+2603,West Region,Bamboutos,104.59,Forest,4.3
+2604,Centre Region,Nyong-et-Kelle,96.55,Mountainous,0.49
+2605,Far North Region,Mayo-Sava,140.99,Coastal,2.03
+2606,Northwest Region,Donga-Mantung,186.1,Mountainous,13.48
+2607,South Region,Ocean,413.71,Coastal,2.49
+2608,South Region,Vallee-du-Ntem,433.51,Mountainous,15.71
+2609,Adamawa Region,Faro-et-Deo,393.26,Coastal,14.27
+2610,South Region,Ocean,435.12,Mountainous,3.06
+2611,East Region,Lom-et-Djerem,176.05,Plains,11.55
+2612,South Region,Ocean,461.5,Plains,19.1
+2613,South Region,Dja-et-Lobo,171.44,Coastal,6.16
+2614,North Region,Benoue,107.97,Coastal,18.24
+2615,Far North Region,Diamare,416.86,Mountainous,17.12
+2616,Centre Region,Haute-Sanaga,352.07,Forest,17.75
+2617,Southwest Region,Kupe-Manenguba,348.28,Mountainous,1.94
+2618,West Region,Mifi,273.52,Plains,17.39
+2619,Adamawa Region,Djerem,479.23,Forest,14.32
+2620,Adamawa Region,Djerem,128.31,Plains,4.92
+2621,Adamawa Region,Faro-et-Deo,130.93,Forest,13.29
+2622,West Region,Mifi,485.15,Forest,19.06
+2623,South Region,Ocean,54.54,Mountainous,0.35
+2624,North Region,Faro,327.69,Coastal,5.17
+2625,Southwest Region,Kupe-Manenguba,77.16,Forest,13.17
+2626,Adamawa Region,Djerem,431.89,Mountainous,9.49
+2627,Northwest Region,Ngo-Ketunjia,261.54,Coastal,16.56
+2628,Southwest Region,Kupe-Manenguba,436.63,Mountainous,0.57
+2629,North Region,Faro,217.34,Plains,16.21
+2630,Littoral Region,Nkam,195.73,Forest,0.34
+2631,Northwest Region,Mezam,425.31,Coastal,3.75
+2632,East Region,Kadey,308.42,Plains,3.54
+2633,Centre Region,Mbam-et-Kim,459.36,Plains,10.0
+2634,North Region,Mayo-Rey,323.58,Mountainous,8.91
+2635,South Region,Mvila,427.32,Forest,5.32
+2636,South Region,Vallee-du-Ntem,139.87,Mountainous,9.04
+2637,Littoral Region,Nkam,183.37,Mountainous,18.11
+2638,North Region,Mayo-Rey,478.65,Coastal,1.16
+2639,North Region,Faro,139.52,Plains,14.58
+2640,West Region,Nde,223.09,Mountainous,17.5
+2641,Adamawa Region,Faro-et-Deo,202.6,Plains,4.0
+2642,Northwest Region,Bui,352.11,Plains,16.3
+2643,West Region,Nde,263.27,Forest,11.26
+2644,West Region,Menoua,81.07,Coastal,0.92
+2645,Adamawa Region,Vina,207.1,Forest,6.45
+2646,Southwest Region,Kupe-Manenguba,169.47,Coastal,6.3
+2647,East Region,Lom-et-Djerem,350.71,Mountainous,1.56
+2648,West Region,Mifi,485.8,Coastal,19.98
+2649,West Region,Menoua,362.3,Coastal,17.07
+2650,Centre Region,Lekie,315.54,Coastal,8.09
+2651,Southwest Region,Ndian,477.73,Coastal,10.69
+2652,Centre Region,Mfoundi,172.28,Plains,9.13
+2653,South Region,Dja-et-Lobo,223.45,Plains,15.97
+2654,Far North Region,Mayo-Danay,269.93,Forest,14.72
+2655,Littoral Region,Nkam,385.15,Mountainous,5.65
+2656,South Region,Vallee-du-Ntem,116.76,Mountainous,10.59
+2657,East Region,Boumba-et-Ngoko,237.74,Plains,14.78
+2658,Far North Region,Mayo-Danay,458.72,Plains,17.02
+2659,East Region,Haut-Nyong,373.05,Mountainous,11.71
+2660,North Region,Faro,484.56,Plains,17.71
+2661,Adamawa Region,Vina,359.74,Plains,14.86
+2662,Northwest Region,Ngo-Ketunjia,76.3,Forest,13.76
+2663,Far North Region,Mayo-Kani,407.36,Forest,6.79
+2664,South Region,Ocean,209.27,Forest,15.66
+2665,South Region,Mvila,184.0,Mountainous,8.56
+2666,North Region,Mayo-Rey,302.81,Forest,16.46
+2667,South Region,Dja-et-Lobo,129.8,Coastal,11.54
+2668,Littoral Region,Wouri,206.13,Plains,7.16
+2669,Littoral Region,Sanaga-Maritime,413.37,Forest,7.09
+2670,Southwest Region,Meme,92.65,Plains,2.38
+2671,Littoral Region,Sanaga-Maritime,81.89,Mountainous,18.32
+2672,South Region,Vallee-du-Ntem,365.67,Forest,0.56
+2673,Adamawa Region,Djerem,329.63,Mountainous,1.8
+2674,North Region,Mayo-Louti,428.09,Mountainous,11.26
+2675,Far North Region,Diamare,429.54,Forest,5.41
+2676,Littoral Region,Nkam,463.21,Coastal,9.44
+2677,North Region,Mayo-Rey,211.36,Mountainous,14.79
+2678,Northwest Region,Mezam,309.5,Forest,1.81
+2679,South Region,Ocean,52.14,Forest,11.61
+2680,Littoral Region,Sanaga-Maritime,184.93,Mountainous,13.4
+2681,Northwest Region,Donga-Mantung,336.47,Forest,4.35
+2682,Far North Region,Mayo-Sava,475.91,Coastal,19.46
+2683,East Region,Boumba-et-Ngoko,272.75,Plains,8.74
+2684,Littoral Region,Wouri,64.88,Plains,14.85
+2685,North Region,Faro,366.68,Coastal,0.43
+2686,Littoral Region,Nkam,185.61,Forest,6.39
+2687,South Region,Vallee-du-Ntem,181.15,Coastal,3.08
+2688,Southwest Region,Ndian,270.29,Forest,12.3
+2689,Littoral Region,Nkam,400.84,Coastal,15.22
+2690,Adamawa Region,Vina,460.93,Plains,6.89
+2691,Southwest Region,Kupe-Manenguba,171.21,Forest,12.84
+2692,East Region,Boumba-et-Ngoko,200.02,Forest,17.76
+2693,Northwest Region,Mezam,205.51,Plains,4.98
+2694,Adamawa Region,Faro-et-Deo,152.43,Mountainous,9.71
+2695,West Region,Haut-Nkam,127.15,Plains,2.46
+2696,East Region,Haut-Nyong,178.5,Plains,7.68
+2697,Adamawa Region,Mayo-Banyo,271.12,Mountainous,17.11
+2698,Southwest Region,Meme,453.89,Mountainous,14.46
+2699,North Region,Mayo-Louti,480.46,Mountainous,16.64
+2700,West Region,Bamboutos,297.16,Plains,12.55
+2701,Far North Region,Mayo-Kani,452.55,Coastal,9.09
+2702,West Region,Haut-Nkam,207.62,Mountainous,19.83
+2703,Littoral Region,Moungo,73.65,Coastal,18.12
+2704,East Region,Lom-et-Djerem,390.44,Coastal,19.58
+2705,Centre Region,Lekie,499.53,Forest,5.78
+2706,Littoral Region,Sanaga-Maritime,101.28,Plains,9.38
+2707,West Region,Nde,171.16,Mountainous,6.04
+2708,Adamawa Region,Djerem,139.89,Mountainous,4.88
+2709,South Region,Vallee-du-Ntem,249.57,Plains,18.6
+2710,Northwest Region,Momo,277.59,Plains,6.97
+2711,North Region,Mayo-Louti,492.15,Plains,3.66
+2712,Southwest Region,Kupe-Manenguba,414.86,Plains,2.84
+2713,Littoral Region,Wouri,145.77,Mountainous,7.73
+2714,Centre Region,Nyong-et-Kelle,463.9,Mountainous,13.54
+2715,North Region,Benoue,426.18,Mountainous,15.63
+2716,North Region,Faro,244.0,Forest,0.38
+2717,West Region,Bamboutos,420.36,Mountainous,7.33
+2718,East Region,Boumba-et-Ngoko,286.41,Coastal,14.27
+2719,Adamawa Region,Djerem,130.32,Mountainous,1.84
+2720,North Region,Faro,178.2,Mountainous,9.9
+2721,Littoral Region,Sanaga-Maritime,269.54,Forest,7.49
+2722,East Region,Lom-et-Djerem,242.6,Forest,1.79
+2723,Far North Region,Mayo-Sava,134.02,Forest,9.34
+2724,North Region,Benoue,339.24,Coastal,18.15
+2725,East Region,Lom-et-Djerem,68.77,Coastal,0.13
+2726,West Region,Nde,207.9,Plains,3.59
+2727,Far North Region,Mayo-Danay,308.27,Forest,16.04
+2728,Littoral Region,Moungo,411.02,Coastal,15.81
+2729,Centre Region,Mbam-et-Kim,80.43,Mountainous,13.96
+2730,Far North Region,Mayo-Kani,79.6,Plains,11.63
+2731,North Region,Mayo-Rey,240.4,Forest,11.41
+2732,West Region,Bamboutos,435.88,Forest,18.12
+2733,East Region,Boumba-et-Ngoko,221.15,Forest,17.35
+2734,Southwest Region,Fako,499.31,Mountainous,17.49
+2735,Adamawa Region,Djerem,253.94,Plains,2.86
+2736,Northwest Region,Donga-Mantung,448.38,Forest,8.04
+2737,Adamawa Region,Faro-et-Deo,120.66,Coastal,14.12
+2738,East Region,Lom-et-Djerem,378.47,Plains,19.06
+2739,West Region,Nde,75.08,Mountainous,14.17
+2740,South Region,Dja-et-Lobo,188.61,Plains,12.98
+2741,South Region,Mvila,353.23,Forest,16.86
+2742,Northwest Region,Ngo-Ketunjia,272.53,Forest,18.9
+2743,Littoral Region,Moungo,364.52,Mountainous,7.58
+2744,South Region,Vallee-du-Ntem,104.39,Coastal,11.15
+2745,Far North Region,Mayo-Tsanaga,147.34,Plains,8.95
+2746,Northwest Region,Ngo-Ketunjia,358.94,Forest,9.16
+2747,Southwest Region,Fako,199.18,Mountainous,3.89
+2748,West Region,Menoua,283.63,Coastal,6.01
+2749,West Region,Nde,494.2,Coastal,4.25
+2750,Centre Region,Mfoundi,352.0,Forest,1.95
+2751,Centre Region,Lekie,428.67,Mountainous,2.72
+2752,Adamawa Region,Vina,101.03,Mountainous,11.75
+2753,West Region,Menoua,279.58,Plains,11.26
+2754,Littoral Region,Wouri,304.66,Coastal,10.67
+2755,Adamawa Region,Mayo-Banyo,181.83,Mountainous,11.35
+2756,South Region,Mvila,293.01,Forest,1.1
+2757,Centre Region,Haute-Sanaga,297.22,Coastal,7.92
+2758,Adamawa Region,Vina,56.69,Forest,2.64
+2759,North Region,Mayo-Louti,155.65,Coastal,11.51
+2760,Centre Region,Haute-Sanaga,65.29,Forest,2.7
+2761,Littoral Region,Nkam,112.96,Mountainous,8.09
+2762,East Region,Lom-et-Djerem,435.29,Plains,9.23
+2763,Centre Region,Nyong-et-Kelle,250.12,Forest,16.9
+2764,South Region,Mvila,374.53,Plains,19.41
+2765,Centre Region,Mfoundi,113.5,Forest,17.84
+2766,West Region,Menoua,64.73,Coastal,3.21
+2767,North Region,Mayo-Rey,333.89,Coastal,7.42
+2768,North Region,Mayo-Rey,490.8,Forest,14.1
+2769,Far North Region,Mayo-Kani,146.84,Plains,0.31
+2770,Littoral Region,Moungo,168.79,Mountainous,15.63
+2771,Centre Region,Mbam-et-Kim,290.38,Coastal,16.97
+2772,Centre Region,Mfoundi,305.76,Forest,7.21
+2773,East Region,Haut-Nyong,372.24,Mountainous,9.97
+2774,West Region,Nde,144.67,Plains,14.68
+2775,West Region,Nde,320.42,Mountainous,17.03
+2776,East Region,Lom-et-Djerem,492.05,Forest,11.2
+2777,South Region,Vallee-du-Ntem,244.76,Coastal,15.58
+2778,West Region,Mifi,78.55,Forest,10.17
+2779,Adamawa Region,Mbere,429.93,Mountainous,9.41
+2780,South Region,Dja-et-Lobo,440.75,Forest,1.65
+2781,East Region,Boumba-et-Ngoko,357.8,Coastal,3.41
+2782,Northwest Region,Ngo-Ketunjia,435.42,Plains,18.24
+2783,South Region,Vallee-du-Ntem,300.56,Plains,17.85
+2784,Northwest Region,Ngo-Ketunjia,320.73,Mountainous,5.71
+2785,Southwest Region,Kupe-Manenguba,404.2,Coastal,19.7
+2786,East Region,Haut-Nyong,401.55,Plains,7.12
+2787,Northwest Region,Donga-Mantung,86.67,Coastal,13.63
+2788,Northwest Region,Donga-Mantung,330.39,Forest,18.6
+2789,Far North Region,Diamare,376.11,Coastal,0.43
+2790,South Region,Dja-et-Lobo,332.77,Forest,14.18
+2791,South Region,Ocean,88.19,Coastal,14.08
+2792,South Region,Vallee-du-Ntem,57.0,Forest,3.19
+2793,Northwest Region,Mezam,297.75,Forest,6.44
+2794,South Region,Ocean,230.76,Mountainous,6.27
+2795,North Region,Mayo-Louti,135.6,Plains,5.85
+2796,Far North Region,Mayo-Tsanaga,292.81,Mountainous,0.59
+2797,Far North Region,Mayo-Danay,189.22,Forest,10.17
+2798,Adamawa Region,Faro-et-Deo,207.03,Mountainous,6.92
+2799,North Region,Faro,86.19,Plains,5.06
+2800,Littoral Region,Moungo,126.32,Plains,14.02
+2801,Centre Region,Nyong-et-Kelle,297.4,Coastal,9.58
+2802,West Region,Mifi,160.67,Mountainous,12.41
+2803,Adamawa Region,Djerem,421.03,Forest,13.28
+2804,West Region,Nde,75.02,Plains,15.15
+2805,Adamawa Region,Mayo-Banyo,465.64,Plains,14.5
+2806,Centre Region,Haute-Sanaga,447.8,Plains,7.38
+2807,Adamawa Region,Faro-et-Deo,160.19,Forest,3.27
+2808,Centre Region,Nyong-et-Kelle,273.69,Plains,14.73
+2809,Centre Region,Nyong-et-Kelle,179.51,Coastal,9.25
+2810,Far North Region,Mayo-Sava,271.91,Plains,4.24
+2811,Southwest Region,Lebialem,56.19,Mountainous,8.4
+2812,West Region,Mifi,254.7,Mountainous,14.61
+2813,Centre Region,Haute-Sanaga,258.07,Coastal,1.35
+2814,East Region,Kadey,459.16,Forest,19.44
+2815,Far North Region,Mayo-Sava,281.34,Mountainous,1.05
+2816,Northwest Region,Ngo-Ketunjia,92.29,Plains,18.51
+2817,East Region,Boumba-et-Ngoko,119.7,Plains,9.27
+2818,Littoral Region,Moungo,287.3,Mountainous,19.73
+2819,Littoral Region,Moungo,94.16,Plains,14.82
+2820,North Region,Mayo-Louti,174.51,Coastal,16.15
+2821,West Region,Nde,385.5,Mountainous,1.27
+2822,West Region,Mifi,277.29,Forest,19.38
+2823,Centre Region,Lekie,482.49,Plains,6.78
+2824,Southwest Region,Fako,454.42,Plains,4.26
+2825,East Region,Kadey,221.31,Plains,13.57
+2826,Far North Region,Mayo-Kani,210.52,Forest,10.49
+2827,Far North Region,Mayo-Sava,440.81,Coastal,15.87
+2828,East Region,Lom-et-Djerem,216.27,Forest,6.14
+2829,Far North Region,Mayo-Danay,204.87,Mountainous,16.17
+2830,North Region,Benoue,80.34,Coastal,13.89
+2831,North Region,Benoue,105.9,Coastal,16.41
+2832,East Region,Kadey,455.94,Plains,6.9
+2833,Northwest Region,Donga-Mantung,301.75,Coastal,15.02
+2834,East Region,Lom-et-Djerem,240.44,Plains,1.5
+2835,North Region,Faro,379.25,Forest,14.35
+2836,Southwest Region,Lebialem,270.6,Mountainous,14.99
+2837,South Region,Mvila,455.26,Coastal,17.23
+2838,Northwest Region,Momo,378.12,Mountainous,0.26
+2839,Centre Region,Mbam-et-Kim,474.88,Coastal,18.55
+2840,North Region,Mayo-Louti,169.69,Coastal,0.64
+2841,Southwest Region,Meme,185.89,Plains,18.47
+2842,West Region,Mifi,490.52,Forest,10.24
+2843,Adamawa Region,Vina,482.14,Mountainous,7.1
+2844,Northwest Region,Donga-Mantung,440.19,Plains,12.5
+2845,Northwest Region,Mezam,57.6,Plains,8.26
+2846,Southwest Region,Meme,242.65,Mountainous,7.77
+2847,North Region,Mayo-Rey,365.35,Forest,12.02
+2848,South Region,Mvila,128.93,Plains,16.26
+2849,South Region,Mvila,135.93,Mountainous,17.18
+2850,Centre Region,Haute-Sanaga,356.48,Mountainous,0.91
+2851,North Region,Faro,245.54,Forest,16.11
+2852,North Region,Faro,81.61,Coastal,2.92
+2853,Far North Region,Mayo-Sava,265.61,Mountainous,12.5
+2854,Southwest Region,Ndian,216.29,Forest,9.57
+2855,Southwest Region,Fako,317.48,Coastal,13.14
+2856,South Region,Mvila,347.2,Forest,15.8
+2857,East Region,Lom-et-Djerem,437.95,Forest,0.26
+2858,Littoral Region,Wouri,349.95,Coastal,13.94
+2859,Littoral Region,Wouri,429.36,Forest,15.85
+2860,West Region,Mifi,492.45,Plains,11.11
+2861,Centre Region,Mfoundi,445.39,Mountainous,18.15
+2862,East Region,Boumba-et-Ngoko,103.44,Forest,2.07
+2863,Littoral Region,Wouri,434.43,Plains,6.6
+2864,South Region,Dja-et-Lobo,358.79,Coastal,1.84
+2865,Centre Region,Haute-Sanaga,469.62,Coastal,10.55
+2866,Adamawa Region,Mayo-Banyo,111.86,Coastal,7.54
+2867,Northwest Region,Bui,430.87,Mountainous,17.77
+2868,East Region,Lom-et-Djerem,312.8,Mountainous,5.22
+2869,Adamawa Region,Mbere,308.59,Coastal,2.53
+2870,East Region,Lom-et-Djerem,420.52,Mountainous,11.89
+2871,West Region,Nde,459.93,Forest,8.01
+2872,Littoral Region,Wouri,425.12,Plains,10.23
+2873,Centre Region,Mfoundi,217.2,Coastal,15.46
+2874,Littoral Region,Sanaga-Maritime,460.72,Forest,2.87
+2875,Centre Region,Mfoundi,62.09,Mountainous,13.99
+2876,Southwest Region,Fako,424.45,Mountainous,13.72
+2877,Northwest Region,Momo,257.47,Coastal,10.28
+2878,Centre Region,Mfoundi,332.05,Mountainous,16.51
+2879,South Region,Ocean,101.04,Forest,3.8
+2880,Centre Region,Nyong-et-Kelle,326.65,Forest,14.57
+2881,Centre Region,Mfoundi,432.72,Plains,11.11
+2882,Adamawa Region,Vina,481.09,Plains,2.26
+2883,East Region,Kadey,230.11,Mountainous,4.72
+2884,Adamawa Region,Vina,85.82,Coastal,16.01
+2885,Adamawa Region,Djerem,299.4,Mountainous,13.11
+2886,East Region,Kadey,492.02,Coastal,8.0
+2887,Adamawa Region,Faro-et-Deo,445.2,Plains,19.17
+2888,Far North Region,Diamare,151.64,Forest,4.1
+2889,North Region,Mayo-Louti,324.16,Mountainous,13.43
+2890,East Region,Lom-et-Djerem,424.94,Coastal,13.73
+2891,East Region,Haut-Nyong,373.1,Plains,2.68
+2892,Centre Region,Mbam-et-Kim,378.18,Forest,0.65
+2893,Adamawa Region,Mbere,246.48,Plains,0.78
+2894,Littoral Region,Moungo,455.84,Mountainous,10.58
+2895,East Region,Boumba-et-Ngoko,301.01,Forest,15.97
+2896,Centre Region,Mbam-et-Kim,79.87,Forest,12.94
+2897,East Region,Lom-et-Djerem,356.13,Mountainous,11.27
+2898,Southwest Region,Lebialem,310.01,Plains,13.77
+2899,North Region,Mayo-Louti,483.71,Mountainous,18.82
+2900,West Region,Nde,386.79,Forest,5.55
+2901,South Region,Vallee-du-Ntem,225.51,Plains,2.74
+2902,North Region,Mayo-Louti,264.05,Mountainous,12.52
+2903,Littoral Region,Sanaga-Maritime,99.87,Coastal,10.9
+2904,Far North Region,Mayo-Sava,171.85,Plains,7.59
+2905,Northwest Region,Momo,381.6,Coastal,14.8
+2906,Far North Region,Diamare,191.72,Coastal,1.1
+2907,Littoral Region,Sanaga-Maritime,491.19,Forest,1.31
+2908,Northwest Region,Donga-Mantung,82.64,Plains,9.4
+2909,East Region,Boumba-et-Ngoko,300.28,Forest,5.9
+2910,North Region,Mayo-Rey,262.22,Coastal,8.26
+2911,Far North Region,Diamare,259.58,Plains,3.21
+2912,Littoral Region,Nkam,172.11,Forest,19.64
+2913,Centre Region,Haute-Sanaga,492.95,Coastal,1.82
+2914,Adamawa Region,Djerem,394.33,Plains,12.17
+2915,Adamawa Region,Mayo-Banyo,137.59,Coastal,14.36
+2916,Southwest Region,Kupe-Manenguba,159.8,Forest,9.59
+2917,Littoral Region,Moungo,308.63,Mountainous,15.75
+2918,East Region,Lom-et-Djerem,85.42,Forest,7.21
+2919,North Region,Mayo-Louti,442.71,Mountainous,10.52
+2920,Adamawa Region,Mbere,302.59,Coastal,17.64
+2921,Adamawa Region,Faro-et-Deo,313.24,Forest,4.17
+2922,West Region,Menoua,422.29,Plains,16.47
+2923,Far North Region,Mayo-Kani,260.33,Coastal,11.67
+2924,West Region,Bamboutos,323.04,Plains,15.24
+2925,North Region,Benoue,279.12,Mountainous,3.22
+2926,Littoral Region,Sanaga-Maritime,78.7,Forest,0.97
+2927,Far North Region,Mayo-Sava,466.43,Forest,5.7
+2928,West Region,Menoua,410.48,Mountainous,11.1
+2929,Southwest Region,Lebialem,239.32,Mountainous,10.04
+2930,Far North Region,Mayo-Kani,244.56,Mountainous,7.66
+2931,South Region,Ocean,168.56,Coastal,13.81
+2932,Southwest Region,Ndian,136.32,Coastal,18.85
+2933,South Region,Ocean,336.56,Mountainous,3.83
+2934,Southwest Region,Kupe-Manenguba,93.99,Coastal,19.75
+2935,West Region,Bamboutos,489.25,Coastal,12.84
+2936,Adamawa Region,Vina,233.63,Plains,6.14
+2937,South Region,Ocean,311.95,Forest,5.41
+2938,Northwest Region,Donga-Mantung,181.31,Mountainous,10.28
+2939,Southwest Region,Kupe-Manenguba,410.38,Coastal,5.1
+2940,Littoral Region,Wouri,423.67,Coastal,13.5
+2941,West Region,Haut-Nkam,304.92,Plains,16.43
+2942,West Region,Bamboutos,273.82,Coastal,14.31
+2943,East Region,Boumba-et-Ngoko,260.04,Plains,9.7
+2944,North Region,Benoue,273.76,Plains,14.51
+2945,North Region,Mayo-Louti,152.32,Coastal,13.06
+2946,South Region,Vallee-du-Ntem,92.34,Plains,8.76
+2947,North Region,Benoue,362.59,Forest,17.5
+2948,Far North Region,Mayo-Sava,233.78,Mountainous,9.13
+2949,East Region,Boumba-et-Ngoko,352.97,Forest,17.54
+2950,East Region,Lom-et-Djerem,187.25,Plains,7.71
+2951,Littoral Region,Wouri,271.73,Plains,0.81
+2952,West Region,Bamboutos,95.5,Forest,14.22
+2953,Adamawa Region,Mayo-Banyo,469.2,Coastal,16.82
+2954,Far North Region,Mayo-Danay,91.07,Mountainous,2.53
+2955,Centre Region,Nyong-et-Kelle,258.53,Plains,16.34
+2956,East Region,Lom-et-Djerem,426.62,Plains,0.73
+2957,Far North Region,Mayo-Tsanaga,160.31,Plains,0.39
+2958,Southwest Region,Meme,188.05,Plains,16.74
+2959,Adamawa Region,Faro-et-Deo,198.37,Coastal,7.68
+2960,Centre Region,Nyong-et-Kelle,317.18,Forest,6.1
+2961,North Region,Benoue,90.85,Mountainous,14.26
+2962,Far North Region,Mayo-Danay,414.88,Forest,5.69
+2963,East Region,Haut-Nyong,162.54,Forest,16.6
+2964,South Region,Mvila,150.17,Plains,14.26
+2965,Littoral Region,Moungo,216.09,Plains,9.61
+2966,South Region,Ocean,325.77,Coastal,16.4
+2967,Centre Region,Lekie,125.63,Plains,12.41
+2968,North Region,Mayo-Rey,356.79,Forest,17.63
+2969,Adamawa Region,Djerem,97.46,Plains,8.35
+2970,Centre Region,Nyong-et-Kelle,411.61,Forest,9.06
+2971,North Region,Faro,318.99,Forest,10.61
+2972,South Region,Dja-et-Lobo,434.43,Mountainous,3.46
+2973,Littoral Region,Nkam,104.67,Plains,9.46
+2974,East Region,Boumba-et-Ngoko,498.15,Forest,13.2
+2975,Northwest Region,Momo,482.17,Coastal,1.1
+2976,Northwest Region,Donga-Mantung,199.16,Mountainous,3.71
+2977,Adamawa Region,Djerem,473.17,Forest,2.41
+2978,North Region,Faro,447.61,Mountainous,12.16
+2979,East Region,Boumba-et-Ngoko,448.55,Coastal,2.6
+2980,East Region,Lom-et-Djerem,373.24,Forest,1.29
+2981,Centre Region,Mfoundi,85.33,Forest,1.41
+2982,South Region,Mvila,189.7,Plains,6.8
+2983,Centre Region,Haute-Sanaga,458.68,Coastal,13.62
+2984,South Region,Vallee-du-Ntem,444.2,Plains,15.09
+2985,West Region,Menoua,303.38,Coastal,9.17
+2986,Adamawa Region,Mayo-Banyo,225.01,Mountainous,12.81
+2987,Centre Region,Mbam-et-Kim,372.6,Forest,6.12
+2988,Centre Region,Lekie,478.72,Plains,14.36
+2989,North Region,Faro,250.25,Forest,6.03
+2990,Adamawa Region,Vina,188.81,Mountainous,17.61
+2991,North Region,Mayo-Louti,482.68,Plains,13.25
+2992,West Region,Bamboutos,482.76,Forest,8.22
+2993,Southwest Region,Fako,148.44,Forest,4.74
+2994,Southwest Region,Lebialem,210.14,Mountainous,18.31
+2995,Southwest Region,Lebialem,102.55,Plains,11.42
+2996,Southwest Region,Fako,322.45,Mountainous,11.55
+2997,South Region,Mvila,214.65,Coastal,15.98
+2998,Littoral Region,Sanaga-Maritime,374.21,Mountainous,6.58
+2999,Littoral Region,Nkam,354.37,Coastal,4.95

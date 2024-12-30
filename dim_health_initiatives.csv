@@ -1,0 +1,3001 @@
+Initiative_key,Initiative_name,Start_date,End_date,Coverage_percentage
+0,Community Health Worker Training,2021-03-07,2017-04-01,71.67
+1,Community Health Worker Training,2021-03-08,2019-09-28,85.0
+2,Indoor Residual Spraying Campaign,2021-01-04,2016-09-29,53.51
+3,Malaria Testing and Treatment Program,2018-01-28,2016-01-04,92.56
+4,Indoor Residual Spraying Campaign,2021-11-27,2021-12-31,59.23
+5,Bed Net Distribution Program,2016-12-28,2019-08-04,87.61
+6,Community Health Worker Training,2017-12-16,2015-04-12,62.44
+7,Community Health Worker Training,2015-08-14,2020-09-11,57.58
+8,Indoor Residual Spraying Campaign,2023-03-09,2023-02-03,84.16
+9,Community Health Worker Training,2020-01-24,2015-04-14,56.01
+10,Malaria Awareness Campaign,2016-06-05,2021-06-12,51.4
+11,Malaria Testing and Treatment Program,2022-05-27,2022-06-14,60.83
+12,Malaria Awareness Campaign,2022-08-23,2022-02-05,86.71
+13,Community Health Worker Training,2019-06-02,2021-08-31,67.5
+14,Bed Net Distribution Program,2018-07-01,2016-04-27,59.32
+15,Indoor Residual Spraying Campaign,2023-05-27,2022-10-10,90.09
+16,Indoor Residual Spraying Campaign,2017-07-28,2016-10-08,65.15
+17,Malaria Testing and Treatment Program,2019-12-09,2023-03-13,67.46
+18,Indoor Residual Spraying Campaign,2022-10-20,2016-12-11,70.47
+19,Community Health Worker Training,2016-05-01,2018-03-13,82.05
+20,Malaria Testing and Treatment Program,2022-07-11,2021-11-04,87.51
+21,Community Health Worker Training,2022-09-18,2017-03-13,80.92
+22,Malaria Testing and Treatment Program,2018-08-25,2017-07-17,50.83
+23,Malaria Testing and Treatment Program,2017-01-06,2016-07-06,66.18
+24,Indoor Residual Spraying Campaign,2022-11-24,2015-05-12,64.51
+25,Bed Net Distribution Program,2017-08-09,2021-03-02,80.18
+26,Malaria Awareness Campaign,2018-12-12,2020-06-16,84.32
+27,Indoor Residual Spraying Campaign,2016-07-13,2017-12-28,59.25
+28,Malaria Testing and Treatment Program,2023-09-15,2017-04-04,70.98
+29,Bed Net Distribution Program,2023-12-18,2021-03-25,86.09
+30,Bed Net Distribution Program,2023-12-29,2023-12-15,90.19
+31,Bed Net Distribution Program,2022-03-22,2021-01-07,68.81
+32,Malaria Testing and Treatment Program,2015-03-29,2018-11-27,94.24
+33,Indoor Residual Spraying Campaign,2017-12-13,2022-05-27,75.85
+34,Malaria Testing and Treatment Program,2019-02-12,2016-05-04,50.62
+35,Malaria Testing and Treatment Program,2020-10-26,2021-04-07,65.81
+36,Community Health Worker Training,2018-04-27,2017-12-25,74.91
+37,Bed Net Distribution Program,2018-08-06,2015-07-08,85.18
+38,Malaria Testing and Treatment Program,2015-01-16,2021-04-08,51.51
+39,Malaria Testing and Treatment Program,2021-04-10,2015-01-05,84.13
+40,Bed Net Distribution Program,2023-05-19,2023-09-15,74.08
+41,Bed Net Distribution Program,2021-08-06,2017-07-05,94.17
+42,Community Health Worker Training,2023-12-13,2021-02-22,63.9
+43,Malaria Testing and Treatment Program,2021-10-12,2017-06-23,83.42
+44,Malaria Testing and Treatment Program,2017-10-16,2020-07-06,69.44
+45,Malaria Testing and Treatment Program,2019-07-11,2023-04-05,72.56
+46,Malaria Awareness Campaign,2016-02-25,2016-07-25,86.83
+47,Malaria Awareness Campaign,2015-01-17,2019-12-30,76.07
+48,Malaria Awareness Campaign,2018-10-20,2015-12-28,54.83
+49,Community Health Worker Training,2022-07-21,2018-01-08,56.23
+50,Malaria Awareness Campaign,2021-12-15,2015-06-15,56.27
+51,Malaria Testing and Treatment Program,2020-07-17,2023-03-05,85.12
+52,Malaria Testing and Treatment Program,2022-11-12,2019-06-13,56.95
+53,Malaria Testing and Treatment Program,2022-06-28,2020-10-16,77.27
+54,Indoor Residual Spraying Campaign,2021-12-27,2016-03-03,56.67
+55,Malaria Testing and Treatment Program,2017-01-23,2023-05-19,52.36
+56,Community Health Worker Training,2020-08-28,2020-07-27,89.7
+57,Malaria Awareness Campaign,2019-11-14,2019-11-24,67.89
+58,Community Health Worker Training,2017-04-18,2020-12-04,82.41
+59,Community Health Worker Training,2022-02-15,2017-04-19,67.52
+60,Malaria Testing and Treatment Program,2018-10-24,2016-10-24,59.8
+61,Indoor Residual Spraying Campaign,2023-05-24,2021-04-28,79.51
+62,Malaria Testing and Treatment Program,2022-06-04,2021-03-30,52.65
+63,Malaria Testing and Treatment Program,2016-05-25,2018-02-26,86.08
+64,Community Health Worker Training,2015-12-06,2015-03-23,84.97
+65,Indoor Residual Spraying Campaign,2023-11-17,2018-07-24,89.82
+66,Malaria Awareness Campaign,2019-08-27,2015-07-18,87.22
+67,Malaria Testing and Treatment Program,2022-02-19,2017-02-22,54.03
+68,Bed Net Distribution Program,2021-05-10,2019-06-23,74.26
+69,Indoor Residual Spraying Campaign,2021-04-12,2020-04-07,68.64
+70,Bed Net Distribution Program,2018-10-16,2018-09-10,66.27
+71,Community Health Worker Training,2021-04-22,2018-12-08,73.26
+72,Malaria Awareness Campaign,2019-03-03,2019-10-13,92.85
+73,Bed Net Distribution Program,2019-06-10,2022-07-06,68.63
+74,Indoor Residual Spraying Campaign,2022-11-23,2022-09-30,58.76
+75,Bed Net Distribution Program,2021-04-25,2017-05-03,90.12
+76,Bed Net Distribution Program,2022-08-30,2018-08-01,93.2
+77,Malaria Testing and Treatment Program,2017-12-19,2019-05-28,72.31
+78,Community Health Worker Training,2015-05-27,2018-07-03,94.5
+79,Bed Net Distribution Program,2021-08-16,2016-01-18,90.85
+80,Malaria Awareness Campaign,2021-01-22,2015-06-29,94.59
+81,Indoor Residual Spraying Campaign,2019-10-16,2017-04-12,75.1
+82,Malaria Awareness Campaign,2017-08-12,2016-06-01,69.57
+83,Malaria Awareness Campaign,2017-06-12,2023-04-04,93.05
+84,Bed Net Distribution Program,2019-07-28,2019-09-27,80.73
+85,Community Health Worker Training,2022-10-08,2015-01-20,75.66
+86,Community Health Worker Training,2022-02-28,2018-02-13,69.29
+87,Community Health Worker Training,2020-03-11,2023-11-25,73.54
+88,Indoor Residual Spraying Campaign,2018-08-15,2017-07-09,75.17
+89,Bed Net Distribution Program,2017-04-04,2017-05-30,94.58
+90,Community Health Worker Training,2015-11-06,2019-07-12,94.88
+91,Malaria Testing and Treatment Program,2016-05-29,2020-05-20,90.53
+92,Malaria Testing and Treatment Program,2021-11-10,2015-08-12,62.46
+93,Community Health Worker Training,2023-03-25,2023-09-25,79.44
+94,Bed Net Distribution Program,2022-10-03,2015-04-18,81.66
+95,Indoor Residual Spraying Campaign,2021-05-16,2015-03-20,74.36
+96,Malaria Awareness Campaign,2020-10-23,2016-12-25,60.04
+97,Bed Net Distribution Program,2015-11-15,2017-01-23,68.27
+98,Bed Net Distribution Program,2023-07-13,2015-10-24,53.05
+99,Community Health Worker Training,2019-01-14,2018-08-03,94.27
+100,Bed Net Distribution Program,2016-08-23,2015-12-27,87.72
+101,Malaria Testing and Treatment Program,2020-11-30,2015-06-10,69.36
+102,Bed Net Distribution Program,2019-11-26,2018-12-24,64.97
+103,Malaria Awareness Campaign,2017-01-22,2018-03-02,62.04
+104,Community Health Worker Training,2016-08-25,2017-08-22,94.55
+105,Malaria Awareness Campaign,2021-11-09,2020-05-03,83.59
+106,Malaria Awareness Campaign,2019-09-19,2019-02-05,54.93
+107,Community Health Worker Training,2016-11-24,2022-10-17,52.2
+108,Malaria Testing and Treatment Program,2019-11-02,2019-03-01,59.52
+109,Malaria Testing and Treatment Program,2020-07-31,2022-04-25,92.67
+110,Community Health Worker Training,2023-03-30,2017-03-31,66.83
+111,Bed Net Distribution Program,2016-08-02,2017-09-16,70.02
+112,Community Health Worker Training,2017-11-03,2017-08-18,59.4
+113,Indoor Residual Spraying Campaign,2020-05-23,2020-07-29,78.51
+114,Bed Net Distribution Program,2019-03-06,2017-01-27,57.08
+115,Malaria Testing and Treatment Program,2016-09-01,2022-01-09,80.11
+116,Indoor Residual Spraying Campaign,2021-01-23,2018-06-18,91.05
+117,Malaria Testing and Treatment Program,2019-08-01,2019-02-16,91.8
+118,Bed Net Distribution Program,2020-06-01,2016-03-20,85.93
+119,Malaria Testing and Treatment Program,2021-04-10,2016-03-10,69.82
+120,Malaria Testing and Treatment Program,2018-04-30,2015-10-05,74.74
+121,Indoor Residual Spraying Campaign,2015-01-17,2017-08-08,93.17
+122,Indoor Residual Spraying Campaign,2016-02-22,2022-05-21,61.11
+123,Bed Net Distribution Program,2019-01-09,2023-06-13,79.42
+124,Malaria Testing and Treatment Program,2021-07-28,2023-06-23,85.05
+125,Malaria Awareness Campaign,2022-04-04,2022-02-11,77.3
+126,Bed Net Distribution Program,2022-07-22,2021-03-13,87.74
+127,Bed Net Distribution Program,2023-12-25,2019-03-10,59.6
+128,Bed Net Distribution Program,2022-08-03,2019-01-10,51.03
+129,Community Health Worker Training,2016-07-30,2017-11-19,72.94
+130,Bed Net Distribution Program,2019-03-05,2015-05-04,79.69
+131,Malaria Testing and Treatment Program,2020-11-24,2018-04-20,85.55
+132,Malaria Awareness Campaign,2021-05-02,2022-08-20,91.34
+133,Indoor Residual Spraying Campaign,2018-09-02,2023-09-15,70.39
+134,Malaria Awareness Campaign,2019-10-15,2017-06-06,82.26
+135,Malaria Awareness Campaign,2020-12-06,2023-03-29,80.75
+136,Bed Net Distribution Program,2016-07-04,2019-07-06,55.03
+137,Community Health Worker Training,2019-06-04,2016-04-10,90.74
+138,Community Health Worker Training,2020-09-15,2023-07-15,67.63
+139,Indoor Residual Spraying Campaign,2020-03-31,2015-02-04,77.4
+140,Bed Net Distribution Program,2021-02-14,2016-05-07,68.2
+141,Bed Net Distribution Program,2022-05-18,2020-12-01,84.56
+142,Malaria Testing and Treatment Program,2022-10-28,2020-08-24,71.61
+143,Bed Net Distribution Program,2021-06-27,2023-03-17,81.35
+144,Malaria Testing and Treatment Program,2016-03-10,2018-09-13,64.97
+145,Malaria Testing and Treatment Program,2021-10-12,2018-09-01,66.68
+146,Malaria Testing and Treatment Program,2021-02-03,2015-01-23,92.11
+147,Bed Net Distribution Program,2020-07-09,2017-04-04,76.65
+148,Indoor Residual Spraying Campaign,2021-06-09,2021-06-20,92.91
+149,Community Health Worker Training,2022-05-22,2019-02-14,88.56
+150,Malaria Testing and Treatment Program,2016-07-15,2016-02-27,86.53
+151,Community Health Worker Training,2015-06-08,2021-05-22,76.65
+152,Indoor Residual Spraying Campaign,2023-05-19,2019-05-15,71.64
+153,Bed Net Distribution Program,2021-02-07,2020-12-12,80.51
+154,Malaria Awareness Campaign,2017-01-20,2017-08-26,50.93
+155,Malaria Testing and Treatment Program,2017-08-21,2020-04-24,84.34
+156,Malaria Testing and Treatment Program,2022-04-01,2019-07-15,61.44
+157,Indoor Residual Spraying Campaign,2017-01-29,2016-04-23,67.41
+158,Malaria Awareness Campaign,2018-08-24,2019-08-12,54.25
+159,Bed Net Distribution Program,2019-04-19,2019-12-23,51.88
+160,Indoor Residual Spraying Campaign,2015-01-26,2016-12-06,86.53
+161,Bed Net Distribution Program,2020-03-02,2015-08-01,56.41
+162,Malaria Testing and Treatment Program,2018-01-26,2018-05-13,83.15
+163,Community Health Worker Training,2016-02-29,2022-09-29,50.23
+164,Community Health Worker Training,2022-01-08,2016-12-14,64.15
+165,Community Health Worker Training,2021-06-09,2016-08-10,56.93
+166,Malaria Awareness Campaign,2016-09-25,2023-04-23,92.44
+167,Malaria Awareness Campaign,2016-08-01,2021-10-23,80.7
+168,Malaria Testing and Treatment Program,2015-01-01,2017-08-11,84.11
+169,Bed Net Distribution Program,2023-08-28,2017-05-09,94.71
+170,Malaria Awareness Campaign,2017-07-31,2016-11-20,74.59
+171,Bed Net Distribution Program,2020-07-05,2023-03-02,53.56
+172,Community Health Worker Training,2019-08-18,2020-01-08,51.78
+173,Bed Net Distribution Program,2016-10-22,2023-04-27,91.36
+174,Malaria Testing and Treatment Program,2016-03-05,2021-09-20,69.29
+175,Bed Net Distribution Program,2019-09-16,2017-10-13,69.73
+176,Malaria Awareness Campaign,2016-06-05,2020-07-20,67.96
+177,Indoor Residual Spraying Campaign,2016-05-30,2022-05-08,74.32
+178,Community Health Worker Training,2017-10-26,2020-08-21,78.14
+179,Bed Net Distribution Program,2021-10-06,2018-05-04,74.25
+180,Malaria Awareness Campaign,2021-02-18,2020-01-08,61.16
+181,Malaria Awareness Campaign,2021-06-18,2019-03-17,69.33
+182,Malaria Testing and Treatment Program,2015-04-10,2017-10-31,51.75
+183,Community Health Worker Training,2019-05-20,2020-04-22,68.42
+184,Bed Net Distribution Program,2016-07-11,2016-03-11,69.08
+185,Indoor Residual Spraying Campaign,2016-04-01,2017-06-01,68.17
+186,Malaria Awareness Campaign,2020-04-08,2019-09-16,50.02
+187,Bed Net Distribution Program,2021-10-08,2021-01-03,75.42
+188,Malaria Testing and Treatment Program,2021-03-10,2018-05-26,60.28
+189,Bed Net Distribution Program,2019-09-02,2019-01-14,78.61
+190,Indoor Residual Spraying Campaign,2015-07-25,2017-03-08,58.22
+191,Malaria Awareness Campaign,2020-06-11,2023-08-29,93.82
+192,Malaria Testing and Treatment Program,2021-07-17,2018-05-01,56.89
+193,Bed Net Distribution Program,2021-06-14,2016-11-19,94.72
+194,Malaria Testing and Treatment Program,2021-04-04,2023-02-01,91.62
+195,Malaria Testing and Treatment Program,2023-05-02,2017-11-06,51.93
+196,Malaria Awareness Campaign,2020-11-01,2023-07-30,70.1
+197,Malaria Testing and Treatment Program,2015-10-03,2022-05-04,71.03
+198,Community Health Worker Training,2023-01-15,2015-12-10,93.76
+199,Bed Net Distribution Program,2021-11-24,2022-05-12,53.4
+200,Malaria Awareness Campaign,2018-01-26,2020-05-25,56.79
+201,Community Health Worker Training,2017-12-08,2022-06-07,65.64
+202,Malaria Awareness Campaign,2020-09-11,2016-07-22,50.52
+203,Community Health Worker Training,2019-12-30,2017-05-28,54.75
+204,Malaria Awareness Campaign,2017-02-08,2023-01-09,87.63
+205,Community Health Worker Training,2017-01-24,2016-07-17,92.31
+206,Malaria Testing and Treatment Program,2022-03-09,2019-08-01,66.03
+207,Malaria Awareness Campaign,2019-08-03,2020-11-17,87.61
+208,Bed Net Distribution Program,2017-09-02,2022-06-07,87.56
+209,Malaria Testing and Treatment Program,2021-03-03,2020-06-19,72.17
+210,Bed Net Distribution Program,2022-01-27,2017-05-22,86.53
+211,Community Health Worker Training,2018-07-11,2015-08-24,65.36
+212,Indoor Residual Spraying Campaign,2015-07-06,2015-08-09,81.6
+213,Malaria Awareness Campaign,2018-12-30,2023-02-21,67.31
+214,Bed Net Distribution Program,2017-12-13,2022-09-20,65.59
+215,Malaria Awareness Campaign,2021-05-23,2018-11-27,94.12
+216,Malaria Testing and Treatment Program,2021-04-14,2016-10-20,79.57
+217,Malaria Awareness Campaign,2017-02-24,2017-07-16,54.79
+218,Bed Net Distribution Program,2022-02-18,2021-01-28,58.2
+219,Bed Net Distribution Program,2022-06-29,2016-01-04,55.43
+220,Malaria Testing and Treatment Program,2022-03-01,2019-02-19,78.39
+221,Bed Net Distribution Program,2020-11-04,2021-07-06,67.21
+222,Malaria Testing and Treatment Program,2019-02-20,2017-04-02,71.48
+223,Bed Net Distribution Program,2015-08-06,2022-04-27,52.97
+224,Community Health Worker Training,2022-01-07,2016-10-01,92.26
+225,Malaria Testing and Treatment Program,2020-11-24,2016-09-10,77.41
+226,Bed Net Distribution Program,2015-05-04,2021-06-30,57.59
+227,Malaria Testing and Treatment Program,2015-07-07,2016-08-30,71.63
+228,Community Health Worker Training,2021-09-15,2016-11-02,53.04
+229,Malaria Testing and Treatment Program,2021-07-05,2015-01-16,59.34
+230,Bed Net Distribution Program,2023-07-20,2015-03-13,57.49
+231,Indoor Residual Spraying Campaign,2023-02-02,2022-10-17,75.29
+232,Malaria Testing and Treatment Program,2018-06-26,2023-01-31,60.99
+233,Malaria Testing and Treatment Program,2019-03-27,2020-03-09,90.98
+234,Malaria Testing and Treatment Program,2022-06-09,2020-03-18,51.55
+235,Malaria Testing and Treatment Program,2020-12-14,2017-01-05,74.77
+236,Community Health Worker Training,2017-09-14,2022-07-26,51.92
+237,Indoor Residual Spraying Campaign,2017-04-25,2016-08-06,72.06
+238,Malaria Testing and Treatment Program,2021-01-24,2021-10-25,76.6
+239,Bed Net Distribution Program,2020-01-02,2017-03-21,60.48
+240,Malaria Testing and Treatment Program,2021-03-13,2021-08-13,85.8
+241,Indoor Residual Spraying Campaign,2017-06-23,2023-02-08,65.22
+242,Community Health Worker Training,2023-12-28,2018-11-21,72.39
+243,Community Health Worker Training,2023-03-15,2019-02-27,61.11
+244,Malaria Testing and Treatment Program,2015-09-17,2018-06-07,82.74
+245,Indoor Residual Spraying Campaign,2019-03-06,2020-08-28,66.21
+246,Bed Net Distribution Program,2019-11-19,2017-06-04,87.37
+247,Malaria Awareness Campaign,2021-07-30,2023-07-05,64.57
+248,Indoor Residual Spraying Campaign,2021-07-27,2016-02-15,54.15
+249,Malaria Testing and Treatment Program,2021-11-28,2020-09-13,87.46
+250,Community Health Worker Training,2023-09-21,2016-12-11,62.76
+251,Malaria Testing and Treatment Program,2020-03-03,2019-09-20,66.83
+252,Community Health Worker Training,2020-06-23,2020-10-13,61.49
+253,Indoor Residual Spraying Campaign,2017-10-27,2021-03-12,56.39
+254,Community Health Worker Training,2017-04-14,2015-04-23,91.31
+255,Bed Net Distribution Program,2022-06-05,2023-01-08,73.53
+256,Community Health Worker Training,2019-05-06,2020-05-10,58.55
+257,Community Health Worker Training,2020-12-31,2021-07-16,51.0
+258,Indoor Residual Spraying Campaign,2022-12-16,2017-09-16,85.56
+259,Malaria Testing and Treatment Program,2020-12-01,2016-07-09,53.38
+260,Community Health Worker Training,2018-09-09,2020-04-03,72.03
+261,Indoor Residual Spraying Campaign,2020-12-19,2020-03-02,63.78
+262,Indoor Residual Spraying Campaign,2016-05-22,2016-01-21,89.5
+263,Malaria Testing and Treatment Program,2023-08-31,2017-03-08,68.0
+264,Malaria Awareness Campaign,2021-02-02,2019-03-04,60.53
+265,Indoor Residual Spraying Campaign,2019-08-26,2021-09-12,77.48
+266,Community Health Worker Training,2016-08-03,2018-06-22,86.79
+267,Malaria Awareness Campaign,2018-01-22,2016-04-13,91.19
+268,Malaria Testing and Treatment Program,2018-12-14,2022-09-07,87.49
+269,Malaria Testing and Treatment Program,2019-05-25,2020-09-23,69.1
+270,Indoor Residual Spraying Campaign,2017-04-01,2020-02-29,70.81
+271,Bed Net Distribution Program,2022-05-31,2018-11-03,88.37
+272,Bed Net Distribution Program,2016-05-19,2016-12-19,91.09
+273,Indoor Residual Spraying Campaign,2019-05-22,2016-10-31,53.62
+274,Malaria Awareness Campaign,2017-09-09,2016-06-05,58.51
+275,Community Health Worker Training,2021-10-30,2017-03-23,53.64
+276,Community Health Worker Training,2020-07-10,2015-06-15,86.7
+277,Malaria Awareness Campaign,2017-06-23,2020-10-19,78.45
+278,Malaria Awareness Campaign,2016-01-12,2015-11-02,87.66
+279,Indoor Residual Spraying Campaign,2017-03-21,2023-06-25,53.72
+280,Community Health Worker Training,2019-08-31,2020-11-03,76.49
+281,Indoor Residual Spraying Campaign,2022-03-26,2017-03-17,65.63
+282,Malaria Testing and Treatment Program,2019-10-29,2020-02-26,74.48
+283,Bed Net Distribution Program,2015-12-23,2020-01-31,88.5
+284,Community Health Worker Training,2020-12-24,2016-11-11,53.29
+285,Indoor Residual Spraying Campaign,2017-03-30,2023-03-14,50.34
+286,Indoor Residual Spraying Campaign,2019-07-23,2022-06-17,63.0
+287,Malaria Awareness Campaign,2021-06-29,2018-05-24,89.1
+288,Bed Net Distribution Program,2017-05-06,2016-12-15,58.2
+289,Community Health Worker Training,2018-07-24,2020-07-13,81.45
+290,Bed Net Distribution Program,2022-04-12,2020-09-01,80.71
+291,Community Health Worker Training,2019-06-14,2022-11-08,51.38
+292,Bed Net Distribution Program,2017-05-01,2019-07-15,83.38
+293,Community Health Worker Training,2023-08-11,2019-09-06,68.72
+294,Indoor Residual Spraying Campaign,2015-10-26,2021-05-29,86.22
+295,Malaria Awareness Campaign,2022-12-21,2017-03-03,58.47
+296,Community Health Worker Training,2021-01-17,2016-11-23,93.93
+297,Malaria Testing and Treatment Program,2018-08-23,2018-12-08,69.25
+298,Indoor Residual Spraying Campaign,2021-05-15,2023-02-07,68.11
+299,Community Health Worker Training,2020-11-10,2023-06-21,62.94
+300,Indoor Residual Spraying Campaign,2022-12-19,2015-10-31,75.6
+301,Community Health Worker Training,2015-09-03,2017-02-18,84.4
+302,Indoor Residual Spraying Campaign,2019-05-27,2019-02-06,63.92
+303,Community Health Worker Training,2016-04-23,2016-04-12,92.86
+304,Community Health Worker Training,2017-03-10,2020-06-02,68.45
+305,Bed Net Distribution Program,2015-10-19,2019-12-01,71.96
+306,Malaria Testing and Treatment Program,2021-03-02,2020-06-09,57.52
+307,Bed Net Distribution Program,2023-06-21,2019-09-11,61.04
+308,Community Health Worker Training,2019-07-26,2023-08-18,59.96
+309,Malaria Testing and Treatment Program,2018-11-29,2023-03-30,67.24
+310,Community Health Worker Training,2021-07-25,2019-08-08,83.43
+311,Malaria Awareness Campaign,2017-06-22,2015-03-20,64.71
+312,Community Health Worker Training,2019-09-12,2021-05-02,63.15
+313,Malaria Awareness Campaign,2021-01-26,2015-12-20,62.59
+314,Community Health Worker Training,2017-02-05,2016-12-25,60.12
+315,Malaria Testing and Treatment Program,2021-01-31,2016-05-24,66.13
+316,Malaria Testing and Treatment Program,2019-04-16,2015-05-21,58.26
+317,Bed Net Distribution Program,2017-07-26,2017-04-07,75.84
+318,Malaria Testing and Treatment Program,2022-12-07,2020-03-03,77.43
+319,Bed Net Distribution Program,2016-02-19,2021-10-07,90.08
+320,Community Health Worker Training,2017-07-16,2019-07-30,76.5
+321,Bed Net Distribution Program,2022-04-29,2015-04-16,69.86
+322,Malaria Testing and Treatment Program,2021-09-20,2021-06-18,89.82
+323,Community Health Worker Training,2022-07-07,2023-03-21,89.38
+324,Community Health Worker Training,2018-12-15,2018-12-21,88.97
+325,Malaria Testing and Treatment Program,2020-09-07,2022-09-30,61.57
+326,Community Health Worker Training,2015-07-22,2022-01-19,69.94
+327,Indoor Residual Spraying Campaign,2019-11-30,2021-04-21,62.29
+328,Indoor Residual Spraying Campaign,2017-07-02,2019-03-04,80.9
+329,Indoor Residual Spraying Campaign,2021-01-09,2017-07-19,64.83
+330,Community Health Worker Training,2016-04-20,2021-08-07,50.38
+331,Malaria Testing and Treatment Program,2019-04-11,2018-04-14,61.39
+332,Malaria Awareness Campaign,2018-07-13,2019-02-10,66.51
+333,Bed Net Distribution Program,2015-02-18,2019-11-16,68.0
+334,Malaria Awareness Campaign,2016-09-20,2023-06-25,56.62
+335,Indoor Residual Spraying Campaign,2015-01-15,2016-11-27,87.01
+336,Malaria Testing and Treatment Program,2017-05-27,2021-08-09,88.68
+337,Bed Net Distribution Program,2021-11-07,2016-08-06,54.01
+338,Community Health Worker Training,2020-03-19,2018-01-17,93.04
+339,Bed Net Distribution Program,2015-11-20,2016-01-29,65.79
+340,Indoor Residual Spraying Campaign,2022-04-20,2016-02-22,84.56
+341,Indoor Residual Spraying Campaign,2015-12-27,2022-08-28,78.58
+342,Indoor Residual Spraying Campaign,2017-08-13,2023-07-09,88.44
+343,Malaria Awareness Campaign,2023-02-19,2017-08-01,89.31
+344,Malaria Awareness Campaign,2018-04-06,2021-04-09,55.56
+345,Malaria Awareness Campaign,2023-03-02,2019-01-02,91.15
+346,Community Health Worker Training,2017-08-03,2020-12-12,75.64
+347,Indoor Residual Spraying Campaign,2021-02-17,2019-06-24,84.04
+348,Malaria Testing and Treatment Program,2015-01-08,2023-04-30,50.21
+349,Bed Net Distribution Program,2019-10-17,2023-03-26,72.5
+350,Malaria Awareness Campaign,2022-02-18,2015-11-07,58.25
+351,Malaria Testing and Treatment Program,2022-11-03,2018-10-14,58.69
+352,Bed Net Distribution Program,2018-05-21,2019-09-28,64.18
+353,Community Health Worker Training,2020-01-08,2015-11-29,74.77
+354,Malaria Awareness Campaign,2021-06-19,2017-12-18,90.56
+355,Indoor Residual Spraying Campaign,2018-12-29,2021-04-04,53.28
+356,Malaria Awareness Campaign,2019-06-04,2022-11-15,72.77
+357,Malaria Testing and Treatment Program,2019-08-27,2016-02-19,83.06
+358,Malaria Awareness Campaign,2015-11-11,2015-02-28,76.75
+359,Malaria Awareness Campaign,2021-11-13,2015-10-21,72.8
+360,Community Health Worker Training,2021-09-05,2017-07-09,60.44
+361,Indoor Residual Spraying Campaign,2015-06-16,2015-08-10,80.15
+362,Bed Net Distribution Program,2023-03-07,2021-05-30,72.56
+363,Malaria Awareness Campaign,2020-09-12,2015-03-27,86.49
+364,Malaria Awareness Campaign,2021-05-20,2023-10-22,50.35
+365,Bed Net Distribution Program,2015-08-16,2020-05-28,60.23
+366,Community Health Worker Training,2021-01-04,2015-02-17,58.16
+367,Community Health Worker Training,2019-03-22,2015-10-26,82.77
+368,Malaria Testing and Treatment Program,2018-02-19,2022-11-23,74.97
+369,Malaria Testing and Treatment Program,2021-07-17,2018-02-19,54.59
+370,Bed Net Distribution Program,2020-03-25,2020-09-20,79.9
+371,Malaria Awareness Campaign,2019-04-01,2017-06-13,69.03
+372,Malaria Awareness Campaign,2023-02-27,2020-05-13,54.21
+373,Malaria Testing and Treatment Program,2021-01-01,2020-11-21,74.23
+374,Malaria Testing and Treatment Program,2020-11-12,2018-05-21,90.81
+375,Malaria Testing and Treatment Program,2020-02-11,2021-03-24,56.4
+376,Malaria Testing and Treatment Program,2017-11-11,2015-01-05,92.89
+377,Indoor Residual Spraying Campaign,2022-01-15,2023-01-05,54.91
+378,Community Health Worker Training,2015-03-14,2020-05-02,80.51
+379,Indoor Residual Spraying Campaign,2017-04-05,2018-02-18,66.99
+380,Bed Net Distribution Program,2022-12-20,2015-02-18,72.11
+381,Malaria Testing and Treatment Program,2019-04-14,2021-12-16,73.6
+382,Community Health Worker Training,2022-11-29,2016-02-02,68.38
+383,Malaria Testing and Treatment Program,2016-08-09,2022-02-09,53.24
+384,Malaria Awareness Campaign,2015-01-12,2015-09-19,74.19
+385,Malaria Awareness Campaign,2023-10-17,2016-07-06,67.13
+386,Malaria Testing and Treatment Program,2022-08-31,2019-02-18,86.24
+387,Indoor Residual Spraying Campaign,2019-09-19,2018-02-14,63.14
+388,Community Health Worker Training,2016-08-27,2017-04-30,94.92
+389,Bed Net Distribution Program,2016-03-24,2015-03-05,87.7
+390,Malaria Testing and Treatment Program,2015-12-20,2023-07-21,85.13
+391,Malaria Awareness Campaign,2023-09-24,2023-08-13,76.0
+392,Malaria Awareness Campaign,2022-09-23,2020-05-14,74.61
+393,Malaria Awareness Campaign,2019-08-16,2023-11-20,54.93
+394,Malaria Testing and Treatment Program,2021-09-24,2015-10-20,85.81
+395,Malaria Awareness Campaign,2016-12-17,2016-10-27,87.61
+396,Indoor Residual Spraying Campaign,2017-02-21,2021-06-13,63.6
+397,Indoor Residual Spraying Campaign,2023-04-19,2023-04-22,87.87
+398,Bed Net Distribution Program,2019-06-25,2016-05-20,94.53
+399,Indoor Residual Spraying Campaign,2016-10-30,2018-10-04,89.86
+400,Malaria Testing and Treatment Program,2015-08-23,2020-10-04,56.82
+401,Community Health Worker Training,2022-06-21,2021-04-25,62.69
+402,Indoor Residual Spraying Campaign,2015-04-13,2023-08-24,55.45
+403,Malaria Awareness Campaign,2023-08-28,2023-11-28,54.23
+404,Malaria Testing and Treatment Program,2023-02-02,2021-02-23,50.16
+405,Community Health Worker Training,2017-03-06,2019-12-13,58.37
+406,Community Health Worker Training,2021-02-02,2022-04-15,83.7
+407,Indoor Residual Spraying Campaign,2020-06-05,2023-08-24,75.64
+408,Community Health Worker Training,2022-07-15,2022-09-14,91.15
+409,Indoor Residual Spraying Campaign,2018-01-29,2019-10-28,80.01
+410,Bed Net Distribution Program,2023-04-30,2016-11-16,80.61
+411,Bed Net Distribution Program,2016-07-26,2015-01-30,52.46
+412,Community Health Worker Training,2020-10-03,2020-01-13,61.5
+413,Indoor Residual Spraying Campaign,2017-06-11,2023-02-21,86.53
+414,Bed Net Distribution Program,2016-11-05,2020-11-10,53.14
+415,Bed Net Distribution Program,2022-08-28,2018-02-12,77.21
+416,Malaria Awareness Campaign,2016-07-22,2020-12-22,94.79
+417,Indoor Residual Spraying Campaign,2023-10-31,2021-10-04,63.39
+418,Malaria Testing and Treatment Program,2023-12-16,2016-07-29,93.62
+419,Malaria Awareness Campaign,2022-02-19,2023-04-15,65.99
+420,Indoor Residual Spraying Campaign,2017-09-23,2019-02-17,62.04
+421,Indoor Residual Spraying Campaign,2016-01-12,2023-12-26,92.52
+422,Malaria Awareness Campaign,2015-12-22,2021-06-23,83.07
+423,Malaria Awareness Campaign,2016-11-10,2022-12-09,87.51
+424,Bed Net Distribution Program,2022-06-20,2022-08-22,76.22
+425,Community Health Worker Training,2017-02-03,2018-06-07,87.79
+426,Malaria Awareness Campaign,2017-05-21,2016-02-07,92.59
+427,Malaria Awareness Campaign,2018-12-01,2016-06-17,90.0
+428,Community Health Worker Training,2021-01-15,2023-07-28,80.38
+429,Community Health Worker Training,2023-03-15,2017-01-23,56.98
+430,Community Health Worker Training,2021-11-02,2017-06-26,73.46
+431,Malaria Awareness Campaign,2016-12-15,2020-05-11,94.02
+432,Malaria Awareness Campaign,2015-11-18,2023-11-20,63.6
+433,Bed Net Distribution Program,2016-08-17,2021-12-08,74.61
+434,Indoor Residual Spraying Campaign,2018-09-15,2020-10-28,75.71
+435,Malaria Awareness Campaign,2015-09-21,2019-07-08,76.87
+436,Indoor Residual Spraying Campaign,2023-12-09,2022-10-15,76.05
+437,Indoor Residual Spraying Campaign,2015-05-31,2023-06-20,63.41
+438,Malaria Awareness Campaign,2018-10-01,2015-12-29,62.41
+439,Indoor Residual Spraying Campaign,2019-12-12,2022-03-17,61.73
+440,Malaria Awareness Campaign,2019-01-21,2017-12-29,84.29
+441,Malaria Testing and Treatment Program,2016-05-24,2019-12-06,90.44
+442,Bed Net Distribution Program,2018-06-10,2023-08-24,80.09
+443,Bed Net Distribution Program,2020-12-19,2018-09-24,83.47
+444,Bed Net Distribution Program,2021-06-16,2017-07-07,52.35
+445,Community Health Worker Training,2023-05-18,2015-12-14,84.43
+446,Bed Net Distribution Program,2021-11-29,2023-08-02,84.79
+447,Community Health Worker Training,2016-10-04,2021-06-24,84.72
+448,Indoor Residual Spraying Campaign,2020-08-24,2019-06-15,85.77
+449,Malaria Awareness Campaign,2020-08-08,2019-02-03,78.1
+450,Community Health Worker Training,2018-08-31,2019-08-09,75.73
+451,Indoor Residual Spraying Campaign,2016-06-24,2020-02-02,73.04
+452,Indoor Residual Spraying Campaign,2015-09-20,2022-02-08,90.32
+453,Malaria Awareness Campaign,2023-05-23,2019-01-31,63.86
+454,Community Health Worker Training,2021-06-11,2023-07-04,87.03
+455,Indoor Residual Spraying Campaign,2022-06-28,2022-06-26,57.2
+456,Malaria Testing and Treatment Program,2015-10-21,2015-11-30,52.76
+457,Indoor Residual Spraying Campaign,2021-06-16,2022-08-04,88.65
+458,Community Health Worker Training,2016-02-21,2020-07-19,93.61
+459,Indoor Residual Spraying Campaign,2020-10-08,2017-01-29,65.07
+460,Bed Net Distribution Program,2015-01-31,2017-10-27,75.3
+461,Malaria Testing and Treatment Program,2016-03-15,2021-06-11,81.62
+462,Indoor Residual Spraying Campaign,2018-05-16,2019-12-01,89.96
+463,Indoor Residual Spraying Campaign,2018-03-16,2021-02-01,63.19
+464,Malaria Awareness Campaign,2015-02-07,2020-04-06,79.99
+465,Malaria Testing and Treatment Program,2016-03-14,2015-12-19,64.13
+466,Indoor Residual Spraying Campaign,2015-12-16,2016-05-28,62.12
+467,Malaria Testing and Treatment Program,2022-05-23,2020-09-05,70.12
+468,Indoor Residual Spraying Campaign,2016-08-09,2017-07-25,71.25
+469,Malaria Testing and Treatment Program,2023-07-29,2017-12-18,61.32
+470,Malaria Testing and Treatment Program,2017-12-05,2018-05-07,66.87
+471,Indoor Residual Spraying Campaign,2020-12-29,2021-11-06,55.84
+472,Indoor Residual Spraying Campaign,2017-06-03,2023-03-12,93.14
+473,Community Health Worker Training,2022-12-08,2018-03-28,71.78
+474,Malaria Testing and Treatment Program,2015-03-11,2018-09-15,70.21
+475,Indoor Residual Spraying Campaign,2016-08-30,2020-02-12,52.21
+476,Malaria Awareness Campaign,2017-06-21,2023-10-01,83.15
+477,Malaria Testing and Treatment Program,2015-08-16,2023-05-25,54.58
+478,Community Health Worker Training,2018-10-17,2022-05-10,88.03
+479,Bed Net Distribution Program,2016-07-05,2022-09-12,93.36
+480,Community Health Worker Training,2020-10-13,2016-05-06,52.65
+481,Community Health Worker Training,2020-11-30,2017-08-27,84.69
+482,Bed Net Distribution Program,2022-04-06,2018-11-22,64.61
+483,Bed Net Distribution Program,2017-12-16,2016-08-19,54.66
+484,Malaria Testing and Treatment Program,2017-07-16,2017-12-15,82.45
+485,Indoor Residual Spraying Campaign,2019-05-13,2017-03-31,85.72
+486,Malaria Awareness Campaign,2015-04-22,2020-12-21,51.16
+487,Community Health Worker Training,2017-07-16,2017-08-22,78.52
+488,Bed Net Distribution Program,2019-12-07,2015-01-14,88.34
+489,Community Health Worker Training,2016-09-01,2019-04-05,53.96
+490,Community Health Worker Training,2015-09-25,2023-02-13,56.69
+491,Malaria Testing and Treatment Program,2015-05-08,2017-11-17,61.71
+492,Malaria Testing and Treatment Program,2018-09-14,2020-01-13,69.32
+493,Bed Net Distribution Program,2020-06-10,2017-11-20,65.66
+494,Bed Net Distribution Program,2023-02-10,2023-08-06,72.53
+495,Community Health Worker Training,2020-09-16,2019-05-01,66.8
+496,Bed Net Distribution Program,2021-05-24,2022-08-11,53.95
+497,Bed Net Distribution Program,2015-02-08,2022-10-08,85.22
+498,Bed Net Distribution Program,2019-01-17,2023-07-23,77.04
+499,Malaria Awareness Campaign,2016-04-24,2020-10-28,67.1
+500,Bed Net Distribution Program,2022-08-09,2023-01-31,73.01
+501,Malaria Awareness Campaign,2018-04-27,2022-05-08,52.3
+502,Malaria Testing and Treatment Program,2017-11-13,2021-03-02,74.27
+503,Community Health Worker Training,2021-07-14,2016-07-18,86.65
+504,Malaria Testing and Treatment Program,2023-10-27,2016-07-02,54.24
+505,Malaria Testing and Treatment Program,2020-12-14,2023-01-26,63.4
+506,Malaria Testing and Treatment Program,2018-09-27,2022-09-16,67.36
+507,Community Health Worker Training,2018-10-20,2015-04-25,61.11
+508,Malaria Awareness Campaign,2022-12-17,2020-03-27,74.29
+509,Bed Net Distribution Program,2018-09-28,2018-08-02,80.22
+510,Community Health Worker Training,2019-06-10,2020-02-01,91.43
+511,Indoor Residual Spraying Campaign,2023-12-17,2019-06-09,57.33
+512,Bed Net Distribution Program,2022-08-14,2016-02-12,83.32
+513,Malaria Testing and Treatment Program,2017-06-22,2022-06-14,51.45
+514,Malaria Testing and Treatment Program,2021-06-05,2017-08-19,67.11
+515,Malaria Awareness Campaign,2017-10-27,2022-11-07,63.25
+516,Indoor Residual Spraying Campaign,2016-07-10,2018-06-21,52.19
+517,Indoor Residual Spraying Campaign,2020-10-21,2020-06-12,87.13
+518,Malaria Awareness Campaign,2019-07-31,2022-01-01,61.9
+519,Malaria Awareness Campaign,2019-07-24,2018-08-18,62.68
+520,Community Health Worker Training,2016-12-08,2021-09-29,81.31
+521,Indoor Residual Spraying Campaign,2017-04-28,2018-11-16,70.79
+522,Community Health Worker Training,2023-11-06,2022-08-31,90.44
+523,Malaria Awareness Campaign,2016-02-02,2018-04-04,50.17
+524,Malaria Testing and Treatment Program,2019-08-10,2017-04-28,60.37
+525,Malaria Testing and Treatment Program,2022-04-18,2019-07-17,67.56
+526,Community Health Worker Training,2019-04-23,2022-10-09,67.51
+527,Malaria Awareness Campaign,2016-04-26,2020-03-09,51.21
+528,Community Health Worker Training,2021-05-22,2016-05-12,91.56
+529,Malaria Testing and Treatment Program,2022-04-27,2022-01-19,93.34
+530,Malaria Awareness Campaign,2017-01-20,2022-09-07,63.91
+531,Malaria Awareness Campaign,2015-01-31,2018-08-03,72.69
+532,Malaria Awareness Campaign,2023-02-10,2020-02-20,80.7
+533,Malaria Testing and Treatment Program,2021-09-04,2016-07-26,89.16
+534,Malaria Testing and Treatment Program,2020-01-27,2017-08-22,82.77
+535,Community Health Worker Training,2021-10-04,2016-03-31,61.12
+536,Malaria Testing and Treatment Program,2015-02-05,2017-09-24,61.17
+537,Bed Net Distribution Program,2021-07-30,2015-04-26,59.97
+538,Community Health Worker Training,2019-04-19,2015-09-29,66.55
+539,Malaria Awareness Campaign,2019-01-23,2022-08-02,66.79
+540,Malaria Testing and Treatment Program,2021-07-24,2023-10-07,89.61
+541,Malaria Awareness Campaign,2016-04-20,2018-06-19,67.73
+542,Indoor Residual Spraying Campaign,2020-09-27,2020-11-18,92.69
+543,Malaria Testing and Treatment Program,2023-08-31,2021-09-26,87.28
+544,Community Health Worker Training,2019-06-18,2017-09-06,58.55
+545,Malaria Awareness Campaign,2022-11-24,2019-11-05,79.09
+546,Bed Net Distribution Program,2018-12-08,2022-01-11,78.02
+547,Indoor Residual Spraying Campaign,2017-12-14,2021-04-30,77.4
+548,Community Health Worker Training,2023-10-14,2017-06-24,54.09
+549,Malaria Awareness Campaign,2018-01-03,2023-02-06,85.78
+550,Community Health Worker Training,2019-10-20,2015-05-05,68.02
+551,Bed Net Distribution Program,2019-06-02,2023-12-02,79.07
+552,Malaria Awareness Campaign,2022-07-28,2016-06-19,51.18
+553,Community Health Worker Training,2023-12-06,2021-01-09,90.29
+554,Malaria Awareness Campaign,2022-01-24,2015-05-15,76.74
+555,Bed Net Distribution Program,2022-07-17,2016-01-14,85.86
+556,Bed Net Distribution Program,2018-03-14,2020-10-07,67.98
+557,Bed Net Distribution Program,2020-05-11,2022-07-24,79.98
+558,Malaria Testing and Treatment Program,2022-08-19,2019-10-06,84.67
+559,Bed Net Distribution Program,2016-06-02,2017-09-21,54.88
+560,Malaria Awareness Campaign,2019-08-08,2015-08-21,60.7
+561,Malaria Awareness Campaign,2017-05-18,2016-08-26,80.36
+562,Malaria Awareness Campaign,2019-07-17,2018-08-18,76.45
+563,Malaria Testing and Treatment Program,2015-03-15,2022-04-06,66.58
+564,Malaria Awareness Campaign,2015-06-06,2021-10-20,77.14
+565,Bed Net Distribution Program,2017-05-20,2017-07-30,59.23
+566,Community Health Worker Training,2020-01-03,2018-12-19,77.57
+567,Indoor Residual Spraying Campaign,2023-04-01,2018-09-22,84.51
+568,Malaria Awareness Campaign,2023-05-29,2019-01-03,56.03
+569,Malaria Awareness Campaign,2017-03-01,2017-07-22,80.4
+570,Indoor Residual Spraying Campaign,2023-01-05,2020-12-01,56.1
+571,Bed Net Distribution Program,2016-01-18,2018-10-11,82.97
+572,Bed Net Distribution Program,2016-03-14,2016-08-11,50.0
+573,Malaria Awareness Campaign,2021-07-11,2023-04-29,55.06
+574,Malaria Testing and Treatment Program,2022-06-30,2015-01-25,67.83
+575,Bed Net Distribution Program,2015-11-28,2015-06-13,75.53
+576,Malaria Testing and Treatment Program,2017-11-03,2018-07-08,77.66
+577,Indoor Residual Spraying Campaign,2021-06-26,2018-06-05,56.32
+578,Bed Net Distribution Program,2015-05-21,2023-09-29,78.06
+579,Community Health Worker Training,2016-12-12,2015-03-24,54.31
+580,Malaria Testing and Treatment Program,2015-03-04,2021-04-17,82.14
+581,Community Health Worker Training,2021-02-10,2018-10-27,72.65
+582,Community Health Worker Training,2016-10-08,2016-02-15,65.1
+583,Indoor Residual Spraying Campaign,2015-07-21,2023-08-26,65.88
+584,Malaria Testing and Treatment Program,2021-12-01,2017-09-03,86.93
+585,Community Health Worker Training,2017-06-06,2018-11-06,84.99
+586,Indoor Residual Spraying Campaign,2019-02-12,2017-12-06,75.26
+587,Community Health Worker Training,2022-05-27,2016-06-10,60.62
+588,Malaria Awareness Campaign,2019-08-31,2021-09-27,93.48
+589,Malaria Awareness Campaign,2018-04-13,2021-06-17,65.92
+590,Malaria Awareness Campaign,2019-06-09,2015-04-19,82.84
+591,Malaria Testing and Treatment Program,2015-10-25,2019-11-26,68.23
+592,Malaria Testing and Treatment Program,2018-06-19,2020-01-20,53.3
+593,Bed Net Distribution Program,2021-04-06,2015-08-11,57.99
+594,Community Health Worker Training,2023-03-10,2017-09-06,81.04
+595,Indoor Residual Spraying Campaign,2020-12-25,2015-11-14,60.73
+596,Indoor Residual Spraying Campaign,2016-11-04,2019-07-31,90.47
+597,Community Health Worker Training,2017-02-05,2020-02-20,71.6
+598,Malaria Awareness Campaign,2019-12-21,2022-08-01,83.18
+599,Community Health Worker Training,2022-08-06,2021-01-06,94.06
+600,Community Health Worker Training,2018-07-29,2020-06-21,51.84
+601,Community Health Worker Training,2021-02-19,2020-09-20,75.72
+602,Malaria Awareness Campaign,2022-04-17,2021-03-05,94.6
+603,Malaria Awareness Campaign,2020-09-06,2019-01-20,77.91
+604,Indoor Residual Spraying Campaign,2018-03-01,2015-10-19,57.63
+605,Community Health Worker Training,2020-03-20,2019-05-26,66.45
+606,Malaria Testing and Treatment Program,2018-12-07,2020-01-31,54.01
+607,Malaria Awareness Campaign,2016-08-14,2015-10-08,83.79
+608,Community Health Worker Training,2015-05-08,2022-03-15,82.09
+609,Malaria Testing and Treatment Program,2023-07-08,2016-10-21,69.01
+610,Bed Net Distribution Program,2021-10-04,2015-03-13,86.15
+611,Bed Net Distribution Program,2021-06-29,2023-01-15,56.66
+612,Community Health Worker Training,2018-08-28,2019-12-29,54.19
+613,Community Health Worker Training,2017-06-30,2021-11-30,92.98
+614,Malaria Awareness Campaign,2016-09-23,2015-08-26,77.93
+615,Bed Net Distribution Program,2015-01-25,2022-10-08,54.54
+616,Malaria Awareness Campaign,2017-08-13,2018-02-23,63.58
+617,Malaria Testing and Treatment Program,2020-08-11,2015-05-25,77.24
+618,Malaria Awareness Campaign,2022-05-13,2017-05-17,77.51
+619,Bed Net Distribution Program,2021-11-28,2022-10-24,68.28
+620,Community Health Worker Training,2021-02-12,2022-02-03,59.91
+621,Malaria Testing and Treatment Program,2023-05-01,2018-10-07,55.61
+622,Bed Net Distribution Program,2023-03-20,2021-07-23,68.61
+623,Malaria Awareness Campaign,2016-04-03,2021-01-25,51.33
+624,Community Health Worker Training,2015-09-28,2022-08-12,83.96
+625,Malaria Awareness Campaign,2016-12-22,2018-11-11,59.64
+626,Bed Net Distribution Program,2015-12-14,2021-12-14,54.25
+627,Bed Net Distribution Program,2016-10-29,2016-01-23,83.75
+628,Malaria Awareness Campaign,2022-07-19,2022-06-22,75.35
+629,Community Health Worker Training,2022-11-29,2021-03-19,94.63
+630,Malaria Awareness Campaign,2023-12-04,2020-01-04,79.77
+631,Community Health Worker Training,2022-01-13,2022-04-28,59.69
+632,Indoor Residual Spraying Campaign,2021-02-25,2021-02-19,90.3
+633,Community Health Worker Training,2018-11-27,2015-05-22,65.32
+634,Indoor Residual Spraying Campaign,2018-02-26,2021-02-18,93.74
+635,Bed Net Distribution Program,2023-03-04,2021-12-16,88.41
+636,Community Health Worker Training,2017-06-01,2021-01-17,75.3
+637,Indoor Residual Spraying Campaign,2019-02-17,2020-08-10,66.71
+638,Indoor Residual Spraying Campaign,2016-02-13,2020-06-28,70.59
+639,Bed Net Distribution Program,2022-04-04,2022-03-16,82.08
+640,Indoor Residual Spraying Campaign,2019-10-08,2023-01-12,67.89
+641,Bed Net Distribution Program,2021-06-21,2023-03-22,51.15
+642,Bed Net Distribution Program,2016-03-14,2015-03-06,92.2
+643,Malaria Testing and Treatment Program,2017-06-08,2019-05-10,67.87
+644,Malaria Testing and Treatment Program,2023-03-25,2022-09-29,59.02
+645,Malaria Awareness Campaign,2020-08-03,2023-04-12,58.61
+646,Bed Net Distribution Program,2020-07-07,2022-05-05,92.1
+647,Malaria Awareness Campaign,2023-01-16,2015-06-14,51.42
+648,Malaria Awareness Campaign,2023-01-19,2017-06-10,88.33
+649,Community Health Worker Training,2021-12-17,2016-01-13,86.08
+650,Malaria Testing and Treatment Program,2022-02-22,2016-05-23,62.45
+651,Malaria Testing and Treatment Program,2016-08-07,2023-01-06,78.7
+652,Community Health Worker Training,2016-06-03,2020-05-12,81.29
+653,Malaria Testing and Treatment Program,2020-04-21,2017-02-06,50.31
+654,Indoor Residual Spraying Campaign,2021-06-02,2017-07-26,69.99
+655,Indoor Residual Spraying Campaign,2018-05-18,2017-11-02,88.64
+656,Bed Net Distribution Program,2015-02-06,2017-06-04,89.33
+657,Malaria Awareness Campaign,2023-01-22,2015-03-12,81.83
+658,Malaria Awareness Campaign,2022-01-29,2021-04-10,66.43
+659,Malaria Testing and Treatment Program,2022-10-29,2020-07-08,81.94
+660,Indoor Residual Spraying Campaign,2019-09-05,2015-06-10,72.28
+661,Malaria Awareness Campaign,2017-10-19,2023-01-16,73.86
+662,Bed Net Distribution Program,2015-07-23,2017-05-25,51.05
+663,Malaria Awareness Campaign,2021-03-06,2015-10-02,70.21
+664,Indoor Residual Spraying Campaign,2023-02-19,2018-12-30,54.04
+665,Indoor Residual Spraying Campaign,2023-02-22,2023-12-23,76.57
+666,Malaria Awareness Campaign,2017-12-13,2023-12-09,80.7
+667,Malaria Awareness Campaign,2019-12-02,2022-05-03,84.57
+668,Malaria Testing and Treatment Program,2018-12-27,2018-08-17,80.72
+669,Malaria Testing and Treatment Program,2021-03-13,2016-03-07,90.29
+670,Malaria Testing and Treatment Program,2017-12-21,2023-05-30,68.02
+671,Malaria Awareness Campaign,2021-01-30,2022-11-01,84.77
+672,Malaria Awareness Campaign,2016-03-17,2015-09-19,69.92
+673,Malaria Awareness Campaign,2019-12-16,2015-02-22,90.62
+674,Malaria Testing and Treatment Program,2019-08-31,2015-06-03,76.11
+675,Bed Net Distribution Program,2017-11-26,2015-06-03,84.72
+676,Indoor Residual Spraying Campaign,2017-02-11,2022-06-03,65.09
+677,Malaria Testing and Treatment Program,2016-12-23,2019-02-13,60.79
+678,Malaria Awareness Campaign,2016-11-03,2016-05-01,79.38
+679,Community Health Worker Training,2023-07-22,2020-07-22,86.56
+680,Malaria Testing and Treatment Program,2016-02-08,2022-07-19,52.55
+681,Malaria Testing and Treatment Program,2021-11-05,2019-12-16,56.5
+682,Malaria Awareness Campaign,2015-06-21,2015-12-26,51.64
+683,Malaria Awareness Campaign,2019-01-20,2017-10-14,93.75
+684,Malaria Awareness Campaign,2017-05-30,2016-11-30,81.63
+685,Community Health Worker Training,2015-10-02,2015-05-13,82.79
+686,Malaria Awareness Campaign,2018-09-18,2018-01-31,60.42
+687,Indoor Residual Spraying Campaign,2017-11-11,2015-06-17,72.11
+688,Indoor Residual Spraying Campaign,2017-05-31,2021-04-19,54.45
+689,Malaria Awareness Campaign,2018-01-24,2022-05-18,75.93
+690,Malaria Awareness Campaign,2021-06-30,2016-06-27,65.75
+691,Bed Net Distribution Program,2021-05-31,2017-04-26,82.91
+692,Community Health Worker Training,2019-06-17,2017-02-23,67.53
+693,Indoor Residual Spraying Campaign,2023-09-19,2021-09-23,89.09
+694,Community Health Worker Training,2020-12-24,2016-07-24,69.53
+695,Indoor Residual Spraying Campaign,2021-04-14,2021-01-22,85.76
+696,Malaria Awareness Campaign,2021-12-18,2018-11-06,70.15
+697,Community Health Worker Training,2015-12-03,2021-12-09,75.83
+698,Malaria Testing and Treatment Program,2019-04-27,2022-05-27,59.41
+699,Indoor Residual Spraying Campaign,2023-07-27,2018-03-02,81.93
+700,Malaria Testing and Treatment Program,2022-05-14,2016-05-30,63.05
+701,Bed Net Distribution Program,2018-02-04,2019-04-02,73.02
+702,Malaria Testing and Treatment Program,2023-02-12,2019-10-26,93.87
+703,Malaria Awareness Campaign,2023-01-22,2017-03-10,63.9
+704,Malaria Awareness Campaign,2019-12-26,2023-06-01,89.03
+705,Community Health Worker Training,2018-09-12,2018-07-22,62.21
+706,Malaria Testing and Treatment Program,2019-12-14,2020-12-14,86.19
+707,Bed Net Distribution Program,2019-03-11,2016-04-08,68.05
+708,Bed Net Distribution Program,2019-05-29,2016-04-15,84.85
+709,Malaria Testing and Treatment Program,2023-02-10,2023-04-15,52.27
+710,Malaria Testing and Treatment Program,2016-11-03,2016-07-18,55.84
+711,Malaria Awareness Campaign,2021-06-27,2020-01-21,91.17
+712,Community Health Worker Training,2023-09-07,2015-03-18,62.42
+713,Indoor Residual Spraying Campaign,2016-04-09,2022-04-24,63.94
+714,Indoor Residual Spraying Campaign,2018-02-09,2015-06-14,51.75
+715,Bed Net Distribution Program,2015-04-30,2015-07-06,61.3
+716,Malaria Awareness Campaign,2018-03-17,2019-09-10,88.01
+717,Bed Net Distribution Program,2015-05-05,2021-01-17,56.21
+718,Bed Net Distribution Program,2019-09-03,2018-08-16,55.64
+719,Community Health Worker Training,2015-01-08,2018-10-10,89.64
+720,Bed Net Distribution Program,2020-09-10,2015-10-29,50.36
+721,Malaria Awareness Campaign,2020-01-22,2018-06-23,50.79
+722,Bed Net Distribution Program,2019-05-29,2019-11-02,52.76
+723,Community Health Worker Training,2020-11-19,2015-08-09,63.68
+724,Community Health Worker Training,2018-03-14,2023-04-08,74.76
+725,Bed Net Distribution Program,2018-02-11,2021-04-25,79.21
+726,Bed Net Distribution Program,2021-06-05,2016-01-27,64.72
+727,Community Health Worker Training,2023-09-25,2020-07-07,61.28
+728,Bed Net Distribution Program,2017-11-13,2016-04-18,82.62
+729,Indoor Residual Spraying Campaign,2021-12-21,2019-10-25,91.11
+730,Indoor Residual Spraying Campaign,2021-06-14,2018-10-21,85.63
+731,Indoor Residual Spraying Campaign,2015-06-02,2020-04-10,65.5
+732,Malaria Awareness Campaign,2023-01-30,2022-01-01,50.95
+733,Malaria Awareness Campaign,2016-03-19,2016-06-15,51.82
+734,Malaria Awareness Campaign,2017-04-01,2016-08-07,68.67
+735,Malaria Awareness Campaign,2016-08-01,2017-08-17,53.84
+736,Indoor Residual Spraying Campaign,2023-12-15,2021-04-29,74.29
+737,Bed Net Distribution Program,2023-08-28,2023-11-03,57.26
+738,Malaria Testing and Treatment Program,2021-06-02,2021-07-01,67.26
+739,Indoor Residual Spraying Campaign,2017-06-28,2016-01-19,86.32
+740,Community Health Worker Training,2017-09-11,2023-12-17,75.88
+741,Bed Net Distribution Program,2019-03-24,2022-09-14,60.47
+742,Malaria Testing and Treatment Program,2022-10-14,2021-08-10,70.36
+743,Community Health Worker Training,2020-10-15,2018-07-14,78.84
+744,Indoor Residual Spraying Campaign,2020-10-18,2021-03-04,61.09
+745,Community Health Worker Training,2017-06-11,2015-10-06,69.79
+746,Malaria Testing and Treatment Program,2019-04-24,2023-08-28,69.11
+747,Malaria Testing and Treatment Program,2019-04-17,2023-11-09,76.96
+748,Malaria Testing and Treatment Program,2018-11-20,2018-10-04,79.01
+749,Malaria Awareness Campaign,2016-01-06,2021-06-11,86.88
+750,Bed Net Distribution Program,2023-10-13,2018-03-27,76.9
+751,Bed Net Distribution Program,2021-07-04,2017-07-11,70.85
+752,Bed Net Distribution Program,2023-04-30,2019-10-10,57.87
+753,Malaria Testing and Treatment Program,2015-04-03,2019-11-20,75.42
+754,Bed Net Distribution Program,2023-12-07,2023-11-20,91.69
+755,Malaria Awareness Campaign,2017-02-10,2017-03-28,78.47
+756,Malaria Awareness Campaign,2019-06-09,2019-01-14,90.03
+757,Community Health Worker Training,2017-10-31,2017-02-09,57.4
+758,Community Health Worker Training,2020-08-04,2017-01-21,63.11
+759,Bed Net Distribution Program,2018-02-25,2020-04-10,91.81
+760,Indoor Residual Spraying Campaign,2017-08-21,2016-04-23,59.48
+761,Bed Net Distribution Program,2022-02-10,2015-01-31,52.08
+762,Indoor Residual Spraying Campaign,2022-05-05,2017-04-25,59.12
+763,Malaria Testing and Treatment Program,2021-11-08,2015-03-10,60.91
+764,Malaria Testing and Treatment Program,2020-02-15,2015-12-21,89.41
+765,Community Health Worker Training,2020-01-05,2021-07-28,63.46
+766,Bed Net Distribution Program,2020-06-27,2020-05-31,60.4
+767,Malaria Awareness Campaign,2021-11-02,2015-10-05,50.74
+768,Malaria Awareness Campaign,2019-12-30,2021-12-23,55.39
+769,Malaria Awareness Campaign,2023-06-20,2023-06-06,56.82
+770,Malaria Testing and Treatment Program,2016-03-23,2022-09-01,59.81
+771,Bed Net Distribution Program,2023-05-05,2015-02-09,82.89
+772,Indoor Residual Spraying Campaign,2020-09-19,2019-07-24,67.34
+773,Bed Net Distribution Program,2021-02-28,2017-01-03,60.44
+774,Malaria Testing and Treatment Program,2020-12-17,2020-07-12,74.36
+775,Malaria Testing and Treatment Program,2015-08-11,2016-12-16,67.75
+776,Bed Net Distribution Program,2022-07-05,2021-04-30,93.69
+777,Malaria Testing and Treatment Program,2022-10-22,2022-05-28,69.11
+778,Community Health Worker Training,2016-10-08,2019-02-27,61.48
+779,Malaria Awareness Campaign,2022-06-23,2018-04-25,57.11
+780,Malaria Awareness Campaign,2020-12-04,2020-07-17,61.14
+781,Malaria Awareness Campaign,2015-04-03,2023-05-26,58.92
+782,Malaria Awareness Campaign,2020-02-01,2021-04-03,57.81
+783,Community Health Worker Training,2021-05-05,2020-10-27,52.54
+784,Malaria Testing and Treatment Program,2015-01-30,2019-11-18,72.94
+785,Indoor Residual Spraying Campaign,2020-01-04,2018-08-05,64.61
+786,Bed Net Distribution Program,2017-07-08,2016-04-12,80.2
+787,Community Health Worker Training,2015-10-24,2019-11-30,73.22
+788,Malaria Testing and Treatment Program,2020-01-03,2023-01-17,53.28
+789,Community Health Worker Training,2020-11-03,2018-10-02,72.53
+790,Bed Net Distribution Program,2022-07-25,2017-11-21,90.72
+791,Community Health Worker Training,2016-01-03,2023-08-07,54.97
+792,Indoor Residual Spraying Campaign,2022-08-18,2016-06-09,61.27
+793,Community Health Worker Training,2017-04-22,2023-01-29,93.42
+794,Indoor Residual Spraying Campaign,2018-07-12,2019-02-20,73.7
+795,Community Health Worker Training,2015-04-05,2023-08-21,81.83
+796,Malaria Testing and Treatment Program,2015-07-11,2022-10-12,76.43
+797,Indoor Residual Spraying Campaign,2023-10-19,2018-03-28,68.73
+798,Indoor Residual Spraying Campaign,2022-12-12,2021-09-05,57.27
+799,Malaria Testing and Treatment Program,2015-06-06,2019-04-09,72.2
+800,Malaria Awareness Campaign,2017-09-22,2016-08-18,53.67
+801,Malaria Awareness Campaign,2020-02-08,2020-09-15,74.09
+802,Malaria Awareness Campaign,2016-10-14,2018-11-25,70.22
+803,Community Health Worker Training,2019-04-24,2023-12-23,54.42
+804,Malaria Testing and Treatment Program,2015-02-04,2022-11-18,73.75
+805,Malaria Testing and Treatment Program,2015-06-18,2016-10-11,84.78
+806,Community Health Worker Training,2015-02-09,2017-02-01,55.33
+807,Community Health Worker Training,2017-06-15,2015-07-06,65.25
+808,Malaria Testing and Treatment Program,2017-02-07,2017-06-06,89.37
+809,Bed Net Distribution Program,2015-01-09,2015-01-23,71.45
+810,Bed Net Distribution Program,2018-10-20,2019-10-09,69.68
+811,Malaria Awareness Campaign,2023-08-08,2016-06-11,73.08
+812,Indoor Residual Spraying Campaign,2022-04-11,2016-08-14,50.98
+813,Malaria Awareness Campaign,2016-08-05,2020-10-31,52.81
+814,Bed Net Distribution Program,2022-05-15,2017-10-21,86.73
+815,Malaria Awareness Campaign,2018-10-20,2023-07-12,81.97
+816,Malaria Testing and Treatment Program,2015-01-05,2015-05-20,51.2
+817,Malaria Testing and Treatment Program,2015-10-07,2016-02-06,59.7
+818,Bed Net Distribution Program,2023-11-27,2015-06-18,60.2
+819,Community Health Worker Training,2017-06-11,2022-03-23,88.46
+820,Malaria Testing and Treatment Program,2016-12-31,2019-01-30,64.1
+821,Malaria Awareness Campaign,2016-11-14,2017-11-29,87.15
+822,Malaria Testing and Treatment Program,2017-02-15,2020-07-23,63.69
+823,Bed Net Distribution Program,2020-04-07,2020-01-23,54.24
+824,Community Health Worker Training,2016-03-15,2021-09-12,93.78
+825,Bed Net Distribution Program,2016-08-26,2021-04-02,69.02
+826,Bed Net Distribution Program,2019-12-01,2016-10-06,74.83
+827,Indoor Residual Spraying Campaign,2019-02-05,2021-09-20,55.24
+828,Malaria Testing and Treatment Program,2019-02-27,2021-01-29,88.41
+829,Bed Net Distribution Program,2018-08-19,2019-01-13,69.47
+830,Community Health Worker Training,2021-09-04,2020-06-04,61.77
+831,Malaria Awareness Campaign,2023-06-10,2020-11-14,53.15
+832,Malaria Testing and Treatment Program,2016-12-09,2023-11-17,53.24
+833,Bed Net Distribution Program,2021-09-28,2018-08-11,70.63
+834,Community Health Worker Training,2020-08-18,2015-12-03,63.46
+835,Malaria Testing and Treatment Program,2018-04-04,2019-07-15,68.13
+836,Indoor Residual Spraying Campaign,2021-06-16,2019-12-20,77.33
+837,Bed Net Distribution Program,2023-06-01,2019-06-18,93.43
+838,Bed Net Distribution Program,2018-03-18,2023-04-07,73.1
+839,Malaria Testing and Treatment Program,2022-04-25,2020-07-29,73.92
+840,Malaria Awareness Campaign,2020-04-14,2018-03-29,74.31
+841,Indoor Residual Spraying Campaign,2023-08-30,2018-07-11,71.37
+842,Community Health Worker Training,2015-06-23,2016-02-26,61.78
+843,Malaria Testing and Treatment Program,2023-08-24,2016-01-30,76.16
+844,Indoor Residual Spraying Campaign,2022-10-01,2016-05-05,52.65
+845,Bed Net Distribution Program,2018-10-24,2023-04-19,77.0
+846,Indoor Residual Spraying Campaign,2020-09-22,2017-03-02,52.2
+847,Malaria Awareness Campaign,2022-05-06,2018-11-13,91.49
+848,Malaria Awareness Campaign,2020-10-09,2018-01-06,73.97
+849,Community Health Worker Training,2019-11-14,2016-09-02,50.94
+850,Bed Net Distribution Program,2017-12-01,2022-12-06,86.18
+851,Bed Net Distribution Program,2015-11-10,2022-11-25,63.48
+852,Malaria Testing and Treatment Program,2015-07-29,2023-12-15,73.69
+853,Bed Net Distribution Program,2022-06-14,2019-04-21,87.11
+854,Community Health Worker Training,2019-05-21,2015-04-15,76.83
+855,Indoor Residual Spraying Campaign,2022-11-02,2021-11-04,50.16
+856,Malaria Awareness Campaign,2023-03-12,2020-06-12,59.13
+857,Bed Net Distribution Program,2022-07-18,2015-12-03,74.74
+858,Bed Net Distribution Program,2017-11-01,2023-09-22,83.3
+859,Indoor Residual Spraying Campaign,2020-05-10,2022-03-23,60.4
+860,Malaria Awareness Campaign,2021-03-05,2020-06-06,77.27
+861,Indoor Residual Spraying Campaign,2019-09-01,2016-08-07,93.95
+862,Indoor Residual Spraying Campaign,2017-10-14,2016-05-11,89.01
+863,Malaria Awareness Campaign,2015-02-09,2018-07-24,63.19
+864,Indoor Residual Spraying Campaign,2015-02-04,2017-12-29,76.25
+865,Malaria Testing and Treatment Program,2017-07-09,2020-12-13,82.32
+866,Community Health Worker Training,2019-08-31,2016-02-21,61.53
+867,Indoor Residual Spraying Campaign,2020-08-24,2019-06-15,61.15
+868,Malaria Testing and Treatment Program,2020-05-03,2019-10-13,90.08
+869,Malaria Awareness Campaign,2021-08-25,2022-02-14,90.83
+870,Malaria Awareness Campaign,2015-01-02,2023-07-11,92.86
+871,Indoor Residual Spraying Campaign,2022-10-23,2017-07-23,61.39
+872,Malaria Awareness Campaign,2021-09-24,2021-09-17,74.94
+873,Community Health Worker Training,2022-07-31,2018-09-18,70.7
+874,Community Health Worker Training,2016-10-14,2019-07-01,62.46
+875,Community Health Worker Training,2021-10-11,2022-10-10,68.09
+876,Malaria Testing and Treatment Program,2017-12-13,2021-04-09,81.69
+877,Malaria Awareness Campaign,2019-06-08,2015-05-13,88.1
+878,Malaria Testing and Treatment Program,2017-05-14,2022-03-08,76.43
+879,Indoor Residual Spraying Campaign,2021-06-09,2017-05-27,59.06
+880,Indoor Residual Spraying Campaign,2016-11-05,2015-04-07,70.98
+881,Malaria Awareness Campaign,2020-01-12,2023-08-18,58.88
+882,Indoor Residual Spraying Campaign,2019-02-27,2021-06-04,66.52
+883,Community Health Worker Training,2021-05-03,2016-10-09,76.02
+884,Indoor Residual Spraying Campaign,2019-03-13,2023-04-27,85.65
+885,Indoor Residual Spraying Campaign,2023-12-26,2015-09-30,71.87
+886,Malaria Awareness Campaign,2018-01-05,2020-07-08,75.62
+887,Malaria Awareness Campaign,2020-01-13,2021-07-02,53.07
+888,Indoor Residual Spraying Campaign,2019-07-25,2015-10-10,90.33
+889,Malaria Testing and Treatment Program,2020-03-26,2016-12-15,74.94
+890,Malaria Awareness Campaign,2020-07-04,2020-10-03,67.06
+891,Malaria Testing and Treatment Program,2022-01-31,2018-11-19,88.04
+892,Indoor Residual Spraying Campaign,2021-07-08,2020-08-21,73.85
+893,Community Health Worker Training,2018-06-26,2021-01-31,68.93
+894,Malaria Awareness Campaign,2017-08-08,2019-09-22,93.22
+895,Bed Net Distribution Program,2016-04-05,2015-07-21,58.59
+896,Malaria Awareness Campaign,2021-11-09,2017-09-10,90.16
+897,Malaria Testing and Treatment Program,2020-05-16,2019-08-31,79.93
+898,Malaria Awareness Campaign,2020-02-11,2020-01-03,88.56
+899,Community Health Worker Training,2018-11-25,2015-02-10,64.36
+900,Community Health Worker Training,2020-03-27,2023-03-08,93.33
+901,Malaria Awareness Campaign,2019-07-10,2015-06-08,56.39
+902,Bed Net Distribution Program,2020-10-03,2018-10-05,87.39
+903,Malaria Testing and Treatment Program,2018-02-12,2018-11-16,78.29
+904,Bed Net Distribution Program,2018-10-02,2019-08-26,71.98
+905,Community Health Worker Training,2015-08-10,2018-03-18,52.27
+906,Indoor Residual Spraying Campaign,2018-11-06,2017-12-08,67.09
+907,Malaria Awareness Campaign,2019-01-30,2019-07-18,85.0
+908,Indoor Residual Spraying Campaign,2015-09-28,2017-01-26,78.14
+909,Community Health Worker Training,2015-12-15,2017-10-29,64.11
+910,Community Health Worker Training,2019-08-17,2016-10-01,62.65
+911,Malaria Testing and Treatment Program,2022-10-13,2017-04-03,56.92
+912,Community Health Worker Training,2018-11-25,2015-01-13,62.4
+913,Community Health Worker Training,2015-09-05,2015-09-13,57.73
+914,Indoor Residual Spraying Campaign,2018-11-19,2015-01-14,75.01
+915,Community Health Worker Training,2021-11-30,2023-03-12,66.33
+916,Malaria Testing and Treatment Program,2017-10-31,2021-07-04,54.64
+917,Malaria Testing and Treatment Program,2021-02-15,2019-09-10,69.91
+918,Bed Net Distribution Program,2022-03-26,2023-09-19,93.42
+919,Bed Net Distribution Program,2016-07-15,2020-04-10,69.51
+920,Community Health Worker Training,2020-09-03,2017-02-17,62.48
+921,Malaria Testing and Treatment Program,2015-12-11,2019-02-04,66.59
+922,Bed Net Distribution Program,2019-11-05,2022-01-16,82.41
+923,Indoor Residual Spraying Campaign,2021-03-15,2017-04-27,53.13
+924,Bed Net Distribution Program,2020-12-20,2017-03-21,84.39
+925,Bed Net Distribution Program,2016-08-24,2022-12-15,82.98
+926,Bed Net Distribution Program,2018-09-30,2023-10-13,59.36
+927,Community Health Worker Training,2020-08-01,2022-12-23,91.04
+928,Community Health Worker Training,2018-06-14,2020-02-20,69.38
+929,Malaria Awareness Campaign,2017-07-03,2019-09-24,91.66
+930,Malaria Awareness Campaign,2021-09-22,2021-01-03,82.74
+931,Malaria Testing and Treatment Program,2021-06-18,2023-11-09,89.5
+932,Malaria Testing and Treatment Program,2019-12-19,2021-09-09,55.44
+933,Bed Net Distribution Program,2023-10-01,2023-06-09,68.26
+934,Bed Net Distribution Program,2018-04-08,2018-09-05,88.03
+935,Community Health Worker Training,2022-01-10,2019-07-27,87.0
+936,Indoor Residual Spraying Campaign,2016-12-02,2021-02-01,93.37
+937,Malaria Awareness Campaign,2015-06-16,2023-08-29,67.17
+938,Bed Net Distribution Program,2015-09-21,2020-06-02,51.08
+939,Indoor Residual Spraying Campaign,2019-04-13,2020-07-17,52.26
+940,Malaria Awareness Campaign,2017-10-28,2019-02-13,91.14
+941,Indoor Residual Spraying Campaign,2015-11-02,2015-09-01,74.1
+942,Bed Net Distribution Program,2018-06-24,2023-01-08,50.21
+943,Malaria Awareness Campaign,2017-02-02,2020-05-29,91.02
+944,Bed Net Distribution Program,2020-12-10,2015-04-23,72.79
+945,Community Health Worker Training,2017-11-11,2020-08-03,74.82
+946,Bed Net Distribution Program,2017-08-04,2017-04-27,94.79
+947,Bed Net Distribution Program,2018-04-08,2022-05-10,62.28
+948,Bed Net Distribution Program,2023-04-05,2015-10-02,53.56
+949,Indoor Residual Spraying Campaign,2018-01-13,2016-03-19,81.39
+950,Malaria Awareness Campaign,2017-09-25,2017-06-12,56.31
+951,Indoor Residual Spraying Campaign,2015-04-08,2021-06-06,55.63
+952,Community Health Worker Training,2018-04-18,2022-09-28,56.89
+953,Bed Net Distribution Program,2022-02-12,2021-05-23,82.45
+954,Malaria Testing and Treatment Program,2021-03-23,2020-03-13,54.24
+955,Malaria Testing and Treatment Program,2015-07-08,2018-03-12,84.51
+956,Bed Net Distribution Program,2016-01-24,2022-10-03,64.19
+957,Indoor Residual Spraying Campaign,2016-07-17,2020-10-20,74.6
+958,Malaria Awareness Campaign,2019-10-25,2018-12-16,88.02
+959,Bed Net Distribution Program,2023-09-07,2023-11-04,68.81
+960,Indoor Residual Spraying Campaign,2016-06-30,2016-01-11,85.56
+961,Community Health Worker Training,2015-07-04,2023-06-17,82.74
+962,Malaria Testing and Treatment Program,2018-09-02,2017-12-24,61.89
+963,Malaria Testing and Treatment Program,2018-04-24,2021-05-18,93.66
+964,Bed Net Distribution Program,2023-12-05,2019-01-14,86.73
+965,Bed Net Distribution Program,2015-03-30,2018-11-06,94.66
+966,Indoor Residual Spraying Campaign,2017-12-22,2015-06-21,50.29
+967,Community Health Worker Training,2021-01-31,2016-01-13,66.25
+968,Malaria Awareness Campaign,2015-02-16,2021-11-14,66.63
+969,Bed Net Distribution Program,2022-04-27,2018-09-01,66.23
+970,Bed Net Distribution Program,2020-11-17,2019-04-12,83.2
+971,Indoor Residual Spraying Campaign,2023-04-28,2018-10-23,89.26
+972,Malaria Testing and Treatment Program,2017-09-23,2016-09-28,78.56
+973,Malaria Testing and Treatment Program,2019-10-12,2015-12-18,76.74
+974,Community Health Worker Training,2018-06-19,2022-02-04,61.89
+975,Malaria Awareness Campaign,2023-11-19,2023-07-24,68.49
+976,Bed Net Distribution Program,2019-05-12,2017-10-31,57.66
+977,Malaria Testing and Treatment Program,2015-09-01,2016-01-15,85.31
+978,Bed Net Distribution Program,2021-02-05,2023-02-21,65.24
+979,Indoor Residual Spraying Campaign,2022-02-14,2016-07-30,67.38
+980,Community Health Worker Training,2017-04-04,2021-09-09,83.6
+981,Bed Net Distribution Program,2021-01-15,2015-05-06,64.54
+982,Community Health Worker Training,2019-03-18,2022-11-24,57.34
+983,Malaria Testing and Treatment Program,2023-02-26,2023-07-07,53.6
+984,Community Health Worker Training,2020-12-09,2015-07-23,93.99
+985,Community Health Worker Training,2016-11-11,2023-05-15,79.23
+986,Community Health Worker Training,2019-08-01,2021-07-13,76.88
+987,Bed Net Distribution Program,2021-10-25,2019-05-26,82.61
+988,Malaria Testing and Treatment Program,2016-11-06,2018-05-09,92.72
+989,Bed Net Distribution Program,2020-07-17,2021-02-12,79.31
+990,Bed Net Distribution Program,2019-04-05,2018-04-07,58.33
+991,Indoor Residual Spraying Campaign,2020-12-20,2018-11-18,62.68
+992,Malaria Testing and Treatment Program,2020-11-17,2017-08-03,83.83
+993,Indoor Residual Spraying Campaign,2015-08-02,2015-05-20,54.56
+994,Community Health Worker Training,2019-08-12,2016-07-28,92.63
+995,Malaria Testing and Treatment Program,2023-08-02,2021-07-13,85.08
+996,Community Health Worker Training,2020-06-11,2018-04-03,71.91
+997,Malaria Testing and Treatment Program,2023-04-10,2019-07-24,60.32
+998,Community Health Worker Training,2017-12-30,2022-02-28,79.78
+999,Malaria Awareness Campaign,2017-08-23,2016-08-16,74.67
+1000,Bed Net Distribution Program,2015-12-06,2020-03-10,89.37
+1001,Indoor Residual Spraying Campaign,2018-05-06,2021-05-24,86.15
+1002,Malaria Testing and Treatment Program,2018-01-28,2023-11-20,61.1
+1003,Indoor Residual Spraying Campaign,2018-02-03,2017-03-03,86.46
+1004,Community Health Worker Training,2019-03-27,2020-03-17,72.87
+1005,Bed Net Distribution Program,2022-09-19,2023-09-23,55.62
+1006,Malaria Testing and Treatment Program,2018-07-29,2019-03-20,94.26
+1007,Community Health Worker Training,2016-05-30,2016-11-12,60.93
+1008,Indoor Residual Spraying Campaign,2021-01-31,2016-08-14,59.55
+1009,Indoor Residual Spraying Campaign,2019-02-04,2021-10-08,73.15
+1010,Indoor Residual Spraying Campaign,2022-07-15,2015-05-23,62.14
+1011,Indoor Residual Spraying Campaign,2020-07-17,2021-09-25,79.8
+1012,Malaria Awareness Campaign,2017-02-15,2023-10-26,53.39
+1013,Malaria Testing and Treatment Program,2020-09-29,2019-09-02,69.66
+1014,Indoor Residual Spraying Campaign,2016-09-16,2022-05-23,64.28
+1015,Malaria Awareness Campaign,2016-01-01,2017-01-15,93.53
+1016,Bed Net Distribution Program,2016-06-28,2022-09-14,75.19
+1017,Malaria Awareness Campaign,2017-08-18,2017-09-05,65.76
+1018,Malaria Testing and Treatment Program,2016-09-11,2021-09-29,83.56
+1019,Malaria Awareness Campaign,2017-03-11,2023-07-03,90.71
+1020,Community Health Worker Training,2015-02-22,2023-02-20,50.15
+1021,Community Health Worker Training,2017-01-17,2021-01-01,83.92
+1022,Community Health Worker Training,2018-03-27,2015-02-14,91.67
+1023,Community Health Worker Training,2019-12-19,2023-08-28,67.14
+1024,Bed Net Distribution Program,2021-07-23,2019-11-14,92.89
+1025,Indoor Residual Spraying Campaign,2017-06-29,2017-03-09,91.9
+1026,Indoor Residual Spraying Campaign,2022-11-18,2019-04-16,92.79
+1027,Malaria Testing and Treatment Program,2022-07-29,2023-06-01,89.22
+1028,Malaria Testing and Treatment Program,2021-11-07,2017-02-27,59.53
+1029,Indoor Residual Spraying Campaign,2019-11-15,2022-04-13,83.17
+1030,Malaria Testing and Treatment Program,2019-01-28,2019-10-24,70.09
+1031,Community Health Worker Training,2017-06-14,2019-05-13,56.0
+1032,Malaria Testing and Treatment Program,2020-03-23,2022-06-14,77.17
+1033,Malaria Awareness Campaign,2019-07-09,2022-06-27,73.6
+1034,Community Health Worker Training,2023-11-10,2023-09-08,87.15
+1035,Community Health Worker Training,2018-10-25,2018-02-17,68.69
+1036,Malaria Awareness Campaign,2016-08-07,2023-10-06,69.35
+1037,Bed Net Distribution Program,2015-09-12,2015-01-26,68.37
+1038,Community Health Worker Training,2015-04-07,2018-07-23,73.56
+1039,Malaria Testing and Treatment Program,2018-06-16,2018-12-17,93.09
+1040,Bed Net Distribution Program,2018-07-24,2021-06-15,64.35
+1041,Malaria Awareness Campaign,2016-09-14,2016-01-05,79.16
+1042,Bed Net Distribution Program,2018-12-22,2020-06-28,94.74
+1043,Malaria Testing and Treatment Program,2022-05-12,2017-08-09,70.95
+1044,Bed Net Distribution Program,2022-03-14,2016-11-15,68.46
+1045,Community Health Worker Training,2022-06-08,2018-09-26,86.96
+1046,Malaria Testing and Treatment Program,2020-03-22,2023-06-21,86.8
+1047,Malaria Testing and Treatment Program,2021-08-19,2015-08-01,81.13
+1048,Malaria Awareness Campaign,2023-06-14,2018-05-07,62.06
+1049,Malaria Awareness Campaign,2021-08-27,2023-06-13,90.24
+1050,Bed Net Distribution Program,2022-02-21,2015-07-21,74.85
+1051,Bed Net Distribution Program,2018-08-05,2017-10-16,84.1
+1052,Malaria Testing and Treatment Program,2018-06-04,2017-11-17,74.51
+1053,Indoor Residual Spraying Campaign,2016-05-07,2017-12-23,82.21
+1054,Malaria Testing and Treatment Program,2020-04-02,2022-07-08,78.52
+1055,Community Health Worker Training,2019-03-30,2021-07-26,83.18
+1056,Malaria Testing and Treatment Program,2021-09-06,2020-08-26,91.91
+1057,Indoor Residual Spraying Campaign,2020-11-21,2023-12-10,83.89
+1058,Indoor Residual Spraying Campaign,2015-03-21,2020-11-17,90.52
+1059,Bed Net Distribution Program,2022-11-02,2017-04-28,58.44
+1060,Bed Net Distribution Program,2017-09-20,2016-02-22,63.53
+1061,Malaria Awareness Campaign,2020-12-09,2018-09-23,51.33
+1062,Malaria Awareness Campaign,2016-01-11,2015-01-27,76.23
+1063,Community Health Worker Training,2018-08-25,2023-12-09,77.15
+1064,Community Health Worker Training,2021-06-24,2019-03-07,65.73
+1065,Bed Net Distribution Program,2021-06-10,2018-12-30,57.11
+1066,Malaria Testing and Treatment Program,2021-05-23,2020-06-25,60.54
+1067,Bed Net Distribution Program,2023-12-12,2019-01-14,74.78
+1068,Indoor Residual Spraying Campaign,2017-07-29,2019-10-10,50.77
+1069,Malaria Testing and Treatment Program,2017-09-13,2017-02-03,65.67
+1070,Indoor Residual Spraying Campaign,2017-09-19,2021-10-19,77.8
+1071,Malaria Awareness Campaign,2022-06-21,2017-07-11,83.07
+1072,Indoor Residual Spraying Campaign,2017-06-04,2016-10-06,76.47
+1073,Community Health Worker Training,2019-06-20,2019-07-06,63.27
+1074,Malaria Awareness Campaign,2020-01-04,2022-12-31,50.15
+1075,Bed Net Distribution Program,2019-09-10,2016-08-13,64.26
+1076,Indoor Residual Spraying Campaign,2022-06-28,2022-06-11,84.03
+1077,Malaria Testing and Treatment Program,2017-09-28,2023-06-26,70.37
+1078,Malaria Awareness Campaign,2021-11-20,2021-11-07,83.4
+1079,Malaria Awareness Campaign,2018-09-09,2023-09-22,80.07
+1080,Community Health Worker Training,2021-10-03,2018-12-25,70.77
+1081,Malaria Testing and Treatment Program,2019-10-06,2016-08-08,77.12
+1082,Malaria Awareness Campaign,2017-05-25,2020-08-05,63.39
+1083,Community Health Worker Training,2015-10-30,2021-12-20,59.4
+1084,Indoor Residual Spraying Campaign,2016-07-19,2015-11-26,67.12
+1085,Indoor Residual Spraying Campaign,2018-12-26,2017-10-12,52.64
+1086,Malaria Awareness Campaign,2020-10-27,2021-07-22,60.3
+1087,Malaria Testing and Treatment Program,2017-06-22,2019-03-04,72.6
+1088,Bed Net Distribution Program,2017-03-19,2022-06-17,50.77
+1089,Malaria Awareness Campaign,2015-05-29,2018-06-18,90.85
+1090,Community Health Worker Training,2022-08-24,2018-08-24,80.56
+1091,Community Health Worker Training,2016-01-26,2022-07-28,80.22
+1092,Malaria Testing and Treatment Program,2019-03-07,2020-09-11,62.23
+1093,Bed Net Distribution Program,2015-05-24,2023-09-08,82.41
+1094,Bed Net Distribution Program,2020-03-19,2017-01-22,66.8
+1095,Bed Net Distribution Program,2016-07-08,2015-02-15,77.17
+1096,Indoor Residual Spraying Campaign,2020-10-02,2015-02-02,91.46
+1097,Community Health Worker Training,2020-03-07,2023-05-17,54.0
+1098,Community Health Worker Training,2021-11-24,2017-05-05,93.48
+1099,Malaria Awareness Campaign,2015-06-22,2016-04-03,89.37
+1100,Malaria Testing and Treatment Program,2017-04-27,2019-05-12,88.13
+1101,Bed Net Distribution Program,2019-12-10,2020-10-28,71.59
+1102,Malaria Testing and Treatment Program,2020-05-17,2022-12-26,53.24
+1103,Indoor Residual Spraying Campaign,2019-11-17,2015-09-21,94.34
+1104,Malaria Testing and Treatment Program,2015-01-08,2020-01-12,70.43
+1105,Community Health Worker Training,2019-01-08,2015-04-09,80.76
+1106,Bed Net Distribution Program,2022-11-18,2021-11-23,62.53
+1107,Malaria Testing and Treatment Program,2020-05-31,2019-06-06,89.57
+1108,Malaria Awareness Campaign,2015-09-30,2022-04-03,59.23
+1109,Bed Net Distribution Program,2018-10-05,2018-11-16,80.66
+1110,Bed Net Distribution Program,2016-07-17,2016-07-31,92.16
+1111,Malaria Awareness Campaign,2019-10-10,2017-12-08,60.54
+1112,Indoor Residual Spraying Campaign,2015-08-08,2015-07-12,68.09
+1113,Malaria Testing and Treatment Program,2022-04-23,2022-03-29,52.2
+1114,Bed Net Distribution Program,2021-06-07,2021-10-31,74.75
+1115,Malaria Awareness Campaign,2023-11-04,2021-09-07,81.77
+1116,Community Health Worker Training,2022-05-19,2017-03-05,92.54
+1117,Malaria Testing and Treatment Program,2020-05-26,2020-09-05,81.66
+1118,Malaria Awareness Campaign,2015-08-11,2015-10-09,61.06
+1119,Malaria Awareness Campaign,2019-03-01,2021-05-23,50.35
+1120,Malaria Testing and Treatment Program,2021-02-02,2023-12-11,61.85
+1121,Indoor Residual Spraying Campaign,2020-10-14,2018-04-25,69.56
+1122,Malaria Awareness Campaign,2016-12-12,2019-11-30,57.26
+1123,Malaria Awareness Campaign,2020-07-28,2023-05-02,74.96
+1124,Community Health Worker Training,2016-05-05,2021-10-14,64.34
+1125,Malaria Awareness Campaign,2020-11-07,2019-04-05,92.75
+1126,Community Health Worker Training,2021-03-05,2021-01-13,75.65
+1127,Bed Net Distribution Program,2016-08-19,2017-03-25,53.02
+1128,Malaria Testing and Treatment Program,2018-11-06,2015-12-05,90.34
+1129,Malaria Testing and Treatment Program,2016-07-28,2022-05-31,75.9
+1130,Community Health Worker Training,2022-06-22,2018-05-23,58.92
+1131,Bed Net Distribution Program,2021-01-18,2017-03-26,65.86
+1132,Malaria Awareness Campaign,2015-09-10,2017-11-12,76.77
+1133,Malaria Testing and Treatment Program,2022-06-30,2015-11-23,82.08
+1134,Malaria Awareness Campaign,2015-05-02,2017-05-23,60.78
+1135,Indoor Residual Spraying Campaign,2016-06-27,2015-03-28,89.6
+1136,Community Health Worker Training,2022-02-26,2020-04-16,94.43
+1137,Indoor Residual Spraying Campaign,2020-02-01,2018-02-13,89.61
+1138,Community Health Worker Training,2017-05-19,2021-07-06,88.92
+1139,Community Health Worker Training,2022-08-20,2023-01-28,81.18
+1140,Community Health Worker Training,2019-04-22,2016-07-14,56.53
+1141,Malaria Testing and Treatment Program,2018-11-08,2018-04-10,84.64
+1142,Malaria Awareness Campaign,2016-05-14,2016-05-29,86.47
+1143,Indoor Residual Spraying Campaign,2020-01-21,2021-01-24,90.18
+1144,Indoor Residual Spraying Campaign,2020-10-05,2015-01-26,60.77
+1145,Malaria Awareness Campaign,2020-04-10,2022-12-20,59.91
+1146,Bed Net Distribution Program,2023-10-10,2015-01-21,84.65
+1147,Malaria Testing and Treatment Program,2019-03-18,2015-04-30,65.31
+1148,Malaria Awareness Campaign,2016-07-16,2015-05-01,80.91
+1149,Malaria Testing and Treatment Program,2023-08-02,2020-10-13,84.82
+1150,Bed Net Distribution Program,2022-07-07,2022-12-20,87.7
+1151,Malaria Awareness Campaign,2021-10-24,2023-10-27,54.47
+1152,Malaria Awareness Campaign,2023-02-26,2018-10-25,91.59
+1153,Bed Net Distribution Program,2019-05-02,2018-09-28,51.75
+1154,Community Health Worker Training,2015-11-07,2020-01-23,53.35
+1155,Indoor Residual Spraying Campaign,2017-08-21,2017-09-30,62.56
+1156,Malaria Awareness Campaign,2018-04-08,2017-09-30,63.13
+1157,Bed Net Distribution Program,2016-05-24,2016-04-12,59.08
+1158,Community Health Worker Training,2023-06-14,2018-02-21,92.78
+1159,Malaria Testing and Treatment Program,2016-03-21,2018-09-19,50.6
+1160,Indoor Residual Spraying Campaign,2020-02-15,2021-07-19,92.6
+1161,Malaria Awareness Campaign,2019-11-27,2021-03-28,66.67
+1162,Bed Net Distribution Program,2019-03-28,2016-02-07,75.24
+1163,Bed Net Distribution Program,2015-06-12,2018-12-07,56.72
+1164,Malaria Testing and Treatment Program,2015-05-12,2023-06-28,85.5
+1165,Malaria Awareness Campaign,2016-08-24,2016-07-05,78.84
+1166,Community Health Worker Training,2022-11-29,2015-10-18,81.78
+1167,Malaria Awareness Campaign,2022-02-04,2018-04-26,82.78
+1168,Bed Net Distribution Program,2020-11-15,2019-12-01,74.62
+1169,Bed Net Distribution Program,2021-12-06,2017-05-11,91.0
+1170,Malaria Testing and Treatment Program,2019-10-26,2023-12-16,59.74
+1171,Malaria Awareness Campaign,2020-07-30,2017-12-31,75.95
+1172,Community Health Worker Training,2017-04-23,2016-11-18,53.49
+1173,Community Health Worker Training,2016-03-26,2022-06-11,76.44
+1174,Bed Net Distribution Program,2016-03-09,2020-07-26,72.84
+1175,Bed Net Distribution Program,2022-07-05,2017-01-20,86.56
+1176,Indoor Residual Spraying Campaign,2017-09-16,2020-09-29,57.8
+1177,Indoor Residual Spraying Campaign,2023-11-28,2017-04-20,51.67
+1178,Malaria Awareness Campaign,2020-09-17,2015-12-13,68.55
+1179,Bed Net Distribution Program,2018-08-24,2016-01-04,62.21
+1180,Malaria Testing and Treatment Program,2018-10-30,2022-05-28,63.88
+1181,Community Health Worker Training,2015-10-03,2022-04-11,70.93
+1182,Indoor Residual Spraying Campaign,2022-05-17,2020-03-05,91.93
+1183,Malaria Testing and Treatment Program,2018-10-30,2015-06-22,54.82
+1184,Malaria Testing and Treatment Program,2015-01-04,2019-11-15,50.32
+1185,Community Health Worker Training,2015-10-13,2016-08-04,50.42
+1186,Malaria Testing and Treatment Program,2021-04-30,2019-09-01,74.98
+1187,Bed Net Distribution Program,2023-01-09,2023-03-04,60.81
+1188,Malaria Awareness Campaign,2016-09-29,2015-11-01,75.04
+1189,Indoor Residual Spraying Campaign,2017-12-01,2016-04-24,63.65
+1190,Bed Net Distribution Program,2016-11-28,2018-11-06,66.23
+1191,Malaria Awareness Campaign,2023-08-08,2022-03-12,74.96
+1192,Malaria Testing and Treatment Program,2019-01-07,2020-09-28,82.97
+1193,Malaria Awareness Campaign,2021-01-03,2023-12-28,68.85
+1194,Bed Net Distribution Program,2019-07-19,2023-08-13,92.49
+1195,Community Health Worker Training,2023-06-06,2016-12-02,73.6
+1196,Indoor Residual Spraying Campaign,2017-11-05,2015-12-14,94.21
+1197,Indoor Residual Spraying Campaign,2023-10-24,2017-03-27,72.25
+1198,Bed Net Distribution Program,2020-03-18,2019-05-21,78.59
+1199,Indoor Residual Spraying Campaign,2022-09-04,2023-09-29,85.31
+1200,Malaria Awareness Campaign,2021-09-16,2015-08-12,85.39
+1201,Bed Net Distribution Program,2020-03-25,2019-12-19,88.53
+1202,Malaria Testing and Treatment Program,2015-09-30,2022-07-26,64.65
+1203,Bed Net Distribution Program,2023-05-17,2017-12-05,76.55
+1204,Community Health Worker Training,2015-06-01,2021-09-24,91.45
+1205,Indoor Residual Spraying Campaign,2022-03-28,2021-01-11,86.19
+1206,Malaria Testing and Treatment Program,2020-01-21,2021-11-29,82.65
+1207,Community Health Worker Training,2019-02-21,2019-04-17,66.79
+1208,Bed Net Distribution Program,2018-12-31,2019-12-24,88.19
+1209,Malaria Testing and Treatment Program,2018-04-10,2019-04-09,80.26
+1210,Malaria Testing and Treatment Program,2017-03-29,2015-10-11,88.65
+1211,Malaria Awareness Campaign,2021-02-16,2021-02-16,66.26
+1212,Malaria Testing and Treatment Program,2021-05-18,2015-12-22,63.5
+1213,Bed Net Distribution Program,2021-03-16,2020-03-04,82.79
+1214,Indoor Residual Spraying Campaign,2023-05-24,2016-09-01,77.77
+1215,Community Health Worker Training,2016-12-09,2018-01-18,50.69
+1216,Malaria Awareness Campaign,2018-11-04,2020-06-03,82.2
+1217,Malaria Awareness Campaign,2015-09-19,2023-08-15,58.91
+1218,Malaria Awareness Campaign,2023-08-20,2019-11-22,75.71
+1219,Bed Net Distribution Program,2021-04-03,2020-05-29,75.62
+1220,Malaria Awareness Campaign,2016-02-14,2015-08-21,61.35
+1221,Bed Net Distribution Program,2017-12-20,2020-03-08,75.88
+1222,Bed Net Distribution Program,2021-09-05,2022-03-02,91.9
+1223,Bed Net Distribution Program,2016-07-07,2021-01-27,90.67
+1224,Community Health Worker Training,2022-10-25,2022-12-28,88.01
+1225,Indoor Residual Spraying Campaign,2021-04-12,2016-04-06,92.1
+1226,Indoor Residual Spraying Campaign,2016-09-09,2018-10-17,81.74
+1227,Indoor Residual Spraying Campaign,2023-11-07,2023-08-08,54.43
+1228,Malaria Awareness Campaign,2020-11-29,2021-02-28,90.02
+1229,Community Health Worker Training,2023-11-13,2023-02-27,89.03
+1230,Indoor Residual Spraying Campaign,2023-05-13,2019-04-17,73.29
+1231,Bed Net Distribution Program,2019-12-14,2022-08-12,70.43
+1232,Malaria Testing and Treatment Program,2023-11-02,2023-02-22,57.72
+1233,Bed Net Distribution Program,2017-01-25,2020-04-11,80.07
+1234,Indoor Residual Spraying Campaign,2020-10-03,2017-02-05,64.82
+1235,Malaria Testing and Treatment Program,2022-02-01,2022-02-01,87.89
+1236,Bed Net Distribution Program,2016-01-23,2015-11-27,68.43
+1237,Indoor Residual Spraying Campaign,2022-12-17,2018-12-07,87.62
+1238,Indoor Residual Spraying Campaign,2020-08-30,2015-09-12,58.98
+1239,Community Health Worker Training,2016-04-27,2021-12-14,60.39
+1240,Malaria Testing and Treatment Program,2023-10-24,2015-02-04,73.07
+1241,Malaria Awareness Campaign,2022-06-15,2023-03-06,63.41
+1242,Indoor Residual Spraying Campaign,2017-01-18,2018-07-16,61.31
+1243,Community Health Worker Training,2015-02-04,2015-09-28,93.21
+1244,Community Health Worker Training,2022-07-15,2016-07-25,92.26
+1245,Malaria Testing and Treatment Program,2023-08-25,2020-10-05,60.22
+1246,Bed Net Distribution Program,2019-05-20,2019-10-01,82.83
+1247,Community Health Worker Training,2021-04-23,2022-04-23,50.13
+1248,Indoor Residual Spraying Campaign,2018-06-03,2017-09-20,73.87
+1249,Indoor Residual Spraying Campaign,2017-08-06,2015-12-19,84.93
+1250,Bed Net Distribution Program,2017-12-10,2019-05-06,68.7
+1251,Bed Net Distribution Program,2021-05-14,2016-01-21,52.52
+1252,Community Health Worker Training,2015-02-15,2021-12-16,62.0
+1253,Community Health Worker Training,2020-11-03,2019-01-14,90.95
+1254,Indoor Residual Spraying Campaign,2018-08-04,2020-03-20,54.49
+1255,Bed Net Distribution Program,2021-06-21,2018-11-28,93.57
+1256,Malaria Awareness Campaign,2020-07-01,2017-04-09,85.26
+1257,Malaria Testing and Treatment Program,2020-01-07,2017-12-13,77.74
+1258,Bed Net Distribution Program,2016-05-12,2023-04-28,77.81
+1259,Bed Net Distribution Program,2018-04-02,2019-06-27,85.85
+1260,Indoor Residual Spraying Campaign,2017-01-02,2021-04-07,90.18
+1261,Bed Net Distribution Program,2017-07-10,2018-04-22,93.4
+1262,Community Health Worker Training,2022-06-17,2015-04-03,73.15
+1263,Malaria Testing and Treatment Program,2015-12-20,2022-06-15,53.17
+1264,Community Health Worker Training,2016-05-26,2017-11-20,58.71
+1265,Community Health Worker Training,2021-07-13,2020-02-27,52.68
+1266,Indoor Residual Spraying Campaign,2019-08-06,2020-02-20,79.21
+1267,Malaria Awareness Campaign,2015-06-15,2018-03-16,70.35
+1268,Malaria Awareness Campaign,2016-11-14,2023-07-28,84.29
+1269,Indoor Residual Spraying Campaign,2015-02-26,2017-12-24,88.64
+1270,Malaria Testing and Treatment Program,2022-01-01,2021-05-21,55.91
+1271,Malaria Testing and Treatment Program,2023-05-08,2015-06-28,66.53
+1272,Bed Net Distribution Program,2021-07-06,2016-02-08,75.54
+1273,Malaria Testing and Treatment Program,2020-05-12,2016-06-24,91.3
+1274,Indoor Residual Spraying Campaign,2022-05-15,2016-02-09,66.96
+1275,Community Health Worker Training,2020-11-30,2018-12-25,85.01
+1276,Malaria Awareness Campaign,2015-02-25,2020-12-12,86.2
+1277,Malaria Testing and Treatment Program,2022-05-02,2023-07-05,51.5
+1278,Community Health Worker Training,2021-08-24,2021-04-05,75.58
+1279,Bed Net Distribution Program,2019-01-05,2020-06-24,53.49
+1280,Malaria Testing and Treatment Program,2023-09-13,2023-08-30,71.9
+1281,Community Health Worker Training,2018-12-11,2015-08-19,74.58
+1282,Bed Net Distribution Program,2019-04-22,2023-10-11,82.4
+1283,Community Health Worker Training,2020-11-06,2015-09-29,67.02
+1284,Malaria Testing and Treatment Program,2020-06-10,2020-10-01,63.68
+1285,Indoor Residual Spraying Campaign,2017-08-07,2020-07-29,91.56
+1286,Indoor Residual Spraying Campaign,2022-07-27,2023-04-12,79.4
+1287,Malaria Testing and Treatment Program,2019-07-19,2016-05-17,50.33
+1288,Bed Net Distribution Program,2018-07-06,2016-03-07,58.68
+1289,Bed Net Distribution Program,2018-04-12,2021-06-18,74.47
+1290,Bed Net Distribution Program,2020-07-20,2017-04-29,51.07
+1291,Bed Net Distribution Program,2018-06-30,2020-10-16,69.41
+1292,Community Health Worker Training,2018-03-23,2021-04-07,94.94
+1293,Community Health Worker Training,2018-04-06,2022-02-09,69.48
+1294,Community Health Worker Training,2019-03-17,2022-05-10,75.84
+1295,Indoor Residual Spraying Campaign,2021-09-22,2020-12-30,82.15
+1296,Indoor Residual Spraying Campaign,2020-03-25,2020-08-03,63.39
+1297,Indoor Residual Spraying Campaign,2023-10-01,2020-03-19,52.88
+1298,Bed Net Distribution Program,2022-11-11,2017-04-07,79.6
+1299,Bed Net Distribution Program,2020-06-02,2016-05-14,69.67
+1300,Malaria Awareness Campaign,2017-10-09,2017-03-01,66.79
+1301,Bed Net Distribution Program,2021-09-22,2018-12-26,54.45
+1302,Community Health Worker Training,2018-03-23,2016-09-04,86.82
+1303,Malaria Awareness Campaign,2016-06-17,2018-04-29,90.55
+1304,Malaria Awareness Campaign,2019-11-11,2021-10-04,89.9
+1305,Indoor Residual Spraying Campaign,2022-07-03,2021-11-14,94.36
+1306,Indoor Residual Spraying Campaign,2016-02-29,2023-06-02,61.05
+1307,Malaria Awareness Campaign,2023-07-25,2021-09-16,87.9
+1308,Bed Net Distribution Program,2021-06-02,2018-12-13,58.84
+1309,Bed Net Distribution Program,2021-08-29,2022-10-10,93.62
+1310,Community Health Worker Training,2021-11-29,2019-11-21,64.47
+1311,Malaria Testing and Treatment Program,2018-03-17,2019-07-17,55.67
+1312,Indoor Residual Spraying Campaign,2020-08-11,2022-07-22,57.57
+1313,Malaria Testing and Treatment Program,2018-10-11,2023-08-13,77.97
+1314,Community Health Worker Training,2016-08-11,2021-06-17,57.77
+1315,Bed Net Distribution Program,2023-03-18,2021-12-03,77.45
+1316,Malaria Awareness Campaign,2022-11-14,2023-10-29,52.15
+1317,Community Health Worker Training,2021-12-29,2022-11-14,77.94
+1318,Indoor Residual Spraying Campaign,2016-11-28,2015-06-16,77.68
+1319,Malaria Testing and Treatment Program,2023-01-03,2020-06-13,82.82
+1320,Malaria Awareness Campaign,2016-02-24,2015-09-19,85.75
+1321,Community Health Worker Training,2016-09-06,2022-01-17,68.97
+1322,Indoor Residual Spraying Campaign,2015-12-25,2017-09-26,85.4
+1323,Bed Net Distribution Program,2017-09-17,2017-05-12,62.69
+1324,Malaria Testing and Treatment Program,2019-09-07,2016-09-24,91.79
+1325,Indoor Residual Spraying Campaign,2023-08-21,2020-12-22,56.44
+1326,Indoor Residual Spraying Campaign,2015-11-27,2022-12-09,71.13
+1327,Malaria Testing and Treatment Program,2023-03-30,2017-12-04,66.02
+1328,Community Health Worker Training,2016-07-11,2015-10-18,82.0
+1329,Malaria Awareness Campaign,2023-01-16,2015-03-23,54.77
+1330,Malaria Awareness Campaign,2021-06-19,2022-11-19,81.97
+1331,Malaria Testing and Treatment Program,2021-01-10,2017-10-04,50.49
+1332,Bed Net Distribution Program,2023-06-01,2022-08-24,74.49
+1333,Community Health Worker Training,2022-05-01,2017-07-05,50.24
+1334,Malaria Awareness Campaign,2021-10-22,2022-08-08,55.26
+1335,Community Health Worker Training,2016-03-05,2016-07-23,72.64
+1336,Malaria Testing and Treatment Program,2018-05-16,2018-06-06,52.61
+1337,Bed Net Distribution Program,2019-11-10,2015-07-30,94.13
+1338,Bed Net Distribution Program,2015-02-15,2022-04-01,63.83
+1339,Indoor Residual Spraying Campaign,2018-11-25,2017-02-05,66.94
+1340,Malaria Awareness Campaign,2023-06-07,2016-07-09,87.66
+1341,Indoor Residual Spraying Campaign,2022-10-07,2020-01-18,78.5
+1342,Community Health Worker Training,2018-06-23,2015-06-26,59.89
+1343,Bed Net Distribution Program,2016-07-17,2021-11-08,89.41
+1344,Malaria Testing and Treatment Program,2017-05-28,2017-08-06,67.21
+1345,Indoor Residual Spraying Campaign,2020-12-11,2016-12-14,71.73
+1346,Bed Net Distribution Program,2022-01-22,2017-11-04,68.94
+1347,Community Health Worker Training,2017-10-23,2016-04-17,52.97
+1348,Malaria Awareness Campaign,2016-06-24,2018-03-31,58.84
+1349,Bed Net Distribution Program,2023-06-06,2023-02-26,88.91
+1350,Bed Net Distribution Program,2017-04-04,2020-03-14,82.2
+1351,Malaria Testing and Treatment Program,2021-09-08,2021-06-09,90.37
+1352,Malaria Awareness Campaign,2019-09-16,2017-11-01,91.67
+1353,Indoor Residual Spraying Campaign,2018-06-23,2016-07-25,84.64
+1354,Community Health Worker Training,2017-08-23,2021-05-09,86.1
+1355,Malaria Testing and Treatment Program,2019-03-02,2019-10-22,66.35
+1356,Malaria Awareness Campaign,2021-03-10,2022-06-19,89.23
+1357,Malaria Testing and Treatment Program,2022-02-09,2019-09-01,60.58
+1358,Malaria Awareness Campaign,2018-04-28,2015-11-22,72.36
+1359,Malaria Awareness Campaign,2023-09-14,2021-11-28,89.27
+1360,Malaria Testing and Treatment Program,2023-08-29,2017-07-28,71.5
+1361,Indoor Residual Spraying Campaign,2020-01-09,2022-01-16,83.41
+1362,Malaria Testing and Treatment Program,2022-08-24,2015-06-12,85.93
+1363,Indoor Residual Spraying Campaign,2016-01-13,2016-02-06,72.34
+1364,Community Health Worker Training,2021-08-22,2023-04-24,60.74
+1365,Indoor Residual Spraying Campaign,2019-01-05,2023-10-27,69.79
+1366,Malaria Awareness Campaign,2019-08-10,2016-05-14,88.6
+1367,Malaria Testing and Treatment Program,2019-05-03,2021-05-19,70.25
+1368,Malaria Testing and Treatment Program,2022-05-17,2018-08-04,50.54
+1369,Malaria Awareness Campaign,2022-06-06,2020-02-13,57.72
+1370,Malaria Testing and Treatment Program,2021-08-26,2019-08-26,70.63
+1371,Malaria Awareness Campaign,2019-09-02,2019-06-24,57.28
+1372,Community Health Worker Training,2019-09-26,2022-07-17,78.3
+1373,Malaria Testing and Treatment Program,2018-05-24,2022-09-01,86.95
+1374,Community Health Worker Training,2021-04-20,2020-11-10,92.64
+1375,Malaria Awareness Campaign,2021-05-24,2023-06-25,94.12
+1376,Malaria Testing and Treatment Program,2023-03-25,2018-04-23,88.28
+1377,Bed Net Distribution Program,2018-06-01,2020-12-22,59.98
+1378,Malaria Awareness Campaign,2021-06-28,2018-11-24,79.66
+1379,Indoor Residual Spraying Campaign,2022-08-22,2023-10-24,57.28
+1380,Community Health Worker Training,2021-08-26,2018-10-15,69.15
+1381,Bed Net Distribution Program,2022-01-13,2019-05-27,63.97
+1382,Indoor Residual Spraying Campaign,2015-08-24,2020-05-22,81.25
+1383,Bed Net Distribution Program,2021-11-29,2017-11-20,94.65
+1384,Indoor Residual Spraying Campaign,2018-11-20,2018-01-30,87.78
+1385,Indoor Residual Spraying Campaign,2015-02-04,2021-12-02,76.13
+1386,Bed Net Distribution Program,2017-09-28,2016-11-29,61.1
+1387,Community Health Worker Training,2019-12-29,2016-08-12,71.3
+1388,Malaria Testing and Treatment Program,2020-08-29,2021-01-19,89.29
+1389,Indoor Residual Spraying Campaign,2019-02-24,2022-07-11,57.56
+1390,Bed Net Distribution Program,2018-11-18,2019-08-29,59.7
+1391,Community Health Worker Training,2021-05-26,2017-05-19,85.14
+1392,Malaria Awareness Campaign,2015-04-23,2022-04-22,83.07
+1393,Community Health Worker Training,2015-01-28,2016-12-23,77.18
+1394,Indoor Residual Spraying Campaign,2020-04-09,2020-12-22,70.9
+1395,Indoor Residual Spraying Campaign,2020-10-12,2017-01-31,84.06
+1396,Indoor Residual Spraying Campaign,2015-08-13,2022-10-18,59.0
+1397,Bed Net Distribution Program,2023-11-26,2016-01-24,85.49
+1398,Indoor Residual Spraying Campaign,2018-03-09,2018-12-08,55.58
+1399,Malaria Testing and Treatment Program,2017-10-25,2017-12-27,55.43
+1400,Indoor Residual Spraying Campaign,2015-09-21,2019-11-10,82.23
+1401,Indoor Residual Spraying Campaign,2021-08-24,2019-01-28,79.41
+1402,Malaria Awareness Campaign,2015-11-14,2021-03-11,58.81
+1403,Indoor Residual Spraying Campaign,2022-06-02,2020-06-18,79.73
+1404,Malaria Testing and Treatment Program,2016-01-06,2016-04-09,73.27
+1405,Malaria Testing and Treatment Program,2015-01-01,2016-03-23,63.93
+1406,Indoor Residual Spraying Campaign,2020-10-30,2023-06-06,55.57
+1407,Indoor Residual Spraying Campaign,2020-10-13,2018-07-23,72.88
+1408,Malaria Testing and Treatment Program,2023-09-15,2016-05-13,67.13
+1409,Malaria Testing and Treatment Program,2018-11-07,2021-08-30,94.12
+1410,Malaria Awareness Campaign,2017-11-04,2020-07-15,85.81
+1411,Community Health Worker Training,2018-12-07,2016-08-20,85.65
+1412,Malaria Awareness Campaign,2019-06-05,2015-12-16,84.23
+1413,Bed Net Distribution Program,2021-06-02,2023-10-26,91.06
+1414,Indoor Residual Spraying Campaign,2022-05-07,2023-10-20,76.48
+1415,Malaria Awareness Campaign,2016-11-24,2019-08-21,87.35
+1416,Bed Net Distribution Program,2016-06-03,2018-08-14,80.42
+1417,Malaria Testing and Treatment Program,2022-06-21,2023-09-28,58.41
+1418,Bed Net Distribution Program,2023-02-18,2015-07-01,54.43
+1419,Bed Net Distribution Program,2015-03-28,2018-03-30,94.5
+1420,Community Health Worker Training,2022-03-19,2017-05-04,83.8
+1421,Malaria Awareness Campaign,2021-01-28,2015-10-31,94.5
+1422,Indoor Residual Spraying Campaign,2022-04-01,2017-01-31,90.82
+1423,Malaria Testing and Treatment Program,2022-04-10,2023-08-24,89.74
+1424,Malaria Awareness Campaign,2019-02-02,2020-08-24,63.08
+1425,Indoor Residual Spraying Campaign,2016-08-21,2018-06-19,59.39
+1426,Malaria Awareness Campaign,2023-07-26,2016-10-13,81.16
+1427,Malaria Awareness Campaign,2017-07-31,2017-10-28,57.04
+1428,Bed Net Distribution Program,2021-03-24,2019-09-08,58.82
+1429,Indoor Residual Spraying Campaign,2019-03-26,2015-08-13,78.38
+1430,Malaria Awareness Campaign,2017-07-19,2021-04-05,53.42
+1431,Community Health Worker Training,2021-06-05,2015-01-12,69.8
+1432,Malaria Awareness Campaign,2023-11-11,2017-07-30,81.66
+1433,Bed Net Distribution Program,2016-12-08,2017-03-15,50.4
+1434,Malaria Testing and Treatment Program,2020-06-03,2018-07-28,88.29
+1435,Malaria Testing and Treatment Program,2017-08-09,2022-03-05,79.87
+1436,Malaria Awareness Campaign,2016-02-02,2023-10-10,54.95
+1437,Malaria Testing and Treatment Program,2023-12-19,2019-03-20,69.43
+1438,Indoor Residual Spraying Campaign,2019-01-21,2015-05-03,62.03
+1439,Malaria Awareness Campaign,2015-08-15,2021-10-25,89.88
+1440,Community Health Worker Training,2021-09-05,2017-01-31,78.55
+1441,Malaria Testing and Treatment Program,2018-04-27,2015-12-05,56.11
+1442,Malaria Awareness Campaign,2018-06-14,2017-04-22,92.65
+1443,Malaria Awareness Campaign,2021-10-30,2023-04-12,61.59
+1444,Malaria Awareness Campaign,2023-02-15,2016-11-29,64.34
+1445,Indoor Residual Spraying Campaign,2018-12-24,2015-05-21,60.81
+1446,Bed Net Distribution Program,2017-06-04,2015-06-11,69.06
+1447,Community Health Worker Training,2023-11-26,2021-07-27,74.4
+1448,Bed Net Distribution Program,2018-02-14,2018-11-14,58.65
+1449,Malaria Testing and Treatment Program,2018-01-08,2022-10-24,88.71
+1450,Indoor Residual Spraying Campaign,2019-08-05,2019-12-06,87.6
+1451,Indoor Residual Spraying Campaign,2016-07-01,2019-12-03,88.97
+1452,Community Health Worker Training,2018-05-29,2021-06-07,91.7
+1453,Bed Net Distribution Program,2019-03-03,2015-01-20,93.03
+1454,Indoor Residual Spraying Campaign,2023-03-08,2020-03-31,52.6
+1455,Indoor Residual Spraying Campaign,2017-05-07,2021-07-13,53.78
+1456,Indoor Residual Spraying Campaign,2022-09-01,2015-03-11,88.61
+1457,Malaria Testing and Treatment Program,2021-06-29,2015-07-26,75.11
+1458,Malaria Testing and Treatment Program,2017-08-17,2015-01-09,73.06
+1459,Bed Net Distribution Program,2017-01-18,2016-02-23,51.95
+1460,Bed Net Distribution Program,2016-01-31,2020-07-18,53.64
+1461,Malaria Testing and Treatment Program,2018-01-08,2017-11-25,63.66
+1462,Indoor Residual Spraying Campaign,2019-01-24,2015-03-27,55.94
+1463,Indoor Residual Spraying Campaign,2023-05-24,2016-12-25,54.34
+1464,Malaria Awareness Campaign,2017-01-20,2021-09-05,66.59
+1465,Community Health Worker Training,2023-06-04,2020-07-24,73.15
+1466,Bed Net Distribution Program,2022-03-24,2020-11-30,52.73
+1467,Bed Net Distribution Program,2020-02-04,2022-09-04,60.54
+1468,Indoor Residual Spraying Campaign,2015-10-18,2019-03-20,63.6
+1469,Indoor Residual Spraying Campaign,2017-07-15,2020-08-22,81.29
+1470,Community Health Worker Training,2022-11-23,2015-12-11,51.51
+1471,Bed Net Distribution Program,2015-06-02,2019-10-21,77.53
+1472,Malaria Testing and Treatment Program,2016-12-23,2017-06-22,77.77
+1473,Malaria Testing and Treatment Program,2016-03-22,2018-06-26,86.92
+1474,Malaria Testing and Treatment Program,2021-04-25,2018-10-12,51.24
+1475,Community Health Worker Training,2020-02-22,2021-10-09,55.02
+1476,Malaria Testing and Treatment Program,2015-08-22,2023-08-06,81.85
+1477,Malaria Testing and Treatment Program,2020-04-17,2019-03-13,73.32
+1478,Community Health Worker Training,2023-04-25,2020-04-14,50.47
+1479,Indoor Residual Spraying Campaign,2019-04-20,2015-02-19,88.16
+1480,Community Health Worker Training,2022-10-21,2019-11-10,80.8
+1481,Indoor Residual Spraying Campaign,2022-09-08,2018-10-02,73.61
+1482,Bed Net Distribution Program,2021-05-22,2020-01-12,71.39
+1483,Bed Net Distribution Program,2019-09-24,2017-09-10,68.3
+1484,Malaria Awareness Campaign,2023-05-19,2022-03-03,65.9
+1485,Community Health Worker Training,2016-12-11,2019-01-08,64.21
+1486,Malaria Awareness Campaign,2022-01-27,2020-05-15,74.49
+1487,Malaria Awareness Campaign,2018-02-05,2021-09-29,54.75
+1488,Malaria Testing and Treatment Program,2015-04-13,2015-01-14,88.15
+1489,Indoor Residual Spraying Campaign,2021-11-29,2020-02-03,68.06
+1490,Malaria Awareness Campaign,2022-01-06,2022-09-18,65.57
+1491,Community Health Worker Training,2020-10-10,2017-01-29,90.99
+1492,Indoor Residual Spraying Campaign,2021-01-16,2018-06-11,73.82
+1493,Malaria Testing and Treatment Program,2019-04-14,2016-01-26,66.06
+1494,Malaria Testing and Treatment Program,2021-05-07,2020-12-02,87.42
+1495,Malaria Awareness Campaign,2022-07-25,2020-07-23,63.58
+1496,Malaria Testing and Treatment Program,2021-11-18,2017-11-17,52.4
+1497,Malaria Awareness Campaign,2023-05-24,2019-10-29,74.6
+1498,Bed Net Distribution Program,2017-11-13,2015-09-14,90.03
+1499,Malaria Awareness Campaign,2023-05-14,2020-11-30,63.09
+1500,Bed Net Distribution Program,2018-11-27,2018-09-05,60.05
+1501,Malaria Testing and Treatment Program,2016-04-23,2016-11-04,81.68
+1502,Malaria Awareness Campaign,2023-12-10,2015-10-15,72.45
+1503,Community Health Worker Training,2019-02-13,2021-06-20,50.16
+1504,Indoor Residual Spraying Campaign,2018-10-18,2017-11-07,86.43
+1505,Malaria Awareness Campaign,2017-06-19,2020-01-03,72.62
+1506,Bed Net Distribution Program,2019-11-23,2017-06-19,75.78
+1507,Indoor Residual Spraying Campaign,2022-05-07,2018-04-25,77.54
+1508,Community Health Worker Training,2023-08-10,2016-05-12,86.22
+1509,Bed Net Distribution Program,2018-01-12,2017-04-30,91.51
+1510,Indoor Residual Spraying Campaign,2020-06-18,2016-12-15,56.04
+1511,Malaria Testing and Treatment Program,2021-11-20,2021-09-23,82.88
+1512,Malaria Awareness Campaign,2017-01-28,2016-02-24,57.42
+1513,Community Health Worker Training,2022-03-31,2020-04-29,82.91
+1514,Malaria Awareness Campaign,2021-11-17,2016-01-31,85.65
+1515,Malaria Testing and Treatment Program,2023-09-03,2017-06-02,84.21
+1516,Malaria Awareness Campaign,2023-07-23,2020-02-27,74.41
+1517,Indoor Residual Spraying Campaign,2015-07-18,2021-06-11,83.18
+1518,Malaria Awareness Campaign,2023-04-12,2015-03-11,93.6
+1519,Community Health Worker Training,2017-03-17,2020-01-08,59.27
+1520,Malaria Awareness Campaign,2020-10-31,2018-11-04,51.89
+1521,Malaria Awareness Campaign,2021-04-11,2021-02-08,89.87
+1522,Bed Net Distribution Program,2018-09-12,2022-07-15,67.46
+1523,Indoor Residual Spraying Campaign,2015-05-11,2020-09-22,71.57
+1524,Indoor Residual Spraying Campaign,2015-05-07,2021-03-15,74.44
+1525,Indoor Residual Spraying Campaign,2019-09-09,2016-05-23,67.93
+1526,Malaria Testing and Treatment Program,2021-04-08,2022-09-06,57.42
+1527,Bed Net Distribution Program,2015-10-09,2021-12-09,50.54
+1528,Malaria Awareness Campaign,2018-07-20,2019-09-03,89.1
+1529,Indoor Residual Spraying Campaign,2016-10-29,2022-08-06,67.4
+1530,Bed Net Distribution Program,2023-04-29,2018-11-10,90.23
+1531,Malaria Awareness Campaign,2017-08-24,2023-10-07,69.05
+1532,Malaria Testing and Treatment Program,2016-08-01,2020-07-18,53.85
+1533,Bed Net Distribution Program,2020-11-08,2022-12-09,69.05
+1534,Community Health Worker Training,2023-01-03,2023-01-27,57.44
+1535,Malaria Awareness Campaign,2020-03-07,2017-04-12,51.46
+1536,Indoor Residual Spraying Campaign,2016-02-26,2016-03-30,55.94
+1537,Community Health Worker Training,2023-09-11,2021-01-31,81.3
+1538,Malaria Awareness Campaign,2017-02-09,2021-05-14,59.47
+1539,Malaria Awareness Campaign,2017-11-04,2023-06-18,88.43
+1540,Bed Net Distribution Program,2023-07-22,2016-08-20,63.11
+1541,Malaria Awareness Campaign,2022-11-11,2020-07-07,80.89
+1542,Community Health Worker Training,2021-04-06,2022-04-24,70.83
+1543,Bed Net Distribution Program,2019-03-09,2023-03-19,94.33
+1544,Malaria Awareness Campaign,2019-06-07,2021-12-16,78.35
+1545,Community Health Worker Training,2022-08-20,2017-12-11,73.87
+1546,Indoor Residual Spraying Campaign,2021-11-17,2015-08-13,80.37
+1547,Malaria Awareness Campaign,2017-06-14,2021-10-09,59.32
+1548,Malaria Testing and Treatment Program,2015-11-01,2019-03-22,92.98
+1549,Malaria Testing and Treatment Program,2018-01-15,2017-03-30,69.48
+1550,Malaria Awareness Campaign,2015-08-10,2021-08-03,66.33
+1551,Malaria Testing and Treatment Program,2020-03-05,2019-02-24,76.54
+1552,Indoor Residual Spraying Campaign,2021-06-30,2020-09-19,69.67
+1553,Bed Net Distribution Program,2015-09-08,2015-03-22,55.85
+1554,Bed Net Distribution Program,2022-03-17,2015-04-12,72.4
+1555,Malaria Testing and Treatment Program,2015-10-07,2015-11-04,62.66
+1556,Malaria Testing and Treatment Program,2021-03-17,2019-11-12,63.11
+1557,Malaria Awareness Campaign,2018-12-27,2016-09-20,67.27
+1558,Indoor Residual Spraying Campaign,2019-04-26,2018-09-18,59.87
+1559,Community Health Worker Training,2022-07-04,2015-11-05,64.83
+1560,Malaria Testing and Treatment Program,2015-03-13,2022-01-29,54.73
+1561,Malaria Awareness Campaign,2016-09-05,2015-09-20,62.11
+1562,Bed Net Distribution Program,2019-03-29,2022-11-26,82.37
+1563,Indoor Residual Spraying Campaign,2020-06-13,2017-01-09,92.1
+1564,Malaria Awareness Campaign,2021-05-10,2015-06-04,71.73
+1565,Bed Net Distribution Program,2015-01-29,2019-10-19,76.16
+1566,Indoor Residual Spraying Campaign,2020-12-18,2022-01-05,50.77
+1567,Malaria Awareness Campaign,2018-01-03,2022-12-06,80.08
+1568,Malaria Testing and Treatment Program,2016-06-23,2015-04-20,91.01
+1569,Malaria Testing and Treatment Program,2016-05-11,2020-02-25,77.36
+1570,Community Health Worker Training,2016-09-08,2020-11-08,60.96
+1571,Community Health Worker Training,2020-11-09,2015-09-28,86.6
+1572,Malaria Testing and Treatment Program,2017-09-19,2019-04-19,83.22
+1573,Bed Net Distribution Program,2023-06-12,2018-04-07,88.96
+1574,Indoor Residual Spraying Campaign,2018-03-29,2023-10-26,82.23
+1575,Indoor Residual Spraying Campaign,2017-01-29,2016-11-03,73.0
+1576,Malaria Testing and Treatment Program,2016-04-28,2019-05-22,56.83
+1577,Malaria Awareness Campaign,2017-12-14,2020-04-27,53.81
+1578,Malaria Testing and Treatment Program,2019-04-16,2016-05-17,70.76
+1579,Community Health Worker Training,2019-10-15,2015-11-07,79.92
+1580,Malaria Testing and Treatment Program,2020-12-07,2023-10-10,83.0
+1581,Indoor Residual Spraying Campaign,2017-06-06,2019-08-04,51.45
+1582,Bed Net Distribution Program,2021-10-14,2015-07-16,80.28
+1583,Bed Net Distribution Program,2023-10-08,2017-11-11,90.31
+1584,Malaria Awareness Campaign,2022-02-22,2021-10-03,90.8
+1585,Malaria Testing and Treatment Program,2022-03-30,2023-10-02,76.59
+1586,Bed Net Distribution Program,2021-12-25,2016-01-13,72.8
+1587,Malaria Awareness Campaign,2021-07-30,2021-10-23,58.11
+1588,Malaria Testing and Treatment Program,2016-09-03,2017-11-03,60.4
+1589,Malaria Testing and Treatment Program,2021-05-09,2018-12-18,63.22
+1590,Malaria Testing and Treatment Program,2019-03-16,2023-02-11,90.94
+1591,Bed Net Distribution Program,2020-09-12,2018-09-03,60.59
+1592,Malaria Awareness Campaign,2019-06-10,2022-06-19,67.45
+1593,Community Health Worker Training,2023-01-12,2019-05-04,78.09
+1594,Community Health Worker Training,2017-06-08,2020-01-02,64.56
+1595,Community Health Worker Training,2017-12-09,2015-03-13,86.12
+1596,Bed Net Distribution Program,2022-06-26,2020-02-05,53.23
+1597,Community Health Worker Training,2018-08-03,2017-02-27,88.18
+1598,Indoor Residual Spraying Campaign,2016-08-06,2016-02-10,58.48
+1599,Community Health Worker Training,2022-10-02,2019-07-04,89.61
+1600,Bed Net Distribution Program,2023-07-04,2018-11-21,89.36
+1601,Indoor Residual Spraying Campaign,2020-01-13,2019-08-14,56.79
+1602,Community Health Worker Training,2016-01-14,2018-10-16,57.82
+1603,Malaria Awareness Campaign,2018-11-24,2015-09-11,85.84
+1604,Indoor Residual Spraying Campaign,2021-08-05,2023-07-08,79.86
+1605,Bed Net Distribution Program,2022-03-15,2018-01-11,53.59
+1606,Bed Net Distribution Program,2016-11-24,2021-08-23,53.96
+1607,Malaria Testing and Treatment Program,2022-10-19,2017-10-25,61.03
+1608,Community Health Worker Training,2015-10-06,2019-08-05,51.44
+1609,Community Health Worker Training,2018-08-11,2018-01-15,73.16
+1610,Malaria Awareness Campaign,2022-09-12,2017-04-19,73.32
+1611,Indoor Residual Spraying Campaign,2021-03-07,2021-06-15,87.23
+1612,Community Health Worker Training,2023-09-26,2019-03-10,60.44
+1613,Malaria Awareness Campaign,2022-03-11,2019-11-24,85.39
+1614,Community Health Worker Training,2020-08-17,2015-03-11,79.53
+1615,Bed Net Distribution Program,2018-09-27,2019-09-04,55.5
+1616,Malaria Testing and Treatment Program,2023-03-02,2022-10-23,93.1
+1617,Malaria Awareness Campaign,2019-09-17,2017-11-02,52.94
+1618,Bed Net Distribution Program,2020-02-20,2020-04-15,88.49
+1619,Indoor Residual Spraying Campaign,2023-12-02,2021-01-20,63.23
+1620,Indoor Residual Spraying Campaign,2018-11-18,2020-03-10,88.96
+1621,Bed Net Distribution Program,2021-09-04,2018-12-15,74.69
+1622,Indoor Residual Spraying Campaign,2015-03-01,2020-06-04,63.28
+1623,Malaria Testing and Treatment Program,2015-02-27,2020-03-29,51.62
+1624,Malaria Testing and Treatment Program,2020-01-07,2017-03-31,62.14
+1625,Indoor Residual Spraying Campaign,2019-12-01,2022-01-23,66.12
+1626,Community Health Worker Training,2019-07-17,2019-02-08,78.17
+1627,Community Health Worker Training,2017-07-11,2022-03-13,81.17
+1628,Indoor Residual Spraying Campaign,2016-09-30,2019-11-23,59.92
+1629,Malaria Awareness Campaign,2023-07-16,2023-04-17,75.05
+1630,Bed Net Distribution Program,2021-03-11,2015-01-24,61.67
+1631,Malaria Awareness Campaign,2023-04-15,2017-08-17,93.09
+1632,Malaria Testing and Treatment Program,2015-04-23,2016-02-06,72.14
+1633,Malaria Awareness Campaign,2015-10-31,2015-07-24,63.27
+1634,Indoor Residual Spraying Campaign,2019-07-24,2019-06-16,76.22
+1635,Community Health Worker Training,2018-03-02,2022-02-26,67.05
+1636,Malaria Testing and Treatment Program,2023-06-05,2021-07-16,83.02
+1637,Malaria Awareness Campaign,2015-07-15,2019-05-25,83.41
+1638,Bed Net Distribution Program,2015-07-26,2022-04-03,86.02
+1639,Malaria Testing and Treatment Program,2017-03-11,2022-02-24,71.74
+1640,Malaria Testing and Treatment Program,2015-04-28,2020-07-28,80.32
+1641,Community Health Worker Training,2017-08-11,2020-10-22,52.52
+1642,Bed Net Distribution Program,2020-05-03,2017-08-30,80.31
+1643,Malaria Testing and Treatment Program,2019-07-13,2021-07-19,81.15
+1644,Indoor Residual Spraying Campaign,2015-01-08,2018-12-24,94.86
+1645,Malaria Testing and Treatment Program,2016-07-03,2021-06-18,80.43
+1646,Bed Net Distribution Program,2023-03-22,2020-10-03,60.3
+1647,Bed Net Distribution Program,2021-03-29,2019-01-23,80.96
+1648,Malaria Testing and Treatment Program,2023-08-25,2022-09-18,93.07
+1649,Community Health Worker Training,2020-07-30,2018-02-19,91.7
+1650,Indoor Residual Spraying Campaign,2020-08-23,2019-10-21,77.36
+1651,Bed Net Distribution Program,2015-10-19,2018-06-22,76.86
+1652,Community Health Worker Training,2017-02-15,2019-08-06,55.94
+1653,Community Health Worker Training,2018-08-26,2023-12-07,78.47
+1654,Malaria Awareness Campaign,2017-11-21,2021-03-21,54.67
+1655,Malaria Testing and Treatment Program,2018-07-31,2019-03-11,68.49
+1656,Malaria Testing and Treatment Program,2016-06-24,2016-12-28,80.8
+1657,Community Health Worker Training,2021-12-24,2016-11-14,74.87
+1658,Bed Net Distribution Program,2021-06-17,2015-06-19,79.06
+1659,Malaria Testing and Treatment Program,2023-12-11,2022-07-02,53.78
+1660,Community Health Worker Training,2019-10-25,2019-01-05,81.78
+1661,Bed Net Distribution Program,2016-06-24,2019-06-30,50.34
+1662,Malaria Testing and Treatment Program,2023-09-09,2017-02-26,58.6
+1663,Indoor Residual Spraying Campaign,2017-01-31,2023-12-11,85.94
+1664,Bed Net Distribution Program,2017-12-14,2018-05-30,80.48
+1665,Malaria Awareness Campaign,2020-04-11,2021-03-23,87.6
+1666,Indoor Residual Spraying Campaign,2017-01-08,2023-10-08,75.06
+1667,Bed Net Distribution Program,2019-01-21,2022-09-11,89.48
+1668,Malaria Testing and Treatment Program,2016-09-21,2015-03-22,69.25
+1669,Bed Net Distribution Program,2016-04-08,2015-02-17,60.61
+1670,Bed Net Distribution Program,2023-05-09,2017-07-04,91.6
+1671,Bed Net Distribution Program,2021-03-20,2018-04-23,54.52
+1672,Malaria Awareness Campaign,2019-12-20,2023-04-05,92.07
+1673,Bed Net Distribution Program,2018-02-15,2015-01-13,86.04
+1674,Bed Net Distribution Program,2015-01-01,2022-09-22,59.67
+1675,Malaria Awareness Campaign,2018-07-08,2018-04-10,55.46
+1676,Malaria Awareness Campaign,2018-08-02,2017-10-03,54.37
+1677,Malaria Testing and Treatment Program,2017-06-24,2020-07-20,69.6
+1678,Bed Net Distribution Program,2019-05-23,2021-06-30,73.94
+1679,Malaria Testing and Treatment Program,2016-07-08,2016-12-09,72.69
+1680,Community Health Worker Training,2017-01-15,2017-06-10,64.47
+1681,Indoor Residual Spraying Campaign,2019-08-22,2017-11-04,88.6
+1682,Malaria Awareness Campaign,2018-10-06,2017-11-13,68.41
+1683,Community Health Worker Training,2021-01-24,2023-12-27,54.69
+1684,Bed Net Distribution Program,2021-08-10,2015-12-10,55.48
+1685,Malaria Testing and Treatment Program,2015-10-05,2016-01-10,81.34
+1686,Community Health Worker Training,2021-02-28,2023-12-13,81.77
+1687,Community Health Worker Training,2019-09-24,2023-03-01,51.54
+1688,Malaria Awareness Campaign,2022-12-20,2015-06-16,83.25
+1689,Indoor Residual Spraying Campaign,2018-01-17,2020-06-17,85.45
+1690,Indoor Residual Spraying Campaign,2023-12-30,2021-09-29,94.04
+1691,Indoor Residual Spraying Campaign,2015-11-06,2020-07-21,78.76
+1692,Community Health Worker Training,2019-05-14,2020-10-02,86.22
+1693,Indoor Residual Spraying Campaign,2019-11-28,2023-05-20,90.44
+1694,Bed Net Distribution Program,2018-09-03,2018-10-25,50.66
+1695,Bed Net Distribution Program,2021-12-12,2019-03-06,87.87
+1696,Community Health Worker Training,2018-06-27,2023-07-25,90.39
+1697,Bed Net Distribution Program,2019-04-19,2019-07-30,68.56
+1698,Indoor Residual Spraying Campaign,2023-07-01,2021-07-19,61.31
+1699,Malaria Testing and Treatment Program,2020-08-28,2020-01-04,93.93
+1700,Bed Net Distribution Program,2022-07-11,2020-09-30,59.97
+1701,Community Health Worker Training,2023-07-23,2018-05-23,84.69
+1702,Indoor Residual Spraying Campaign,2016-01-17,2016-08-25,71.38
+1703,Malaria Testing and Treatment Program,2017-11-25,2021-08-15,88.55
+1704,Malaria Testing and Treatment Program,2021-10-12,2015-12-23,81.27
+1705,Indoor Residual Spraying Campaign,2021-09-05,2017-09-16,60.57
+1706,Community Health Worker Training,2021-07-26,2015-07-14,54.51
+1707,Malaria Awareness Campaign,2022-07-12,2022-07-28,71.99
+1708,Indoor Residual Spraying Campaign,2019-02-09,2020-09-04,77.3
+1709,Malaria Testing and Treatment Program,2023-11-23,2021-06-10,81.39
+1710,Malaria Awareness Campaign,2023-07-01,2019-04-12,81.46
+1711,Malaria Testing and Treatment Program,2016-04-22,2018-08-21,65.85
+1712,Indoor Residual Spraying Campaign,2023-08-14,2019-01-27,94.33
+1713,Malaria Testing and Treatment Program,2017-03-02,2020-08-30,81.68
+1714,Indoor Residual Spraying Campaign,2020-10-17,2020-07-10,84.58
+1715,Community Health Worker Training,2022-01-29,2017-07-26,92.76
+1716,Malaria Testing and Treatment Program,2016-08-18,2020-07-20,92.78
+1717,Community Health Worker Training,2018-12-22,2021-02-19,77.98
+1718,Bed Net Distribution Program,2019-01-23,2021-12-31,91.68
+1719,Community Health Worker Training,2022-12-29,2016-10-17,78.62
+1720,Bed Net Distribution Program,2016-07-02,2021-04-04,79.25
+1721,Bed Net Distribution Program,2021-03-21,2019-11-09,62.97
+1722,Malaria Testing and Treatment Program,2017-08-21,2023-07-08,85.47
+1723,Bed Net Distribution Program,2016-03-11,2015-05-12,84.27
+1724,Malaria Awareness Campaign,2021-04-05,2018-06-25,62.53
+1725,Malaria Awareness Campaign,2020-05-16,2018-12-31,67.86
+1726,Malaria Testing and Treatment Program,2023-09-28,2021-05-29,61.42
+1727,Community Health Worker Training,2015-06-12,2018-07-02,54.19
+1728,Bed Net Distribution Program,2023-01-28,2016-02-17,84.77
+1729,Malaria Testing and Treatment Program,2023-01-10,2015-01-08,80.3
+1730,Bed Net Distribution Program,2018-11-04,2015-03-09,89.28
+1731,Community Health Worker Training,2016-09-03,2022-03-25,67.68
+1732,Malaria Awareness Campaign,2018-03-02,2019-07-15,93.0
+1733,Indoor Residual Spraying Campaign,2018-12-31,2020-09-04,67.33
+1734,Indoor Residual Spraying Campaign,2018-02-25,2019-07-30,54.13
+1735,Bed Net Distribution Program,2023-04-08,2020-12-22,61.59
+1736,Malaria Testing and Treatment Program,2017-01-25,2020-10-21,53.09
+1737,Indoor Residual Spraying Campaign,2023-09-16,2021-04-18,84.83
+1738,Community Health Worker Training,2017-07-06,2023-10-17,82.02
+1739,Community Health Worker Training,2019-02-17,2019-04-10,91.23
+1740,Malaria Testing and Treatment Program,2015-03-14,2019-05-26,82.31
+1741,Malaria Awareness Campaign,2017-09-10,2016-04-29,85.76
+1742,Indoor Residual Spraying Campaign,2019-12-08,2023-07-19,56.52
+1743,Community Health Worker Training,2020-09-07,2016-08-01,93.64
+1744,Indoor Residual Spraying Campaign,2022-04-29,2019-03-03,87.61
+1745,Community Health Worker Training,2017-06-09,2018-11-26,81.17
+1746,Indoor Residual Spraying Campaign,2019-08-14,2015-02-18,65.2
+1747,Bed Net Distribution Program,2022-10-31,2016-03-07,57.63
+1748,Malaria Awareness Campaign,2023-10-18,2016-02-22,51.64
+1749,Bed Net Distribution Program,2018-03-21,2019-04-09,65.67
+1750,Bed Net Distribution Program,2022-07-04,2019-02-16,75.65
+1751,Indoor Residual Spraying Campaign,2023-10-09,2020-11-02,89.08
+1752,Indoor Residual Spraying Campaign,2018-02-12,2020-02-25,88.98
+1753,Community Health Worker Training,2015-02-03,2017-02-02,67.3
+1754,Malaria Awareness Campaign,2021-11-10,2020-11-17,86.99
+1755,Malaria Testing and Treatment Program,2020-12-01,2017-05-27,61.03
+1756,Malaria Awareness Campaign,2021-02-04,2018-03-10,73.37
+1757,Indoor Residual Spraying Campaign,2018-12-19,2023-12-26,55.68
+1758,Community Health Worker Training,2015-06-02,2019-07-09,63.63
+1759,Malaria Awareness Campaign,2016-10-21,2022-09-13,91.55
+1760,Bed Net Distribution Program,2023-09-15,2023-10-17,71.22
+1761,Malaria Testing and Treatment Program,2018-04-15,2018-10-06,70.31
+1762,Community Health Worker Training,2020-04-18,2023-09-17,50.22
+1763,Malaria Awareness Campaign,2021-05-01,2020-01-31,69.8
+1764,Malaria Testing and Treatment Program,2021-06-23,2023-02-25,88.25
+1765,Malaria Testing and Treatment Program,2021-04-17,2021-09-15,88.79
+1766,Malaria Awareness Campaign,2018-12-11,2015-04-03,58.51
+1767,Malaria Testing and Treatment Program,2022-12-31,2019-01-08,59.14
+1768,Bed Net Distribution Program,2017-09-04,2021-12-08,72.75
+1769,Bed Net Distribution Program,2018-03-02,2020-05-12,94.25
+1770,Community Health Worker Training,2015-06-28,2020-01-12,62.41
+1771,Malaria Awareness Campaign,2019-08-30,2019-07-27,94.18
+1772,Malaria Testing and Treatment Program,2018-11-18,2022-05-06,79.95
+1773,Malaria Awareness Campaign,2020-02-10,2019-05-22,90.47
+1774,Malaria Testing and Treatment Program,2016-05-03,2019-02-04,89.08
+1775,Malaria Awareness Campaign,2017-12-24,2017-01-01,51.32
+1776,Malaria Awareness Campaign,2022-02-02,2020-07-15,87.01
+1777,Indoor Residual Spraying Campaign,2021-04-17,2017-09-28,54.94
+1778,Bed Net Distribution Program,2019-04-20,2019-04-09,79.4
+1779,Bed Net Distribution Program,2023-01-10,2017-03-28,61.22
+1780,Indoor Residual Spraying Campaign,2023-07-12,2022-08-10,91.93
+1781,Bed Net Distribution Program,2019-01-01,2022-03-25,92.63
+1782,Malaria Testing and Treatment Program,2021-02-18,2017-10-30,77.33
+1783,Indoor Residual Spraying Campaign,2021-10-14,2017-08-17,71.46
+1784,Malaria Awareness Campaign,2017-10-23,2021-07-22,57.2
+1785,Indoor Residual Spraying Campaign,2021-12-23,2022-12-31,70.16
+1786,Malaria Testing and Treatment Program,2016-09-28,2018-04-12,52.14
+1787,Bed Net Distribution Program,2015-10-25,2017-08-02,63.45
+1788,Malaria Testing and Treatment Program,2022-12-17,2020-03-08,92.5
+1789,Malaria Awareness Campaign,2017-06-21,2017-08-06,91.5
+1790,Community Health Worker Training,2019-09-28,2019-10-05,70.5
+1791,Community Health Worker Training,2017-07-14,2023-06-12,91.11
+1792,Malaria Testing and Treatment Program,2021-11-10,2023-11-02,82.9
+1793,Community Health Worker Training,2017-10-08,2020-03-25,74.65
+1794,Community Health Worker Training,2015-02-20,2020-05-18,91.46
+1795,Malaria Testing and Treatment Program,2023-07-07,2019-09-17,56.5
+1796,Malaria Testing and Treatment Program,2015-11-15,2018-10-11,60.75
+1797,Malaria Testing and Treatment Program,2020-08-23,2021-09-23,60.72
+1798,Indoor Residual Spraying Campaign,2018-04-04,2015-04-27,51.08
+1799,Malaria Testing and Treatment Program,2020-10-19,2017-06-16,76.68
+1800,Community Health Worker Training,2023-07-01,2017-05-21,86.74
+1801,Community Health Worker Training,2020-01-12,2022-08-14,54.6
+1802,Malaria Awareness Campaign,2017-03-21,2019-07-06,70.19
+1803,Malaria Testing and Treatment Program,2023-05-12,2020-03-04,65.44
+1804,Community Health Worker Training,2023-12-02,2021-05-13,68.33
+1805,Indoor Residual Spraying Campaign,2022-03-16,2022-02-06,87.13
+1806,Malaria Awareness Campaign,2022-11-05,2016-09-20,69.25
+1807,Community Health Worker Training,2023-05-05,2017-02-24,64.86
+1808,Malaria Testing and Treatment Program,2017-04-11,2018-09-27,75.5
+1809,Indoor Residual Spraying Campaign,2018-07-11,2019-08-19,69.37
+1810,Bed Net Distribution Program,2019-05-29,2018-10-14,68.03
+1811,Community Health Worker Training,2022-12-07,2021-09-18,82.82
+1812,Bed Net Distribution Program,2019-06-15,2015-08-06,75.81
+1813,Malaria Testing and Treatment Program,2020-08-26,2017-10-21,81.96
+1814,Community Health Worker Training,2018-07-28,2015-11-04,82.15
+1815,Indoor Residual Spraying Campaign,2023-01-07,2015-04-20,83.65
+1816,Malaria Awareness Campaign,2019-03-06,2015-01-05,88.27
+1817,Indoor Residual Spraying Campaign,2023-04-14,2021-05-10,56.92
+1818,Malaria Awareness Campaign,2018-01-04,2016-08-29,60.04
+1819,Community Health Worker Training,2017-04-05,2017-07-05,87.48
+1820,Indoor Residual Spraying Campaign,2020-05-02,2017-12-24,88.45
+1821,Indoor Residual Spraying Campaign,2018-12-28,2015-12-15,64.7
+1822,Bed Net Distribution Program,2021-12-26,2018-12-31,51.85
+1823,Indoor Residual Spraying Campaign,2021-06-27,2016-02-17,68.46
+1824,Malaria Testing and Treatment Program,2017-12-21,2020-11-07,79.87
+1825,Community Health Worker Training,2020-10-13,2022-03-07,64.57
+1826,Indoor Residual Spraying Campaign,2015-11-08,2020-03-09,92.91
+1827,Community Health Worker Training,2021-12-22,2018-06-04,69.46
+1828,Bed Net Distribution Program,2020-01-28,2016-05-16,59.96
+1829,Malaria Testing and Treatment Program,2015-06-21,2021-07-15,54.36
+1830,Community Health Worker Training,2020-08-18,2023-12-20,66.33
+1831,Indoor Residual Spraying Campaign,2019-01-06,2018-12-15,87.07
+1832,Bed Net Distribution Program,2016-06-20,2016-10-02,81.71
+1833,Community Health Worker Training,2022-08-09,2017-09-03,67.76
+1834,Community Health Worker Training,2018-12-31,2021-12-31,63.17
+1835,Community Health Worker Training,2022-03-13,2019-06-07,79.7
+1836,Malaria Awareness Campaign,2017-06-15,2023-11-05,82.94
+1837,Malaria Testing and Treatment Program,2015-12-14,2020-05-06,76.45
+1838,Malaria Awareness Campaign,2019-08-02,2020-08-08,77.71
+1839,Community Health Worker Training,2019-03-26,2015-05-03,57.0
+1840,Community Health Worker Training,2022-06-29,2015-09-18,80.34
+1841,Bed Net Distribution Program,2021-01-06,2018-11-27,72.6
+1842,Malaria Testing and Treatment Program,2019-04-03,2016-09-22,61.62
+1843,Indoor Residual Spraying Campaign,2023-12-18,2022-08-05,56.6
+1844,Malaria Testing and Treatment Program,2023-02-15,2015-02-19,55.95
+1845,Indoor Residual Spraying Campaign,2016-11-06,2017-10-23,74.54
+1846,Bed Net Distribution Program,2019-05-04,2015-12-02,53.68
+1847,Bed Net Distribution Program,2016-01-04,2020-02-09,79.74
+1848,Indoor Residual Spraying Campaign,2018-06-01,2015-07-04,85.37
+1849,Community Health Worker Training,2020-04-06,2018-09-01,84.66
+1850,Malaria Awareness Campaign,2020-04-19,2021-03-13,60.12
+1851,Indoor Residual Spraying Campaign,2016-10-08,2021-06-22,82.73
+1852,Bed Net Distribution Program,2023-04-26,2017-05-29,84.83
+1853,Malaria Testing and Treatment Program,2020-06-05,2018-08-01,90.25
+1854,Indoor Residual Spraying Campaign,2016-02-14,2022-02-21,59.71
+1855,Malaria Awareness Campaign,2023-11-19,2021-11-13,78.08
+1856,Bed Net Distribution Program,2017-08-31,2017-10-13,63.84
+1857,Malaria Testing and Treatment Program,2016-09-15,2017-12-09,69.93
+1858,Malaria Testing and Treatment Program,2018-06-02,2023-06-30,58.25
+1859,Malaria Testing and Treatment Program,2018-08-01,2020-02-09,52.89
+1860,Bed Net Distribution Program,2015-04-06,2021-08-30,63.9
+1861,Malaria Awareness Campaign,2016-03-18,2020-06-30,76.58
+1862,Bed Net Distribution Program,2023-07-31,2020-12-26,67.86
+1863,Malaria Awareness Campaign,2017-03-17,2023-10-20,55.01
+1864,Indoor Residual Spraying Campaign,2015-03-28,2018-12-04,65.39
+1865,Bed Net Distribution Program,2018-10-16,2017-09-06,58.41
+1866,Bed Net Distribution Program,2018-03-29,2023-05-19,74.95
+1867,Malaria Testing and Treatment Program,2022-06-19,2023-01-04,78.02
+1868,Indoor Residual Spraying Campaign,2022-11-09,2017-06-18,57.24
+1869,Malaria Awareness Campaign,2016-05-27,2022-10-26,52.74
+1870,Bed Net Distribution Program,2020-05-27,2018-08-25,88.28
+1871,Community Health Worker Training,2020-05-04,2022-04-26,88.77
+1872,Malaria Awareness Campaign,2022-02-24,2018-03-25,89.0
+1873,Bed Net Distribution Program,2019-07-07,2023-01-27,63.36
+1874,Malaria Awareness Campaign,2019-08-14,2018-05-25,84.73
+1875,Community Health Worker Training,2022-03-22,2015-03-09,78.77
+1876,Malaria Testing and Treatment Program,2018-10-10,2018-03-16,81.52
+1877,Bed Net Distribution Program,2017-02-27,2021-03-29,67.58
+1878,Community Health Worker Training,2020-08-23,2019-03-29,89.29
+1879,Malaria Testing and Treatment Program,2020-06-06,2016-06-16,72.47
+1880,Community Health Worker Training,2019-08-11,2018-02-19,84.71
+1881,Bed Net Distribution Program,2017-04-01,2016-10-03,72.82
+1882,Malaria Awareness Campaign,2021-04-02,2023-02-09,62.86
+1883,Community Health Worker Training,2019-12-04,2016-11-19,66.26
+1884,Bed Net Distribution Program,2022-03-03,2016-07-29,88.15
+1885,Indoor Residual Spraying Campaign,2015-08-26,2016-10-10,62.45
+1886,Bed Net Distribution Program,2021-10-08,2019-01-28,82.49
+1887,Malaria Awareness Campaign,2021-12-23,2017-08-23,58.45
+1888,Community Health Worker Training,2019-12-07,2015-02-03,84.25
+1889,Indoor Residual Spraying Campaign,2017-12-02,2015-01-08,83.29
+1890,Malaria Testing and Treatment Program,2020-10-10,2022-07-23,55.91
+1891,Malaria Testing and Treatment Program,2015-03-02,2022-03-14,52.92
+1892,Malaria Awareness Campaign,2015-12-23,2018-10-16,69.34
+1893,Malaria Testing and Treatment Program,2018-11-20,2015-01-09,76.39
+1894,Malaria Awareness Campaign,2019-05-10,2023-04-04,89.56
+1895,Malaria Awareness Campaign,2015-03-15,2020-09-07,51.9
+1896,Bed Net Distribution Program,2023-05-30,2021-08-12,80.19
+1897,Malaria Testing and Treatment Program,2017-08-22,2019-08-26,58.06
+1898,Bed Net Distribution Program,2021-09-13,2023-11-22,78.16
+1899,Malaria Awareness Campaign,2016-04-30,2016-09-20,82.93
+1900,Malaria Awareness Campaign,2021-09-29,2015-05-25,79.24
+1901,Malaria Testing and Treatment Program,2021-02-04,2017-03-14,79.11
+1902,Malaria Awareness Campaign,2022-12-07,2023-11-27,74.75
+1903,Bed Net Distribution Program,2023-10-10,2016-11-30,87.27
+1904,Community Health Worker Training,2021-09-14,2023-09-06,68.28
+1905,Bed Net Distribution Program,2016-01-28,2017-12-08,51.28
+1906,Community Health Worker Training,2015-06-12,2021-10-19,66.63
+1907,Indoor Residual Spraying Campaign,2020-05-26,2021-07-26,66.3
+1908,Malaria Awareness Campaign,2021-03-30,2017-05-27,94.21
+1909,Malaria Testing and Treatment Program,2015-06-14,2021-06-30,75.26
+1910,Community Health Worker Training,2019-07-20,2016-04-02,69.77
+1911,Indoor Residual Spraying Campaign,2021-01-18,2017-08-09,73.24
+1912,Indoor Residual Spraying Campaign,2022-07-28,2018-08-14,69.96
+1913,Indoor Residual Spraying Campaign,2017-06-17,2015-04-23,50.44
+1914,Community Health Worker Training,2021-09-16,2016-01-28,80.09
+1915,Malaria Testing and Treatment Program,2022-07-22,2021-02-27,90.0
+1916,Bed Net Distribution Program,2018-09-01,2020-01-24,73.98
+1917,Malaria Testing and Treatment Program,2015-05-27,2015-05-03,62.88
+1918,Bed Net Distribution Program,2017-10-18,2020-11-02,66.88
+1919,Community Health Worker Training,2015-10-04,2021-06-25,78.41
+1920,Malaria Testing and Treatment Program,2021-08-26,2019-12-30,82.32
+1921,Indoor Residual Spraying Campaign,2016-08-08,2019-06-09,68.6
+1922,Malaria Awareness Campaign,2021-10-18,2022-11-06,53.99
+1923,Indoor Residual Spraying Campaign,2017-05-04,2018-09-26,86.81
+1924,Malaria Awareness Campaign,2023-10-07,2022-12-27,59.82
+1925,Malaria Testing and Treatment Program,2019-02-24,2022-08-15,93.19
+1926,Community Health Worker Training,2021-03-20,2017-01-05,84.58
+1927,Bed Net Distribution Program,2015-04-21,2018-06-15,82.39
+1928,Indoor Residual Spraying Campaign,2020-12-03,2019-06-14,92.28
+1929,Indoor Residual Spraying Campaign,2015-10-12,2019-05-09,90.22
+1930,Indoor Residual Spraying Campaign,2017-06-14,2020-02-25,72.41
+1931,Indoor Residual Spraying Campaign,2021-04-08,2018-03-11,63.15
+1932,Malaria Testing and Treatment Program,2020-11-06,2018-10-02,54.24
+1933,Community Health Worker Training,2016-11-05,2021-11-09,65.59
+1934,Bed Net Distribution Program,2017-07-02,2022-10-27,84.56
+1935,Indoor Residual Spraying Campaign,2019-08-25,2018-01-15,78.1
+1936,Bed Net Distribution Program,2018-01-30,2023-06-06,55.61
+1937,Malaria Testing and Treatment Program,2019-04-04,2017-10-15,68.21
+1938,Malaria Awareness Campaign,2019-11-15,2021-04-29,62.83
+1939,Malaria Awareness Campaign,2021-07-17,2023-01-30,70.87
+1940,Malaria Awareness Campaign,2015-12-20,2022-07-25,57.07
+1941,Malaria Testing and Treatment Program,2016-08-15,2017-07-21,58.24
+1942,Malaria Testing and Treatment Program,2023-06-22,2018-04-30,63.86
+1943,Community Health Worker Training,2015-09-10,2019-01-17,89.07
+1944,Malaria Awareness Campaign,2021-06-10,2020-05-10,84.77
+1945,Malaria Testing and Treatment Program,2022-03-25,2023-03-27,65.07
+1946,Malaria Testing and Treatment Program,2018-04-02,2015-12-21,82.56
+1947,Community Health Worker Training,2021-12-27,2020-07-21,90.75
+1948,Malaria Awareness Campaign,2023-10-01,2023-08-09,66.43
+1949,Community Health Worker Training,2016-02-03,2020-03-01,90.59
+1950,Malaria Testing and Treatment Program,2018-12-20,2022-07-29,81.87
+1951,Malaria Awareness Campaign,2022-12-12,2016-06-25,66.24
+1952,Bed Net Distribution Program,2017-12-05,2019-05-09,70.9
+1953,Indoor Residual Spraying Campaign,2021-09-14,2017-09-27,83.88
+1954,Indoor Residual Spraying Campaign,2016-04-15,2020-10-25,68.69
+1955,Bed Net Distribution Program,2017-12-22,2022-12-02,84.97
+1956,Indoor Residual Spraying Campaign,2016-06-09,2017-10-31,63.05
+1957,Community Health Worker Training,2022-04-26,2020-07-23,69.45
+1958,Malaria Testing and Treatment Program,2015-09-29,2017-07-12,88.93
+1959,Indoor Residual Spraying Campaign,2023-05-09,2016-06-09,59.32
+1960,Bed Net Distribution Program,2021-01-22,2022-05-08,82.14
+1961,Community Health Worker Training,2016-12-21,2019-09-03,79.38
+1962,Community Health Worker Training,2022-03-07,2017-03-12,56.13
+1963,Malaria Testing and Treatment Program,2017-06-17,2022-12-21,80.35
+1964,Malaria Awareness Campaign,2022-11-11,2016-09-03,78.25
+1965,Malaria Testing and Treatment Program,2017-05-28,2017-05-27,83.14
+1966,Bed Net Distribution Program,2022-01-14,2021-02-19,78.36
+1967,Indoor Residual Spraying Campaign,2015-05-29,2022-10-27,87.33
+1968,Community Health Worker Training,2020-07-05,2015-01-20,89.39
+1969,Bed Net Distribution Program,2023-12-20,2018-04-14,75.68
+1970,Malaria Testing and Treatment Program,2015-11-13,2021-12-05,62.84
+1971,Community Health Worker Training,2022-07-10,2018-02-22,82.36
+1972,Bed Net Distribution Program,2017-12-19,2021-05-07,66.48
+1973,Bed Net Distribution Program,2020-05-31,2023-05-17,54.77
+1974,Malaria Testing and Treatment Program,2023-05-14,2017-02-28,54.37
+1975,Bed Net Distribution Program,2017-09-14,2020-04-30,61.9
+1976,Bed Net Distribution Program,2016-01-02,2016-04-24,54.51
+1977,Bed Net Distribution Program,2022-09-16,2021-04-05,73.61
+1978,Malaria Awareness Campaign,2015-04-29,2022-02-23,66.25
+1979,Indoor Residual Spraying Campaign,2023-05-24,2017-05-03,53.92
+1980,Community Health Worker Training,2018-10-16,2019-04-08,62.95
+1981,Bed Net Distribution Program,2015-08-21,2015-05-27,67.27
+1982,Community Health Worker Training,2020-09-10,2018-06-20,74.65
+1983,Indoor Residual Spraying Campaign,2022-05-01,2018-09-15,94.04
+1984,Malaria Awareness Campaign,2016-03-31,2018-05-16,52.73
+1985,Bed Net Distribution Program,2023-11-19,2016-04-27,92.99
+1986,Bed Net Distribution Program,2018-12-11,2019-08-31,67.67
+1987,Indoor Residual Spraying Campaign,2020-07-29,2015-07-19,74.75
+1988,Bed Net Distribution Program,2023-10-30,2019-01-19,88.99
+1989,Malaria Testing and Treatment Program,2019-08-03,2020-08-11,67.35
+1990,Bed Net Distribution Program,2022-03-20,2022-02-22,64.8
+1991,Bed Net Distribution Program,2022-12-17,2022-05-05,89.28
+1992,Bed Net Distribution Program,2020-10-21,2022-03-07,54.43
+1993,Malaria Testing and Treatment Program,2018-11-18,2018-01-04,58.52
+1994,Community Health Worker Training,2015-10-16,2016-12-08,57.57
+1995,Malaria Testing and Treatment Program,2018-03-18,2016-09-30,66.73
+1996,Indoor Residual Spraying Campaign,2019-06-14,2019-07-25,63.77
+1997,Indoor Residual Spraying Campaign,2022-04-01,2015-07-08,74.08
+1998,Bed Net Distribution Program,2023-08-28,2016-08-02,85.94
+1999,Bed Net Distribution Program,2018-02-01,2023-04-01,78.03
+2000,Community Health Worker Training,2017-02-21,2019-03-29,88.15
+2001,Malaria Awareness Campaign,2016-04-11,2015-05-16,57.11
+2002,Malaria Awareness Campaign,2023-08-12,2015-06-23,63.05
+2003,Malaria Awareness Campaign,2023-09-22,2022-07-15,79.48
+2004,Bed Net Distribution Program,2015-11-14,2021-04-05,65.2
+2005,Community Health Worker Training,2016-02-13,2020-03-01,83.0
+2006,Malaria Awareness Campaign,2022-04-12,2022-03-28,59.02
+2007,Indoor Residual Spraying Campaign,2019-04-11,2018-04-29,77.79
+2008,Malaria Testing and Treatment Program,2023-05-23,2018-09-28,79.5
+2009,Community Health Worker Training,2021-12-28,2017-08-05,83.92
+2010,Bed Net Distribution Program,2023-06-09,2019-11-25,76.64
+2011,Malaria Awareness Campaign,2018-10-10,2021-06-13,50.79
+2012,Community Health Worker Training,2020-01-26,2019-08-12,81.23
+2013,Malaria Testing and Treatment Program,2021-05-31,2017-04-27,89.49
+2014,Malaria Testing and Treatment Program,2016-11-26,2020-01-27,63.66
+2015,Malaria Testing and Treatment Program,2019-11-20,2018-10-08,57.47
+2016,Malaria Awareness Campaign,2019-02-15,2023-06-03,69.51
+2017,Community Health Worker Training,2022-09-13,2015-08-05,94.9
+2018,Malaria Testing and Treatment Program,2021-07-30,2015-04-10,81.59
+2019,Malaria Awareness Campaign,2019-05-10,2017-10-05,51.23
+2020,Community Health Worker Training,2017-03-24,2016-12-17,73.87
+2021,Malaria Awareness Campaign,2023-06-16,2022-06-02,60.3
+2022,Malaria Awareness Campaign,2023-06-23,2017-12-09,73.09
+2023,Malaria Awareness Campaign,2021-09-05,2018-03-18,78.34
+2024,Malaria Testing and Treatment Program,2021-03-25,2018-09-16,68.65
+2025,Community Health Worker Training,2017-07-03,2023-01-10,54.69
+2026,Malaria Testing and Treatment Program,2015-08-25,2018-01-06,84.5
+2027,Community Health Worker Training,2020-05-29,2015-09-14,64.37
+2028,Malaria Awareness Campaign,2019-05-27,2018-04-04,52.5
+2029,Indoor Residual Spraying Campaign,2020-11-20,2018-05-07,88.29
+2030,Malaria Testing and Treatment Program,2016-05-29,2017-12-26,92.47
+2031,Indoor Residual Spraying Campaign,2016-07-02,2018-01-10,93.3
+2032,Indoor Residual Spraying Campaign,2021-04-17,2021-01-11,54.02
+2033,Malaria Awareness Campaign,2016-01-19,2017-04-23,88.1
+2034,Community Health Worker Training,2017-11-07,2021-09-01,51.24
+2035,Bed Net Distribution Program,2018-01-09,2015-09-07,59.68
+2036,Malaria Testing and Treatment Program,2016-08-18,2018-10-01,61.67
+2037,Bed Net Distribution Program,2018-08-28,2017-02-27,54.98
+2038,Indoor Residual Spraying Campaign,2023-10-17,2016-05-20,80.67
+2039,Malaria Testing and Treatment Program,2023-12-27,2016-09-26,79.45
+2040,Bed Net Distribution Program,2018-12-17,2016-01-03,61.92
+2041,Malaria Testing and Treatment Program,2021-09-21,2018-12-09,59.7
+2042,Malaria Awareness Campaign,2016-01-24,2019-12-28,61.27
+2043,Malaria Testing and Treatment Program,2017-11-26,2015-04-15,77.75
+2044,Indoor Residual Spraying Campaign,2022-12-24,2022-09-24,93.0
+2045,Community Health Worker Training,2023-03-05,2022-12-11,83.41
+2046,Malaria Awareness Campaign,2015-04-30,2020-11-12,50.34
+2047,Malaria Testing and Treatment Program,2022-08-27,2021-09-07,57.12
+2048,Bed Net Distribution Program,2023-07-22,2020-05-29,75.4
+2049,Malaria Testing and Treatment Program,2020-01-21,2020-12-13,64.86
+2050,Bed Net Distribution Program,2022-12-05,2022-10-28,89.13
+2051,Malaria Awareness Campaign,2016-09-29,2016-03-07,66.49
+2052,Community Health Worker Training,2022-11-15,2017-04-08,61.01
+2053,Malaria Testing and Treatment Program,2020-01-24,2023-05-30,85.62
+2054,Malaria Testing and Treatment Program,2017-01-08,2015-11-03,76.63
+2055,Community Health Worker Training,2017-10-29,2016-03-21,72.66
+2056,Indoor Residual Spraying Campaign,2019-03-24,2019-11-03,91.84
+2057,Malaria Testing and Treatment Program,2017-03-26,2021-04-10,90.45
+2058,Community Health Worker Training,2022-10-30,2020-09-27,87.89
+2059,Malaria Testing and Treatment Program,2015-05-14,2022-07-18,78.33
+2060,Malaria Testing and Treatment Program,2023-01-28,2022-04-21,53.44
+2061,Bed Net Distribution Program,2023-08-30,2020-07-22,78.71
+2062,Community Health Worker Training,2023-06-05,2021-08-18,86.88
+2063,Malaria Testing and Treatment Program,2016-06-26,2017-12-26,92.3
+2064,Malaria Testing and Treatment Program,2016-07-09,2023-09-16,57.88
+2065,Bed Net Distribution Program,2020-04-12,2021-09-05,50.81
+2066,Community Health Worker Training,2016-03-16,2017-06-06,83.27
+2067,Community Health Worker Training,2017-11-13,2019-12-27,59.58
+2068,Malaria Awareness Campaign,2023-01-11,2015-05-06,75.31
+2069,Community Health Worker Training,2023-09-30,2019-04-26,86.55
+2070,Indoor Residual Spraying Campaign,2023-05-27,2015-08-09,71.06
+2071,Indoor Residual Spraying Campaign,2015-09-26,2018-02-18,83.51
+2072,Community Health Worker Training,2023-02-04,2023-06-13,56.01
+2073,Bed Net Distribution Program,2020-07-21,2019-07-15,72.97
+2074,Indoor Residual Spraying Campaign,2016-11-16,2015-11-26,91.96
+2075,Malaria Awareness Campaign,2023-01-29,2023-09-16,53.0
+2076,Malaria Testing and Treatment Program,2020-04-22,2016-12-21,87.88
+2077,Indoor Residual Spraying Campaign,2015-12-23,2022-09-21,89.91
+2078,Malaria Testing and Treatment Program,2016-06-28,2022-08-13,57.84
+2079,Community Health Worker Training,2020-01-31,2018-11-07,83.45
+2080,Indoor Residual Spraying Campaign,2015-10-22,2016-01-07,77.63
+2081,Bed Net Distribution Program,2016-09-27,2022-09-27,80.46
+2082,Bed Net Distribution Program,2015-07-09,2020-01-04,74.32
+2083,Community Health Worker Training,2023-05-12,2015-08-17,73.16
+2084,Community Health Worker Training,2018-12-06,2019-07-12,92.8
+2085,Malaria Testing and Treatment Program,2023-07-23,2020-04-23,70.17
+2086,Malaria Awareness Campaign,2016-06-07,2023-08-07,56.29
+2087,Bed Net Distribution Program,2018-10-13,2018-10-02,64.85
+2088,Malaria Awareness Campaign,2017-02-24,2015-01-15,71.04
+2089,Malaria Awareness Campaign,2019-10-07,2015-02-19,78.32
+2090,Malaria Testing and Treatment Program,2017-01-14,2018-07-01,81.69
+2091,Bed Net Distribution Program,2019-10-02,2016-02-13,64.55
+2092,Bed Net Distribution Program,2020-09-18,2021-11-03,71.54
+2093,Malaria Awareness Campaign,2023-05-14,2023-08-15,70.14
+2094,Community Health Worker Training,2020-05-26,2019-03-14,83.37
+2095,Malaria Awareness Campaign,2021-04-13,2016-07-23,50.76
+2096,Indoor Residual Spraying Campaign,2023-07-21,2020-04-21,92.72
+2097,Malaria Testing and Treatment Program,2021-02-15,2016-08-07,63.57
+2098,Malaria Testing and Treatment Program,2015-07-04,2018-11-24,75.89
+2099,Malaria Awareness Campaign,2019-10-21,2016-02-09,94.25
+2100,Malaria Awareness Campaign,2017-07-17,2021-07-15,86.23
+2101,Community Health Worker Training,2016-01-05,2018-11-15,57.73
+2102,Bed Net Distribution Program,2020-02-08,2015-03-10,93.71
+2103,Malaria Awareness Campaign,2023-02-26,2018-04-17,73.75
+2104,Malaria Awareness Campaign,2015-08-04,2019-04-20,50.13
+2105,Bed Net Distribution Program,2017-03-19,2018-05-21,59.03
+2106,Indoor Residual Spraying Campaign,2021-01-11,2017-07-19,53.19
+2107,Malaria Awareness Campaign,2020-03-05,2017-11-12,64.68
+2108,Bed Net Distribution Program,2015-10-28,2023-06-07,71.44
+2109,Bed Net Distribution Program,2015-04-05,2017-06-20,87.18
+2110,Malaria Awareness Campaign,2021-05-11,2019-05-11,65.46
+2111,Indoor Residual Spraying Campaign,2022-06-23,2016-08-30,75.25
+2112,Community Health Worker Training,2019-04-02,2016-01-02,79.17
+2113,Indoor Residual Spraying Campaign,2017-04-19,2023-08-03,70.33
+2114,Indoor Residual Spraying Campaign,2016-12-24,2016-07-25,63.66
+2115,Community Health Worker Training,2016-12-18,2018-01-06,82.27
+2116,Community Health Worker Training,2023-03-18,2022-10-05,91.22
+2117,Malaria Awareness Campaign,2018-01-05,2019-02-27,93.71
+2118,Indoor Residual Spraying Campaign,2018-01-30,2023-04-01,80.9
+2119,Malaria Testing and Treatment Program,2017-04-08,2017-05-16,84.15
+2120,Community Health Worker Training,2021-12-03,2018-03-01,66.64
+2121,Malaria Awareness Campaign,2015-05-29,2017-10-19,70.22
+2122,Bed Net Distribution Program,2019-03-18,2018-12-16,51.93
+2123,Malaria Awareness Campaign,2017-05-27,2019-05-21,76.83
+2124,Community Health Worker Training,2018-09-01,2017-06-14,86.02
+2125,Malaria Awareness Campaign,2017-01-13,2021-08-11,55.2
+2126,Malaria Awareness Campaign,2021-05-02,2023-09-26,77.35
+2127,Community Health Worker Training,2023-07-13,2017-07-11,64.1
+2128,Community Health Worker Training,2016-04-29,2021-02-15,87.98
+2129,Malaria Awareness Campaign,2023-07-06,2016-06-10,64.11
+2130,Malaria Awareness Campaign,2018-08-09,2016-04-27,92.22
+2131,Malaria Testing and Treatment Program,2023-11-27,2015-10-29,60.67
+2132,Malaria Testing and Treatment Program,2019-07-08,2019-07-14,80.66
+2133,Indoor Residual Spraying Campaign,2023-03-06,2015-12-15,94.29
+2134,Malaria Testing and Treatment Program,2020-11-11,2020-07-28,72.54
+2135,Malaria Testing and Treatment Program,2023-05-03,2017-04-16,67.54
+2136,Malaria Testing and Treatment Program,2015-11-09,2015-01-06,59.76
+2137,Community Health Worker Training,2015-12-12,2019-05-26,75.27
+2138,Malaria Testing and Treatment Program,2020-03-02,2023-12-26,62.41
+2139,Bed Net Distribution Program,2015-01-09,2021-09-22,52.55
+2140,Malaria Awareness Campaign,2021-01-26,2019-10-02,93.61
+2141,Community Health Worker Training,2020-05-29,2022-12-11,81.36
+2142,Community Health Worker Training,2016-08-08,2023-03-19,83.17
+2143,Malaria Awareness Campaign,2021-02-28,2019-07-01,53.08
+2144,Community Health Worker Training,2019-05-03,2023-12-28,88.71
+2145,Malaria Testing and Treatment Program,2016-07-13,2017-03-02,61.6
+2146,Bed Net Distribution Program,2016-05-05,2018-07-19,79.78
+2147,Malaria Testing and Treatment Program,2021-07-02,2020-12-21,74.01
+2148,Community Health Worker Training,2023-01-07,2015-03-02,91.13
+2149,Bed Net Distribution Program,2019-02-03,2022-03-07,91.17
+2150,Malaria Testing and Treatment Program,2019-07-27,2016-06-25,86.34
+2151,Indoor Residual Spraying Campaign,2021-11-06,2022-03-19,84.97
+2152,Community Health Worker Training,2023-08-05,2023-05-09,83.16
+2153,Indoor Residual Spraying Campaign,2021-01-23,2019-01-03,61.11
+2154,Community Health Worker Training,2021-11-09,2020-10-13,79.45
+2155,Malaria Awareness Campaign,2016-01-18,2017-05-29,56.46
+2156,Indoor Residual Spraying Campaign,2022-06-30,2019-09-30,80.58
+2157,Community Health Worker Training,2017-02-22,2016-12-16,67.29
+2158,Indoor Residual Spraying Campaign,2023-07-27,2015-04-08,89.62
+2159,Community Health Worker Training,2019-12-25,2020-10-04,52.33
+2160,Indoor Residual Spraying Campaign,2023-03-18,2018-04-24,86.23
+2161,Malaria Awareness Campaign,2019-11-16,2016-07-03,93.01
+2162,Bed Net Distribution Program,2019-07-15,2022-01-13,74.83
+2163,Indoor Residual Spraying Campaign,2023-10-04,2022-11-07,68.95
+2164,Malaria Testing and Treatment Program,2015-03-29,2016-05-09,54.08
+2165,Indoor Residual Spraying Campaign,2020-01-23,2023-09-09,72.3
+2166,Malaria Awareness Campaign,2019-02-19,2016-12-31,57.05
+2167,Community Health Worker Training,2020-10-22,2018-04-02,69.45
+2168,Bed Net Distribution Program,2020-12-25,2023-02-15,66.55
+2169,Indoor Residual Spraying Campaign,2015-05-17,2017-07-04,72.36
+2170,Community Health Worker Training,2019-03-20,2017-08-29,90.5
+2171,Indoor Residual Spraying Campaign,2023-10-26,2023-07-18,64.95
+2172,Malaria Testing and Treatment Program,2018-06-14,2022-11-26,57.86
+2173,Malaria Awareness Campaign,2023-05-20,2017-04-10,72.43
+2174,Malaria Testing and Treatment Program,2021-12-22,2021-04-22,52.9
+2175,Malaria Testing and Treatment Program,2019-03-07,2017-11-24,62.77
+2176,Indoor Residual Spraying Campaign,2021-09-10,2020-12-24,75.01
+2177,Community Health Worker Training,2019-11-11,2022-05-10,93.82
+2178,Community Health Worker Training,2019-08-18,2015-06-13,92.23
+2179,Indoor Residual Spraying Campaign,2015-08-21,2015-12-27,58.38
+2180,Community Health Worker Training,2015-04-17,2018-02-05,69.72
+2181,Indoor Residual Spraying Campaign,2020-06-10,2015-03-01,87.55
+2182,Malaria Awareness Campaign,2017-12-25,2019-06-08,89.05
+2183,Malaria Awareness Campaign,2021-08-09,2019-07-18,66.29
+2184,Malaria Awareness Campaign,2015-07-04,2015-05-20,57.49
+2185,Community Health Worker Training,2021-02-23,2019-04-21,52.41
+2186,Malaria Testing and Treatment Program,2019-09-16,2020-06-17,69.58
+2187,Community Health Worker Training,2018-03-02,2016-12-31,73.54
+2188,Bed Net Distribution Program,2023-10-29,2016-08-29,68.97
+2189,Community Health Worker Training,2016-03-27,2019-07-04,80.13
+2190,Malaria Testing and Treatment Program,2016-11-15,2015-06-11,68.98
+2191,Bed Net Distribution Program,2021-08-29,2023-03-20,56.71
+2192,Indoor Residual Spraying Campaign,2017-10-09,2019-05-09,82.25
+2193,Malaria Awareness Campaign,2019-08-09,2021-03-23,68.55
+2194,Malaria Testing and Treatment Program,2020-08-28,2021-01-01,50.63
+2195,Community Health Worker Training,2017-08-23,2020-01-13,64.83
+2196,Malaria Testing and Treatment Program,2020-01-05,2018-03-20,58.39
+2197,Malaria Awareness Campaign,2015-02-20,2016-02-02,89.24
+2198,Bed Net Distribution Program,2018-08-29,2018-04-30,53.67
+2199,Malaria Testing and Treatment Program,2015-01-06,2019-11-03,89.6
+2200,Malaria Testing and Treatment Program,2022-12-09,2022-03-13,51.46
+2201,Community Health Worker Training,2023-05-24,2016-11-13,61.29
+2202,Malaria Awareness Campaign,2015-07-29,2021-06-11,56.4
+2203,Community Health Worker Training,2021-07-13,2016-11-26,59.07
+2204,Malaria Awareness Campaign,2021-09-18,2019-02-04,60.64
+2205,Indoor Residual Spraying Campaign,2016-10-01,2015-03-26,94.42
+2206,Malaria Testing and Treatment Program,2023-01-23,2020-04-23,85.5
+2207,Malaria Testing and Treatment Program,2016-10-21,2016-11-28,92.4
+2208,Community Health Worker Training,2015-06-16,2023-11-09,58.45
+2209,Malaria Testing and Treatment Program,2023-05-21,2018-11-20,78.38
+2210,Indoor Residual Spraying Campaign,2021-03-23,2017-10-27,89.38
+2211,Malaria Testing and Treatment Program,2017-08-28,2021-01-21,65.92
+2212,Malaria Testing and Treatment Program,2022-09-23,2020-11-05,59.96
+2213,Indoor Residual Spraying Campaign,2023-04-03,2022-07-15,72.0
+2214,Malaria Testing and Treatment Program,2020-02-01,2016-06-02,55.99
+2215,Malaria Awareness Campaign,2022-08-19,2020-08-26,77.16
+2216,Indoor Residual Spraying Campaign,2019-03-21,2023-02-22,56.57
+2217,Indoor Residual Spraying Campaign,2019-07-30,2022-07-04,68.07
+2218,Indoor Residual Spraying Campaign,2023-12-22,2022-03-24,92.37
+2219,Malaria Testing and Treatment Program,2019-01-18,2022-07-05,65.72
+2220,Bed Net Distribution Program,2021-02-08,2021-03-10,57.34
+2221,Indoor Residual Spraying Campaign,2017-03-20,2019-05-06,54.56
+2222,Bed Net Distribution Program,2020-06-18,2017-08-31,83.34
+2223,Community Health Worker Training,2021-03-30,2017-04-15,70.57
+2224,Indoor Residual Spraying Campaign,2017-05-17,2019-12-06,60.68
+2225,Malaria Testing and Treatment Program,2018-02-11,2023-05-24,91.88
+2226,Bed Net Distribution Program,2015-03-31,2022-01-09,57.27
+2227,Bed Net Distribution Program,2018-12-16,2015-02-20,67.63
+2228,Malaria Awareness Campaign,2020-11-22,2021-08-23,91.49
+2229,Malaria Testing and Treatment Program,2017-12-04,2020-10-20,94.03
+2230,Community Health Worker Training,2016-06-13,2021-05-05,82.57
+2231,Malaria Testing and Treatment Program,2015-02-01,2018-03-11,72.07
+2232,Bed Net Distribution Program,2017-08-19,2018-03-24,66.07
+2233,Indoor Residual Spraying Campaign,2018-06-29,2018-11-15,78.81
+2234,Indoor Residual Spraying Campaign,2023-01-26,2021-10-10,85.69
+2235,Community Health Worker Training,2017-10-30,2017-04-12,73.43
+2236,Malaria Awareness Campaign,2021-12-02,2023-11-02,86.44
+2237,Community Health Worker Training,2019-06-28,2020-10-09,61.94
+2238,Indoor Residual Spraying Campaign,2022-05-17,2020-12-27,77.73
+2239,Community Health Worker Training,2015-01-11,2017-09-19,71.25
+2240,Indoor Residual Spraying Campaign,2021-05-13,2023-01-17,85.75
+2241,Malaria Awareness Campaign,2023-03-26,2023-05-24,88.89
+2242,Community Health Worker Training,2018-02-14,2020-12-27,88.18
+2243,Indoor Residual Spraying Campaign,2016-08-01,2021-10-23,65.66
+2244,Malaria Awareness Campaign,2023-01-06,2020-11-19,58.47
+2245,Indoor Residual Spraying Campaign,2021-09-07,2021-11-12,76.68
+2246,Community Health Worker Training,2016-05-31,2021-12-16,56.31
+2247,Malaria Testing and Treatment Program,2019-01-03,2018-09-15,94.36
+2248,Malaria Testing and Treatment Program,2016-09-05,2023-04-19,60.21
+2249,Malaria Awareness Campaign,2018-09-14,2023-03-17,72.54
+2250,Community Health Worker Training,2016-08-22,2022-07-25,70.54
+2251,Community Health Worker Training,2020-09-26,2021-08-11,74.51
+2252,Malaria Awareness Campaign,2021-06-04,2023-10-22,88.2
+2253,Community Health Worker Training,2017-06-11,2019-11-04,80.21
+2254,Indoor Residual Spraying Campaign,2015-02-23,2017-09-12,94.53
+2255,Malaria Testing and Treatment Program,2021-04-17,2017-03-12,50.28
+2256,Malaria Testing and Treatment Program,2017-04-17,2018-01-14,78.16
+2257,Malaria Testing and Treatment Program,2017-05-18,2019-04-27,63.06
+2258,Bed Net Distribution Program,2018-04-15,2015-04-08,67.84
+2259,Malaria Awareness Campaign,2021-08-07,2016-06-07,72.29
+2260,Community Health Worker Training,2022-08-20,2017-06-25,74.43
+2261,Malaria Testing and Treatment Program,2019-03-25,2017-04-15,74.77
+2262,Indoor Residual Spraying Campaign,2022-06-25,2023-06-14,55.53
+2263,Community Health Worker Training,2021-09-06,2022-06-18,62.02
+2264,Malaria Testing and Treatment Program,2023-08-09,2022-10-30,64.63
+2265,Indoor Residual Spraying Campaign,2018-06-11,2020-07-08,71.93
+2266,Community Health Worker Training,2022-02-24,2021-10-29,94.58
+2267,Bed Net Distribution Program,2016-09-21,2017-05-21,61.9
+2268,Malaria Testing and Treatment Program,2022-02-08,2020-07-20,50.08
+2269,Community Health Worker Training,2017-12-02,2021-07-16,88.37
+2270,Malaria Testing and Treatment Program,2018-02-01,2015-04-21,58.71
+2271,Community Health Worker Training,2018-12-30,2023-11-05,63.68
+2272,Malaria Testing and Treatment Program,2017-07-28,2016-12-14,94.91
+2273,Malaria Awareness Campaign,2021-02-21,2017-05-13,63.13
+2274,Malaria Awareness Campaign,2015-10-28,2015-11-22,94.83
+2275,Malaria Awareness Campaign,2021-11-14,2015-04-30,58.09
+2276,Community Health Worker Training,2019-04-01,2017-09-21,79.28
+2277,Indoor Residual Spraying Campaign,2017-04-11,2021-09-20,94.23
+2278,Bed Net Distribution Program,2017-12-30,2022-11-10,60.91
+2279,Indoor Residual Spraying Campaign,2020-07-10,2022-02-24,90.03
+2280,Indoor Residual Spraying Campaign,2021-04-10,2023-10-25,53.48
+2281,Community Health Worker Training,2022-03-24,2019-12-15,53.94
+2282,Bed Net Distribution Program,2022-07-25,2022-08-04,53.07
+2283,Malaria Testing and Treatment Program,2018-06-15,2021-08-13,52.73
+2284,Malaria Awareness Campaign,2023-07-22,2017-04-23,58.39
+2285,Bed Net Distribution Program,2017-04-14,2016-01-17,90.01
+2286,Bed Net Distribution Program,2023-03-25,2019-04-22,83.06
+2287,Malaria Awareness Campaign,2017-05-03,2020-06-19,93.37
+2288,Community Health Worker Training,2018-02-26,2023-04-02,69.81
+2289,Indoor Residual Spraying Campaign,2020-02-18,2018-04-26,90.4
+2290,Community Health Worker Training,2018-03-01,2015-06-14,65.98
+2291,Malaria Testing and Treatment Program,2020-11-29,2022-12-20,89.37
+2292,Community Health Worker Training,2016-04-26,2022-04-15,66.77
+2293,Indoor Residual Spraying Campaign,2021-12-28,2018-11-28,85.58
+2294,Indoor Residual Spraying Campaign,2019-03-28,2021-06-28,61.69
+2295,Community Health Worker Training,2017-02-14,2019-01-21,67.36
+2296,Bed Net Distribution Program,2015-09-12,2016-11-13,75.34
+2297,Malaria Testing and Treatment Program,2015-01-01,2023-10-20,78.9
+2298,Community Health Worker Training,2019-04-07,2018-12-22,54.91
+2299,Malaria Testing and Treatment Program,2020-04-26,2021-11-21,88.66
+2300,Malaria Awareness Campaign,2015-12-30,2018-08-18,78.48
+2301,Malaria Awareness Campaign,2018-03-03,2018-07-28,82.05
+2302,Community Health Worker Training,2021-09-02,2020-12-18,59.92
+2303,Community Health Worker Training,2016-07-26,2023-07-20,70.49
+2304,Indoor Residual Spraying Campaign,2023-03-29,2016-11-09,90.49
+2305,Indoor Residual Spraying Campaign,2016-10-01,2018-10-28,69.45
+2306,Community Health Worker Training,2023-10-11,2020-11-29,55.19
+2307,Bed Net Distribution Program,2017-06-28,2015-01-30,88.11
+2308,Indoor Residual Spraying Campaign,2022-05-01,2019-10-19,92.44
+2309,Community Health Worker Training,2023-02-09,2019-05-28,88.68
+2310,Indoor Residual Spraying Campaign,2021-03-11,2021-02-07,72.73
+2311,Indoor Residual Spraying Campaign,2021-10-20,2022-08-15,59.6
+2312,Indoor Residual Spraying Campaign,2015-07-06,2023-06-25,60.98
+2313,Indoor Residual Spraying Campaign,2021-04-16,2022-10-04,72.53
+2314,Indoor Residual Spraying Campaign,2018-10-27,2023-07-27,89.41
+2315,Bed Net Distribution Program,2015-10-01,2022-05-09,93.08
+2316,Community Health Worker Training,2019-12-22,2020-11-23,92.76
+2317,Malaria Testing and Treatment Program,2018-04-09,2021-03-08,81.28
+2318,Community Health Worker Training,2020-05-12,2016-01-15,66.0
+2319,Malaria Testing and Treatment Program,2020-05-04,2023-07-05,67.19
+2320,Malaria Awareness Campaign,2023-04-22,2017-06-01,81.96
+2321,Malaria Awareness Campaign,2022-05-18,2017-06-26,63.06
+2322,Malaria Testing and Treatment Program,2017-05-25,2016-09-08,87.34
+2323,Malaria Awareness Campaign,2015-04-20,2019-09-08,78.98
+2324,Indoor Residual Spraying Campaign,2017-04-08,2016-11-27,89.36
+2325,Malaria Testing and Treatment Program,2020-01-19,2020-03-13,53.39
+2326,Bed Net Distribution Program,2016-09-09,2017-09-28,63.73
+2327,Indoor Residual Spraying Campaign,2020-07-09,2020-01-29,67.08
+2328,Community Health Worker Training,2016-10-07,2015-04-02,91.89
+2329,Community Health Worker Training,2015-10-10,2023-10-02,64.84
+2330,Malaria Testing and Treatment Program,2016-12-06,2022-04-13,62.94
+2331,Bed Net Distribution Program,2016-05-04,2021-03-02,75.33
+2332,Malaria Awareness Campaign,2021-03-20,2017-05-11,85.37
+2333,Indoor Residual Spraying Campaign,2017-04-07,2021-03-03,71.92
+2334,Malaria Awareness Campaign,2022-08-19,2019-09-05,68.57
+2335,Malaria Awareness Campaign,2020-01-08,2023-03-11,50.49
+2336,Malaria Testing and Treatment Program,2019-03-04,2023-01-22,58.8
+2337,Community Health Worker Training,2017-03-11,2020-07-07,52.48
+2338,Bed Net Distribution Program,2019-02-23,2015-08-31,88.39
+2339,Malaria Testing and Treatment Program,2022-05-26,2023-08-14,57.08
+2340,Malaria Testing and Treatment Program,2019-04-16,2018-10-30,70.39
+2341,Bed Net Distribution Program,2018-09-08,2023-09-04,76.06
+2342,Community Health Worker Training,2019-12-15,2021-10-13,90.07
+2343,Malaria Awareness Campaign,2016-08-29,2016-12-09,88.26
+2344,Community Health Worker Training,2022-05-25,2016-05-18,80.49
+2345,Indoor Residual Spraying Campaign,2020-09-16,2022-01-29,89.52
+2346,Malaria Testing and Treatment Program,2021-03-29,2019-10-10,59.57
+2347,Malaria Testing and Treatment Program,2020-08-14,2022-11-25,90.38
+2348,Bed Net Distribution Program,2019-04-18,2019-03-23,56.03
+2349,Indoor Residual Spraying Campaign,2023-12-02,2023-10-22,53.38
+2350,Indoor Residual Spraying Campaign,2022-03-16,2018-06-17,83.47
+2351,Community Health Worker Training,2022-12-16,2021-09-28,85.37
+2352,Bed Net Distribution Program,2019-01-22,2023-04-12,70.69
+2353,Indoor Residual Spraying Campaign,2020-11-12,2017-08-05,76.33
+2354,Community Health Worker Training,2015-11-03,2015-03-18,91.34
+2355,Indoor Residual Spraying Campaign,2021-03-06,2022-02-25,75.41
+2356,Malaria Testing and Treatment Program,2020-04-01,2016-12-20,65.02
+2357,Indoor Residual Spraying Campaign,2021-02-14,2016-04-02,62.95
+2358,Indoor Residual Spraying Campaign,2015-04-17,2017-09-28,65.7
+2359,Indoor Residual Spraying Campaign,2015-05-25,2023-05-14,66.55
+2360,Malaria Awareness Campaign,2021-03-08,2019-09-14,68.81
+2361,Bed Net Distribution Program,2015-12-25,2020-05-13,90.08
+2362,Community Health Worker Training,2023-03-27,2023-11-02,85.42
+2363,Malaria Testing and Treatment Program,2015-12-16,2016-02-14,61.44
+2364,Indoor Residual Spraying Campaign,2018-05-17,2020-12-15,61.92
+2365,Malaria Awareness Campaign,2017-02-09,2021-07-16,57.14
+2366,Malaria Awareness Campaign,2020-05-12,2020-01-01,85.05
+2367,Malaria Testing and Treatment Program,2023-12-09,2015-12-03,57.61
+2368,Malaria Awareness Campaign,2023-12-26,2022-12-07,66.07
+2369,Malaria Awareness Campaign,2017-03-15,2020-02-14,52.91
+2370,Malaria Awareness Campaign,2023-11-05,2020-10-19,79.61
+2371,Community Health Worker Training,2022-08-18,2020-05-14,69.68
+2372,Malaria Testing and Treatment Program,2017-04-10,2015-01-01,79.8
+2373,Community Health Worker Training,2015-04-05,2022-07-05,66.11
+2374,Bed Net Distribution Program,2019-01-17,2015-05-11,72.81
+2375,Bed Net Distribution Program,2021-01-08,2019-05-14,83.09
+2376,Bed Net Distribution Program,2022-04-28,2019-08-28,94.44
+2377,Malaria Testing and Treatment Program,2016-01-01,2015-12-02,70.62
+2378,Malaria Awareness Campaign,2023-03-18,2015-01-03,81.18
+2379,Indoor Residual Spraying Campaign,2017-02-26,2019-06-01,77.79
+2380,Bed Net Distribution Program,2016-03-27,2017-06-05,67.28
+2381,Malaria Testing and Treatment Program,2022-11-23,2019-10-15,88.42
+2382,Indoor Residual Spraying Campaign,2018-07-27,2017-11-10,72.59
+2383,Malaria Awareness Campaign,2021-09-05,2016-06-18,83.19
+2384,Malaria Testing and Treatment Program,2015-02-20,2018-12-06,87.96
+2385,Community Health Worker Training,2018-12-05,2017-10-04,89.98
+2386,Malaria Awareness Campaign,2019-08-08,2017-10-08,94.71
+2387,Malaria Awareness Campaign,2020-06-26,2015-07-12,82.52
+2388,Indoor Residual Spraying Campaign,2016-07-19,2020-02-29,50.36
+2389,Indoor Residual Spraying Campaign,2019-08-14,2017-09-15,59.66
+2390,Indoor Residual Spraying Campaign,2023-06-17,2018-02-23,90.91
+2391,Indoor Residual Spraying Campaign,2018-03-24,2017-09-13,65.28
+2392,Malaria Awareness Campaign,2023-07-12,2017-12-06,57.68
+2393,Malaria Awareness Campaign,2020-10-22,2022-09-14,68.42
+2394,Community Health Worker Training,2021-08-01,2015-10-14,90.55
+2395,Malaria Awareness Campaign,2022-07-22,2023-03-30,80.62
+2396,Malaria Testing and Treatment Program,2016-11-18,2016-02-05,72.09
+2397,Community Health Worker Training,2019-09-08,2017-01-02,69.78
+2398,Community Health Worker Training,2016-11-05,2016-05-01,76.84
+2399,Community Health Worker Training,2020-07-15,2017-01-30,63.66
+2400,Community Health Worker Training,2021-01-06,2015-09-30,69.86
+2401,Community Health Worker Training,2021-04-12,2019-09-09,88.72
+2402,Malaria Awareness Campaign,2018-05-24,2021-04-27,66.65
+2403,Community Health Worker Training,2022-01-14,2018-07-08,55.37
+2404,Malaria Awareness Campaign,2018-08-25,2015-12-13,80.09
+2405,Malaria Awareness Campaign,2017-09-14,2015-03-06,93.12
+2406,Community Health Worker Training,2017-02-05,2021-05-13,79.8
+2407,Malaria Awareness Campaign,2019-03-08,2020-08-25,94.57
+2408,Indoor Residual Spraying Campaign,2021-04-15,2020-06-12,51.84
+2409,Bed Net Distribution Program,2020-02-03,2015-09-09,52.13
+2410,Bed Net Distribution Program,2023-05-21,2019-02-08,92.11
+2411,Malaria Awareness Campaign,2019-06-03,2023-10-23,58.2
+2412,Indoor Residual Spraying Campaign,2016-10-14,2017-09-26,92.99
+2413,Indoor Residual Spraying Campaign,2019-11-09,2016-06-30,83.54
+2414,Indoor Residual Spraying Campaign,2021-11-03,2018-11-09,93.39
+2415,Community Health Worker Training,2015-08-27,2015-11-11,62.17
+2416,Malaria Testing and Treatment Program,2019-05-05,2016-09-02,64.18
+2417,Malaria Testing and Treatment Program,2021-05-26,2019-01-10,61.02
+2418,Community Health Worker Training,2018-05-04,2018-06-19,72.0
+2419,Indoor Residual Spraying Campaign,2023-03-20,2023-02-02,70.8
+2420,Malaria Testing and Treatment Program,2018-07-21,2017-10-24,89.04
+2421,Community Health Worker Training,2018-04-02,2018-02-02,90.7
+2422,Malaria Awareness Campaign,2023-02-15,2015-09-26,63.91
+2423,Malaria Awareness Campaign,2020-05-14,2022-01-23,70.91
+2424,Bed Net Distribution Program,2020-05-23,2021-04-13,74.1
+2425,Indoor Residual Spraying Campaign,2021-12-01,2018-05-02,80.7
+2426,Malaria Testing and Treatment Program,2017-01-02,2017-09-23,54.75
+2427,Malaria Testing and Treatment Program,2023-01-07,2016-01-17,64.9
+2428,Malaria Testing and Treatment Program,2019-04-28,2019-11-29,85.85
+2429,Malaria Awareness Campaign,2021-03-07,2015-06-02,80.49
+2430,Bed Net Distribution Program,2023-08-13,2020-03-30,73.07
+2431,Community Health Worker Training,2023-10-22,2020-10-12,73.66
+2432,Malaria Testing and Treatment Program,2022-06-10,2015-07-15,65.3
+2433,Malaria Awareness Campaign,2021-11-01,2023-10-09,67.16
+2434,Indoor Residual Spraying Campaign,2018-09-10,2016-05-18,90.27
+2435,Indoor Residual Spraying Campaign,2016-03-22,2023-08-01,51.43
+2436,Malaria Awareness Campaign,2021-07-26,2021-10-02,91.96
+2437,Community Health Worker Training,2021-11-18,2023-11-19,57.4
+2438,Malaria Testing and Treatment Program,2015-10-26,2019-06-23,52.42
+2439,Bed Net Distribution Program,2022-09-24,2017-04-11,82.57
+2440,Bed Net Distribution Program,2019-07-25,2015-10-23,91.82
+2441,Malaria Testing and Treatment Program,2016-11-07,2022-06-24,77.86
+2442,Indoor Residual Spraying Campaign,2015-10-22,2019-07-21,64.88
+2443,Community Health Worker Training,2021-05-01,2019-03-06,91.22
+2444,Bed Net Distribution Program,2022-03-05,2023-08-21,68.96
+2445,Indoor Residual Spraying Campaign,2017-05-04,2018-02-07,90.33
+2446,Bed Net Distribution Program,2017-02-06,2019-03-13,60.45
+2447,Malaria Testing and Treatment Program,2022-02-22,2019-04-01,75.82
+2448,Bed Net Distribution Program,2023-06-22,2018-11-16,87.47
+2449,Malaria Testing and Treatment Program,2021-02-06,2015-11-12,67.39
+2450,Malaria Testing and Treatment Program,2018-09-15,2017-01-18,92.28
+2451,Indoor Residual Spraying Campaign,2016-05-28,2015-06-17,92.13
+2452,Malaria Awareness Campaign,2022-10-22,2023-05-24,82.38
+2453,Malaria Testing and Treatment Program,2017-02-15,2018-04-27,51.98
+2454,Malaria Awareness Campaign,2018-10-22,2020-03-18,76.1
+2455,Malaria Awareness Campaign,2022-06-17,2018-10-24,93.96
+2456,Malaria Testing and Treatment Program,2018-10-31,2023-07-29,93.61
+2457,Malaria Awareness Campaign,2015-06-06,2021-01-18,62.39
+2458,Bed Net Distribution Program,2017-10-01,2023-07-09,87.31
+2459,Bed Net Distribution Program,2021-06-03,2023-03-10,71.2
+2460,Indoor Residual Spraying Campaign,2019-04-23,2023-04-12,77.0
+2461,Indoor Residual Spraying Campaign,2019-04-01,2015-08-24,57.68
+2462,Indoor Residual Spraying Campaign,2023-09-08,2017-04-27,50.68
+2463,Malaria Testing and Treatment Program,2023-08-01,2018-03-04,68.54
+2464,Community Health Worker Training,2021-05-17,2015-01-08,64.52
+2465,Bed Net Distribution Program,2016-03-19,2023-11-06,89.93
+2466,Indoor Residual Spraying Campaign,2018-01-06,2015-09-03,56.04
+2467,Malaria Testing and Treatment Program,2021-03-28,2019-05-09,76.13
+2468,Malaria Awareness Campaign,2017-04-18,2021-01-20,87.94
+2469,Malaria Awareness Campaign,2022-09-19,2018-06-01,74.91
+2470,Bed Net Distribution Program,2017-01-30,2020-11-10,92.65
+2471,Malaria Awareness Campaign,2020-01-13,2017-04-15,76.76
+2472,Indoor Residual Spraying Campaign,2015-01-12,2020-04-05,54.04
+2473,Indoor Residual Spraying Campaign,2015-02-26,2020-03-12,84.87
+2474,Malaria Testing and Treatment Program,2017-02-03,2022-12-30,62.39
+2475,Malaria Awareness Campaign,2015-05-16,2020-07-29,92.42
+2476,Community Health Worker Training,2020-03-28,2015-07-03,63.34
+2477,Malaria Testing and Treatment Program,2017-03-20,2016-09-07,66.22
+2478,Community Health Worker Training,2022-05-27,2022-04-25,86.68
+2479,Indoor Residual Spraying Campaign,2015-12-02,2019-03-06,73.54
+2480,Malaria Awareness Campaign,2017-08-23,2022-11-04,59.57
+2481,Bed Net Distribution Program,2015-03-09,2022-03-24,55.24
+2482,Malaria Testing and Treatment Program,2017-01-20,2019-09-30,57.26
+2483,Malaria Awareness Campaign,2015-02-05,2021-09-28,56.58
+2484,Community Health Worker Training,2015-08-18,2023-06-15,84.03
+2485,Bed Net Distribution Program,2018-01-23,2023-05-03,74.44
+2486,Malaria Awareness Campaign,2020-04-06,2020-10-22,64.14
+2487,Community Health Worker Training,2022-07-04,2017-01-27,52.99
+2488,Bed Net Distribution Program,2023-10-25,2016-11-19,85.8
+2489,Community Health Worker Training,2019-11-16,2019-09-14,58.86
+2490,Community Health Worker Training,2023-03-28,2019-09-19,67.34
+2491,Malaria Testing and Treatment Program,2022-03-15,2023-12-27,72.34
+2492,Bed Net Distribution Program,2022-07-01,2016-12-01,87.59
+2493,Malaria Testing and Treatment Program,2015-11-23,2018-02-16,83.94
+2494,Indoor Residual Spraying Campaign,2018-11-29,2022-11-17,73.67
+2495,Malaria Testing and Treatment Program,2020-06-09,2015-10-02,89.42
+2496,Malaria Awareness Campaign,2015-07-25,2023-10-30,61.4
+2497,Indoor Residual Spraying Campaign,2019-08-28,2021-12-03,55.37
+2498,Bed Net Distribution Program,2019-03-20,2019-01-08,61.0
+2499,Malaria Awareness Campaign,2018-08-02,2016-01-16,51.13
+2500,Community Health Worker Training,2022-09-11,2016-01-13,85.87
+2501,Bed Net Distribution Program,2023-07-19,2015-12-11,78.1
+2502,Indoor Residual Spraying Campaign,2021-09-23,2017-07-30,86.13
+2503,Bed Net Distribution Program,2022-02-25,2016-06-14,77.97
+2504,Malaria Testing and Treatment Program,2019-06-09,2018-01-09,59.28
+2505,Community Health Worker Training,2016-11-14,2022-07-18,64.33
+2506,Malaria Testing and Treatment Program,2018-06-27,2021-04-29,67.2
+2507,Community Health Worker Training,2015-05-14,2017-12-09,71.18
+2508,Community Health Worker Training,2017-03-06,2015-05-17,58.69
+2509,Bed Net Distribution Program,2016-08-26,2021-05-01,58.61
+2510,Malaria Testing and Treatment Program,2018-04-23,2015-08-21,89.96
+2511,Indoor Residual Spraying Campaign,2019-05-05,2022-10-04,55.96
+2512,Malaria Testing and Treatment Program,2017-06-01,2020-05-08,73.37
+2513,Malaria Testing and Treatment Program,2015-09-21,2023-10-02,85.33
+2514,Malaria Testing and Treatment Program,2017-12-27,2015-09-09,92.94
+2515,Malaria Testing and Treatment Program,2019-01-16,2017-10-31,59.53
+2516,Malaria Testing and Treatment Program,2023-01-03,2019-11-24,65.23
+2517,Community Health Worker Training,2022-06-30,2020-06-23,62.57
+2518,Malaria Awareness Campaign,2022-07-23,2016-07-17,74.9
+2519,Bed Net Distribution Program,2019-11-14,2020-04-11,74.61
+2520,Malaria Awareness Campaign,2018-08-31,2020-05-16,75.24
+2521,Malaria Awareness Campaign,2020-01-01,2019-10-26,55.63
+2522,Malaria Awareness Campaign,2020-05-09,2022-05-31,71.73
+2523,Malaria Awareness Campaign,2023-11-06,2019-12-13,57.04
+2524,Malaria Awareness Campaign,2017-11-24,2021-06-20,90.17
+2525,Indoor Residual Spraying Campaign,2023-09-12,2023-12-26,58.23
+2526,Malaria Awareness Campaign,2019-04-13,2020-05-01,59.0
+2527,Community Health Worker Training,2021-10-09,2015-03-06,65.4
+2528,Bed Net Distribution Program,2022-03-01,2015-12-27,94.58
+2529,Community Health Worker Training,2015-06-21,2020-06-07,81.85
+2530,Bed Net Distribution Program,2016-05-02,2022-01-09,60.27
+2531,Malaria Testing and Treatment Program,2016-02-04,2015-08-20,83.64
+2532,Indoor Residual Spraying Campaign,2021-05-15,2020-12-15,87.5
+2533,Community Health Worker Training,2016-03-02,2023-04-15,55.69
+2534,Indoor Residual Spraying Campaign,2019-05-05,2023-03-07,94.29
+2535,Malaria Awareness Campaign,2018-12-08,2022-07-03,59.72
+2536,Indoor Residual Spraying Campaign,2016-11-16,2020-12-27,58.57
+2537,Community Health Worker Training,2022-03-29,2018-10-04,75.41
+2538,Indoor Residual Spraying Campaign,2016-07-21,2019-01-26,75.7
+2539,Indoor Residual Spraying Campaign,2016-03-12,2021-06-27,74.57
+2540,Community Health Worker Training,2016-07-05,2020-06-05,61.52
+2541,Malaria Awareness Campaign,2022-09-21,2021-08-14,66.35
+2542,Indoor Residual Spraying Campaign,2016-08-22,2022-12-08,54.56
+2543,Bed Net Distribution Program,2019-10-19,2023-09-30,80.66
+2544,Bed Net Distribution Program,2016-07-24,2023-08-17,68.77
+2545,Indoor Residual Spraying Campaign,2023-02-22,2020-01-27,93.91
+2546,Community Health Worker Training,2019-12-28,2017-04-25,50.46
+2547,Indoor Residual Spraying Campaign,2017-05-31,2022-03-28,88.61
+2548,Bed Net Distribution Program,2016-02-13,2021-04-22,86.31
+2549,Bed Net Distribution Program,2019-03-12,2020-12-17,52.19
+2550,Malaria Awareness Campaign,2021-07-13,2021-08-18,74.86
+2551,Indoor Residual Spraying Campaign,2020-10-18,2020-12-27,89.62
+2552,Malaria Awareness Campaign,2018-08-04,2023-07-08,69.11
+2553,Malaria Testing and Treatment Program,2021-02-09,2021-06-14,62.86
+2554,Indoor Residual Spraying Campaign,2021-11-02,2017-11-16,57.1
+2555,Bed Net Distribution Program,2017-09-04,2023-11-01,94.02
+2556,Malaria Testing and Treatment Program,2018-06-09,2017-05-10,89.08
+2557,Malaria Awareness Campaign,2020-02-15,2022-11-16,72.18
+2558,Indoor Residual Spraying Campaign,2017-11-30,2015-05-15,59.06
+2559,Indoor Residual Spraying Campaign,2019-09-18,2017-09-12,77.56
+2560,Malaria Awareness Campaign,2017-11-23,2022-10-13,83.49
+2561,Bed Net Distribution Program,2017-06-09,2017-06-29,82.24
+2562,Malaria Testing and Treatment Program,2019-11-15,2017-06-01,56.07
+2563,Community Health Worker Training,2017-04-16,2015-04-01,66.42
+2564,Community Health Worker Training,2015-02-11,2015-10-28,84.03
+2565,Bed Net Distribution Program,2020-01-22,2021-07-01,58.64
+2566,Bed Net Distribution Program,2019-03-23,2019-03-01,87.68
+2567,Community Health Worker Training,2016-04-10,2016-06-24,79.22
+2568,Malaria Awareness Campaign,2023-03-31,2016-09-05,58.51
+2569,Community Health Worker Training,2019-01-24,2021-03-02,87.12
+2570,Indoor Residual Spraying Campaign,2015-07-24,2022-12-23,70.94
+2571,Malaria Testing and Treatment Program,2016-04-14,2018-08-12,92.66
+2572,Indoor Residual Spraying Campaign,2015-02-26,2017-08-11,58.33
+2573,Bed Net Distribution Program,2016-01-19,2016-12-19,90.91
+2574,Bed Net Distribution Program,2022-06-11,2016-08-20,58.75
+2575,Bed Net Distribution Program,2016-09-20,2016-09-26,64.65
+2576,Malaria Awareness Campaign,2023-06-01,2019-04-28,50.84
+2577,Bed Net Distribution Program,2018-10-31,2021-07-24,78.29
+2578,Malaria Testing and Treatment Program,2019-11-17,2016-06-29,73.28
+2579,Malaria Testing and Treatment Program,2022-07-24,2022-11-24,93.97
+2580,Community Health Worker Training,2015-06-14,2022-02-26,70.85
+2581,Indoor Residual Spraying Campaign,2017-02-15,2018-04-04,59.72
+2582,Malaria Awareness Campaign,2019-12-11,2015-10-17,61.41
+2583,Malaria Testing and Treatment Program,2015-08-09,2019-12-02,72.13
+2584,Community Health Worker Training,2022-11-20,2017-11-14,92.99
+2585,Community Health Worker Training,2020-04-12,2022-01-24,71.8
+2586,Malaria Awareness Campaign,2016-09-29,2022-12-04,77.55
+2587,Indoor Residual Spraying Campaign,2021-03-24,2019-12-23,83.71
+2588,Indoor Residual Spraying Campaign,2022-05-02,2023-08-30,57.11
+2589,Malaria Testing and Treatment Program,2020-02-02,2019-08-22,53.63
+2590,Malaria Awareness Campaign,2015-10-15,2018-11-27,50.29
+2591,Malaria Testing and Treatment Program,2019-11-10,2016-08-27,55.08
+2592,Malaria Testing and Treatment Program,2018-09-28,2015-04-10,94.75
+2593,Malaria Awareness Campaign,2023-04-05,2023-09-29,50.66
+2594,Community Health Worker Training,2023-12-01,2017-12-17,54.43
+2595,Malaria Testing and Treatment Program,2023-07-15,2018-11-28,55.25
+2596,Malaria Awareness Campaign,2023-06-26,2019-06-27,50.48
+2597,Bed Net Distribution Program,2018-03-13,2015-05-26,65.63
+2598,Community Health Worker Training,2023-09-09,2020-06-25,54.26
+2599,Malaria Awareness Campaign,2019-01-02,2019-08-20,66.31
+2600,Indoor Residual Spraying Campaign,2015-03-29,2019-11-28,52.04
+2601,Indoor Residual Spraying Campaign,2020-03-25,2020-01-18,58.5
+2602,Malaria Awareness Campaign,2018-09-09,2020-02-11,66.18
+2603,Community Health Worker Training,2018-01-03,2021-12-27,78.27
+2604,Indoor Residual Spraying Campaign,2019-05-28,2015-10-20,77.82
+2605,Community Health Worker Training,2021-06-08,2023-05-04,69.8
+2606,Malaria Awareness Campaign,2020-10-01,2017-08-27,76.69
+2607,Bed Net Distribution Program,2017-05-15,2015-11-01,52.78
+2608,Indoor Residual Spraying Campaign,2019-12-14,2020-01-12,64.65
+2609,Bed Net Distribution Program,2018-12-28,2022-09-16,70.04
+2610,Malaria Awareness Campaign,2017-04-26,2019-09-27,82.61
+2611,Bed Net Distribution Program,2020-02-04,2021-12-11,52.13
+2612,Malaria Testing and Treatment Program,2020-12-11,2015-11-26,87.6
+2613,Indoor Residual Spraying Campaign,2018-05-27,2017-05-29,75.86
+2614,Indoor Residual Spraying Campaign,2020-08-23,2019-12-14,69.47
+2615,Bed Net Distribution Program,2021-03-09,2020-06-07,83.67
+2616,Community Health Worker Training,2017-01-25,2023-09-16,66.71
+2617,Malaria Testing and Treatment Program,2015-02-02,2016-03-17,58.26
+2618,Bed Net Distribution Program,2022-07-06,2019-12-18,90.14
+2619,Indoor Residual Spraying Campaign,2016-08-04,2019-06-11,52.17
+2620,Malaria Awareness Campaign,2020-05-09,2016-04-04,93.7
+2621,Bed Net Distribution Program,2019-03-11,2015-06-21,74.77
+2622,Community Health Worker Training,2018-01-30,2015-11-08,59.38
+2623,Malaria Testing and Treatment Program,2020-05-19,2023-07-19,65.93
+2624,Indoor Residual Spraying Campaign,2018-03-13,2019-10-16,51.79
+2625,Malaria Testing and Treatment Program,2016-09-24,2015-11-20,78.54
+2626,Bed Net Distribution Program,2016-04-08,2023-04-24,89.51
+2627,Indoor Residual Spraying Campaign,2019-11-02,2020-03-19,81.81
+2628,Indoor Residual Spraying Campaign,2015-04-20,2016-01-28,54.4
+2629,Malaria Awareness Campaign,2022-07-12,2015-05-01,53.44
+2630,Malaria Testing and Treatment Program,2017-02-15,2019-04-13,81.1
+2631,Malaria Awareness Campaign,2020-06-12,2023-06-08,65.71
+2632,Indoor Residual Spraying Campaign,2023-11-27,2019-04-01,86.54
+2633,Community Health Worker Training,2020-07-04,2017-05-16,72.0
+2634,Community Health Worker Training,2018-09-14,2017-12-25,52.19
+2635,Community Health Worker Training,2021-10-06,2018-05-29,77.6
+2636,Community Health Worker Training,2020-12-28,2023-01-17,54.76
+2637,Indoor Residual Spraying Campaign,2021-09-04,2015-03-26,54.14
+2638,Malaria Testing and Treatment Program,2021-01-19,2022-07-28,69.76
+2639,Malaria Awareness Campaign,2020-08-16,2017-04-25,57.76
+2640,Community Health Worker Training,2020-01-17,2017-02-01,76.82
+2641,Bed Net Distribution Program,2019-02-18,2020-06-14,53.39
+2642,Malaria Awareness Campaign,2020-12-04,2020-10-03,73.56
+2643,Malaria Testing and Treatment Program,2019-07-04,2021-04-03,93.7
+2644,Bed Net Distribution Program,2020-06-30,2020-02-01,93.76
+2645,Bed Net Distribution Program,2019-12-15,2019-08-17,55.07
+2646,Malaria Testing and Treatment Program,2019-06-28,2020-01-27,64.02
+2647,Malaria Awareness Campaign,2020-03-28,2022-09-06,67.79
+2648,Community Health Worker Training,2015-08-26,2017-06-01,83.51
+2649,Malaria Testing and Treatment Program,2016-04-16,2017-11-21,64.26
+2650,Malaria Testing and Treatment Program,2019-01-16,2023-12-30,56.21
+2651,Bed Net Distribution Program,2018-12-07,2023-07-29,69.19
+2652,Bed Net Distribution Program,2021-05-15,2018-07-29,55.46
+2653,Malaria Testing and Treatment Program,2016-06-30,2023-09-08,59.24
+2654,Malaria Testing and Treatment Program,2020-12-03,2019-11-23,69.44
+2655,Bed Net Distribution Program,2021-09-02,2021-01-13,51.42
+2656,Malaria Testing and Treatment Program,2017-06-15,2019-12-17,64.08
+2657,Community Health Worker Training,2021-01-10,2022-07-13,65.03
+2658,Indoor Residual Spraying Campaign,2022-09-12,2023-10-03,61.67
+2659,Malaria Awareness Campaign,2017-03-23,2020-05-19,81.85
+2660,Bed Net Distribution Program,2015-05-12,2019-10-23,57.3
+2661,Community Health Worker Training,2020-09-07,2017-04-10,77.45
+2662,Indoor Residual Spraying Campaign,2016-05-23,2019-01-02,63.64
+2663,Bed Net Distribution Program,2015-09-17,2023-08-09,67.59
+2664,Bed Net Distribution Program,2019-12-29,2023-12-26,70.37
+2665,Community Health Worker Training,2022-07-09,2019-03-05,65.84
+2666,Indoor Residual Spraying Campaign,2017-11-06,2016-12-15,66.31
+2667,Malaria Awareness Campaign,2019-11-15,2018-06-30,52.82
+2668,Malaria Awareness Campaign,2019-10-31,2018-06-17,90.61
+2669,Indoor Residual Spraying Campaign,2021-03-25,2016-12-10,73.38
+2670,Malaria Awareness Campaign,2019-09-01,2017-04-13,72.96
+2671,Bed Net Distribution Program,2023-06-30,2016-10-05,94.83
+2672,Indoor Residual Spraying Campaign,2023-08-06,2019-07-03,85.05
+2673,Bed Net Distribution Program,2015-08-20,2018-09-03,85.1
+2674,Indoor Residual Spraying Campaign,2017-06-28,2021-05-13,64.87
+2675,Malaria Awareness Campaign,2017-03-12,2022-09-13,64.97
+2676,Indoor Residual Spraying Campaign,2023-10-18,2019-05-24,52.24
+2677,Malaria Awareness Campaign,2018-07-14,2016-07-24,71.78
+2678,Indoor Residual Spraying Campaign,2022-11-19,2018-11-02,73.43
+2679,Malaria Testing and Treatment Program,2016-03-15,2020-06-20,68.64
+2680,Malaria Testing and Treatment Program,2019-08-19,2021-10-20,74.78
+2681,Malaria Awareness Campaign,2018-08-03,2021-12-22,94.76
+2682,Bed Net Distribution Program,2015-03-02,2018-01-02,51.18
+2683,Malaria Testing and Treatment Program,2016-03-16,2017-08-28,54.24
+2684,Malaria Testing and Treatment Program,2016-07-18,2016-03-13,51.05
+2685,Malaria Awareness Campaign,2016-08-21,2023-01-10,68.71
+2686,Bed Net Distribution Program,2018-07-02,2022-01-16,89.86
+2687,Malaria Testing and Treatment Program,2022-07-18,2020-03-05,75.53
+2688,Malaria Awareness Campaign,2023-05-04,2022-12-19,93.59
+2689,Indoor Residual Spraying Campaign,2019-11-21,2017-10-08,72.23
+2690,Malaria Testing and Treatment Program,2021-07-17,2020-12-23,55.9
+2691,Bed Net Distribution Program,2015-11-04,2020-08-01,69.04
+2692,Malaria Awareness Campaign,2015-02-09,2020-12-11,74.69
+2693,Indoor Residual Spraying Campaign,2021-04-30,2021-05-07,71.73
+2694,Indoor Residual Spraying Campaign,2018-05-26,2016-09-26,69.02
+2695,Malaria Testing and Treatment Program,2019-02-19,2017-09-01,54.77
+2696,Community Health Worker Training,2022-03-01,2015-01-03,68.79
+2697,Bed Net Distribution Program,2015-06-09,2016-10-18,92.34
+2698,Bed Net Distribution Program,2022-07-28,2022-10-13,86.5
+2699,Malaria Awareness Campaign,2019-05-02,2023-02-10,73.87
+2700,Malaria Testing and Treatment Program,2021-01-06,2017-01-27,77.1
+2701,Malaria Awareness Campaign,2018-07-11,2022-11-23,52.18
+2702,Indoor Residual Spraying Campaign,2015-07-10,2021-08-19,52.5
+2703,Bed Net Distribution Program,2016-05-12,2019-03-18,50.29
+2704,Malaria Awareness Campaign,2022-01-25,2022-11-18,94.2
+2705,Malaria Awareness Campaign,2017-03-02,2018-06-18,92.99
+2706,Community Health Worker Training,2019-10-09,2015-07-28,73.1
+2707,Malaria Awareness Campaign,2021-06-17,2021-04-18,86.39
+2708,Bed Net Distribution Program,2020-05-02,2020-06-12,62.72
+2709,Malaria Testing and Treatment Program,2019-11-02,2017-06-07,94.08
+2710,Bed Net Distribution Program,2019-01-26,2022-10-23,91.88
+2711,Community Health Worker Training,2019-10-05,2018-11-16,63.07
+2712,Malaria Awareness Campaign,2016-01-22,2015-11-15,83.78
+2713,Malaria Awareness Campaign,2015-10-30,2016-11-25,78.42
+2714,Community Health Worker Training,2023-02-17,2023-12-21,78.92
+2715,Community Health Worker Training,2015-03-11,2018-05-28,56.5
+2716,Malaria Awareness Campaign,2020-07-24,2021-10-14,88.0
+2717,Malaria Awareness Campaign,2022-09-09,2016-07-30,68.46
+2718,Malaria Testing and Treatment Program,2015-01-17,2016-04-01,94.56
+2719,Malaria Testing and Treatment Program,2016-06-04,2021-07-19,64.35
+2720,Malaria Awareness Campaign,2023-03-19,2019-03-01,76.49
+2721,Malaria Awareness Campaign,2015-02-16,2015-09-12,53.15
+2722,Community Health Worker Training,2019-10-21,2017-11-06,56.26
+2723,Malaria Awareness Campaign,2017-07-17,2017-10-10,66.34
+2724,Malaria Testing and Treatment Program,2019-08-17,2016-03-19,90.36
+2725,Malaria Testing and Treatment Program,2017-07-27,2020-12-15,57.97
+2726,Malaria Awareness Campaign,2017-04-24,2016-07-02,73.12
+2727,Indoor Residual Spraying Campaign,2016-09-20,2023-05-29,83.12
+2728,Malaria Testing and Treatment Program,2015-11-01,2015-11-25,65.98
+2729,Indoor Residual Spraying Campaign,2015-01-07,2015-02-23,89.08
+2730,Indoor Residual Spraying Campaign,2019-09-02,2016-12-20,51.68
+2731,Malaria Testing and Treatment Program,2019-04-28,2020-06-08,54.88
+2732,Malaria Awareness Campaign,2021-07-31,2016-09-29,56.02
+2733,Malaria Awareness Campaign,2017-12-08,2015-03-26,90.08
+2734,Community Health Worker Training,2015-10-07,2016-12-08,82.27
+2735,Indoor Residual Spraying Campaign,2022-06-18,2023-01-03,53.1
+2736,Indoor Residual Spraying Campaign,2019-07-07,2021-08-29,54.92
+2737,Malaria Testing and Treatment Program,2021-10-22,2016-12-07,71.74
+2738,Indoor Residual Spraying Campaign,2023-04-25,2016-07-22,91.71
+2739,Indoor Residual Spraying Campaign,2015-02-05,2021-12-15,60.08
+2740,Indoor Residual Spraying Campaign,2022-07-14,2015-09-19,86.56
+2741,Bed Net Distribution Program,2018-06-14,2022-02-15,81.27
+2742,Community Health Worker Training,2023-07-05,2021-07-06,56.63
+2743,Malaria Awareness Campaign,2016-08-18,2021-01-17,92.49
+2744,Malaria Awareness Campaign,2022-08-11,2020-05-07,89.1
+2745,Malaria Awareness Campaign,2015-07-20,2019-03-28,77.04
+2746,Malaria Testing and Treatment Program,2020-05-18,2021-08-30,75.49
+2747,Malaria Testing and Treatment Program,2018-01-28,2017-04-24,78.37
+2748,Malaria Testing and Treatment Program,2015-12-14,2019-12-24,67.48
+2749,Community Health Worker Training,2020-08-25,2017-11-30,92.5
+2750,Indoor Residual Spraying Campaign,2018-09-03,2023-03-11,63.84
+2751,Community Health Worker Training,2018-04-24,2016-02-02,88.1
+2752,Indoor Residual Spraying Campaign,2018-09-27,2018-11-07,55.02
+2753,Malaria Awareness Campaign,2020-08-07,2022-03-28,92.26
+2754,Community Health Worker Training,2019-08-16,2018-02-15,62.23
+2755,Bed Net Distribution Program,2023-05-19,2020-02-22,65.45
+2756,Indoor Residual Spraying Campaign,2019-09-21,2017-07-13,91.34
+2757,Malaria Awareness Campaign,2015-04-21,2021-10-29,69.7
+2758,Malaria Testing and Treatment Program,2015-07-15,2016-11-26,55.07
+2759,Community Health Worker Training,2023-03-11,2019-10-23,90.4
+2760,Indoor Residual Spraying Campaign,2017-06-22,2015-07-21,78.77
+2761,Bed Net Distribution Program,2020-12-19,2017-08-29,68.85
+2762,Bed Net Distribution Program,2019-12-23,2018-02-06,86.31
+2763,Malaria Testing and Treatment Program,2021-07-15,2015-02-11,56.54
+2764,Community Health Worker Training,2019-09-03,2016-03-10,82.85
+2765,Community Health Worker Training,2015-11-26,2022-12-07,75.49
+2766,Malaria Awareness Campaign,2018-09-06,2021-07-29,89.91
+2767,Malaria Testing and Treatment Program,2021-04-14,2016-11-19,87.75
+2768,Bed Net Distribution Program,2018-04-22,2016-01-24,75.55
+2769,Indoor Residual Spraying Campaign,2020-12-09,2016-12-20,94.36
+2770,Indoor Residual Spraying Campaign,2018-07-09,2017-06-18,90.69
+2771,Bed Net Distribution Program,2015-02-15,2016-05-31,92.46
+2772,Indoor Residual Spraying Campaign,2022-05-07,2018-12-08,88.76
+2773,Bed Net Distribution Program,2018-08-25,2021-01-16,56.91
+2774,Community Health Worker Training,2017-10-03,2015-11-27,59.11
+2775,Malaria Testing and Treatment Program,2015-07-11,2023-01-11,60.52
+2776,Bed Net Distribution Program,2016-07-03,2016-11-05,66.42
+2777,Community Health Worker Training,2023-11-07,2023-09-15,58.08
+2778,Indoor Residual Spraying Campaign,2015-09-18,2015-02-07,88.45
+2779,Bed Net Distribution Program,2015-06-26,2017-04-21,80.29
+2780,Indoor Residual Spraying Campaign,2015-03-26,2016-07-08,76.79
+2781,Community Health Worker Training,2021-09-09,2019-11-07,60.03
+2782,Bed Net Distribution Program,2016-05-28,2023-06-24,89.98
+2783,Indoor Residual Spraying Campaign,2019-09-24,2023-04-20,90.94
+2784,Malaria Awareness Campaign,2015-05-02,2016-06-02,50.52
+2785,Malaria Testing and Treatment Program,2023-03-30,2021-07-10,75.21
+2786,Indoor Residual Spraying Campaign,2021-12-06,2017-06-26,73.57
+2787,Bed Net Distribution Program,2020-08-31,2022-08-23,94.34
+2788,Malaria Awareness Campaign,2018-10-28,2023-07-24,81.06
+2789,Malaria Awareness Campaign,2020-03-25,2021-07-07,55.46
+2790,Bed Net Distribution Program,2022-02-24,2020-07-24,94.75
+2791,Community Health Worker Training,2018-07-27,2018-06-18,61.34
+2792,Malaria Testing and Treatment Program,2020-02-05,2020-09-13,79.08
+2793,Bed Net Distribution Program,2023-11-19,2021-05-09,86.62
+2794,Indoor Residual Spraying Campaign,2016-02-21,2022-04-17,55.01
+2795,Malaria Testing and Treatment Program,2015-01-15,2021-03-04,83.1
+2796,Malaria Awareness Campaign,2022-09-18,2017-03-24,53.82
+2797,Community Health Worker Training,2015-09-02,2016-12-12,71.68
+2798,Bed Net Distribution Program,2019-05-30,2021-02-12,57.18
+2799,Malaria Testing and Treatment Program,2021-10-13,2015-12-11,88.09
+2800,Malaria Awareness Campaign,2023-08-29,2023-05-04,85.34
+2801,Indoor Residual Spraying Campaign,2016-07-29,2019-02-19,60.34
+2802,Malaria Testing and Treatment Program,2020-07-18,2021-12-22,51.09
+2803,Bed Net Distribution Program,2019-09-19,2022-04-12,75.71
+2804,Indoor Residual Spraying Campaign,2017-05-03,2019-11-29,90.69
+2805,Bed Net Distribution Program,2018-10-09,2022-10-13,55.25
+2806,Malaria Testing and Treatment Program,2023-05-09,2022-03-15,50.07
+2807,Community Health Worker Training,2015-07-03,2023-10-10,51.32
+2808,Malaria Awareness Campaign,2018-08-05,2019-12-30,69.55
+2809,Indoor Residual Spraying Campaign,2019-04-09,2020-08-29,87.68
+2810,Malaria Testing and Treatment Program,2016-05-06,2016-09-12,89.02
+2811,Indoor Residual Spraying Campaign,2021-09-05,2022-10-16,54.26
+2812,Malaria Awareness Campaign,2019-08-07,2022-11-27,71.71
+2813,Community Health Worker Training,2020-12-13,2022-08-17,80.19
+2814,Malaria Awareness Campaign,2017-04-19,2023-02-03,85.17
+2815,Malaria Testing and Treatment Program,2021-08-28,2021-07-24,53.84
+2816,Bed Net Distribution Program,2019-09-01,2016-06-01,66.14
+2817,Malaria Testing and Treatment Program,2016-09-17,2022-03-10,58.39
+2818,Malaria Testing and Treatment Program,2020-05-06,2023-06-24,87.51
+2819,Malaria Testing and Treatment Program,2019-09-21,2016-10-18,87.99
+2820,Community Health Worker Training,2022-11-07,2016-07-13,90.17
+2821,Community Health Worker Training,2022-06-17,2015-01-16,76.2
+2822,Indoor Residual Spraying Campaign,2017-06-25,2017-08-11,52.55
+2823,Indoor Residual Spraying Campaign,2022-02-11,2021-07-05,60.05
+2824,Indoor Residual Spraying Campaign,2018-06-17,2019-01-05,65.37
+2825,Malaria Awareness Campaign,2018-10-06,2018-01-31,53.81
+2826,Bed Net Distribution Program,2021-10-26,2021-06-06,63.53
+2827,Malaria Testing and Treatment Program,2017-11-02,2018-01-14,55.93
+2828,Malaria Testing and Treatment Program,2019-01-04,2020-06-11,92.8
+2829,Malaria Awareness Campaign,2017-12-20,2015-10-07,84.55
+2830,Bed Net Distribution Program,2018-12-02,2020-12-05,61.86
+2831,Community Health Worker Training,2015-10-15,2018-09-14,86.9
+2832,Bed Net Distribution Program,2020-03-14,2022-10-09,64.64
+2833,Malaria Testing and Treatment Program,2015-07-20,2021-02-06,75.31
+2834,Community Health Worker Training,2020-09-30,2016-10-01,70.95
+2835,Bed Net Distribution Program,2019-06-27,2018-11-21,87.61
+2836,Indoor Residual Spraying Campaign,2018-09-13,2016-04-12,57.71
+2837,Malaria Awareness Campaign,2021-06-19,2020-07-23,76.86
+2838,Malaria Testing and Treatment Program,2019-07-13,2022-11-03,87.71
+2839,Indoor Residual Spraying Campaign,2017-08-22,2023-12-07,76.4
+2840,Bed Net Distribution Program,2023-08-01,2022-02-16,61.82
+2841,Indoor Residual Spraying Campaign,2018-09-18,2023-09-23,78.95
+2842,Malaria Awareness Campaign,2017-10-10,2018-10-16,87.34
+2843,Indoor Residual Spraying Campaign,2019-12-09,2022-09-17,54.15
+2844,Bed Net Distribution Program,2021-03-22,2020-05-03,92.87
+2845,Bed Net Distribution Program,2015-06-26,2021-09-19,70.19
+2846,Community Health Worker Training,2017-04-14,2022-01-01,81.77
+2847,Malaria Awareness Campaign,2017-06-21,2020-11-29,89.1
+2848,Indoor Residual Spraying Campaign,2021-09-28,2017-05-31,53.51
+2849,Community Health Worker Training,2016-04-19,2015-06-13,92.69
+2850,Indoor Residual Spraying Campaign,2019-07-04,2023-03-06,76.16
+2851,Bed Net Distribution Program,2018-06-06,2016-07-31,59.74
+2852,Indoor Residual Spraying Campaign,2020-05-20,2023-07-06,69.93
+2853,Community Health Worker Training,2018-05-14,2022-07-17,76.48
+2854,Malaria Testing and Treatment Program,2022-04-26,2023-05-16,56.4
+2855,Malaria Awareness Campaign,2015-08-24,2019-01-07,55.95
+2856,Indoor Residual Spraying Campaign,2021-05-12,2023-04-15,55.55
+2857,Malaria Awareness Campaign,2019-03-23,2021-09-05,76.24
+2858,Malaria Awareness Campaign,2022-03-27,2019-06-16,92.86
+2859,Malaria Awareness Campaign,2015-08-21,2017-07-15,63.64
+2860,Indoor Residual Spraying Campaign,2020-08-30,2016-10-29,89.93
+2861,Bed Net Distribution Program,2022-01-05,2017-03-29,91.66
+2862,Bed Net Distribution Program,2019-04-02,2017-11-02,92.07
+2863,Malaria Testing and Treatment Program,2020-02-14,2022-07-09,60.94
+2864,Malaria Testing and Treatment Program,2021-05-07,2021-01-03,91.81
+2865,Malaria Awareness Campaign,2019-04-30,2020-03-08,83.89
+2866,Malaria Awareness Campaign,2016-06-30,2017-08-04,93.65
+2867,Malaria Testing and Treatment Program,2015-11-09,2023-02-10,51.49
+2868,Malaria Testing and Treatment Program,2022-05-06,2023-05-13,51.26
+2869,Malaria Testing and Treatment Program,2018-09-20,2022-11-22,78.85
+2870,Indoor Residual Spraying Campaign,2019-02-18,2022-07-22,75.41
+2871,Bed Net Distribution Program,2018-04-20,2020-11-26,66.71
+2872,Malaria Awareness Campaign,2022-02-03,2023-10-05,78.47
+2873,Malaria Awareness Campaign,2015-06-04,2021-08-04,82.29
+2874,Bed Net Distribution Program,2020-12-15,2021-12-01,82.83
+2875,Malaria Awareness Campaign,2019-07-24,2015-04-19,65.37
+2876,Community Health Worker Training,2015-01-21,2015-01-12,51.03
+2877,Malaria Testing and Treatment Program,2015-05-01,2022-06-21,93.82
+2878,Indoor Residual Spraying Campaign,2022-10-05,2016-10-14,77.76
+2879,Malaria Awareness Campaign,2023-07-05,2023-01-21,57.1
+2880,Malaria Testing and Treatment Program,2023-04-08,2019-04-18,76.79
+2881,Indoor Residual Spraying Campaign,2016-08-18,2018-05-07,65.21
+2882,Bed Net Distribution Program,2019-02-04,2015-08-14,81.42
+2883,Malaria Awareness Campaign,2017-08-20,2019-05-21,74.43
+2884,Indoor Residual Spraying Campaign,2019-10-17,2018-02-19,58.78
+2885,Bed Net Distribution Program,2023-03-04,2017-06-19,87.55
+2886,Malaria Testing and Treatment Program,2018-02-24,2018-03-31,55.64
+2887,Community Health Worker Training,2022-03-30,2019-04-21,81.58
+2888,Malaria Testing and Treatment Program,2018-09-08,2023-02-26,66.74
+2889,Bed Net Distribution Program,2017-05-25,2016-06-08,66.83
+2890,Community Health Worker Training,2021-06-17,2019-02-13,67.83
+2891,Community Health Worker Training,2017-11-03,2023-11-19,71.15
+2892,Malaria Testing and Treatment Program,2020-12-09,2016-06-26,57.72
+2893,Indoor Residual Spraying Campaign,2018-08-29,2017-05-09,92.67
+2894,Bed Net Distribution Program,2022-08-02,2019-10-09,68.69
+2895,Bed Net Distribution Program,2021-06-12,2023-09-08,65.19
+2896,Malaria Awareness Campaign,2019-11-13,2021-06-17,86.95
+2897,Community Health Worker Training,2019-05-01,2015-07-31,51.73
+2898,Indoor Residual Spraying Campaign,2018-06-09,2017-02-21,65.02
+2899,Malaria Awareness Campaign,2016-09-23,2021-03-14,70.21
+2900,Malaria Testing and Treatment Program,2023-10-22,2021-07-17,75.4
+2901,Indoor Residual Spraying Campaign,2016-02-23,2021-12-06,65.89
+2902,Indoor Residual Spraying Campaign,2019-07-01,2018-03-24,76.18
+2903,Indoor Residual Spraying Campaign,2016-12-04,2015-02-20,52.36
+2904,Bed Net Distribution Program,2021-04-06,2016-01-10,72.41
+2905,Community Health Worker Training,2019-11-19,2021-07-06,94.49
+2906,Malaria Awareness Campaign,2015-07-15,2016-10-26,61.86
+2907,Indoor Residual Spraying Campaign,2018-03-31,2021-08-21,67.72
+2908,Malaria Testing and Treatment Program,2023-02-11,2019-09-11,51.19
+2909,Malaria Awareness Campaign,2022-03-07,2016-03-06,66.3
+2910,Indoor Residual Spraying Campaign,2020-05-15,2016-04-17,78.76
+2911,Malaria Testing and Treatment Program,2021-03-08,2018-12-05,91.77
+2912,Bed Net Distribution Program,2021-06-24,2023-07-08,60.21
+2913,Indoor Residual Spraying Campaign,2021-11-18,2017-06-13,58.29
+2914,Malaria Testing and Treatment Program,2023-12-06,2016-08-31,65.61
+2915,Malaria Awareness Campaign,2019-12-12,2022-09-15,92.78
+2916,Malaria Testing and Treatment Program,2020-11-03,2023-04-10,90.24
+2917,Malaria Testing and Treatment Program,2019-06-04,2016-10-25,88.09
+2918,Bed Net Distribution Program,2017-05-04,2021-12-28,83.69
+2919,Malaria Awareness Campaign,2017-07-27,2022-02-18,88.41
+2920,Bed Net Distribution Program,2015-12-24,2017-04-10,93.93
+2921,Community Health Worker Training,2016-07-01,2021-11-07,58.83
+2922,Malaria Testing and Treatment Program,2018-01-30,2016-06-23,57.51
+2923,Malaria Testing and Treatment Program,2022-09-23,2016-10-21,82.87
+2924,Indoor Residual Spraying Campaign,2018-03-23,2017-11-16,77.06
+2925,Indoor Residual Spraying Campaign,2020-09-22,2018-03-19,93.18
+2926,Malaria Testing and Treatment Program,2019-07-17,2021-04-30,61.21
+2927,Bed Net Distribution Program,2020-11-12,2017-01-15,60.0
+2928,Malaria Testing and Treatment Program,2019-05-18,2017-04-17,54.98
+2929,Community Health Worker Training,2021-06-22,2019-09-13,68.25
+2930,Malaria Awareness Campaign,2015-08-05,2015-09-15,59.09
+2931,Malaria Awareness Campaign,2019-07-22,2017-07-30,58.29
+2932,Malaria Awareness Campaign,2015-01-28,2015-08-18,57.51
+2933,Indoor Residual Spraying Campaign,2015-10-23,2021-07-07,88.66
+2934,Community Health Worker Training,2023-07-17,2019-07-20,74.37
+2935,Bed Net Distribution Program,2015-01-20,2023-03-09,69.04
+2936,Community Health Worker Training,2019-06-06,2015-03-14,54.24
+2937,Community Health Worker Training,2019-10-03,2018-05-06,81.75
+2938,Malaria Testing and Treatment Program,2021-03-19,2021-07-28,68.82
+2939,Indoor Residual Spraying Campaign,2015-10-25,2016-12-15,70.42
+2940,Malaria Testing and Treatment Program,2016-08-22,2018-12-18,62.71
+2941,Malaria Testing and Treatment Program,2019-05-01,2022-09-24,80.32
+2942,Community Health Worker Training,2018-08-25,2016-10-13,74.88
+2943,Malaria Testing and Treatment Program,2017-03-27,2019-11-25,89.7
+2944,Malaria Testing and Treatment Program,2016-03-20,2022-07-21,70.28
+2945,Indoor Residual Spraying Campaign,2022-02-07,2023-07-27,89.19
+2946,Community Health Worker Training,2023-04-29,2021-08-23,72.77
+2947,Malaria Testing and Treatment Program,2020-04-27,2019-10-22,81.31
+2948,Bed Net Distribution Program,2015-04-07,2015-11-02,65.44
+2949,Indoor Residual Spraying Campaign,2015-01-11,2015-06-26,62.39
+2950,Community Health Worker Training,2016-01-08,2017-12-09,61.83
+2951,Indoor Residual Spraying Campaign,2020-08-09,2018-02-27,71.88
+2952,Malaria Testing and Treatment Program,2016-12-12,2023-01-25,51.18
+2953,Malaria Testing and Treatment Program,2016-01-07,2022-08-15,54.55
+2954,Bed Net Distribution Program,2020-08-08,2022-02-05,78.11
+2955,Bed Net Distribution Program,2018-09-18,2022-03-31,61.23
+2956,Community Health Worker Training,2015-12-22,2018-09-06,68.15
+2957,Indoor Residual Spraying Campaign,2022-07-10,2021-10-07,52.7
+2958,Bed Net Distribution Program,2017-08-27,2017-03-19,58.42
+2959,Community Health Worker Training,2015-08-09,2023-10-23,89.9
+2960,Indoor Residual Spraying Campaign,2019-09-03,2019-12-16,84.49
+2961,Malaria Awareness Campaign,2018-07-15,2017-09-21,90.0
+2962,Indoor Residual Spraying Campaign,2021-12-06,2021-05-26,94.41
+2963,Bed Net Distribution Program,2022-07-29,2017-08-27,89.98
+2964,Malaria Testing and Treatment Program,2020-12-06,2019-02-01,54.31
+2965,Indoor Residual Spraying Campaign,2022-08-05,2017-03-16,52.4
+2966,Malaria Testing and Treatment Program,2016-08-25,2016-04-30,77.1
+2967,Indoor Residual Spraying Campaign,2018-03-07,2015-01-30,68.02
+2968,Community Health Worker Training,2015-10-20,2017-11-28,67.0
+2969,Indoor Residual Spraying Campaign,2016-04-30,2017-07-14,94.49
+2970,Malaria Awareness Campaign,2022-07-12,2021-01-15,61.7
+2971,Community Health Worker Training,2015-05-31,2018-12-29,86.21
+2972,Malaria Testing and Treatment Program,2019-11-14,2023-01-23,77.25
+2973,Indoor Residual Spraying Campaign,2015-01-03,2015-06-08,78.77
+2974,Malaria Testing and Treatment Program,2023-09-13,2023-07-14,58.5
+2975,Bed Net Distribution Program,2018-05-20,2015-08-06,92.02
+2976,Bed Net Distribution Program,2019-07-12,2019-09-16,66.91
+2977,Bed Net Distribution Program,2023-03-10,2016-05-28,82.07
+2978,Malaria Awareness Campaign,2017-06-13,2017-08-21,91.41
+2979,Malaria Awareness Campaign,2019-10-05,2015-05-06,67.42
+2980,Malaria Awareness Campaign,2019-07-14,2017-07-20,65.98
+2981,Malaria Awareness Campaign,2020-03-20,2019-10-13,70.01
+2982,Malaria Testing and Treatment Program,2023-04-25,2022-08-08,72.59
+2983,Malaria Testing and Treatment Program,2020-08-26,2016-09-24,62.77
+2984,Malaria Testing and Treatment Program,2019-12-22,2021-06-02,86.7
+2985,Community Health Worker Training,2019-06-28,2023-01-02,69.31
+2986,Malaria Awareness Campaign,2020-12-21,2020-12-16,79.41
+2987,Community Health Worker Training,2020-06-28,2015-09-21,83.39
+2988,Indoor Residual Spraying Campaign,2016-03-08,2023-05-15,64.58
+2989,Malaria Awareness Campaign,2022-09-03,2023-03-23,66.49
+2990,Bed Net Distribution Program,2015-12-29,2017-10-04,58.41
+2991,Indoor Residual Spraying Campaign,2020-03-29,2019-03-03,80.61
+2992,Indoor Residual Spraying Campaign,2018-08-04,2016-02-14,51.09
+2993,Bed Net Distribution Program,2020-10-20,2022-10-17,89.28
+2994,Malaria Awareness Campaign,2019-07-02,2020-09-22,64.25
+2995,Community Health Worker Training,2019-08-22,2015-01-01,50.35
+2996,Malaria Testing and Treatment Program,2017-07-29,2015-07-08,68.47
+2997,Community Health Worker Training,2022-01-18,2023-07-30,92.99
+2998,Malaria Awareness Campaign,2022-12-28,2016-07-06,54.76
+2999,Community Health Worker Training,2015-03-09,2020-11-04,88.42

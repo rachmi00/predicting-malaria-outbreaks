@@ -1,0 +1,3001 @@
+Prevention_key,Nets_distributed,Spray_coverage,Control_method,Last_campaign_date
+0,223,68.89,Bed Net Distribution,2021-12-11
+1,527,83.95,Environmental Management,2023-11-05
+2,3905,63.84,Larvicide Application,2020-11-28
+3,330,75.16,Bed Net Distribution,2021-04-10
+4,782,66.9,Indoor Residual Spraying,2018-03-21
+5,3797,73.15,Larvicide Application,2022-10-14
+6,387,86.6,Bed Net Distribution,2021-11-22
+7,2739,49.39,Bed Net Distribution,2021-12-30
+8,3902,53.06,Bed Net Distribution,2015-09-04
+9,592,75.76,Environmental Management,2018-04-27
+10,4991,43.8,Indoor Residual Spraying,2023-06-01
+11,4128,88.58,Environmental Management,2016-02-02
+12,4938,41.56,Environmental Management,2020-05-22
+13,4708,42.02,Bed Net Distribution,2016-12-11
+14,282,73.28,Indoor Residual Spraying,2019-01-05
+15,1602,52.61,Indoor Residual Spraying,2017-11-04
+16,2853,79.16,Larvicide Application,2018-05-01
+17,2624,83.92,Environmental Management,2015-08-23
+18,1803,60.76,Bed Net Distribution,2021-07-27
+19,396,53.45,Environmental Management,2016-09-16
+20,999,92.3,Indoor Residual Spraying,2020-05-22
+21,3177,60.21,Bed Net Distribution,2017-12-17
+22,508,56.5,Larvicide Application,2018-07-31
+23,529,80.77,Indoor Residual Spraying,2016-10-27
+24,2410,56.14,Indoor Residual Spraying,2015-11-18
+25,1506,67.29,Environmental Management,2016-04-18
+26,3734,84.67,Bed Net Distribution,2021-05-02
+27,1986,71.05,Bed Net Distribution,2018-06-01
+28,3568,94.42,Bed Net Distribution,2021-12-22
+29,3320,68.14,Larvicide Application,2015-09-07
+30,128,87.3,Environmental Management,2016-11-05
+31,224,50.95,Bed Net Distribution,2020-04-04
+32,2425,69.0,Larvicide Application,2022-10-23
+33,201,41.17,Bed Net Distribution,2023-10-08
+34,4145,75.99,Larvicide Application,2016-09-15
+35,3889,45.78,Larvicide Application,2022-06-09
+36,2990,51.71,Environmental Management,2018-04-12
+37,3372,93.69,Bed Net Distribution,2020-10-18
+38,1345,53.22,Environmental Management,2020-12-11
+39,4300,44.97,Larvicide Application,2018-03-31
+40,3770,54.69,Larvicide Application,2016-05-21
+41,888,93.02,Larvicide Application,2021-07-04
+42,4807,84.43,Bed Net Distribution,2023-01-03
+43,3244,90.65,Bed Net Distribution,2015-02-18
+44,3879,82.91,Bed Net Distribution,2022-11-03
+45,958,66.36,Environmental Management,2023-11-27
+46,717,86.56,Environmental Management,2015-01-01
+47,2438,63.38,Indoor Residual Spraying,2017-06-21
+48,3806,43.32,Indoor Residual Spraying,2018-03-05
+49,3491,92.4,Indoor Residual Spraying,2020-05-08
+50,3903,74.2,Bed Net Distribution,2019-06-14
+51,1588,72.69,Bed Net Distribution,2021-04-01
+52,4508,41.33,Indoor Residual Spraying,2019-05-03
+53,2071,73.9,Indoor Residual Spraying,2016-10-13
+54,4074,41.76,Indoor Residual Spraying,2022-03-25
+55,499,66.86,Bed Net Distribution,2019-07-22
+56,4613,87.4,Larvicide Application,2016-03-23
+57,2943,68.3,Environmental Management,2017-06-30
+58,2784,89.78,Indoor Residual Spraying,2018-04-20
+59,1183,57.45,Indoor Residual Spraying,2020-07-03
+60,2757,86.76,Environmental Management,2018-06-13
+61,1930,51.8,Bed Net Distribution,2023-10-07
+62,2501,83.95,Indoor Residual Spraying,2023-06-11
+63,3228,88.3,Indoor Residual Spraying,2016-06-14
+64,2737,72.55,Bed Net Distribution,2018-08-01
+65,4824,88.79,Larvicide Application,2023-01-13
+66,2464,40.27,Bed Net Distribution,2022-06-13
+67,333,67.6,Larvicide Application,2021-10-19
+68,4040,43.24,Larvicide Application,2023-01-15
+69,2982,41.04,Indoor Residual Spraying,2023-12-05
+70,1025,90.2,Environmental Management,2021-11-26
+71,3581,73.23,Larvicide Application,2016-06-14
+72,4463,59.04,Larvicide Application,2019-02-02
+73,268,90.4,Environmental Management,2015-05-24
+74,1249,61.08,Indoor Residual Spraying,2019-03-24
+75,1404,86.99,Indoor Residual Spraying,2023-02-22
+76,4649,66.98,Larvicide Application,2018-09-22
+77,3017,43.96,Larvicide Application,2020-06-18
+78,1680,88.4,Environmental Management,2018-08-14
+79,1529,57.87,Larvicide Application,2022-07-30
+80,1311,67.06,Bed Net Distribution,2021-11-26
+81,132,53.69,Bed Net Distribution,2017-06-16
+82,234,62.68,Larvicide Application,2015-11-11
+83,789,51.15,Indoor Residual Spraying,2021-11-08
+84,1393,84.4,Indoor Residual Spraying,2023-07-28
+85,3978,58.08,Bed Net Distribution,2016-06-08
+86,457,86.03,Bed Net Distribution,2018-01-28
+87,4769,92.28,Larvicide Application,2023-05-29
+88,2968,94.32,Bed Net Distribution,2016-02-14
+89,596,82.82,Bed Net Distribution,2016-03-08
+90,2076,87.4,Larvicide Application,2021-05-06
+91,3267,71.03,Environmental Management,2018-01-28
+92,234,63.91,Environmental Management,2020-04-12
+93,1786,64.36,Environmental Management,2022-03-29
+94,3028,56.28,Indoor Residual Spraying,2018-09-15
+95,2152,85.89,Larvicide Application,2023-11-09
+96,1228,40.02,Environmental Management,2018-04-09
+97,547,74.56,Bed Net Distribution,2017-12-14
+98,2589,64.47,Indoor Residual Spraying,2018-02-04
+99,1281,86.13,Environmental Management,2017-12-07
+100,3877,53.45,Bed Net Distribution,2016-02-12
+101,809,40.13,Bed Net Distribution,2016-05-23
+102,3368,82.95,Environmental Management,2023-06-15
+103,2546,63.23,Bed Net Distribution,2016-02-02
+104,1775,90.64,Environmental Management,2023-08-21
+105,3290,73.49,Indoor Residual Spraying,2022-06-25
+106,1228,64.64,Bed Net Distribution,2020-02-16
+107,3342,90.17,Bed Net Distribution,2016-09-24
+108,3754,78.5,Larvicide Application,2015-09-04
+109,2879,70.49,Indoor Residual Spraying,2021-04-28
+110,4292,57.91,Bed Net Distribution,2016-09-14
+111,4320,73.57,Environmental Management,2022-05-17
+112,3407,94.51,Indoor Residual Spraying,2016-08-13
+113,661,60.27,Indoor Residual Spraying,2023-11-03
+114,2405,49.82,Indoor Residual Spraying,2022-07-21
+115,3384,72.61,Larvicide Application,2020-09-11
+116,2750,82.99,Bed Net Distribution,2021-02-07
+117,4881,52.4,Bed Net Distribution,2020-02-02
+118,2447,47.47,Larvicide Application,2015-06-29
+119,4465,81.61,Larvicide Application,2017-05-19
+120,3714,78.28,Environmental Management,2017-06-11
+121,2705,74.09,Indoor Residual Spraying,2019-11-13
+122,1906,76.49,Indoor Residual Spraying,2021-08-30
+123,2312,73.51,Indoor Residual Spraying,2015-05-07
+124,2810,83.34,Larvicide Application,2015-10-12
+125,3481,85.79,Environmental Management,2022-07-08
+126,1987,80.64,Bed Net Distribution,2015-10-05
+127,2380,60.01,Larvicide Application,2020-12-20
+128,1987,42.87,Bed Net Distribution,2019-04-02
+129,429,56.03,Indoor Residual Spraying,2021-06-14
+130,3107,64.22,Environmental Management,2016-08-12
+131,4110,57.81,Larvicide Application,2023-05-01
+132,616,46.4,Bed Net Distribution,2022-09-16
+133,1993,89.25,Indoor Residual Spraying,2023-02-27
+134,2704,80.62,Larvicide Application,2022-04-29
+135,3673,70.52,Indoor Residual Spraying,2016-06-02
+136,4408,63.22,Environmental Management,2021-01-27
+137,1943,74.61,Indoor Residual Spraying,2021-12-08
+138,2028,70.1,Larvicide Application,2023-06-20
+139,4354,63.15,Bed Net Distribution,2019-01-17
+140,631,87.63,Indoor Residual Spraying,2022-06-08
+141,4399,86.67,Bed Net Distribution,2019-04-03
+142,1372,61.73,Bed Net Distribution,2017-11-21
+143,1350,69.43,Bed Net Distribution,2017-07-23
+144,2858,69.74,Environmental Management,2023-01-16
+145,4894,88.83,Larvicide Application,2016-03-30
+146,507,66.07,Indoor Residual Spraying,2023-11-13
+147,3600,63.84,Bed Net Distribution,2023-01-03
+148,815,53.15,Indoor Residual Spraying,2019-09-30
+149,2160,54.67,Environmental Management,2021-06-04
+150,3211,87.48,Bed Net Distribution,2015-01-24
+151,1798,81.83,Environmental Management,2018-04-09
+152,2665,64.03,Indoor Residual Spraying,2022-10-17
+153,3698,87.23,Indoor Residual Spraying,2018-12-24
+154,2824,45.52,Larvicide Application,2019-07-29
+155,422,66.91,Bed Net Distribution,2015-11-07
+156,242,71.88,Indoor Residual Spraying,2022-07-21
+157,3732,42.63,Indoor Residual Spraying,2020-05-11
+158,951,43.07,Larvicide Application,2020-05-23
+159,3503,66.63,Environmental Management,2022-10-28
+160,3202,67.76,Bed Net Distribution,2021-11-04
+161,1484,94.2,Larvicide Application,2016-08-01
+162,3021,70.01,Indoor Residual Spraying,2022-05-27
+163,1738,54.76,Bed Net Distribution,2015-10-30
+164,4146,76.26,Indoor Residual Spraying,2016-10-26
+165,243,93.52,Indoor Residual Spraying,2023-08-12
+166,4162,77.19,Environmental Management,2016-05-29
+167,1023,94.11,Bed Net Distribution,2022-10-07
+168,2231,70.7,Bed Net Distribution,2016-07-12
+169,1811,63.47,Environmental Management,2023-03-24
+170,2469,45.79,Indoor Residual Spraying,2023-04-08
+171,3876,94.39,Larvicide Application,2022-09-08
+172,4626,41.29,Environmental Management,2019-04-25
+173,2090,52.14,Environmental Management,2018-02-10
+174,2767,82.72,Bed Net Distribution,2019-08-28
+175,2960,51.49,Indoor Residual Spraying,2018-06-28
+176,4084,48.74,Larvicide Application,2020-11-08
+177,1894,54.14,Indoor Residual Spraying,2018-06-29
+178,208,72.33,Indoor Residual Spraying,2020-03-10
+179,296,59.23,Environmental Management,2020-01-19
+180,2833,44.89,Indoor Residual Spraying,2020-07-24
+181,1515,41.3,Larvicide Application,2019-05-29
+182,2073,53.3,Bed Net Distribution,2015-09-23
+183,1288,70.29,Environmental Management,2019-12-19
+184,1725,60.31,Bed Net Distribution,2018-07-27
+185,3645,72.16,Environmental Management,2019-09-09
+186,2400,80.42,Bed Net Distribution,2015-02-06
+187,2972,41.89,Indoor Residual Spraying,2018-11-19
+188,3684,41.87,Larvicide Application,2016-02-09
+189,4035,79.94,Environmental Management,2018-06-29
+190,1488,48.18,Larvicide Application,2018-11-06
+191,4637,94.53,Indoor Residual Spraying,2015-08-04
+192,4468,56.1,Bed Net Distribution,2020-11-09
+193,1538,45.6,Bed Net Distribution,2021-05-26
+194,4632,78.62,Indoor Residual Spraying,2015-02-18
+195,860,85.34,Indoor Residual Spraying,2020-08-15
+196,2646,70.0,Bed Net Distribution,2021-08-02
+197,2125,83.19,Larvicide Application,2020-12-16
+198,4799,83.26,Environmental Management,2021-03-17
+199,1190,46.97,Indoor Residual Spraying,2019-09-02
+200,2264,54.64,Bed Net Distribution,2018-09-24
+201,3181,65.84,Bed Net Distribution,2018-10-13
+202,2851,91.44,Indoor Residual Spraying,2018-12-30
+203,2579,88.02,Bed Net Distribution,2016-02-09
+204,1066,57.29,Larvicide Application,2015-03-16
+205,1145,55.99,Indoor Residual Spraying,2021-09-16
+206,1057,63.79,Indoor Residual Spraying,2019-04-11
+207,1689,91.92,Environmental Management,2021-01-07
+208,1693,57.03,Environmental Management,2022-05-18
+209,4642,43.17,Bed Net Distribution,2023-09-27
+210,4203,83.59,Indoor Residual Spraying,2023-02-21
+211,141,50.34,Larvicide Application,2021-05-28
+212,2238,70.17,Indoor Residual Spraying,2022-02-06
+213,4231,56.99,Environmental Management,2021-08-08
+214,4678,55.78,Bed Net Distribution,2019-06-25
+215,886,65.93,Indoor Residual Spraying,2015-03-22
+216,2747,61.63,Larvicide Application,2022-04-15
+217,4095,69.9,Indoor Residual Spraying,2020-12-07
+218,1080,84.68,Bed Net Distribution,2019-06-09
+219,2877,59.79,Bed Net Distribution,2021-01-25
+220,1465,88.23,Environmental Management,2020-10-15
+221,979,46.98,Environmental Management,2017-12-16
+222,1966,51.51,Bed Net Distribution,2022-02-22
+223,2299,47.0,Bed Net Distribution,2019-08-26
+224,851,63.9,Bed Net Distribution,2018-07-24
+225,3910,57.18,Environmental Management,2018-08-11
+226,1253,65.99,Environmental Management,2015-05-31
+227,3400,46.71,Indoor Residual Spraying,2018-06-05
+228,2334,59.7,Larvicide Application,2017-11-23
+229,4513,53.24,Larvicide Application,2016-12-16
+230,1113,79.05,Indoor Residual Spraying,2021-02-02
+231,438,82.8,Indoor Residual Spraying,2022-09-04
+232,4721,59.74,Indoor Residual Spraying,2017-07-23
+233,119,49.48,Larvicide Application,2016-10-28
+234,1704,40.6,Indoor Residual Spraying,2017-06-01
+235,3268,83.75,Bed Net Distribution,2019-04-05
+236,3439,55.62,Environmental Management,2016-07-28
+237,3218,68.66,Larvicide Application,2023-08-05
+238,3688,72.65,Indoor Residual Spraying,2019-01-24
+239,3662,55.42,Indoor Residual Spraying,2016-03-20
+240,2228,85.42,Environmental Management,2020-05-10
+241,1272,51.77,Bed Net Distribution,2023-02-12
+242,1570,56.83,Indoor Residual Spraying,2016-09-28
+243,1318,75.56,Larvicide Application,2018-04-27
+244,1120,50.12,Larvicide Application,2018-11-10
+245,3853,47.59,Larvicide Application,2023-06-10
+246,2396,93.3,Larvicide Application,2021-09-13
+247,2257,45.3,Bed Net Distribution,2016-04-08
+248,2007,57.11,Larvicide Application,2020-05-06
+249,3866,87.97,Bed Net Distribution,2019-01-03
+250,2314,45.89,Environmental Management,2017-02-20
+251,2801,53.88,Environmental Management,2022-02-10
+252,686,50.82,Environmental Management,2023-04-14
+253,1625,45.72,Environmental Management,2021-02-08
+254,2754,66.59,Environmental Management,2016-05-23
+255,2801,75.3,Larvicide Application,2021-03-05
+256,3693,54.69,Bed Net Distribution,2021-02-08
+257,1682,87.94,Bed Net Distribution,2017-02-08
+258,4300,93.18,Environmental Management,2016-05-29
+259,1249,78.14,Bed Net Distribution,2021-12-31
+260,2026,91.67,Environmental Management,2016-08-11
+261,3181,84.14,Indoor Residual Spraying,2022-03-20
+262,334,64.12,Environmental Management,2018-09-22
+263,138,93.78,Environmental Management,2017-10-20
+264,4625,52.59,Indoor Residual Spraying,2019-04-13
+265,1518,57.13,Indoor Residual Spraying,2020-08-06
+266,4116,88.03,Indoor Residual Spraying,2017-09-07
+267,1411,78.87,Environmental Management,2017-03-18
+268,263,71.57,Environmental Management,2018-09-10
+269,2986,81.02,Larvicide Application,2015-10-20
+270,3019,41.73,Bed Net Distribution,2016-01-07
+271,4413,78.87,Bed Net Distribution,2015-05-17
+272,4696,91.85,Larvicide Application,2022-01-24
+273,1980,79.1,Environmental Management,2023-06-24
+274,4564,91.06,Larvicide Application,2016-02-29
+275,2347,64.72,Environmental Management,2023-01-07
+276,4011,62.36,Environmental Management,2020-01-26
+277,4617,43.73,Larvicide Application,2016-03-01
+278,2045,62.68,Larvicide Application,2015-07-13
+279,924,48.23,Indoor Residual Spraying,2020-10-20
+280,3174,51.14,Indoor Residual Spraying,2017-07-18
+281,4786,90.54,Environmental Management,2022-05-29
+282,220,93.5,Larvicide Application,2022-07-28
+283,4688,51.7,Larvicide Application,2018-04-02
+284,102,52.71,Larvicide Application,2019-06-28
+285,4254,70.38,Environmental Management,2022-05-14
+286,3890,77.52,Indoor Residual Spraying,2021-06-18
+287,2145,63.74,Environmental Management,2018-02-07
+288,784,94.09,Environmental Management,2016-09-16
+289,1579,86.27,Larvicide Application,2018-10-31
+290,4000,45.19,Environmental Management,2018-02-12
+291,858,45.5,Environmental Management,2022-06-12
+292,3767,81.04,Environmental Management,2022-10-05
+293,666,80.47,Indoor Residual Spraying,2022-09-28
+294,1738,87.91,Larvicide Application,2022-07-29
+295,364,66.29,Indoor Residual Spraying,2016-01-29
+296,2386,58.93,Indoor Residual Spraying,2019-12-09
+297,438,93.66,Indoor Residual Spraying,2022-09-22
+298,1370,90.34,Bed Net Distribution,2017-02-17
+299,4228,60.92,Environmental Management,2021-09-10
+300,4825,86.5,Indoor Residual Spraying,2018-11-15
+301,3698,44.74,Bed Net Distribution,2018-09-11
+302,1821,75.84,Indoor Residual Spraying,2016-09-22
+303,3829,57.78,Bed Net Distribution,2023-03-30
+304,2330,56.77,Environmental Management,2023-01-01
+305,2110,61.68,Larvicide Application,2017-01-17
+306,3205,50.7,Environmental Management,2017-12-21
+307,2444,76.77,Indoor Residual Spraying,2018-01-14
+308,4376,78.69,Larvicide Application,2023-10-19
+309,1023,94.01,Indoor Residual Spraying,2022-12-08
+310,1788,66.84,Bed Net Distribution,2019-09-09
+311,106,46.72,Larvicide Application,2015-09-06
+312,1120,70.12,Indoor Residual Spraying,2022-12-18
+313,4666,49.97,Environmental Management,2022-11-06
+314,3571,59.8,Larvicide Application,2023-03-25
+315,4013,54.77,Bed Net Distribution,2022-10-07
+316,3835,45.86,Indoor Residual Spraying,2018-12-01
+317,642,86.13,Bed Net Distribution,2020-07-09
+318,415,63.89,Indoor Residual Spraying,2018-09-04
+319,3187,74.59,Bed Net Distribution,2016-03-30
+320,148,52.55,Indoor Residual Spraying,2015-03-24
+321,1442,77.66,Larvicide Application,2018-08-23
+322,2022,58.44,Bed Net Distribution,2019-07-25
+323,3540,76.62,Bed Net Distribution,2018-10-12
+324,4367,47.62,Larvicide Application,2019-03-27
+325,758,81.35,Bed Net Distribution,2022-10-29
+326,629,67.32,Larvicide Application,2019-11-05
+327,144,43.65,Larvicide Application,2020-12-07
+328,855,64.31,Larvicide Application,2017-06-15
+329,3064,68.0,Larvicide Application,2019-09-08
+330,1350,62.7,Environmental Management,2017-02-03
+331,3303,41.89,Bed Net Distribution,2017-04-07
+332,4762,90.73,Bed Net Distribution,2021-12-30
+333,955,87.89,Indoor Residual Spraying,2021-06-17
+334,1944,49.26,Larvicide Application,2022-05-02
+335,1089,70.05,Larvicide Application,2021-07-27
+336,1384,61.57,Environmental Management,2018-01-28
+337,2256,86.54,Environmental Management,2017-06-30
+338,4087,88.59,Environmental Management,2023-11-10
+339,4667,84.04,Bed Net Distribution,2022-06-22
+340,806,63.39,Indoor Residual Spraying,2018-10-10
+341,658,86.38,Bed Net Distribution,2017-02-10
+342,1392,53.75,Indoor Residual Spraying,2020-02-29
+343,4846,45.54,Larvicide Application,2022-06-05
+344,2643,93.3,Bed Net Distribution,2016-01-28
+345,746,71.3,Larvicide Application,2020-05-09
+346,2739,41.11,Indoor Residual Spraying,2020-09-23
+347,4950,43.53,Indoor Residual Spraying,2017-05-17
+348,4183,62.92,Larvicide Application,2022-05-19
+349,1210,47.72,Bed Net Distribution,2019-10-03
+350,2852,68.93,Environmental Management,2021-03-26
+351,4971,42.06,Bed Net Distribution,2018-12-11
+352,1215,60.78,Larvicide Application,2023-03-30
+353,3151,89.03,Indoor Residual Spraying,2021-04-19
+354,143,86.17,Indoor Residual Spraying,2015-08-12
+355,1782,43.27,Larvicide Application,2017-10-11
+356,4293,87.17,Larvicide Application,2020-03-14
+357,1791,68.34,Larvicide Application,2022-11-13
+358,1358,43.25,Environmental Management,2023-02-20
+359,2310,48.59,Indoor Residual Spraying,2021-02-01
+360,2810,55.51,Bed Net Distribution,2020-06-27
+361,4523,88.13,Larvicide Application,2018-09-10
+362,3858,62.96,Bed Net Distribution,2020-11-10
+363,3710,57.83,Bed Net Distribution,2017-04-19
+364,861,80.04,Environmental Management,2020-05-05
+365,1983,81.83,Larvicide Application,2021-04-07
+366,210,73.16,Bed Net Distribution,2022-12-12
+367,2118,54.32,Larvicide Application,2019-06-16
+368,177,78.29,Environmental Management,2015-08-25
+369,1832,66.55,Environmental Management,2017-12-24
+370,4532,89.16,Indoor Residual Spraying,2015-12-20
+371,2452,51.04,Indoor Residual Spraying,2017-11-25
+372,4119,81.06,Indoor Residual Spraying,2018-09-20
+373,4415,69.29,Indoor Residual Spraying,2016-01-28
+374,2251,56.32,Bed Net Distribution,2016-09-05
+375,1537,60.43,Environmental Management,2017-05-27
+376,480,41.1,Larvicide Application,2018-05-01
+377,3754,84.89,Larvicide Application,2022-03-11
+378,1957,45.8,Environmental Management,2023-04-13
+379,3969,57.28,Environmental Management,2018-05-15
+380,3251,52.63,Bed Net Distribution,2022-08-15
+381,2764,92.25,Bed Net Distribution,2021-07-08
+382,3345,68.41,Indoor Residual Spraying,2016-01-23
+383,3129,69.59,Larvicide Application,2018-12-04
+384,1437,41.88,Indoor Residual Spraying,2023-01-13
+385,1571,53.89,Indoor Residual Spraying,2020-12-22
+386,3240,85.51,Indoor Residual Spraying,2016-12-23
+387,1170,61.86,Bed Net Distribution,2019-03-12
+388,1249,69.5,Environmental Management,2016-06-30
+389,1353,69.31,Larvicide Application,2020-05-28
+390,3146,48.42,Indoor Residual Spraying,2016-08-05
+391,1949,42.21,Bed Net Distribution,2020-02-15
+392,4695,82.4,Larvicide Application,2019-04-03
+393,3916,69.74,Indoor Residual Spraying,2021-01-04
+394,3023,68.53,Bed Net Distribution,2023-12-28
+395,3912,87.6,Indoor Residual Spraying,2015-01-14
+396,4017,68.73,Indoor Residual Spraying,2022-04-22
+397,2085,41.7,Environmental Management,2015-04-02
+398,4060,69.35,Larvicide Application,2022-09-02
+399,2121,88.17,Environmental Management,2016-05-19
+400,245,70.04,Environmental Management,2017-08-25
+401,3593,40.22,Environmental Management,2023-12-20
+402,4943,56.54,Indoor Residual Spraying,2019-04-08
+403,4537,91.25,Indoor Residual Spraying,2018-10-05
+404,916,72.17,Indoor Residual Spraying,2017-02-14
+405,116,76.81,Bed Net Distribution,2021-06-13
+406,3162,66.85,Environmental Management,2021-06-28
+407,497,45.78,Bed Net Distribution,2021-08-28
+408,1446,73.32,Larvicide Application,2021-09-02
+409,3738,69.9,Environmental Management,2020-02-10
+410,1278,80.02,Environmental Management,2020-09-03
+411,1126,80.61,Larvicide Application,2016-09-26
+412,3416,88.44,Larvicide Application,2021-08-31
+413,281,47.27,Larvicide Application,2019-03-16
+414,756,47.63,Bed Net Distribution,2023-08-26
+415,4490,67.43,Indoor Residual Spraying,2017-04-28
+416,4642,40.69,Bed Net Distribution,2017-08-26
+417,1082,56.39,Bed Net Distribution,2018-03-16
+418,2702,86.81,Larvicide Application,2016-03-12
+419,2944,71.97,Bed Net Distribution,2022-01-26
+420,4042,52.45,Indoor Residual Spraying,2016-11-11
+421,2311,67.14,Indoor Residual Spraying,2016-05-10
+422,1509,41.31,Larvicide Application,2020-06-04
+423,591,51.67,Bed Net Distribution,2021-06-16
+424,1001,91.89,Environmental Management,2020-10-09
+425,4599,77.57,Larvicide Application,2015-11-28
+426,2786,52.64,Environmental Management,2020-05-22
+427,541,68.87,Larvicide Application,2023-06-11
+428,1442,84.01,Environmental Management,2016-07-20
+429,3234,59.82,Larvicide Application,2020-10-24
+430,467,93.25,Indoor Residual Spraying,2020-09-14
+431,2769,60.33,Environmental Management,2019-01-06
+432,3055,48.11,Larvicide Application,2021-07-15
+433,762,72.3,Larvicide Application,2020-12-18
+434,1299,70.52,Larvicide Application,2016-12-04
+435,3514,83.43,Environmental Management,2018-09-10
+436,2910,67.34,Larvicide Application,2020-03-24
+437,855,92.62,Larvicide Application,2020-02-15
+438,2733,62.61,Bed Net Distribution,2016-05-05
+439,4868,52.17,Environmental Management,2016-08-15
+440,1239,68.79,Larvicide Application,2018-06-21
+441,2794,71.79,Environmental Management,2020-06-13
+442,3065,58.53,Environmental Management,2021-09-13
+443,743,91.49,Larvicide Application,2017-06-30
+444,2169,67.09,Larvicide Application,2019-09-23
+445,430,72.1,Larvicide Application,2021-05-21
+446,680,54.82,Indoor Residual Spraying,2022-09-26
+447,1867,69.99,Bed Net Distribution,2016-03-02
+448,1479,67.64,Bed Net Distribution,2019-02-28
+449,3148,83.22,Indoor Residual Spraying,2021-01-02
+450,2905,56.08,Larvicide Application,2021-04-16
+451,3374,76.78,Indoor Residual Spraying,2018-11-15
+452,826,42.63,Environmental Management,2015-04-17
+453,4857,46.11,Indoor Residual Spraying,2018-04-07
+454,2876,45.46,Larvicide Application,2015-06-20
+455,4403,66.59,Indoor Residual Spraying,2021-04-06
+456,988,82.84,Indoor Residual Spraying,2022-12-13
+457,1192,87.97,Larvicide Application,2022-06-10
+458,2025,90.66,Indoor Residual Spraying,2018-01-26
+459,3397,59.87,Environmental Management,2020-08-24
+460,2902,84.75,Bed Net Distribution,2019-11-01
+461,3212,90.57,Larvicide Application,2015-03-14
+462,1127,55.33,Indoor Residual Spraying,2020-03-17
+463,1381,60.51,Larvicide Application,2017-09-27
+464,1466,80.85,Environmental Management,2018-03-27
+465,2331,62.55,Bed Net Distribution,2016-06-25
+466,3705,74.18,Environmental Management,2019-09-27
+467,1687,40.52,Bed Net Distribution,2015-11-18
+468,837,85.08,Environmental Management,2020-07-02
+469,290,66.12,Bed Net Distribution,2022-02-11
+470,251,76.49,Bed Net Distribution,2019-09-09
+471,3396,67.12,Bed Net Distribution,2020-08-17
+472,987,59.7,Larvicide Application,2018-10-10
+473,1099,74.18,Larvicide Application,2018-05-22
+474,2999,81.41,Larvicide Application,2018-02-05
+475,4269,70.45,Larvicide Application,2016-10-29
+476,530,70.25,Bed Net Distribution,2015-02-21
+477,528,65.65,Environmental Management,2019-02-04
+478,2712,75.84,Larvicide Application,2021-01-23
+479,323,92.81,Environmental Management,2020-11-13
+480,2226,54.89,Bed Net Distribution,2022-09-06
+481,402,48.21,Larvicide Application,2019-04-15
+482,2905,70.0,Larvicide Application,2021-12-29
+483,2333,44.8,Larvicide Application,2021-03-20
+484,2673,85.71,Indoor Residual Spraying,2015-10-30
+485,128,92.87,Larvicide Application,2022-04-03
+486,3055,41.03,Indoor Residual Spraying,2019-05-02
+487,191,69.65,Bed Net Distribution,2019-06-23
+488,1566,40.04,Indoor Residual Spraying,2018-04-07
+489,4500,86.82,Environmental Management,2015-09-22
+490,1650,71.61,Larvicide Application,2021-12-19
+491,4212,71.07,Environmental Management,2015-07-18
+492,2069,60.95,Bed Net Distribution,2016-10-02
+493,1756,54.48,Larvicide Application,2023-05-19
+494,1116,87.6,Larvicide Application,2017-05-16
+495,4613,61.56,Bed Net Distribution,2023-07-21
+496,2644,69.45,Environmental Management,2017-10-29
+497,4199,44.51,Bed Net Distribution,2015-09-17
+498,2053,78.35,Bed Net Distribution,2023-08-02
+499,914,50.37,Environmental Management,2018-03-12
+500,4070,89.52,Larvicide Application,2020-03-20
+501,4273,86.76,Larvicide Application,2022-10-28
+502,4336,86.29,Indoor Residual Spraying,2020-02-24
+503,156,80.26,Environmental Management,2023-10-10
+504,683,61.32,Bed Net Distribution,2023-12-06
+505,1761,48.71,Bed Net Distribution,2018-06-24
+506,2723,46.43,Bed Net Distribution,2021-01-19
+507,1901,55.64,Bed Net Distribution,2017-08-18
+508,4770,86.44,Environmental Management,2020-04-20
+509,4031,87.43,Larvicide Application,2019-06-04
+510,1122,50.48,Bed Net Distribution,2017-03-26
+511,369,73.94,Larvicide Application,2015-02-08
+512,3995,66.18,Bed Net Distribution,2022-04-19
+513,3172,89.43,Environmental Management,2023-07-19
+514,1726,79.4,Larvicide Application,2020-01-28
+515,1136,75.11,Indoor Residual Spraying,2020-03-17
+516,896,40.11,Bed Net Distribution,2018-03-09
+517,668,92.5,Indoor Residual Spraying,2020-10-29
+518,621,87.09,Indoor Residual Spraying,2023-06-13
+519,1605,64.5,Indoor Residual Spraying,2015-02-13
+520,755,85.67,Environmental Management,2019-06-15
+521,176,77.16,Environmental Management,2020-03-03
+522,3646,88.93,Bed Net Distribution,2017-11-28
+523,1126,85.47,Larvicide Application,2018-05-29
+524,3518,46.7,Indoor Residual Spraying,2018-07-15
+525,4963,94.47,Environmental Management,2020-03-30
+526,2419,48.36,Environmental Management,2018-04-29
+527,3273,91.48,Larvicide Application,2015-05-27
+528,2969,47.75,Larvicide Application,2016-03-03
+529,1962,93.9,Larvicide Application,2023-02-06
+530,1758,51.39,Indoor Residual Spraying,2017-04-02
+531,4841,63.77,Indoor Residual Spraying,2017-02-16
+532,2989,46.39,Environmental Management,2021-04-03
+533,1056,73.39,Environmental Management,2022-02-22
+534,105,89.11,Bed Net Distribution,2017-07-04
+535,119,68.24,Larvicide Application,2019-01-05
+536,4552,44.91,Indoor Residual Spraying,2022-05-24
+537,3005,88.35,Larvicide Application,2020-06-09
+538,3442,57.1,Bed Net Distribution,2015-10-30
+539,3525,84.03,Environmental Management,2015-10-07
+540,3152,58.66,Bed Net Distribution,2015-05-11
+541,4019,74.69,Environmental Management,2017-10-04
+542,2608,73.96,Larvicide Application,2022-04-03
+543,4528,53.28,Indoor Residual Spraying,2016-09-27
+544,332,45.76,Indoor Residual Spraying,2021-11-19
+545,3782,66.58,Environmental Management,2016-01-27
+546,1581,76.34,Bed Net Distribution,2017-02-07
+547,4659,79.35,Larvicide Application,2023-12-31
+548,4755,68.95,Indoor Residual Spraying,2016-05-25
+549,4684,53.89,Bed Net Distribution,2015-09-12
+550,4773,72.9,Indoor Residual Spraying,2018-08-23
+551,3714,73.68,Larvicide Application,2022-09-23
+552,3818,59.44,Indoor Residual Spraying,2017-11-05
+553,4619,59.99,Indoor Residual Spraying,2016-10-09
+554,3190,43.55,Larvicide Application,2017-08-09
+555,2359,63.37,Environmental Management,2021-12-25
+556,1377,93.65,Environmental Management,2021-06-08
+557,2091,85.26,Bed Net Distribution,2018-12-23
+558,1992,61.91,Environmental Management,2020-01-19
+559,2954,85.35,Environmental Management,2015-02-04
+560,1001,47.23,Environmental Management,2019-01-02
+561,4102,92.0,Environmental Management,2020-02-12
+562,257,79.52,Environmental Management,2021-09-15
+563,615,61.93,Bed Net Distribution,2015-12-01
+564,2111,62.44,Environmental Management,2020-10-29
+565,4503,44.31,Larvicide Application,2017-03-21
+566,385,65.06,Larvicide Application,2019-01-07
+567,1355,47.63,Environmental Management,2023-12-30
+568,4876,45.4,Larvicide Application,2015-01-30
+569,1716,50.43,Indoor Residual Spraying,2017-09-02
+570,4569,70.95,Bed Net Distribution,2022-05-18
+571,2915,93.96,Indoor Residual Spraying,2023-01-11
+572,2688,63.9,Environmental Management,2016-02-29
+573,4203,94.28,Larvicide Application,2015-08-04
+574,1306,73.01,Indoor Residual Spraying,2018-05-20
+575,4812,50.35,Environmental Management,2022-01-27
+576,1569,54.46,Larvicide Application,2022-09-05
+577,1148,45.12,Bed Net Distribution,2021-07-01
+578,807,69.56,Bed Net Distribution,2021-03-15
+579,3338,58.82,Larvicide Application,2017-06-24
+580,2062,53.01,Indoor Residual Spraying,2018-11-24
+581,3325,81.14,Environmental Management,2022-10-20
+582,3383,84.74,Environmental Management,2021-10-09
+583,4899,42.06,Larvicide Application,2021-09-03
+584,1003,85.77,Larvicide Application,2020-06-17
+585,665,45.13,Bed Net Distribution,2022-06-16
+586,3880,68.84,Larvicide Application,2017-01-27
+587,4682,52.18,Bed Net Distribution,2020-02-20
+588,3443,85.76,Larvicide Application,2020-07-25
+589,2165,64.58,Environmental Management,2015-04-22
+590,2516,71.37,Larvicide Application,2015-06-01
+591,1795,53.91,Larvicide Application,2015-03-05
+592,2994,84.2,Environmental Management,2019-06-19
+593,3483,55.55,Environmental Management,2022-09-02
+594,3267,79.59,Bed Net Distribution,2023-11-27
+595,3129,85.32,Larvicide Application,2019-03-18
+596,827,55.34,Environmental Management,2022-07-15
+597,2319,58.23,Environmental Management,2023-08-18
+598,966,50.47,Bed Net Distribution,2022-07-11
+599,536,68.97,Indoor Residual Spraying,2023-03-18
+600,1174,57.55,Indoor Residual Spraying,2015-06-19
+601,3201,79.69,Indoor Residual Spraying,2016-06-10
+602,957,47.53,Environmental Management,2022-01-14
+603,1595,93.7,Bed Net Distribution,2017-05-10
+604,3262,62.38,Larvicide Application,2017-11-19
+605,1088,53.76,Indoor Residual Spraying,2015-11-13
+606,1270,84.22,Indoor Residual Spraying,2018-09-21
+607,4850,87.6,Indoor Residual Spraying,2019-05-25
+608,4615,76.78,Indoor Residual Spraying,2017-09-10
+609,3776,46.61,Environmental Management,2017-01-05
+610,1262,49.27,Environmental Management,2022-08-24
+611,307,70.2,Indoor Residual Spraying,2022-01-06
+612,4136,44.69,Larvicide Application,2017-11-12
+613,4180,67.68,Bed Net Distribution,2016-06-18
+614,2359,54.55,Indoor Residual Spraying,2023-05-11
+615,1608,72.47,Bed Net Distribution,2023-09-30
+616,1540,52.8,Environmental Management,2020-03-20
+617,4476,60.7,Bed Net Distribution,2021-04-03
+618,263,94.35,Larvicide Application,2022-06-11
+619,2409,60.71,Environmental Management,2019-02-12
+620,2243,82.88,Environmental Management,2022-06-23
+621,3550,83.07,Indoor Residual Spraying,2015-12-14
+622,2837,67.62,Indoor Residual Spraying,2021-02-18
+623,884,90.69,Larvicide Application,2018-06-11
+624,1120,63.36,Larvicide Application,2021-12-05
+625,151,77.71,Indoor Residual Spraying,2021-09-29
+626,1378,83.02,Indoor Residual Spraying,2020-05-16
+627,2438,87.75,Environmental Management,2015-04-15
+628,587,94.59,Larvicide Application,2022-10-18
+629,1654,64.73,Bed Net Distribution,2017-08-24
+630,2260,50.76,Environmental Management,2019-03-13
+631,2369,73.15,Larvicide Application,2018-06-14
+632,594,49.89,Bed Net Distribution,2016-06-23
+633,3775,55.58,Environmental Management,2021-04-18
+634,806,80.21,Environmental Management,2018-06-08
+635,3756,50.14,Bed Net Distribution,2020-06-04
+636,4047,90.03,Bed Net Distribution,2015-07-12
+637,4499,86.07,Indoor Residual Spraying,2018-06-09
+638,2862,51.97,Indoor Residual Spraying,2022-08-09
+639,2035,45.52,Larvicide Application,2023-06-14
+640,1277,41.8,Bed Net Distribution,2021-08-25
+641,1073,90.6,Environmental Management,2021-08-24
+642,714,57.22,Larvicide Application,2021-05-06
+643,4891,46.96,Bed Net Distribution,2020-08-08
+644,839,93.92,Indoor Residual Spraying,2021-02-17
+645,2702,51.15,Bed Net Distribution,2021-12-12
+646,3698,42.65,Environmental Management,2020-01-03
+647,1164,69.77,Larvicide Application,2023-05-08
+648,1174,77.55,Environmental Management,2019-05-03
+649,3742,82.48,Bed Net Distribution,2020-09-19
+650,2098,54.6,Environmental Management,2021-06-19
+651,1547,49.46,Bed Net Distribution,2023-01-28
+652,3604,86.64,Indoor Residual Spraying,2019-11-08
+653,4497,43.88,Indoor Residual Spraying,2017-06-07
+654,1642,51.81,Indoor Residual Spraying,2018-09-21
+655,894,85.07,Indoor Residual Spraying,2019-12-10
+656,1726,47.42,Larvicide Application,2015-03-16
+657,965,58.65,Larvicide Application,2023-05-19
+658,1268,48.47,Environmental Management,2022-12-04
+659,131,82.07,Larvicide Application,2017-06-15
+660,1297,59.15,Environmental Management,2023-02-05
+661,507,69.42,Environmental Management,2019-02-17
+662,4586,76.81,Larvicide Application,2015-11-15
+663,1869,84.18,Bed Net Distribution,2022-01-02
+664,3067,68.38,Indoor Residual Spraying,2015-10-08
+665,4442,53.31,Bed Net Distribution,2019-04-20
+666,2884,63.88,Environmental Management,2022-02-12
+667,4629,92.46,Bed Net Distribution,2017-01-21
+668,3004,81.14,Larvicide Application,2015-09-20
+669,3331,53.48,Bed Net Distribution,2022-12-03
+670,1944,91.59,Larvicide Application,2023-04-09
+671,2265,50.11,Bed Net Distribution,2020-06-23
+672,1469,90.09,Indoor Residual Spraying,2016-10-29
+673,4132,41.93,Bed Net Distribution,2018-07-05
+674,277,56.29,Bed Net Distribution,2020-01-26
+675,4860,67.09,Bed Net Distribution,2019-01-27
+676,794,74.34,Bed Net Distribution,2017-03-05
+677,1441,74.05,Bed Net Distribution,2021-11-14
+678,1539,40.66,Indoor Residual Spraying,2017-02-05
+679,4875,73.41,Environmental Management,2021-05-25
+680,4143,45.49,Bed Net Distribution,2019-11-10
+681,4953,56.23,Indoor Residual Spraying,2023-03-25
+682,3290,67.23,Larvicide Application,2022-08-15
+683,3039,63.58,Bed Net Distribution,2022-12-23
+684,4826,63.19,Larvicide Application,2016-09-08
+685,2040,74.91,Larvicide Application,2022-06-08
+686,4269,64.23,Indoor Residual Spraying,2016-02-18
+687,2474,71.47,Larvicide Application,2017-06-30
+688,823,52.52,Bed Net Distribution,2021-12-31
+689,3506,86.8,Larvicide Application,2016-02-08
+690,4509,49.44,Bed Net Distribution,2023-06-15
+691,640,50.63,Environmental Management,2022-10-13
+692,4041,82.79,Indoor Residual Spraying,2019-06-05
+693,3355,86.49,Bed Net Distribution,2015-01-30
+694,3193,91.67,Larvicide Application,2016-04-06
+695,3424,47.97,Indoor Residual Spraying,2019-08-20
+696,779,93.53,Environmental Management,2018-01-23
+697,4467,94.91,Indoor Residual Spraying,2018-10-14
+698,1032,48.82,Environmental Management,2017-04-09
+699,1265,92.95,Environmental Management,2018-08-26
+700,2354,73.17,Environmental Management,2017-04-29
+701,2886,71.04,Indoor Residual Spraying,2018-03-21
+702,838,86.51,Bed Net Distribution,2017-08-31
+703,761,93.25,Indoor Residual Spraying,2018-07-12
+704,4228,55.22,Indoor Residual Spraying,2020-12-05
+705,965,75.84,Larvicide Application,2015-12-10
+706,4384,73.0,Larvicide Application,2015-08-15
+707,624,77.2,Bed Net Distribution,2019-02-20
+708,436,76.96,Larvicide Application,2015-04-04
+709,3303,72.38,Indoor Residual Spraying,2018-05-15
+710,2836,73.83,Environmental Management,2015-02-28
+711,1187,94.28,Environmental Management,2022-06-27
+712,1797,51.92,Larvicide Application,2023-08-23
+713,1106,52.95,Bed Net Distribution,2023-02-14
+714,1735,56.62,Indoor Residual Spraying,2016-12-19
+715,1308,77.98,Larvicide Application,2022-09-21
+716,4876,89.28,Environmental Management,2020-01-02
+717,2973,53.25,Environmental Management,2015-08-03
+718,3669,77.18,Bed Net Distribution,2016-06-19
+719,1787,60.83,Indoor Residual Spraying,2019-08-20
+720,2131,63.04,Indoor Residual Spraying,2023-12-18
+721,872,59.37,Larvicide Application,2021-05-24
+722,4059,92.09,Indoor Residual Spraying,2021-09-25
+723,4227,61.62,Indoor Residual Spraying,2018-12-30
+724,4530,67.47,Larvicide Application,2018-05-23
+725,595,43.96,Larvicide Application,2018-05-09
+726,396,74.2,Larvicide Application,2020-10-19
+727,1595,40.01,Indoor Residual Spraying,2017-02-10
+728,2161,87.23,Larvicide Application,2017-05-10
+729,4253,51.29,Environmental Management,2017-11-22
+730,1467,61.9,Bed Net Distribution,2016-06-01
+731,4281,68.2,Indoor Residual Spraying,2015-01-29
+732,910,91.17,Environmental Management,2023-10-08
+733,4897,40.93,Environmental Management,2020-07-23
+734,3689,77.96,Bed Net Distribution,2020-04-10
+735,3685,83.58,Larvicide Application,2016-12-05
+736,4376,55.6,Bed Net Distribution,2017-09-06
+737,4419,45.51,Environmental Management,2017-02-10
+738,634,62.23,Larvicide Application,2021-10-04
+739,469,66.61,Indoor Residual Spraying,2023-12-13
+740,4021,88.22,Indoor Residual Spraying,2016-10-24
+741,250,89.66,Indoor Residual Spraying,2017-05-21
+742,2942,41.79,Bed Net Distribution,2020-03-15
+743,4270,49.05,Environmental Management,2023-06-10
+744,4596,86.9,Bed Net Distribution,2016-03-15
+745,2291,90.55,Environmental Management,2021-02-22
+746,3384,49.89,Environmental Management,2018-12-21
+747,4563,63.36,Indoor Residual Spraying,2022-03-10
+748,2366,70.44,Indoor Residual Spraying,2017-07-15
+749,208,52.99,Indoor Residual Spraying,2022-11-01
+750,4444,65.91,Environmental Management,2015-09-12
+751,3798,83.14,Larvicide Application,2016-03-24
+752,4172,86.93,Larvicide Application,2022-01-09
+753,2559,56.51,Indoor Residual Spraying,2017-07-01
+754,4889,87.35,Larvicide Application,2018-06-29
+755,4648,85.92,Indoor Residual Spraying,2020-09-17
+756,2204,47.31,Bed Net Distribution,2015-03-09
+757,2680,42.92,Bed Net Distribution,2018-10-06
+758,2743,69.87,Environmental Management,2015-04-20
+759,1431,53.88,Environmental Management,2016-04-03
+760,1197,47.14,Indoor Residual Spraying,2020-02-16
+761,2312,85.19,Bed Net Distribution,2015-08-19
+762,2089,76.69,Bed Net Distribution,2018-05-25
+763,2840,91.2,Environmental Management,2022-10-20
+764,2635,49.96,Larvicide Application,2022-12-17
+765,4192,83.47,Larvicide Application,2018-12-12
+766,2010,44.75,Larvicide Application,2019-12-29
+767,3753,74.33,Environmental Management,2023-09-10
+768,2885,84.76,Bed Net Distribution,2018-05-10
+769,1322,86.34,Larvicide Application,2023-11-25
+770,1035,51.17,Bed Net Distribution,2016-12-01
+771,1216,55.5,Larvicide Application,2023-08-25
+772,4785,63.2,Environmental Management,2021-09-23
+773,2577,79.84,Environmental Management,2015-05-19
+774,2911,54.23,Larvicide Application,2020-03-21
+775,4949,62.69,Indoor Residual Spraying,2021-08-20
+776,169,86.74,Larvicide Application,2021-02-21
+777,582,77.82,Larvicide Application,2017-05-25
+778,403,90.58,Environmental Management,2019-07-18
+779,109,82.37,Environmental Management,2022-09-18
+780,1584,93.1,Bed Net Distribution,2018-12-07
+781,4427,67.56,Larvicide Application,2018-10-15
+782,2300,78.67,Larvicide Application,2016-10-09
+783,3145,66.4,Indoor Residual Spraying,2023-09-19
+784,2332,58.12,Bed Net Distribution,2023-12-19
+785,2671,70.59,Indoor Residual Spraying,2018-04-30
+786,3916,40.14,Bed Net Distribution,2023-02-17
+787,2979,74.37,Bed Net Distribution,2015-02-15
+788,4817,67.27,Bed Net Distribution,2022-02-04
+789,2959,78.21,Larvicide Application,2018-02-03
+790,2645,66.68,Indoor Residual Spraying,2021-09-19
+791,1946,87.42,Environmental Management,2022-10-16
+792,386,65.04,Indoor Residual Spraying,2023-03-28
+793,4526,44.62,Bed Net Distribution,2020-12-27
+794,355,44.93,Bed Net Distribution,2016-04-21
+795,970,51.88,Bed Net Distribution,2020-09-30
+796,3817,42.19,Environmental Management,2023-05-04
+797,4711,53.65,Larvicide Application,2015-12-21
+798,904,52.72,Bed Net Distribution,2017-01-27
+799,1770,92.4,Bed Net Distribution,2021-11-23
+800,102,72.3,Environmental Management,2019-12-11
+801,956,76.96,Bed Net Distribution,2020-05-22
+802,789,52.19,Indoor Residual Spraying,2016-05-30
+803,1302,71.38,Environmental Management,2023-04-27
+804,4203,70.36,Bed Net Distribution,2021-02-17
+805,1110,86.13,Indoor Residual Spraying,2021-08-27
+806,3113,74.07,Bed Net Distribution,2022-04-21
+807,4537,59.93,Bed Net Distribution,2018-11-08
+808,2212,70.63,Indoor Residual Spraying,2018-02-08
+809,3888,47.47,Indoor Residual Spraying,2019-11-15
+810,4278,70.12,Indoor Residual Spraying,2019-08-25
+811,2504,57.16,Indoor Residual Spraying,2023-11-29
+812,1406,51.03,Environmental Management,2019-11-09
+813,3111,52.32,Larvicide Application,2021-02-13
+814,1757,50.39,Environmental Management,2021-05-16
+815,4824,92.69,Larvicide Application,2020-08-16
+816,1792,69.0,Indoor Residual Spraying,2022-04-07
+817,1352,54.61,Environmental Management,2019-02-23
+818,2363,79.47,Bed Net Distribution,2018-07-25
+819,1081,60.72,Indoor Residual Spraying,2023-03-15
+820,2827,55.4,Bed Net Distribution,2019-04-24
+821,4608,94.76,Larvicide Application,2018-01-10
+822,3344,54.15,Environmental Management,2019-04-12
+823,987,72.34,Bed Net Distribution,2019-02-16
+824,3621,60.25,Indoor Residual Spraying,2015-05-15
+825,857,58.85,Bed Net Distribution,2019-08-14
+826,2798,88.52,Bed Net Distribution,2017-10-23
+827,2849,62.55,Larvicide Application,2020-09-21
+828,2727,62.29,Environmental Management,2021-07-07
+829,3391,66.87,Bed Net Distribution,2016-08-19
+830,4961,90.85,Bed Net Distribution,2015-06-29
+831,2558,40.43,Indoor Residual Spraying,2020-12-22
+832,1879,66.91,Indoor Residual Spraying,2018-07-16
+833,2269,78.96,Bed Net Distribution,2017-07-30
+834,2515,66.03,Environmental Management,2020-10-07
+835,4533,66.81,Bed Net Distribution,2016-10-08
+836,2443,83.56,Larvicide Application,2022-03-10
+837,2842,54.33,Larvicide Application,2019-05-28
+838,1332,53.65,Environmental Management,2023-08-29
+839,2318,70.64,Larvicide Application,2020-11-24
+840,402,46.8,Bed Net Distribution,2021-05-30
+841,2879,40.25,Bed Net Distribution,2018-05-23
+842,4685,92.53,Indoor Residual Spraying,2015-12-10
+843,4250,45.06,Bed Net Distribution,2015-12-24
+844,1036,40.39,Environmental Management,2016-02-07
+845,178,92.17,Indoor Residual Spraying,2017-01-29
+846,1414,82.91,Larvicide Application,2022-11-13
+847,3548,89.82,Bed Net Distribution,2021-08-02
+848,3121,87.02,Indoor Residual Spraying,2022-02-12
+849,2351,90.33,Environmental Management,2020-01-28
+850,142,57.36,Indoor Residual Spraying,2021-04-27
+851,273,54.22,Bed Net Distribution,2023-09-08
+852,1432,57.25,Environmental Management,2017-11-01
+853,4726,59.73,Bed Net Distribution,2018-10-09
+854,1162,78.87,Larvicide Application,2020-07-10
+855,3714,54.91,Bed Net Distribution,2019-04-01
+856,2182,46.03,Bed Net Distribution,2017-02-20
+857,3139,40.01,Environmental Management,2016-02-28
+858,3597,89.92,Larvicide Application,2020-09-10
+859,850,60.78,Bed Net Distribution,2015-07-14
+860,3931,51.97,Larvicide Application,2017-02-03
+861,4537,77.39,Environmental Management,2020-08-23
+862,4607,78.11,Indoor Residual Spraying,2020-05-08
+863,2343,53.83,Larvicide Application,2017-06-19
+864,3343,63.2,Indoor Residual Spraying,2020-06-03
+865,3280,59.98,Larvicide Application,2018-01-06
+866,1797,63.32,Environmental Management,2015-03-04
+867,696,89.81,Larvicide Application,2017-06-11
+868,1949,82.96,Bed Net Distribution,2019-07-19
+869,264,69.21,Environmental Management,2021-12-04
+870,453,53.07,Bed Net Distribution,2016-05-22
+871,1790,90.46,Indoor Residual Spraying,2021-04-15
+872,2911,72.0,Environmental Management,2023-04-08
+873,3043,61.17,Indoor Residual Spraying,2018-05-16
+874,2571,46.58,Bed Net Distribution,2022-04-10
+875,3677,54.88,Environmental Management,2023-10-05
+876,384,46.25,Indoor Residual Spraying,2018-05-14
+877,2017,54.2,Larvicide Application,2017-04-24
+878,730,44.68,Indoor Residual Spraying,2015-04-12
+879,4447,48.84,Indoor Residual Spraying,2018-02-22
+880,4424,79.85,Larvicide Application,2015-02-05
+881,2747,52.53,Environmental Management,2023-03-29
+882,494,86.27,Environmental Management,2021-01-26
+883,2204,62.74,Larvicide Application,2023-12-29
+884,112,84.09,Indoor Residual Spraying,2023-09-27
+885,2052,53.03,Larvicide Application,2019-02-09
+886,1646,83.37,Larvicide Application,2021-11-02
+887,1175,49.23,Environmental Management,2021-01-05
+888,578,67.65,Larvicide Application,2023-10-08
+889,1790,70.3,Environmental Management,2015-03-16
+890,3146,52.07,Bed Net Distribution,2023-10-01
+891,4702,81.81,Environmental Management,2018-09-27
+892,808,71.59,Indoor Residual Spraying,2016-11-10
+893,4010,61.99,Environmental Management,2017-05-23
+894,3397,92.8,Environmental Management,2019-04-07
+895,4876,71.05,Larvicide Application,2023-01-15
+896,2623,55.39,Indoor Residual Spraying,2016-09-22
+897,2989,91.67,Environmental Management,2020-03-13
+898,4487,67.51,Larvicide Application,2015-05-17
+899,527,55.57,Larvicide Application,2022-08-19
+900,2956,93.28,Larvicide Application,2017-10-17
+901,4842,40.16,Environmental Management,2015-04-27
+902,856,56.32,Indoor Residual Spraying,2018-01-05
+903,745,42.21,Environmental Management,2018-08-15
+904,3063,42.7,Larvicide Application,2020-06-15
+905,4787,73.12,Environmental Management,2023-02-12
+906,3423,91.77,Environmental Management,2015-07-12
+907,3450,80.04,Larvicide Application,2021-04-27
+908,3759,81.49,Bed Net Distribution,2015-06-03
+909,4854,49.37,Indoor Residual Spraying,2022-09-26
+910,900,47.09,Larvicide Application,2016-01-06
+911,3294,63.12,Bed Net Distribution,2017-12-15
+912,1767,65.41,Environmental Management,2021-07-07
+913,3026,55.92,Bed Net Distribution,2021-02-20
+914,982,92.93,Bed Net Distribution,2017-09-22
+915,882,54.86,Bed Net Distribution,2023-04-28
+916,1220,53.93,Bed Net Distribution,2018-04-04
+917,882,43.69,Bed Net Distribution,2022-05-29
+918,2078,82.58,Indoor Residual Spraying,2018-06-16
+919,495,51.39,Environmental Management,2020-05-13
+920,1308,54.48,Bed Net Distribution,2015-12-29
+921,3510,68.5,Larvicide Application,2017-08-01
+922,302,81.92,Environmental Management,2018-12-25
+923,4314,75.2,Indoor Residual Spraying,2022-01-21
+924,1141,79.91,Environmental Management,2020-12-02
+925,4375,44.43,Environmental Management,2019-06-27
+926,4826,92.07,Environmental Management,2018-12-20
+927,3484,60.23,Indoor Residual Spraying,2023-04-20
+928,2327,89.52,Indoor Residual Spraying,2021-07-10
+929,1346,72.2,Indoor Residual Spraying,2016-12-04
+930,2290,83.81,Bed Net Distribution,2019-10-20
+931,486,74.01,Indoor Residual Spraying,2021-11-22
+932,338,56.48,Indoor Residual Spraying,2017-07-08
+933,4936,46.54,Environmental Management,2016-01-21
+934,3047,75.22,Bed Net Distribution,2017-10-04
+935,4047,67.57,Indoor Residual Spraying,2015-05-09
+936,2450,75.47,Bed Net Distribution,2020-02-17
+937,3224,69.59,Bed Net Distribution,2019-03-26
+938,3908,58.45,Indoor Residual Spraying,2022-04-08
+939,463,84.64,Larvicide Application,2019-04-22
+940,3436,71.5,Bed Net Distribution,2015-06-02
+941,1414,42.63,Larvicide Application,2015-06-24
+942,2740,82.09,Larvicide Application,2020-04-03
+943,1794,55.25,Larvicide Application,2019-10-26
+944,1511,49.35,Bed Net Distribution,2022-04-16
+945,4202,67.41,Environmental Management,2022-05-30
+946,886,43.36,Larvicide Application,2016-04-15
+947,551,49.55,Larvicide Application,2023-04-01
+948,1049,86.23,Indoor Residual Spraying,2015-09-01
+949,4690,73.74,Bed Net Distribution,2020-07-24
+950,3884,54.27,Larvicide Application,2015-03-06
+951,2360,52.47,Environmental Management,2021-04-21
+952,2689,43.73,Indoor Residual Spraying,2015-05-08
+953,1350,67.0,Indoor Residual Spraying,2020-10-18
+954,1742,71.15,Environmental Management,2019-11-25
+955,448,54.91,Bed Net Distribution,2016-06-06
+956,1845,60.33,Bed Net Distribution,2021-07-26
+957,3631,47.14,Indoor Residual Spraying,2017-12-24
+958,2543,46.23,Bed Net Distribution,2023-12-30
+959,1096,85.18,Indoor Residual Spraying,2020-01-05
+960,1264,49.84,Bed Net Distribution,2022-03-30
+961,4697,74.07,Bed Net Distribution,2017-08-03
+962,1816,56.87,Environmental Management,2017-11-16
+963,1430,78.45,Bed Net Distribution,2020-08-10
+964,2998,66.14,Environmental Management,2015-10-14
+965,4467,68.91,Larvicide Application,2018-07-14
+966,1707,78.16,Bed Net Distribution,2019-03-30
+967,2759,43.16,Indoor Residual Spraying,2021-01-14
+968,4444,46.14,Bed Net Distribution,2015-10-05
+969,1971,94.63,Indoor Residual Spraying,2015-10-22
+970,3907,54.7,Environmental Management,2020-09-02
+971,4874,55.11,Larvicide Application,2017-02-26
+972,2687,69.36,Indoor Residual Spraying,2016-08-08
+973,2189,80.7,Bed Net Distribution,2022-07-05
+974,661,65.14,Bed Net Distribution,2020-05-29
+975,2577,49.25,Indoor Residual Spraying,2018-10-29
+976,1426,80.2,Bed Net Distribution,2017-10-30
+977,1881,73.9,Environmental Management,2017-11-09
+978,4057,47.15,Larvicide Application,2019-02-25
+979,946,46.9,Indoor Residual Spraying,2021-07-05
+980,2214,65.65,Indoor Residual Spraying,2021-07-03
+981,3743,74.05,Environmental Management,2018-12-26
+982,2731,58.36,Larvicide Application,2019-12-08
+983,2402,84.42,Bed Net Distribution,2015-10-04
+984,726,67.73,Indoor Residual Spraying,2022-09-09
+985,748,66.69,Environmental Management,2018-04-29
+986,3600,63.2,Bed Net Distribution,2021-10-25
+987,2509,94.76,Bed Net Distribution,2021-05-19
+988,669,57.14,Larvicide Application,2015-02-24
+989,2537,71.18,Indoor Residual Spraying,2016-12-20
+990,4152,88.31,Bed Net Distribution,2017-10-31
+991,579,94.56,Larvicide Application,2016-11-16
+992,3986,58.16,Environmental Management,2019-11-02
+993,4457,54.35,Larvicide Application,2023-03-20
+994,3274,90.59,Indoor Residual Spraying,2020-02-12
+995,1402,62.62,Indoor Residual Spraying,2019-10-14
+996,2772,83.1,Environmental Management,2017-12-17
+997,3138,69.8,Indoor Residual Spraying,2023-01-27
+998,458,78.36,Environmental Management,2019-07-16
+999,1619,51.44,Larvicide Application,2019-04-13
+1000,165,88.32,Environmental Management,2017-12-05
+1001,4840,85.97,Larvicide Application,2017-04-30
+1002,3635,71.37,Bed Net Distribution,2020-05-19
+1003,1632,56.19,Indoor Residual Spraying,2021-12-15
+1004,1462,63.02,Larvicide Application,2016-04-23
+1005,1546,55.05,Bed Net Distribution,2015-07-27
+1006,1137,44.77,Indoor Residual Spraying,2019-06-10
+1007,1580,75.94,Bed Net Distribution,2018-11-13
+1008,881,70.08,Bed Net Distribution,2017-09-11
+1009,3628,57.82,Environmental Management,2016-01-17
+1010,1365,93.41,Environmental Management,2023-03-22
+1011,2043,92.32,Larvicide Application,2016-09-13
+1012,1539,75.8,Larvicide Application,2019-05-23
+1013,2305,75.28,Bed Net Distribution,2019-01-17
+1014,1553,55.15,Bed Net Distribution,2022-09-19
+1015,3908,82.73,Indoor Residual Spraying,2016-12-17
+1016,4646,91.17,Bed Net Distribution,2019-01-27
+1017,653,61.53,Environmental Management,2016-12-16
+1018,796,61.24,Larvicide Application,2016-04-06
+1019,2507,69.78,Environmental Management,2017-04-24
+1020,1222,63.17,Larvicide Application,2020-06-09
+1021,1322,69.05,Indoor Residual Spraying,2020-10-18
+1022,1527,67.17,Environmental Management,2016-02-11
+1023,2552,48.75,Environmental Management,2018-10-15
+1024,1360,49.24,Larvicide Application,2021-11-06
+1025,1427,91.93,Indoor Residual Spraying,2023-06-22
+1026,1875,42.19,Environmental Management,2017-09-20
+1027,4467,66.24,Bed Net Distribution,2019-07-04
+1028,771,90.83,Environmental Management,2015-11-14
+1029,3612,66.39,Environmental Management,2018-04-14
+1030,2428,92.56,Larvicide Application,2021-03-06
+1031,905,66.27,Bed Net Distribution,2021-04-30
+1032,1147,71.65,Environmental Management,2017-12-30
+1033,3142,41.87,Indoor Residual Spraying,2019-02-28
+1034,3744,94.7,Larvicide Application,2023-11-30
+1035,3523,91.04,Environmental Management,2022-11-26
+1036,3067,71.98,Bed Net Distribution,2019-10-04
+1037,209,43.31,Indoor Residual Spraying,2020-12-30
+1038,225,57.23,Environmental Management,2015-09-29
+1039,1689,84.11,Indoor Residual Spraying,2019-01-28
+1040,3834,93.32,Larvicide Application,2019-04-28
+1041,292,73.1,Larvicide Application,2018-08-09
+1042,4128,77.99,Larvicide Application,2022-01-24
+1043,306,64.85,Environmental Management,2023-04-23
+1044,3167,63.77,Environmental Management,2016-04-23
+1045,3209,40.24,Bed Net Distribution,2018-11-11
+1046,3078,56.04,Larvicide Application,2015-11-22
+1047,2723,48.66,Indoor Residual Spraying,2017-06-03
+1048,1200,46.6,Larvicide Application,2020-01-30
+1049,4407,53.65,Indoor Residual Spraying,2019-09-11
+1050,2770,67.26,Bed Net Distribution,2023-03-18
+1051,2806,48.47,Indoor Residual Spraying,2018-10-21
+1052,504,48.27,Larvicide Application,2016-12-19
+1053,4086,86.81,Indoor Residual Spraying,2021-06-18
+1054,2447,90.57,Environmental Management,2018-03-03
+1055,3360,40.7,Larvicide Application,2021-10-27
+1056,1729,47.62,Indoor Residual Spraying,2016-10-01
+1057,1057,82.72,Environmental Management,2022-10-29
+1058,695,76.62,Environmental Management,2021-05-28
+1059,4880,52.47,Bed Net Distribution,2023-05-26
+1060,3675,57.6,Larvicide Application,2020-08-23
+1061,4445,52.65,Bed Net Distribution,2023-05-12
+1062,1475,59.71,Larvicide Application,2019-06-10
+1063,4387,47.41,Environmental Management,2016-12-29
+1064,3370,71.35,Larvicide Application,2021-10-18
+1065,305,73.93,Indoor Residual Spraying,2022-06-05
+1066,1833,83.96,Environmental Management,2020-08-14
+1067,2387,76.03,Larvicide Application,2017-11-08
+1068,878,94.05,Bed Net Distribution,2022-09-26
+1069,3835,90.34,Indoor Residual Spraying,2021-02-02
+1070,4032,50.31,Environmental Management,2015-06-14
+1071,1326,88.94,Bed Net Distribution,2023-04-07
+1072,2217,88.18,Bed Net Distribution,2019-04-09
+1073,1427,72.56,Larvicide Application,2015-09-05
+1074,4065,60.67,Environmental Management,2017-07-26
+1075,3151,69.71,Bed Net Distribution,2021-11-15
+1076,3137,73.82,Indoor Residual Spraying,2021-07-16
+1077,134,73.47,Environmental Management,2018-03-30
+1078,2078,78.11,Environmental Management,2022-05-07
+1079,4992,58.85,Indoor Residual Spraying,2017-09-28
+1080,143,68.61,Indoor Residual Spraying,2023-10-21
+1081,2303,67.45,Bed Net Distribution,2015-05-20
+1082,2988,75.28,Larvicide Application,2015-08-26
+1083,1426,81.17,Bed Net Distribution,2018-06-29
+1084,4831,70.83,Indoor Residual Spraying,2016-12-10
+1085,499,91.52,Bed Net Distribution,2022-08-16
+1086,1710,90.72,Indoor Residual Spraying,2023-10-09
+1087,3324,91.37,Bed Net Distribution,2015-03-01
+1088,2263,94.72,Bed Net Distribution,2022-08-27
+1089,4440,89.15,Bed Net Distribution,2019-09-26
+1090,4297,87.3,Bed Net Distribution,2017-01-03
+1091,2975,93.56,Larvicide Application,2016-11-02
+1092,3928,81.78,Indoor Residual Spraying,2023-08-31
+1093,3088,56.09,Bed Net Distribution,2022-06-28
+1094,3107,56.73,Bed Net Distribution,2016-06-16
+1095,977,74.24,Indoor Residual Spraying,2020-01-20
+1096,880,78.35,Larvicide Application,2023-01-24
+1097,2119,86.75,Bed Net Distribution,2015-03-12
+1098,4081,58.23,Environmental Management,2015-10-30
+1099,2684,64.84,Environmental Management,2016-08-07
+1100,3582,45.69,Bed Net Distribution,2023-03-25
+1101,562,91.03,Bed Net Distribution,2022-01-29
+1102,1630,45.6,Environmental Management,2020-09-20
+1103,2245,88.93,Larvicide Application,2016-12-10
+1104,2951,44.47,Environmental Management,2022-12-28
+1105,1624,85.21,Indoor Residual Spraying,2016-06-23
+1106,3601,86.13,Indoor Residual Spraying,2020-01-21
+1107,3656,49.38,Bed Net Distribution,2015-03-22
+1108,2286,49.92,Indoor Residual Spraying,2019-09-07
+1109,407,76.91,Environmental Management,2019-05-07
+1110,2077,84.79,Larvicide Application,2016-10-11
+1111,326,63.96,Indoor Residual Spraying,2021-04-22
+1112,2225,57.62,Environmental Management,2016-08-11
+1113,4367,79.27,Bed Net Distribution,2020-08-20
+1114,3355,52.72,Larvicide Application,2021-06-17
+1115,4749,63.6,Indoor Residual Spraying,2016-08-20
+1116,3133,83.0,Environmental Management,2018-04-02
+1117,370,55.11,Bed Net Distribution,2021-08-15
+1118,3687,67.26,Larvicide Application,2018-06-03
+1119,1714,70.21,Indoor Residual Spraying,2016-05-17
+1120,3817,93.1,Indoor Residual Spraying,2022-09-06
+1121,2702,64.73,Environmental Management,2021-05-15
+1122,1008,42.7,Indoor Residual Spraying,2016-03-22
+1123,2625,72.33,Bed Net Distribution,2021-01-29
+1124,2280,74.09,Indoor Residual Spraying,2023-09-18
+1125,2232,53.97,Environmental Management,2022-05-22
+1126,4585,66.12,Indoor Residual Spraying,2021-04-18
+1127,835,45.06,Larvicide Application,2021-03-05
+1128,4617,43.43,Larvicide Application,2015-01-30
+1129,2031,44.49,Environmental Management,2019-04-05
+1130,438,76.75,Bed Net Distribution,2020-06-14
+1131,712,78.95,Bed Net Distribution,2023-08-04
+1132,4901,65.93,Larvicide Application,2016-06-23
+1133,2972,93.4,Larvicide Application,2020-02-22
+1134,949,46.4,Bed Net Distribution,2022-02-07
+1135,1619,52.03,Larvicide Application,2022-02-13
+1136,4339,70.05,Environmental Management,2022-10-01
+1137,402,65.52,Environmental Management,2020-09-19
+1138,3933,51.05,Indoor Residual Spraying,2019-09-25
+1139,3102,90.43,Environmental Management,2021-11-29
+1140,2296,93.12,Environmental Management,2016-03-18
+1141,3661,59.14,Larvicide Application,2018-03-20
+1142,2201,69.97,Bed Net Distribution,2015-03-19
+1143,4150,50.44,Indoor Residual Spraying,2023-03-02
+1144,854,94.8,Bed Net Distribution,2016-09-04
+1145,1656,74.85,Environmental Management,2015-11-15
+1146,3020,58.82,Indoor Residual Spraying,2023-02-13
+1147,1187,67.24,Larvicide Application,2015-05-26
+1148,4418,86.98,Bed Net Distribution,2022-11-22
+1149,1567,40.94,Bed Net Distribution,2022-03-17
+1150,206,93.32,Bed Net Distribution,2022-02-24
+1151,3281,64.35,Bed Net Distribution,2015-11-18
+1152,341,93.76,Larvicide Application,2020-08-13
+1153,121,74.64,Bed Net Distribution,2019-06-14
+1154,4239,45.55,Bed Net Distribution,2021-06-30
+1155,2247,58.32,Indoor Residual Spraying,2020-09-18
+1156,1101,77.84,Indoor Residual Spraying,2016-02-29
+1157,4454,73.35,Indoor Residual Spraying,2017-05-04
+1158,4258,92.61,Indoor Residual Spraying,2016-11-07
+1159,892,44.47,Bed Net Distribution,2016-05-26
+1160,1129,85.4,Bed Net Distribution,2020-03-17
+1161,569,43.51,Environmental Management,2018-01-17
+1162,793,74.14,Indoor Residual Spraying,2018-07-31
+1163,1940,55.21,Environmental Management,2021-05-05
+1164,270,40.41,Indoor Residual Spraying,2021-09-29
+1165,2094,78.44,Environmental Management,2021-12-12
+1166,3973,76.8,Environmental Management,2023-08-04
+1167,4189,50.05,Indoor Residual Spraying,2018-08-01
+1168,1024,78.68,Environmental Management,2022-12-19
+1169,3593,55.63,Bed Net Distribution,2018-05-15
+1170,403,81.49,Environmental Management,2018-12-17
+1171,4848,57.6,Environmental Management,2022-10-23
+1172,3130,75.44,Larvicide Application,2019-03-29
+1173,2896,43.42,Indoor Residual Spraying,2022-05-07
+1174,4309,88.36,Larvicide Application,2022-07-18
+1175,2682,42.75,Indoor Residual Spraying,2017-08-21
+1176,974,41.27,Environmental Management,2017-10-11
+1177,3223,80.95,Indoor Residual Spraying,2023-07-27
+1178,3054,60.05,Larvicide Application,2017-11-18
+1179,4015,94.2,Indoor Residual Spraying,2017-07-20
+1180,3625,63.58,Bed Net Distribution,2019-12-25
+1181,3766,48.44,Environmental Management,2017-09-20
+1182,4912,53.83,Larvicide Application,2021-03-19
+1183,4616,79.78,Indoor Residual Spraying,2021-03-30
+1184,3090,74.86,Larvicide Application,2022-11-09
+1185,2434,72.67,Bed Net Distribution,2018-04-27
+1186,356,68.69,Indoor Residual Spraying,2021-08-21
+1187,667,54.3,Larvicide Application,2016-11-12
+1188,749,61.89,Larvicide Application,2019-11-07
+1189,3723,54.67,Bed Net Distribution,2023-01-30
+1190,2951,51.52,Environmental Management,2020-12-18
+1191,4302,92.35,Bed Net Distribution,2016-05-17
+1192,2999,70.39,Indoor Residual Spraying,2018-05-12
+1193,329,49.52,Bed Net Distribution,2022-10-03
+1194,3119,89.69,Bed Net Distribution,2016-04-27
+1195,371,79.77,Environmental Management,2016-10-26
+1196,4231,45.28,Indoor Residual Spraying,2022-08-09
+1197,413,79.05,Bed Net Distribution,2021-02-18
+1198,3362,78.08,Indoor Residual Spraying,2015-04-22
+1199,1675,68.92,Larvicide Application,2018-09-04
+1200,1728,67.93,Indoor Residual Spraying,2020-01-16
+1201,2907,82.59,Bed Net Distribution,2019-07-04
+1202,3989,90.22,Indoor Residual Spraying,2022-08-28
+1203,4208,42.6,Indoor Residual Spraying,2023-11-02
+1204,777,88.85,Indoor Residual Spraying,2020-06-11
+1205,2443,69.52,Larvicide Application,2020-08-28
+1206,107,86.38,Environmental Management,2016-07-10
+1207,3209,65.82,Bed Net Distribution,2021-02-07
+1208,1981,94.38,Larvicide Application,2020-01-20
+1209,4665,71.1,Larvicide Application,2018-11-24
+1210,1821,79.65,Indoor Residual Spraying,2022-03-04
+1211,1331,83.24,Bed Net Distribution,2019-09-07
+1212,4507,79.2,Larvicide Application,2022-03-13
+1213,3676,92.45,Larvicide Application,2017-12-14
+1214,3782,65.6,Indoor Residual Spraying,2018-09-11
+1215,2412,84.8,Bed Net Distribution,2015-01-01
+1216,2604,52.58,Indoor Residual Spraying,2020-07-07
+1217,2161,60.05,Indoor Residual Spraying,2019-10-19
+1218,4939,63.37,Bed Net Distribution,2022-09-21
+1219,494,46.46,Environmental Management,2020-10-07
+1220,885,65.37,Indoor Residual Spraying,2023-02-19
+1221,457,89.97,Bed Net Distribution,2019-07-12
+1222,4510,78.88,Bed Net Distribution,2018-01-31
+1223,1315,76.45,Indoor Residual Spraying,2022-10-12
+1224,4093,72.01,Indoor Residual Spraying,2021-12-28
+1225,2316,87.09,Environmental Management,2017-03-02
+1226,4815,74.13,Indoor Residual Spraying,2017-03-19
+1227,2630,72.46,Bed Net Distribution,2017-08-08
+1228,2340,89.26,Indoor Residual Spraying,2020-11-20
+1229,3841,73.43,Bed Net Distribution,2023-10-23
+1230,1937,46.94,Environmental Management,2019-05-26
+1231,2144,72.9,Larvicide Application,2016-01-09
+1232,1590,87.63,Bed Net Distribution,2015-09-14
+1233,4166,64.65,Larvicide Application,2015-03-13
+1234,3470,90.17,Indoor Residual Spraying,2017-02-08
+1235,1298,76.51,Indoor Residual Spraying,2017-05-26
+1236,1398,55.24,Bed Net Distribution,2021-04-03
+1237,2008,47.76,Bed Net Distribution,2023-11-11
+1238,1460,57.24,Indoor Residual Spraying,2021-05-27
+1239,941,59.88,Bed Net Distribution,2022-01-28
+1240,3642,64.23,Bed Net Distribution,2018-11-13
+1241,4355,67.71,Bed Net Distribution,2022-07-04
+1242,3767,83.1,Indoor Residual Spraying,2022-08-28
+1243,2634,85.35,Larvicide Application,2016-01-23
+1244,3417,74.12,Environmental Management,2016-04-27
+1245,2376,78.41,Indoor Residual Spraying,2023-11-27
+1246,2757,81.05,Environmental Management,2022-06-28
+1247,3379,73.42,Environmental Management,2018-07-22
+1248,832,54.44,Environmental Management,2021-04-03
+1249,3216,54.68,Larvicide Application,2017-06-09
+1250,4271,93.1,Environmental Management,2023-05-15
+1251,3899,57.17,Larvicide Application,2015-08-31
+1252,423,56.77,Environmental Management,2017-11-09
+1253,2696,48.39,Larvicide Application,2019-04-22
+1254,3844,82.42,Bed Net Distribution,2018-06-12
+1255,1834,52.8,Bed Net Distribution,2021-02-19
+1256,1398,67.75,Bed Net Distribution,2019-08-15
+1257,178,76.33,Indoor Residual Spraying,2022-03-24
+1258,2278,47.95,Larvicide Application,2015-06-23
+1259,2608,52.18,Larvicide Application,2016-01-01
+1260,3921,71.58,Indoor Residual Spraying,2023-11-07
+1261,2151,59.95,Bed Net Distribution,2023-01-02
+1262,1664,59.44,Larvicide Application,2022-09-08
+1263,4998,61.19,Bed Net Distribution,2020-03-05
+1264,4530,80.0,Larvicide Application,2015-06-04
+1265,544,83.37,Larvicide Application,2022-11-14
+1266,971,91.44,Larvicide Application,2021-12-25
+1267,779,51.53,Environmental Management,2022-03-19
+1268,1608,59.79,Indoor Residual Spraying,2021-11-23
+1269,3018,70.97,Indoor Residual Spraying,2022-07-20
+1270,207,70.94,Environmental Management,2019-04-01
+1271,2528,78.99,Indoor Residual Spraying,2016-09-05
+1272,616,44.06,Environmental Management,2021-09-20
+1273,2618,46.31,Bed Net Distribution,2016-02-05
+1274,3608,87.3,Environmental Management,2019-07-07
+1275,2853,73.48,Larvicide Application,2019-05-20
+1276,4860,61.82,Environmental Management,2018-06-13
+1277,1454,90.12,Environmental Management,2023-11-21
+1278,4423,49.9,Larvicide Application,2021-04-16
+1279,2246,78.79,Environmental Management,2018-07-08
+1280,1444,88.2,Bed Net Distribution,2019-01-12
+1281,3734,74.63,Bed Net Distribution,2019-12-19
+1282,4631,69.51,Larvicide Application,2015-09-06
+1283,2246,82.46,Bed Net Distribution,2015-12-31
+1284,1630,72.58,Larvicide Application,2018-06-24
+1285,535,81.34,Environmental Management,2016-02-03
+1286,412,90.05,Indoor Residual Spraying,2015-10-16
+1287,1622,81.33,Bed Net Distribution,2023-10-25
+1288,3171,61.21,Environmental Management,2015-08-27
+1289,2811,46.16,Indoor Residual Spraying,2022-04-29
+1290,2098,91.58,Bed Net Distribution,2019-10-04
+1291,588,65.53,Bed Net Distribution,2018-01-29
+1292,4546,47.93,Environmental Management,2020-02-01
+1293,4935,84.49,Environmental Management,2020-05-07
+1294,3194,65.1,Larvicide Application,2017-04-02
+1295,635,53.76,Indoor Residual Spraying,2019-01-10
+1296,1892,78.41,Environmental Management,2016-07-25
+1297,1222,53.39,Environmental Management,2019-11-11
+1298,340,94.14,Larvicide Application,2023-12-04
+1299,486,62.63,Bed Net Distribution,2018-06-19
+1300,1793,53.84,Larvicide Application,2016-06-08
+1301,2572,83.0,Environmental Management,2019-04-07
+1302,1445,84.91,Indoor Residual Spraying,2021-02-13
+1303,2235,90.67,Larvicide Application,2020-09-14
+1304,2628,90.61,Larvicide Application,2018-04-23
+1305,492,56.34,Environmental Management,2018-10-27
+1306,4338,73.24,Larvicide Application,2016-11-21
+1307,1348,42.05,Environmental Management,2016-10-21
+1308,4944,89.3,Environmental Management,2022-08-14
+1309,1598,52.43,Bed Net Distribution,2020-01-26
+1310,323,75.68,Bed Net Distribution,2016-07-10
+1311,628,52.26,Bed Net Distribution,2016-02-24
+1312,4146,94.63,Environmental Management,2021-03-10
+1313,2631,46.77,Bed Net Distribution,2015-12-14
+1314,2442,72.82,Indoor Residual Spraying,2023-07-04
+1315,3135,41.71,Environmental Management,2016-04-25
+1316,4335,63.78,Indoor Residual Spraying,2022-04-07
+1317,1319,51.98,Larvicide Application,2021-04-16
+1318,2804,62.41,Bed Net Distribution,2019-01-30
+1319,4186,45.84,Environmental Management,2021-11-12
+1320,2069,81.04,Indoor Residual Spraying,2021-05-30
+1321,2558,84.7,Environmental Management,2016-12-13
+1322,1812,56.48,Environmental Management,2021-06-13
+1323,3640,65.68,Indoor Residual Spraying,2017-09-04
+1324,4147,85.71,Environmental Management,2016-11-07
+1325,1185,60.65,Bed Net Distribution,2018-05-30
+1326,2558,59.13,Bed Net Distribution,2015-08-25
+1327,1270,77.65,Indoor Residual Spraying,2022-07-05
+1328,331,69.51,Environmental Management,2017-12-04
+1329,3014,77.32,Bed Net Distribution,2015-12-12
+1330,4173,50.24,Larvicide Application,2019-03-25
+1331,3907,92.87,Bed Net Distribution,2021-06-24
+1332,4173,92.49,Indoor Residual Spraying,2015-08-10
+1333,2164,94.28,Indoor Residual Spraying,2017-06-28
+1334,1992,53.11,Larvicide Application,2023-01-25
+1335,2507,55.94,Larvicide Application,2022-07-21
+1336,3933,75.41,Indoor Residual Spraying,2015-04-22
+1337,4033,60.26,Environmental Management,2017-01-03
+1338,4613,85.95,Bed Net Distribution,2017-12-24
+1339,3046,49.86,Bed Net Distribution,2019-07-11
+1340,1920,51.71,Larvicide Application,2022-04-17
+1341,1327,40.34,Indoor Residual Spraying,2016-07-23
+1342,830,49.51,Indoor Residual Spraying,2020-04-24
+1343,4792,86.86,Indoor Residual Spraying,2015-11-11
+1344,3455,63.3,Indoor Residual Spraying,2017-12-06
+1345,1471,69.89,Bed Net Distribution,2022-05-24
+1346,820,51.06,Indoor Residual Spraying,2019-12-03
+1347,3035,63.1,Larvicide Application,2018-05-01
+1348,3966,49.57,Larvicide Application,2017-10-03
+1349,2528,80.57,Bed Net Distribution,2015-10-23
+1350,1786,44.18,Bed Net Distribution,2018-08-16
+1351,2126,48.9,Indoor Residual Spraying,2017-02-14
+1352,926,68.15,Bed Net Distribution,2015-06-25
+1353,3640,63.1,Environmental Management,2021-08-13
+1354,3439,89.84,Indoor Residual Spraying,2022-03-25
+1355,1752,84.56,Larvicide Application,2023-03-13
+1356,2236,77.48,Larvicide Application,2019-12-23
+1357,1557,80.87,Larvicide Application,2023-01-04
+1358,2834,59.38,Larvicide Application,2019-04-13
+1359,4106,86.61,Indoor Residual Spraying,2023-04-19
+1360,2721,92.87,Indoor Residual Spraying,2020-08-14
+1361,970,47.6,Indoor Residual Spraying,2021-12-11
+1362,3537,83.52,Bed Net Distribution,2016-11-21
+1363,1118,78.53,Bed Net Distribution,2022-04-03
+1364,1276,80.21,Environmental Management,2016-08-22
+1365,4097,81.68,Environmental Management,2022-07-04
+1366,1831,74.26,Environmental Management,2018-06-21
+1367,1505,73.6,Indoor Residual Spraying,2020-09-14
+1368,3878,82.69,Larvicide Application,2019-11-26
+1369,2223,81.61,Bed Net Distribution,2019-01-12
+1370,3669,94.03,Indoor Residual Spraying,2023-01-05
+1371,3290,84.31,Larvicide Application,2023-05-12
+1372,4046,74.46,Environmental Management,2020-06-19
+1373,1141,64.35,Environmental Management,2020-09-03
+1374,2021,89.9,Bed Net Distribution,2017-06-15
+1375,4374,86.29,Indoor Residual Spraying,2017-02-01
+1376,1880,80.89,Bed Net Distribution,2015-01-02
+1377,2252,93.53,Larvicide Application,2018-08-12
+1378,3778,88.54,Indoor Residual Spraying,2017-08-03
+1379,1026,73.89,Bed Net Distribution,2018-06-05
+1380,2732,56.76,Indoor Residual Spraying,2020-12-11
+1381,4259,45.62,Bed Net Distribution,2019-07-19
+1382,3531,65.67,Indoor Residual Spraying,2015-03-17
+1383,3975,69.05,Environmental Management,2022-05-29
+1384,1836,69.89,Indoor Residual Spraying,2016-07-13
+1385,3287,91.27,Indoor Residual Spraying,2022-09-24
+1386,4290,70.73,Larvicide Application,2016-08-09
+1387,788,90.52,Larvicide Application,2021-03-21
+1388,4320,79.87,Indoor Residual Spraying,2015-05-01
+1389,576,44.39,Larvicide Application,2022-11-08
+1390,4950,93.01,Environmental Management,2018-12-19
+1391,2862,45.43,Indoor Residual Spraying,2017-12-03
+1392,1228,83.19,Indoor Residual Spraying,2020-05-13
+1393,1206,92.21,Indoor Residual Spraying,2022-05-28
+1394,1683,93.95,Bed Net Distribution,2018-02-28
+1395,576,59.53,Larvicide Application,2020-09-12
+1396,3948,49.27,Bed Net Distribution,2023-04-07
+1397,2136,63.7,Bed Net Distribution,2015-04-04
+1398,4750,75.4,Environmental Management,2016-02-02
+1399,4743,61.21,Bed Net Distribution,2017-11-17
+1400,2975,85.08,Environmental Management,2019-10-02
+1401,4473,75.06,Larvicide Application,2023-03-31
+1402,4030,84.0,Environmental Management,2023-11-01
+1403,4345,75.7,Bed Net Distribution,2020-02-12
+1404,864,40.35,Indoor Residual Spraying,2020-04-12
+1405,1530,77.59,Environmental Management,2021-02-27
+1406,3079,50.84,Environmental Management,2018-03-27
+1407,1678,70.87,Indoor Residual Spraying,2023-05-16
+1408,3574,55.49,Larvicide Application,2016-12-03
+1409,4765,94.46,Environmental Management,2016-10-25
+1410,1796,48.21,Bed Net Distribution,2020-07-05
+1411,2478,56.7,Larvicide Application,2023-03-04
+1412,3313,60.99,Indoor Residual Spraying,2018-04-09
+1413,1266,77.31,Larvicide Application,2022-09-08
+1414,1304,43.66,Indoor Residual Spraying,2020-07-16
+1415,1502,61.32,Indoor Residual Spraying,2019-02-01
+1416,4431,52.61,Bed Net Distribution,2020-10-26
+1417,4915,74.43,Bed Net Distribution,2016-03-30
+1418,2445,61.3,Indoor Residual Spraying,2021-07-30
+1419,676,71.97,Bed Net Distribution,2019-08-11
+1420,4508,60.57,Indoor Residual Spraying,2023-09-05
+1421,3573,59.16,Indoor Residual Spraying,2018-06-18
+1422,3907,66.61,Larvicide Application,2020-09-04
+1423,3525,88.27,Larvicide Application,2016-07-16
+1424,3681,72.58,Indoor Residual Spraying,2016-12-14
+1425,739,78.69,Larvicide Application,2015-01-23
+1426,2948,87.92,Larvicide Application,2017-08-12
+1427,3909,61.58,Environmental Management,2018-10-13
+1428,4846,54.46,Bed Net Distribution,2019-07-11
+1429,3610,72.26,Bed Net Distribution,2017-05-23
+1430,2383,63.07,Indoor Residual Spraying,2018-09-21
+1431,2357,60.29,Bed Net Distribution,2020-07-05
+1432,3933,65.38,Indoor Residual Spraying,2018-08-02
+1433,2913,94.38,Indoor Residual Spraying,2016-01-19
+1434,4172,92.49,Indoor Residual Spraying,2020-09-12
+1435,2141,61.04,Environmental Management,2016-10-13
+1436,1638,68.69,Indoor Residual Spraying,2023-12-04
+1437,1320,56.25,Environmental Management,2021-12-28
+1438,169,71.23,Bed Net Distribution,2017-01-23
+1439,3144,57.02,Bed Net Distribution,2022-10-02
+1440,153,52.4,Indoor Residual Spraying,2019-09-06
+1441,2119,86.12,Environmental Management,2015-12-13
+1442,204,55.58,Larvicide Application,2017-05-27
+1443,3437,84.45,Larvicide Application,2018-04-23
+1444,1098,90.08,Indoor Residual Spraying,2022-01-17
+1445,4471,45.51,Larvicide Application,2021-01-09
+1446,1720,73.7,Indoor Residual Spraying,2022-05-03
+1447,2241,71.36,Larvicide Application,2015-06-27
+1448,2060,78.95,Bed Net Distribution,2015-01-19
+1449,615,84.16,Environmental Management,2015-12-12
+1450,203,47.0,Bed Net Distribution,2016-08-10
+1451,2602,77.85,Environmental Management,2023-12-15
+1452,2615,75.59,Environmental Management,2018-11-26
+1453,1540,55.33,Larvicide Application,2016-12-23
+1454,1528,67.03,Environmental Management,2022-08-31
+1455,4684,63.64,Indoor Residual Spraying,2017-01-12
+1456,3193,72.88,Environmental Management,2019-05-14
+1457,1981,52.25,Environmental Management,2022-03-01
+1458,3943,46.68,Bed Net Distribution,2017-07-14
+1459,3292,65.07,Larvicide Application,2021-07-27
+1460,1870,72.71,Indoor Residual Spraying,2015-05-03
+1461,2848,65.65,Larvicide Application,2020-02-10
+1462,3981,91.45,Bed Net Distribution,2020-05-04
+1463,794,85.77,Indoor Residual Spraying,2019-10-29
+1464,877,64.68,Environmental Management,2020-01-18
+1465,992,88.18,Indoor Residual Spraying,2023-05-14
+1466,4338,91.37,Larvicide Application,2021-03-06
+1467,1469,41.99,Larvicide Application,2016-07-01
+1468,3365,66.32,Environmental Management,2021-02-19
+1469,1848,93.93,Indoor Residual Spraying,2015-04-06
+1470,850,64.03,Environmental Management,2016-03-25
+1471,1297,52.39,Indoor Residual Spraying,2023-05-16
+1472,1505,91.38,Bed Net Distribution,2015-12-16
+1473,4054,53.9,Indoor Residual Spraying,2021-06-24
+1474,4778,76.85,Environmental Management,2015-03-01
+1475,2297,78.53,Environmental Management,2021-03-04
+1476,4933,49.52,Larvicide Application,2023-08-16
+1477,3251,60.98,Indoor Residual Spraying,2017-11-06
+1478,2385,47.9,Bed Net Distribution,2023-10-05
+1479,3451,50.46,Larvicide Application,2017-06-21
+1480,493,63.92,Indoor Residual Spraying,2018-03-23
+1481,4689,78.91,Larvicide Application,2018-02-11
+1482,3515,60.54,Bed Net Distribution,2023-08-22
+1483,1320,58.03,Environmental Management,2018-01-07
+1484,2299,50.38,Bed Net Distribution,2016-09-13
+1485,272,46.31,Bed Net Distribution,2020-06-23
+1486,3104,64.59,Environmental Management,2022-07-22
+1487,2364,78.54,Bed Net Distribution,2020-04-01
+1488,1997,90.63,Environmental Management,2019-02-01
+1489,1201,44.04,Larvicide Application,2017-10-02
+1490,2893,66.27,Bed Net Distribution,2019-10-25
+1491,2097,50.59,Larvicide Application,2022-08-20
+1492,231,65.71,Indoor Residual Spraying,2022-03-20
+1493,3630,44.84,Environmental Management,2019-12-29
+1494,4851,77.41,Larvicide Application,2019-11-01
+1495,1867,65.52,Indoor Residual Spraying,2015-12-27
+1496,527,87.99,Indoor Residual Spraying,2023-04-26
+1497,2371,49.6,Bed Net Distribution,2022-10-09
+1498,3751,54.79,Bed Net Distribution,2017-07-28
+1499,3500,80.38,Larvicide Application,2021-01-08
+1500,4085,86.06,Bed Net Distribution,2017-03-11
+1501,2026,59.91,Indoor Residual Spraying,2022-12-01
+1502,3238,60.05,Indoor Residual Spraying,2016-03-09
+1503,3725,78.89,Larvicide Application,2017-04-24
+1504,4092,70.11,Environmental Management,2022-10-10
+1505,251,73.96,Larvicide Application,2020-08-22
+1506,3465,71.92,Bed Net Distribution,2016-01-17
+1507,3451,77.27,Environmental Management,2018-05-25
+1508,4874,87.28,Environmental Management,2015-12-12
+1509,259,89.34,Indoor Residual Spraying,2021-08-25
+1510,2397,46.31,Larvicide Application,2018-11-16
+1511,3262,44.85,Indoor Residual Spraying,2018-07-21
+1512,3088,67.62,Bed Net Distribution,2017-07-07
+1513,3938,66.66,Environmental Management,2018-08-15
+1514,1667,95.0,Larvicide Application,2018-11-23
+1515,4854,90.65,Environmental Management,2023-08-02
+1516,1595,64.0,Larvicide Application,2017-05-09
+1517,1475,43.81,Larvicide Application,2022-04-29
+1518,2590,61.67,Indoor Residual Spraying,2019-01-17
+1519,2791,80.73,Environmental Management,2023-07-22
+1520,3742,57.14,Environmental Management,2015-05-20
+1521,3185,88.83,Indoor Residual Spraying,2020-08-17
+1522,4788,82.83,Environmental Management,2017-09-29
+1523,1218,42.14,Bed Net Distribution,2018-01-16
+1524,4537,76.95,Environmental Management,2016-09-04
+1525,3301,54.11,Bed Net Distribution,2019-03-16
+1526,2534,93.49,Bed Net Distribution,2015-10-03
+1527,3103,83.74,Bed Net Distribution,2019-07-19
+1528,4342,78.21,Environmental Management,2017-11-28
+1529,656,91.94,Indoor Residual Spraying,2015-05-07
+1530,1758,76.51,Environmental Management,2017-04-27
+1531,3195,68.08,Environmental Management,2017-03-10
+1532,259,71.69,Indoor Residual Spraying,2017-09-08
+1533,2519,86.71,Bed Net Distribution,2021-02-04
+1534,1416,68.17,Bed Net Distribution,2019-06-20
+1535,4995,89.56,Larvicide Application,2019-11-10
+1536,383,86.17,Bed Net Distribution,2017-12-02
+1537,1938,86.46,Indoor Residual Spraying,2019-03-01
+1538,3844,83.85,Larvicide Application,2018-07-11
+1539,3325,77.97,Larvicide Application,2021-10-26
+1540,596,61.09,Larvicide Application,2023-01-28
+1541,4398,86.38,Bed Net Distribution,2018-10-08
+1542,4902,40.93,Bed Net Distribution,2022-03-12
+1543,3518,76.24,Bed Net Distribution,2016-04-08
+1544,4695,57.74,Environmental Management,2021-03-10
+1545,2503,54.91,Bed Net Distribution,2022-04-22
+1546,2755,50.54,Indoor Residual Spraying,2016-02-10
+1547,2362,43.94,Bed Net Distribution,2020-10-13
+1548,406,59.86,Larvicide Application,2017-02-23
+1549,1334,92.43,Bed Net Distribution,2018-02-18
+1550,3097,50.55,Bed Net Distribution,2017-03-04
+1551,1325,47.2,Indoor Residual Spraying,2018-01-18
+1552,1110,83.28,Environmental Management,2023-12-26
+1553,1840,62.18,Environmental Management,2017-04-12
+1554,2990,47.81,Larvicide Application,2018-06-20
+1555,3564,47.93,Bed Net Distribution,2018-11-12
+1556,548,73.46,Larvicide Application,2020-11-12
+1557,4025,93.93,Bed Net Distribution,2020-03-27
+1558,1233,44.31,Larvicide Application,2021-05-06
+1559,3265,68.15,Environmental Management,2015-10-14
+1560,2315,63.45,Bed Net Distribution,2020-01-06
+1561,4768,71.6,Larvicide Application,2018-01-16
+1562,2883,77.15,Indoor Residual Spraying,2023-03-23
+1563,3982,94.92,Environmental Management,2023-10-23
+1564,528,62.29,Indoor Residual Spraying,2019-06-22
+1565,1961,59.84,Indoor Residual Spraying,2015-02-14
+1566,2987,69.67,Indoor Residual Spraying,2023-01-20
+1567,3007,59.95,Indoor Residual Spraying,2023-03-31
+1568,1609,77.44,Environmental Management,2017-08-27
+1569,825,45.78,Environmental Management,2019-08-18
+1570,3894,56.08,Larvicide Application,2021-07-24
+1571,3566,44.57,Indoor Residual Spraying,2015-01-27
+1572,1873,63.66,Environmental Management,2022-01-02
+1573,3467,90.12,Larvicide Application,2016-12-05
+1574,3667,87.07,Bed Net Distribution,2019-11-14
+1575,1815,67.72,Environmental Management,2023-06-19
+1576,2462,90.2,Environmental Management,2023-12-04
+1577,2793,75.39,Environmental Management,2017-10-03
+1578,401,62.16,Indoor Residual Spraying,2021-12-30
+1579,2170,82.41,Environmental Management,2016-10-03
+1580,1396,67.25,Bed Net Distribution,2015-05-21
+1581,2148,82.5,Indoor Residual Spraying,2015-10-11
+1582,3022,43.97,Environmental Management,2015-07-26
+1583,4612,51.94,Environmental Management,2022-03-26
+1584,3380,89.53,Environmental Management,2016-09-30
+1585,4354,43.26,Indoor Residual Spraying,2018-01-31
+1586,2761,85.4,Larvicide Application,2021-02-23
+1587,3089,72.42,Indoor Residual Spraying,2021-03-03
+1588,1192,72.94,Environmental Management,2016-05-19
+1589,3438,40.06,Environmental Management,2022-07-01
+1590,1609,71.53,Larvicide Application,2015-10-01
+1591,1688,71.34,Indoor Residual Spraying,2018-10-28
+1592,1528,58.4,Bed Net Distribution,2016-05-25
+1593,2680,64.57,Environmental Management,2022-10-07
+1594,2849,77.68,Environmental Management,2015-10-12
+1595,3506,82.39,Environmental Management,2015-10-12
+1596,4837,48.45,Indoor Residual Spraying,2019-04-13
+1597,106,40.47,Bed Net Distribution,2021-12-03
+1598,2704,92.0,Bed Net Distribution,2023-12-27
+1599,1810,60.97,Bed Net Distribution,2018-05-09
+1600,4933,48.3,Larvicide Application,2018-07-26
+1601,1502,65.25,Larvicide Application,2018-01-29
+1602,2675,89.31,Larvicide Application,2023-10-31
+1603,1879,48.13,Bed Net Distribution,2021-05-05
+1604,1560,73.28,Environmental Management,2021-01-29
+1605,1726,54.69,Indoor Residual Spraying,2015-11-01
+1606,198,91.43,Environmental Management,2022-01-29
+1607,1859,81.84,Larvicide Application,2017-11-07
+1608,4114,55.78,Bed Net Distribution,2019-04-01
+1609,790,59.66,Indoor Residual Spraying,2020-11-08
+1610,4526,40.83,Indoor Residual Spraying,2016-01-05
+1611,1318,47.83,Indoor Residual Spraying,2021-05-07
+1612,3102,74.94,Indoor Residual Spraying,2019-12-21
+1613,216,57.9,Bed Net Distribution,2020-01-25
+1614,1923,77.02,Bed Net Distribution,2022-09-24
+1615,4216,56.11,Bed Net Distribution,2018-06-03
+1616,1830,61.54,Indoor Residual Spraying,2021-08-18
+1617,1770,73.45,Bed Net Distribution,2018-10-22
+1618,3649,76.35,Larvicide Application,2022-05-03
+1619,2093,83.17,Environmental Management,2015-08-02
+1620,2207,52.67,Bed Net Distribution,2018-05-30
+1621,3986,71.19,Bed Net Distribution,2019-06-08
+1622,2160,40.63,Larvicide Application,2022-10-22
+1623,938,64.62,Indoor Residual Spraying,2023-07-07
+1624,1872,89.25,Bed Net Distribution,2019-07-21
+1625,240,72.21,Larvicide Application,2015-06-03
+1626,1971,56.77,Environmental Management,2015-10-16
+1627,3579,87.45,Larvicide Application,2019-03-11
+1628,4572,69.36,Environmental Management,2023-08-16
+1629,3828,69.39,Environmental Management,2021-07-29
+1630,2260,88.89,Bed Net Distribution,2016-05-28
+1631,4012,52.13,Larvicide Application,2019-07-07
+1632,2685,49.43,Bed Net Distribution,2015-10-18
+1633,4101,80.36,Environmental Management,2019-12-10
+1634,1737,89.14,Larvicide Application,2017-02-12
+1635,3517,59.64,Indoor Residual Spraying,2018-10-13
+1636,1569,73.75,Environmental Management,2015-08-21
+1637,620,54.38,Indoor Residual Spraying,2022-05-05
+1638,106,44.03,Environmental Management,2023-03-08
+1639,367,46.27,Indoor Residual Spraying,2015-07-21
+1640,4777,63.38,Environmental Management,2019-08-14
+1641,409,56.36,Indoor Residual Spraying,2015-04-24
+1642,3308,67.78,Environmental Management,2023-12-16
+1643,4690,79.13,Larvicide Application,2016-10-27
+1644,782,91.94,Bed Net Distribution,2020-09-24
+1645,3193,83.67,Indoor Residual Spraying,2019-11-06
+1646,2336,82.5,Bed Net Distribution,2019-05-21
+1647,2814,88.82,Bed Net Distribution,2022-07-14
+1648,2440,61.82,Bed Net Distribution,2022-11-06
+1649,608,42.91,Bed Net Distribution,2021-09-22
+1650,3324,42.7,Bed Net Distribution,2017-05-19
+1651,3728,40.16,Indoor Residual Spraying,2020-07-18
+1652,2568,50.82,Environmental Management,2022-06-11
+1653,4748,93.12,Bed Net Distribution,2020-10-13
+1654,4139,42.68,Environmental Management,2017-06-15
+1655,1544,78.74,Environmental Management,2018-08-27
+1656,3979,64.56,Bed Net Distribution,2015-09-01
+1657,3322,40.97,Bed Net Distribution,2016-04-24
+1658,1128,40.72,Environmental Management,2017-03-07
+1659,3132,85.35,Larvicide Application,2018-01-14
+1660,1596,43.55,Bed Net Distribution,2023-10-26
+1661,4375,70.85,Larvicide Application,2015-09-28
+1662,2307,56.8,Indoor Residual Spraying,2019-05-05
+1663,3662,94.33,Bed Net Distribution,2015-09-07
+1664,927,61.95,Bed Net Distribution,2020-11-06
+1665,2002,47.15,Larvicide Application,2015-11-16
+1666,573,67.94,Larvicide Application,2022-12-07
+1667,4077,71.86,Environmental Management,2019-12-11
+1668,3806,58.61,Bed Net Distribution,2015-07-07
+1669,3560,66.79,Larvicide Application,2023-07-21
+1670,4126,94.11,Environmental Management,2018-12-24
+1671,2855,56.4,Indoor Residual Spraying,2019-05-17
+1672,4764,45.6,Larvicide Application,2020-06-26
+1673,3303,69.62,Environmental Management,2023-10-31
+1674,1165,88.74,Bed Net Distribution,2016-04-22
+1675,2238,79.43,Indoor Residual Spraying,2015-03-04
+1676,2220,54.48,Environmental Management,2020-10-20
+1677,390,62.72,Bed Net Distribution,2020-03-09
+1678,3403,84.4,Environmental Management,2015-01-28
+1679,4634,72.72,Environmental Management,2020-10-04
+1680,3055,76.49,Indoor Residual Spraying,2021-03-03
+1681,2469,85.51,Environmental Management,2016-01-20
+1682,2771,79.84,Larvicide Application,2021-08-04
+1683,1040,86.43,Bed Net Distribution,2016-01-10
+1684,1228,75.66,Indoor Residual Spraying,2021-02-10
+1685,3674,90.01,Environmental Management,2017-06-04
+1686,4694,81.14,Indoor Residual Spraying,2015-03-04
+1687,252,49.21,Environmental Management,2016-04-08
+1688,4907,60.4,Bed Net Distribution,2023-01-20
+1689,4136,44.34,Bed Net Distribution,2023-06-20
+1690,2793,83.6,Bed Net Distribution,2020-06-08
+1691,1352,85.34,Indoor Residual Spraying,2022-05-06
+1692,1940,72.78,Environmental Management,2017-11-11
+1693,2182,81.94,Larvicide Application,2019-12-26
+1694,3450,84.06,Bed Net Distribution,2023-12-08
+1695,4498,79.09,Larvicide Application,2017-08-15
+1696,2435,68.14,Larvicide Application,2018-10-01
+1697,2320,92.27,Indoor Residual Spraying,2020-12-09
+1698,1575,48.58,Indoor Residual Spraying,2018-03-30
+1699,1896,44.76,Bed Net Distribution,2016-08-23
+1700,4429,60.11,Indoor Residual Spraying,2020-02-11
+1701,3658,83.19,Bed Net Distribution,2018-04-17
+1702,552,76.19,Environmental Management,2021-02-20
+1703,4023,85.11,Larvicide Application,2018-05-22
+1704,4064,65.35,Indoor Residual Spraying,2018-08-11
+1705,1063,51.19,Bed Net Distribution,2017-07-23
+1706,3294,79.25,Bed Net Distribution,2021-04-04
+1707,4854,91.79,Environmental Management,2022-09-14
+1708,765,68.66,Environmental Management,2019-01-18
+1709,4951,61.73,Indoor Residual Spraying,2020-01-27
+1710,2297,61.86,Bed Net Distribution,2015-03-11
+1711,2437,48.29,Indoor Residual Spraying,2022-07-19
+1712,3631,45.28,Bed Net Distribution,2015-11-29
+1713,3270,48.78,Larvicide Application,2021-04-19
+1714,4985,71.8,Larvicide Application,2023-06-16
+1715,2327,58.88,Larvicide Application,2020-03-23
+1716,2711,76.3,Larvicide Application,2018-11-04
+1717,1557,79.06,Environmental Management,2019-01-24
+1718,3648,47.72,Larvicide Application,2015-02-14
+1719,2784,70.52,Bed Net Distribution,2023-08-10
+1720,4615,66.49,Environmental Management,2020-10-21
+1721,2603,56.59,Bed Net Distribution,2019-07-05
+1722,2396,65.78,Indoor Residual Spraying,2021-01-15
+1723,2568,83.92,Bed Net Distribution,2021-10-16
+1724,1655,44.23,Environmental Management,2016-07-19
+1725,323,42.7,Environmental Management,2018-02-11
+1726,982,57.46,Environmental Management,2017-04-11
+1727,4031,70.86,Environmental Management,2018-12-12
+1728,4889,87.02,Indoor Residual Spraying,2017-06-01
+1729,1465,94.63,Larvicide Application,2016-05-14
+1730,1198,79.19,Bed Net Distribution,2018-06-10
+1731,3727,54.75,Larvicide Application,2021-04-11
+1732,3890,69.22,Larvicide Application,2020-08-08
+1733,1245,78.08,Larvicide Application,2020-07-15
+1734,734,77.42,Larvicide Application,2023-02-03
+1735,720,73.26,Larvicide Application,2017-12-18
+1736,2025,90.43,Environmental Management,2019-11-23
+1737,2764,43.35,Environmental Management,2017-08-10
+1738,2952,73.66,Indoor Residual Spraying,2019-01-05
+1739,2776,93.93,Bed Net Distribution,2015-09-22
+1740,2459,47.17,Larvicide Application,2015-01-14
+1741,1189,60.55,Environmental Management,2017-04-26
+1742,3671,94.73,Indoor Residual Spraying,2022-01-28
+1743,515,50.83,Environmental Management,2015-07-13
+1744,561,79.12,Indoor Residual Spraying,2018-03-31
+1745,3476,60.62,Environmental Management,2022-02-03
+1746,2521,83.58,Bed Net Distribution,2019-03-17
+1747,2573,71.41,Environmental Management,2016-10-04
+1748,2552,44.76,Bed Net Distribution,2023-12-08
+1749,881,88.69,Environmental Management,2019-10-01
+1750,2473,40.33,Larvicide Application,2023-10-21
+1751,3894,63.1,Larvicide Application,2016-05-22
+1752,2888,47.45,Larvicide Application,2022-11-08
+1753,3737,70.14,Environmental Management,2019-10-03
+1754,1807,79.55,Larvicide Application,2022-11-20
+1755,3188,57.56,Bed Net Distribution,2015-03-30
+1756,2136,57.99,Indoor Residual Spraying,2021-12-08
+1757,1692,54.11,Bed Net Distribution,2023-04-26
+1758,3403,84.91,Larvicide Application,2018-11-14
+1759,1014,60.08,Larvicide Application,2018-10-27
+1760,2371,47.16,Bed Net Distribution,2017-04-13
+1761,2913,57.12,Environmental Management,2016-01-13
+1762,3385,67.54,Environmental Management,2016-05-02
+1763,3242,57.65,Environmental Management,2021-12-25
+1764,4567,49.64,Larvicide Application,2020-10-01
+1765,1498,49.98,Bed Net Distribution,2016-08-20
+1766,3953,41.38,Indoor Residual Spraying,2021-06-29
+1767,4773,56.65,Environmental Management,2021-05-19
+1768,3404,93.55,Indoor Residual Spraying,2018-09-06
+1769,1461,52.66,Indoor Residual Spraying,2020-11-26
+1770,457,63.69,Environmental Management,2020-03-04
+1771,1866,51.78,Larvicide Application,2023-10-14
+1772,157,91.71,Larvicide Application,2019-11-09
+1773,4577,94.89,Environmental Management,2021-08-07
+1774,992,42.33,Bed Net Distribution,2022-09-06
+1775,4821,76.87,Environmental Management,2017-08-05
+1776,1095,83.73,Environmental Management,2020-10-06
+1777,3407,64.73,Bed Net Distribution,2016-01-29
+1778,1139,51.8,Environmental Management,2023-10-21
+1779,1587,87.64,Indoor Residual Spraying,2021-08-27
+1780,2390,49.85,Indoor Residual Spraying,2020-10-25
+1781,3449,52.65,Indoor Residual Spraying,2018-05-16
+1782,3484,56.81,Indoor Residual Spraying,2015-07-15
+1783,2423,89.31,Bed Net Distribution,2018-12-03
+1784,3316,66.46,Bed Net Distribution,2020-04-27
+1785,4364,58.3,Larvicide Application,2018-03-12
+1786,2994,58.38,Indoor Residual Spraying,2019-01-31
+1787,1122,40.97,Bed Net Distribution,2022-06-12
+1788,885,72.96,Indoor Residual Spraying,2020-03-09
+1789,953,52.79,Indoor Residual Spraying,2017-11-18
+1790,2140,50.57,Environmental Management,2022-01-05
+1791,529,59.45,Environmental Management,2016-07-28
+1792,485,83.16,Bed Net Distribution,2019-02-24
+1793,187,67.1,Bed Net Distribution,2021-03-18
+1794,2614,71.3,Bed Net Distribution,2019-11-13
+1795,539,47.75,Bed Net Distribution,2019-08-24
+1796,992,87.43,Environmental Management,2019-12-17
+1797,3356,42.0,Bed Net Distribution,2015-07-18
+1798,3163,89.2,Indoor Residual Spraying,2023-02-10
+1799,3149,49.82,Larvicide Application,2022-01-02
+1800,4538,90.58,Bed Net Distribution,2022-08-26
+1801,3739,91.83,Larvicide Application,2023-01-14
+1802,1378,54.31,Larvicide Application,2019-06-24
+1803,4204,77.12,Bed Net Distribution,2015-12-01
+1804,1560,73.86,Larvicide Application,2019-07-09
+1805,4139,71.45,Larvicide Application,2022-07-04
+1806,1773,40.22,Larvicide Application,2015-07-07
+1807,4176,66.4,Larvicide Application,2016-07-07
+1808,3541,47.33,Bed Net Distribution,2016-10-16
+1809,103,91.39,Indoor Residual Spraying,2017-02-14
+1810,2127,74.23,Larvicide Application,2015-08-31
+1811,1567,88.85,Indoor Residual Spraying,2015-06-10
+1812,1414,66.76,Indoor Residual Spraying,2018-04-01
+1813,354,55.93,Larvicide Application,2022-05-21
+1814,2907,76.6,Larvicide Application,2018-09-09
+1815,2884,73.73,Bed Net Distribution,2018-04-20
+1816,4734,86.06,Bed Net Distribution,2019-05-08
+1817,4573,94.23,Bed Net Distribution,2021-08-19
+1818,1872,89.45,Larvicide Application,2017-05-05
+1819,2861,41.66,Bed Net Distribution,2018-04-21
+1820,287,73.96,Larvicide Application,2020-06-08
+1821,3398,44.03,Environmental Management,2021-05-28
+1822,3646,64.81,Larvicide Application,2018-12-30
+1823,4809,46.69,Larvicide Application,2017-10-19
+1824,486,66.89,Environmental Management,2020-08-04
+1825,3044,79.69,Bed Net Distribution,2023-11-22
+1826,3581,79.73,Indoor Residual Spraying,2015-10-10
+1827,2636,81.23,Bed Net Distribution,2017-12-04
+1828,2580,55.0,Indoor Residual Spraying,2017-08-08
+1829,594,74.11,Bed Net Distribution,2019-03-10
+1830,1688,59.02,Environmental Management,2021-02-22
+1831,3927,90.42,Indoor Residual Spraying,2019-02-05
+1832,3437,81.85,Environmental Management,2023-11-11
+1833,905,86.66,Environmental Management,2020-07-24
+1834,2291,86.4,Environmental Management,2022-07-14
+1835,902,76.4,Environmental Management,2019-09-16
+1836,2795,60.35,Bed Net Distribution,2015-03-08
+1837,4940,89.52,Larvicide Application,2021-09-05
+1838,4030,84.69,Indoor Residual Spraying,2020-06-13
+1839,138,86.1,Larvicide Application,2019-02-15
+1840,794,69.27,Bed Net Distribution,2023-01-31
+1841,3697,48.14,Larvicide Application,2021-06-20
+1842,3204,84.76,Indoor Residual Spraying,2016-03-23
+1843,138,43.66,Environmental Management,2022-08-24
+1844,1337,84.74,Larvicide Application,2020-01-27
+1845,4371,56.92,Larvicide Application,2021-06-14
+1846,2072,40.95,Larvicide Application,2022-04-25
+1847,1346,76.92,Larvicide Application,2018-12-21
+1848,1061,63.25,Environmental Management,2016-05-01
+1849,381,79.66,Bed Net Distribution,2021-06-02
+1850,1972,74.61,Environmental Management,2019-11-23
+1851,1539,85.97,Bed Net Distribution,2023-04-30
+1852,544,40.15,Larvicide Application,2015-08-30
+1853,1425,45.96,Indoor Residual Spraying,2018-03-24
+1854,424,66.43,Larvicide Application,2022-02-09
+1855,2312,70.56,Larvicide Application,2019-06-05
+1856,2870,76.97,Indoor Residual Spraying,2023-08-03
+1857,4463,88.83,Indoor Residual Spraying,2018-03-10
+1858,3560,91.37,Larvicide Application,2023-04-17
+1859,3080,40.95,Bed Net Distribution,2021-07-31
+1860,4007,52.16,Bed Net Distribution,2018-10-19
+1861,4151,92.85,Environmental Management,2022-10-05
+1862,2170,77.38,Indoor Residual Spraying,2015-10-05
+1863,1173,67.01,Larvicide Application,2015-06-14
+1864,829,75.74,Bed Net Distribution,2019-08-21
+1865,840,51.05,Bed Net Distribution,2022-12-22
+1866,3815,83.99,Indoor Residual Spraying,2022-04-13
+1867,4124,66.57,Environmental Management,2017-10-17
+1868,2239,88.26,Indoor Residual Spraying,2020-01-10
+1869,1603,44.56,Bed Net Distribution,2023-05-12
+1870,152,49.41,Indoor Residual Spraying,2019-03-24
+1871,3495,75.88,Environmental Management,2023-07-21
+1872,3718,56.14,Indoor Residual Spraying,2017-06-01
+1873,3546,78.73,Environmental Management,2017-05-28
+1874,2057,92.47,Environmental Management,2019-03-29
+1875,4954,86.3,Indoor Residual Spraying,2018-12-25
+1876,4288,67.14,Larvicide Application,2021-03-04
+1877,700,69.14,Larvicide Application,2016-11-12
+1878,1461,50.57,Larvicide Application,2023-03-28
+1879,1793,44.47,Bed Net Distribution,2021-06-06
+1880,778,74.82,Larvicide Application,2015-06-13
+1881,2281,51.14,Larvicide Application,2022-02-21
+1882,4156,41.06,Larvicide Application,2021-09-08
+1883,2829,75.04,Larvicide Application,2016-06-10
+1884,4010,58.54,Environmental Management,2017-06-21
+1885,1294,64.57,Environmental Management,2022-07-23
+1886,3284,90.94,Bed Net Distribution,2016-12-20
+1887,1115,55.29,Bed Net Distribution,2017-02-10
+1888,4151,68.64,Larvicide Application,2018-09-01
+1889,1353,40.35,Larvicide Application,2016-09-22
+1890,4656,42.95,Indoor Residual Spraying,2015-02-06
+1891,1359,70.06,Environmental Management,2022-04-06
+1892,1006,92.12,Bed Net Distribution,2023-10-28
+1893,2665,47.15,Bed Net Distribution,2016-08-03
+1894,1757,48.4,Environmental Management,2016-03-08
+1895,146,91.65,Indoor Residual Spraying,2021-08-31
+1896,3398,46.94,Indoor Residual Spraying,2017-01-09
+1897,4814,86.85,Bed Net Distribution,2023-02-11
+1898,3372,43.39,Bed Net Distribution,2017-01-12
+1899,4797,41.29,Environmental Management,2017-07-26
+1900,2258,53.0,Environmental Management,2022-10-08
+1901,4615,66.44,Bed Net Distribution,2019-07-30
+1902,4102,52.64,Larvicide Application,2023-04-29
+1903,4539,63.31,Larvicide Application,2018-07-12
+1904,2275,56.85,Larvicide Application,2023-07-18
+1905,4904,40.99,Environmental Management,2019-11-13
+1906,2693,78.95,Environmental Management,2015-10-15
+1907,2688,79.18,Environmental Management,2016-11-16
+1908,396,46.04,Environmental Management,2023-07-20
+1909,3983,64.32,Environmental Management,2023-11-06
+1910,632,45.62,Bed Net Distribution,2017-09-23
+1911,4233,70.72,Indoor Residual Spraying,2020-07-24
+1912,4067,56.47,Environmental Management,2019-12-27
+1913,1686,91.23,Environmental Management,2023-10-21
+1914,2956,48.01,Indoor Residual Spraying,2016-07-01
+1915,2541,86.33,Environmental Management,2017-08-25
+1916,1349,73.46,Bed Net Distribution,2022-03-12
+1917,3553,84.54,Environmental Management,2019-04-21
+1918,2509,92.34,Environmental Management,2016-10-22
+1919,3220,45.54,Indoor Residual Spraying,2019-09-22
+1920,4546,46.72,Bed Net Distribution,2020-03-04
+1921,309,81.98,Bed Net Distribution,2019-07-22
+1922,2502,67.6,Bed Net Distribution,2017-06-08
+1923,2247,77.29,Indoor Residual Spraying,2018-12-28
+1924,3275,90.68,Environmental Management,2020-06-18
+1925,3123,49.27,Indoor Residual Spraying,2020-08-31
+1926,2786,66.59,Indoor Residual Spraying,2018-03-02
+1927,888,71.38,Larvicide Application,2017-10-14
+1928,4587,83.39,Environmental Management,2017-12-02
+1929,3388,89.77,Bed Net Distribution,2019-03-01
+1930,2722,53.35,Bed Net Distribution,2016-01-20
+1931,2518,76.75,Environmental Management,2020-09-06
+1932,2619,49.56,Environmental Management,2023-08-06
+1933,3286,88.69,Bed Net Distribution,2020-01-12
+1934,132,78.92,Indoor Residual Spraying,2018-08-10
+1935,2896,40.1,Indoor Residual Spraying,2018-02-23
+1936,2882,42.19,Bed Net Distribution,2023-05-03
+1937,3136,81.49,Larvicide Application,2015-01-31
+1938,2935,77.39,Bed Net Distribution,2022-02-11
+1939,4790,46.14,Larvicide Application,2021-03-30
+1940,2603,67.47,Environmental Management,2022-01-13
+1941,3025,80.25,Environmental Management,2022-09-29
+1942,3496,71.54,Bed Net Distribution,2018-07-03
+1943,4036,46.47,Indoor Residual Spraying,2015-07-19
+1944,361,93.94,Larvicide Application,2019-08-06
+1945,4385,65.63,Larvicide Application,2015-03-10
+1946,3636,56.36,Environmental Management,2015-06-25
+1947,4361,66.33,Environmental Management,2020-08-24
+1948,794,60.28,Indoor Residual Spraying,2021-04-08
+1949,3467,41.77,Larvicide Application,2019-01-13
+1950,2648,53.38,Indoor Residual Spraying,2016-01-20
+1951,2776,60.53,Larvicide Application,2017-07-24
+1952,1478,46.81,Bed Net Distribution,2023-09-07
+1953,1000,88.25,Environmental Management,2019-01-17
+1954,3960,76.31,Bed Net Distribution,2022-10-27
+1955,2722,64.48,Larvicide Application,2016-04-12
+1956,4571,51.97,Bed Net Distribution,2015-01-11
+1957,2700,53.52,Environmental Management,2017-07-07
+1958,1892,66.71,Environmental Management,2019-10-10
+1959,1459,49.72,Larvicide Application,2021-03-13
+1960,891,72.53,Indoor Residual Spraying,2022-11-18
+1961,4149,91.03,Larvicide Application,2023-11-08
+1962,1853,94.11,Indoor Residual Spraying,2016-07-31
+1963,4244,80.01,Bed Net Distribution,2021-04-05
+1964,4407,84.1,Bed Net Distribution,2021-07-13
+1965,3138,40.43,Indoor Residual Spraying,2021-11-05
+1966,1044,64.57,Bed Net Distribution,2019-09-15
+1967,3267,66.1,Larvicide Application,2021-03-25
+1968,216,76.43,Indoor Residual Spraying,2020-11-13
+1969,4644,40.77,Environmental Management,2020-10-15
+1970,3238,41.69,Larvicide Application,2023-06-28
+1971,3191,43.87,Environmental Management,2022-06-20
+1972,4001,57.14,Bed Net Distribution,2021-01-22
+1973,1286,84.91,Indoor Residual Spraying,2017-11-30
+1974,317,79.41,Larvicide Application,2018-12-10
+1975,2563,47.98,Environmental Management,2021-01-28
+1976,1610,79.62,Environmental Management,2020-07-04
+1977,4605,62.29,Indoor Residual Spraying,2015-06-19
+1978,2682,91.4,Larvicide Application,2016-09-22
+1979,2202,58.43,Bed Net Distribution,2020-10-07
+1980,2962,83.15,Environmental Management,2023-10-01
+1981,2901,94.72,Bed Net Distribution,2022-05-18
+1982,885,57.57,Environmental Management,2022-05-23
+1983,2391,60.4,Environmental Management,2017-10-06
+1984,422,84.94,Indoor Residual Spraying,2023-03-24
+1985,3858,81.49,Indoor Residual Spraying,2023-04-03
+1986,1456,44.59,Larvicide Application,2016-01-03
+1987,1453,46.24,Bed Net Distribution,2021-11-26
+1988,3401,91.82,Environmental Management,2018-06-10
+1989,4729,59.35,Larvicide Application,2017-09-08
+1990,1690,68.31,Bed Net Distribution,2021-08-20
+1991,2570,87.61,Indoor Residual Spraying,2019-06-24
+1992,1707,87.14,Environmental Management,2018-11-22
+1993,1286,48.79,Environmental Management,2022-02-16
+1994,1435,93.79,Larvicide Application,2017-06-04
+1995,4591,86.72,Larvicide Application,2019-12-22
+1996,1186,90.97,Indoor Residual Spraying,2017-01-31
+1997,905,70.08,Bed Net Distribution,2022-12-16
+1998,3067,82.42,Indoor Residual Spraying,2019-11-10
+1999,2397,93.85,Bed Net Distribution,2020-09-08
+2000,2144,73.55,Indoor Residual Spraying,2019-06-24
+2001,3314,60.4,Larvicide Application,2018-08-08
+2002,3352,92.96,Indoor Residual Spraying,2016-08-25
+2003,2618,48.64,Environmental Management,2023-02-06
+2004,4118,74.75,Indoor Residual Spraying,2022-05-14
+2005,1296,76.66,Indoor Residual Spraying,2021-01-12
+2006,4690,90.73,Indoor Residual Spraying,2022-09-16
+2007,4574,47.16,Larvicide Application,2016-03-19
+2008,1215,40.45,Indoor Residual Spraying,2020-11-05
+2009,2576,73.73,Environmental Management,2016-05-21
+2010,1627,57.08,Indoor Residual Spraying,2019-11-13
+2011,447,84.48,Larvicide Application,2022-03-25
+2012,2000,43.39,Bed Net Distribution,2017-11-19
+2013,1298,91.16,Larvicide Application,2018-04-04
+2014,1040,51.14,Environmental Management,2016-11-12
+2015,2026,42.28,Indoor Residual Spraying,2017-05-29
+2016,1299,73.45,Environmental Management,2019-09-28
+2017,1395,51.65,Bed Net Distribution,2015-03-20
+2018,2222,49.25,Larvicide Application,2016-09-26
+2019,2865,79.2,Larvicide Application,2018-01-24
+2020,3741,47.73,Larvicide Application,2022-04-18
+2021,1773,73.29,Bed Net Distribution,2020-10-19
+2022,1228,65.61,Bed Net Distribution,2022-10-06
+2023,909,84.78,Environmental Management,2015-09-26
+2024,938,62.22,Bed Net Distribution,2023-06-02
+2025,4526,71.51,Bed Net Distribution,2023-12-17
+2026,3130,87.97,Bed Net Distribution,2018-02-08
+2027,568,72.07,Indoor Residual Spraying,2020-06-23
+2028,5000,84.13,Indoor Residual Spraying,2023-07-13
+2029,3773,80.3,Bed Net Distribution,2016-10-01
+2030,4928,87.4,Bed Net Distribution,2019-12-03
+2031,4515,87.65,Bed Net Distribution,2016-09-23
+2032,642,80.43,Environmental Management,2015-09-05
+2033,4349,57.64,Bed Net Distribution,2020-09-02
+2034,1895,44.25,Larvicide Application,2015-02-15
+2035,1371,90.27,Bed Net Distribution,2021-08-21
+2036,4702,88.71,Indoor Residual Spraying,2021-09-15
+2037,1326,50.47,Larvicide Application,2021-07-17
+2038,3350,40.66,Indoor Residual Spraying,2019-07-11
+2039,1782,63.19,Indoor Residual Spraying,2017-12-16
+2040,2251,54.25,Indoor Residual Spraying,2017-11-25
+2041,1061,54.4,Indoor Residual Spraying,2017-01-08
+2042,1636,41.27,Larvicide Application,2021-10-29
+2043,1297,56.58,Bed Net Distribution,2023-09-04
+2044,454,92.51,Indoor Residual Spraying,2016-12-06
+2045,1787,47.7,Environmental Management,2017-07-04
+2046,2446,76.4,Indoor Residual Spraying,2015-05-13
+2047,4335,50.48,Larvicide Application,2015-10-09
+2048,1089,54.09,Environmental Management,2017-09-29
+2049,4879,46.33,Bed Net Distribution,2018-01-14
+2050,4919,90.97,Larvicide Application,2016-03-24
+2051,422,57.5,Environmental Management,2018-11-01
+2052,2123,50.5,Bed Net Distribution,2021-11-04
+2053,1949,51.49,Indoor Residual Spraying,2023-10-07
+2054,4512,47.92,Bed Net Distribution,2019-01-24
+2055,2656,51.32,Larvicide Application,2021-11-24
+2056,1631,73.46,Indoor Residual Spraying,2017-04-14
+2057,2078,68.82,Bed Net Distribution,2023-07-04
+2058,2661,66.23,Environmental Management,2021-06-15
+2059,1824,88.62,Environmental Management,2019-12-13
+2060,1068,54.18,Indoor Residual Spraying,2023-03-13
+2061,1078,67.24,Environmental Management,2022-09-19
+2062,3710,52.04,Larvicide Application,2023-04-10
+2063,117,71.43,Environmental Management,2022-04-19
+2064,2604,65.75,Bed Net Distribution,2021-11-24
+2065,3223,62.5,Bed Net Distribution,2018-01-25
+2066,1525,67.24,Environmental Management,2021-12-20
+2067,597,89.68,Indoor Residual Spraying,2017-08-27
+2068,4473,64.69,Environmental Management,2018-07-30
+2069,479,86.9,Bed Net Distribution,2017-09-13
+2070,2589,74.05,Bed Net Distribution,2023-12-01
+2071,672,41.97,Indoor Residual Spraying,2021-08-24
+2072,4623,40.72,Indoor Residual Spraying,2020-05-01
+2073,264,75.7,Indoor Residual Spraying,2017-04-29
+2074,1215,75.11,Environmental Management,2020-01-20
+2075,4867,75.35,Environmental Management,2018-08-01
+2076,4445,88.75,Bed Net Distribution,2015-06-29
+2077,327,86.92,Indoor Residual Spraying,2016-02-16
+2078,404,83.51,Bed Net Distribution,2020-01-02
+2079,4684,92.3,Indoor Residual Spraying,2020-06-26
+2080,4111,74.42,Environmental Management,2017-03-04
+2081,3303,49.1,Bed Net Distribution,2019-12-02
+2082,1279,76.77,Bed Net Distribution,2018-12-10
+2083,1224,90.7,Indoor Residual Spraying,2019-09-05
+2084,4546,85.35,Indoor Residual Spraying,2017-01-13
+2085,4560,69.92,Larvicide Application,2015-02-20
+2086,2706,76.89,Bed Net Distribution,2019-04-03
+2087,240,62.14,Environmental Management,2015-12-05
+2088,802,78.25,Environmental Management,2016-01-09
+2089,4437,87.63,Environmental Management,2018-08-19
+2090,2066,75.02,Indoor Residual Spraying,2017-06-23
+2091,2781,79.73,Larvicide Application,2022-11-08
+2092,2440,43.22,Environmental Management,2015-08-04
+2093,1143,40.25,Bed Net Distribution,2022-12-31
+2094,746,45.52,Indoor Residual Spraying,2016-05-30
+2095,919,62.8,Indoor Residual Spraying,2019-08-29
+2096,1293,78.07,Bed Net Distribution,2017-03-05
+2097,946,44.3,Indoor Residual Spraying,2021-05-26
+2098,629,78.57,Environmental Management,2022-11-18
+2099,4719,57.31,Indoor Residual Spraying,2019-09-08
+2100,602,86.32,Indoor Residual Spraying,2018-02-03
+2101,3279,72.68,Environmental Management,2018-08-24
+2102,3926,48.18,Bed Net Distribution,2017-02-07
+2103,1968,52.23,Bed Net Distribution,2021-08-04
+2104,3094,60.15,Environmental Management,2022-06-03
+2105,1678,74.07,Larvicide Application,2022-06-19
+2106,853,54.85,Indoor Residual Spraying,2020-07-20
+2107,1608,67.17,Environmental Management,2019-08-19
+2108,4963,93.15,Environmental Management,2019-12-16
+2109,2462,73.26,Bed Net Distribution,2021-01-11
+2110,1248,69.26,Environmental Management,2016-02-06
+2111,731,40.28,Larvicide Application,2018-10-16
+2112,3995,62.38,Environmental Management,2018-04-27
+2113,3445,76.54,Environmental Management,2019-03-24
+2114,1488,55.36,Bed Net Distribution,2021-08-06
+2115,2574,92.66,Bed Net Distribution,2021-12-14
+2116,205,76.66,Bed Net Distribution,2022-06-04
+2117,1154,53.58,Bed Net Distribution,2020-06-22
+2118,221,66.8,Indoor Residual Spraying,2020-02-13
+2119,3200,62.39,Indoor Residual Spraying,2022-01-24
+2120,3868,89.7,Indoor Residual Spraying,2016-01-21
+2121,2292,52.45,Larvicide Application,2021-07-27
+2122,2883,46.44,Larvicide Application,2023-10-17
+2123,464,87.61,Indoor Residual Spraying,2015-08-24
+2124,4458,57.32,Bed Net Distribution,2023-02-22
+2125,2825,84.31,Larvicide Application,2023-02-05
+2126,4960,77.68,Indoor Residual Spraying,2021-06-13
+2127,1949,67.32,Larvicide Application,2019-12-05
+2128,3413,84.31,Environmental Management,2019-02-17
+2129,2960,41.47,Larvicide Application,2023-05-11
+2130,703,59.87,Larvicide Application,2016-07-13
+2131,2346,44.97,Larvicide Application,2015-01-18
+2132,3496,48.96,Environmental Management,2017-07-03
+2133,1920,56.47,Bed Net Distribution,2015-11-04
+2134,2034,53.4,Indoor Residual Spraying,2022-10-29
+2135,589,83.5,Bed Net Distribution,2022-03-16
+2136,4807,84.73,Larvicide Application,2021-02-14
+2137,3505,69.49,Bed Net Distribution,2019-06-16
+2138,3397,66.22,Environmental Management,2022-07-07
+2139,3024,51.12,Environmental Management,2016-04-16
+2140,2681,44.71,Bed Net Distribution,2019-10-20
+2141,453,49.42,Environmental Management,2018-11-22
+2142,239,82.52,Indoor Residual Spraying,2023-05-10
+2143,4577,88.27,Larvicide Application,2015-05-31
+2144,4993,93.61,Larvicide Application,2016-12-16
+2145,2950,45.5,Bed Net Distribution,2015-02-24
+2146,390,42.52,Environmental Management,2022-08-17
+2147,2994,56.53,Environmental Management,2017-12-14
+2148,4648,92.55,Bed Net Distribution,2018-08-12
+2149,1862,93.05,Indoor Residual Spraying,2015-11-24
+2150,4519,59.62,Indoor Residual Spraying,2015-11-23
+2151,4327,56.78,Bed Net Distribution,2017-11-03
+2152,2992,70.8,Environmental Management,2022-10-12
+2153,3692,88.24,Bed Net Distribution,2019-09-21
+2154,262,67.48,Larvicide Application,2023-06-20
+2155,3974,76.99,Indoor Residual Spraying,2020-04-27
+2156,4614,94.66,Bed Net Distribution,2018-02-19
+2157,3000,43.73,Environmental Management,2017-09-28
+2158,2473,48.23,Bed Net Distribution,2021-03-12
+2159,1599,81.23,Bed Net Distribution,2022-12-16
+2160,3413,62.95,Indoor Residual Spraying,2021-09-01
+2161,1723,94.03,Environmental Management,2019-05-29
+2162,3859,46.55,Indoor Residual Spraying,2015-11-29
+2163,1212,78.42,Larvicide Application,2019-11-02
+2164,253,71.66,Larvicide Application,2016-08-29
+2165,2741,90.77,Indoor Residual Spraying,2015-10-25
+2166,3966,89.68,Larvicide Application,2019-10-22
+2167,4228,69.73,Bed Net Distribution,2021-05-17
+2168,3767,43.54,Indoor Residual Spraying,2017-05-15
+2169,498,67.72,Bed Net Distribution,2020-02-09
+2170,3742,54.51,Bed Net Distribution,2016-08-16
+2171,3931,58.7,Larvicide Application,2020-12-05
+2172,4944,86.39,Larvicide Application,2021-03-19
+2173,2481,89.13,Bed Net Distribution,2017-05-11
+2174,3536,48.45,Indoor Residual Spraying,2021-12-22
+2175,2564,55.02,Bed Net Distribution,2018-05-09
+2176,2924,48.11,Larvicide Application,2015-07-04
+2177,2926,92.05,Larvicide Application,2022-10-29
+2178,4371,80.93,Environmental Management,2020-03-16
+2179,840,94.07,Environmental Management,2022-08-22
+2180,4539,82.19,Environmental Management,2019-02-03
+2181,2828,40.55,Larvicide Application,2016-07-31
+2182,561,81.21,Larvicide Application,2021-02-15
+2183,395,82.77,Environmental Management,2018-08-29
+2184,3639,42.01,Bed Net Distribution,2020-09-22
+2185,156,43.37,Environmental Management,2016-04-12
+2186,500,43.93,Larvicide Application,2023-12-11
+2187,4005,74.1,Environmental Management,2021-10-15
+2188,4103,93.47,Environmental Management,2021-11-05
+2189,4748,64.71,Larvicide Application,2016-12-26
+2190,4580,86.2,Bed Net Distribution,2023-11-06
+2191,4450,84.65,Bed Net Distribution,2020-01-07
+2192,3318,76.72,Environmental Management,2017-03-08
+2193,431,47.86,Indoor Residual Spraying,2016-06-30
+2194,4541,92.35,Environmental Management,2018-10-18
+2195,4343,60.82,Indoor Residual Spraying,2019-09-19
+2196,1657,45.07,Indoor Residual Spraying,2017-09-03
+2197,4025,71.46,Environmental Management,2016-03-06
+2198,2131,72.51,Indoor Residual Spraying,2019-09-24
+2199,3473,61.15,Bed Net Distribution,2021-09-25
+2200,2155,75.15,Indoor Residual Spraying,2023-04-18
+2201,4154,88.71,Larvicide Application,2015-08-27
+2202,3793,80.02,Larvicide Application,2021-01-15
+2203,576,88.28,Bed Net Distribution,2020-05-17
+2204,4744,90.47,Bed Net Distribution,2020-10-02
+2205,1086,92.08,Larvicide Application,2022-06-28
+2206,3944,65.51,Indoor Residual Spraying,2023-03-24
+2207,1654,85.59,Larvicide Application,2018-02-01
+2208,4777,53.24,Bed Net Distribution,2017-06-26
+2209,3491,53.25,Environmental Management,2021-07-19
+2210,572,47.26,Larvicide Application,2019-07-05
+2211,4680,66.84,Bed Net Distribution,2021-06-19
+2212,2197,63.72,Environmental Management,2021-01-18
+2213,1853,80.68,Bed Net Distribution,2019-12-30
+2214,1469,92.06,Larvicide Application,2023-03-12
+2215,1433,75.37,Indoor Residual Spraying,2022-09-29
+2216,2079,56.9,Environmental Management,2023-10-26
+2217,4414,63.32,Larvicide Application,2022-08-19
+2218,1750,92.54,Bed Net Distribution,2021-08-29
+2219,1171,47.8,Bed Net Distribution,2018-12-19
+2220,2546,69.24,Bed Net Distribution,2018-07-15
+2221,635,45.34,Larvicide Application,2015-04-23
+2222,4424,71.41,Larvicide Application,2020-05-01
+2223,4999,55.28,Environmental Management,2017-01-13
+2224,664,63.94,Larvicide Application,2016-07-12
+2225,4630,87.84,Indoor Residual Spraying,2022-06-15
+2226,839,91.1,Bed Net Distribution,2015-02-03
+2227,1336,40.11,Larvicide Application,2018-07-17
+2228,3936,90.81,Bed Net Distribution,2017-09-25
+2229,2524,50.25,Environmental Management,2018-04-21
+2230,1210,66.69,Indoor Residual Spraying,2022-06-19
+2231,2003,76.72,Environmental Management,2023-07-05
+2232,4678,64.24,Environmental Management,2017-11-19
+2233,2005,71.71,Larvicide Application,2023-02-11
+2234,4963,86.36,Bed Net Distribution,2020-03-04
+2235,3123,45.35,Environmental Management,2022-05-31
+2236,1680,51.96,Indoor Residual Spraying,2020-10-02
+2237,1417,85.67,Larvicide Application,2022-07-04
+2238,4206,47.26,Indoor Residual Spraying,2018-04-03
+2239,2200,50.4,Indoor Residual Spraying,2021-03-06
+2240,1628,64.68,Indoor Residual Spraying,2020-09-15
+2241,4994,80.32,Environmental Management,2017-02-06
+2242,374,60.88,Environmental Management,2015-09-12
+2243,257,85.69,Bed Net Distribution,2021-08-13
+2244,1059,57.66,Indoor Residual Spraying,2020-10-03
+2245,419,70.55,Environmental Management,2021-01-09
+2246,1205,55.72,Bed Net Distribution,2022-03-17
+2247,4782,83.1,Larvicide Application,2023-03-24
+2248,2387,61.19,Indoor Residual Spraying,2018-07-25
+2249,2958,58.17,Environmental Management,2022-05-30
+2250,2132,62.65,Bed Net Distribution,2022-07-24
+2251,2942,85.29,Environmental Management,2017-03-08
+2252,1069,49.91,Environmental Management,2016-05-02
+2253,3760,91.31,Indoor Residual Spraying,2020-04-11
+2254,3646,65.74,Environmental Management,2020-09-29
+2255,551,76.61,Larvicide Application,2017-08-09
+2256,4033,91.18,Bed Net Distribution,2016-02-02
+2257,4774,58.63,Larvicide Application,2020-06-21
+2258,858,43.95,Environmental Management,2018-07-23
+2259,1907,52.97,Environmental Management,2018-02-21
+2260,2916,65.5,Indoor Residual Spraying,2022-11-26
+2261,675,58.9,Larvicide Application,2023-07-22
+2262,1505,48.06,Environmental Management,2023-10-14
+2263,3810,47.15,Bed Net Distribution,2019-08-19
+2264,4821,88.33,Bed Net Distribution,2023-02-26
+2265,3905,48.81,Indoor Residual Spraying,2019-06-22
+2266,2997,87.03,Larvicide Application,2015-06-29
+2267,3339,64.87,Bed Net Distribution,2023-03-01
+2268,2386,45.24,Indoor Residual Spraying,2019-03-02
+2269,999,60.75,Bed Net Distribution,2017-05-20
+2270,4837,68.28,Indoor Residual Spraying,2020-06-27
+2271,135,80.3,Indoor Residual Spraying,2016-03-19
+2272,3287,75.1,Environmental Management,2016-01-02
+2273,2181,47.25,Larvicide Application,2017-02-15
+2274,3990,94.3,Indoor Residual Spraying,2016-11-14
+2275,4127,45.45,Bed Net Distribution,2018-01-08
+2276,4804,91.39,Indoor Residual Spraying,2015-10-25
+2277,917,82.05,Bed Net Distribution,2017-06-19
+2278,1450,46.22,Larvicide Application,2023-04-29
+2279,4961,63.08,Bed Net Distribution,2017-02-05
+2280,4555,86.44,Larvicide Application,2018-11-05
+2281,3329,54.72,Environmental Management,2021-03-05
+2282,4332,87.8,Larvicide Application,2022-12-01
+2283,2638,40.65,Indoor Residual Spraying,2022-08-04
+2284,4509,72.5,Indoor Residual Spraying,2015-06-08
+2285,1742,74.17,Indoor Residual Spraying,2020-06-07
+2286,4850,63.59,Larvicide Application,2017-08-15
+2287,2135,87.08,Larvicide Application,2019-02-08
+2288,3130,76.32,Bed Net Distribution,2023-10-13
+2289,3476,55.73,Larvicide Application,2023-04-16
+2290,3590,66.15,Larvicide Application,2016-05-26
+2291,1276,75.74,Bed Net Distribution,2021-07-03
+2292,4286,61.04,Larvicide Application,2023-06-03
+2293,4700,40.67,Environmental Management,2021-02-01
+2294,2741,74.07,Bed Net Distribution,2018-02-25
+2295,2000,63.7,Larvicide Application,2017-06-04
+2296,4759,94.61,Environmental Management,2016-12-31
+2297,1143,52.03,Bed Net Distribution,2020-04-08
+2298,2988,86.41,Environmental Management,2016-06-20
+2299,4699,49.12,Bed Net Distribution,2021-07-31
+2300,3991,76.11,Bed Net Distribution,2019-06-12
+2301,1176,91.47,Larvicide Application,2019-06-16
+2302,1295,55.03,Indoor Residual Spraying,2018-08-25
+2303,639,85.14,Bed Net Distribution,2019-12-08
+2304,4882,50.19,Bed Net Distribution,2017-08-23
+2305,2368,69.41,Larvicide Application,2022-04-28
+2306,1771,93.15,Indoor Residual Spraying,2021-01-09
+2307,4845,89.52,Larvicide Application,2020-07-21
+2308,1586,50.49,Environmental Management,2023-07-26
+2309,1283,94.14,Larvicide Application,2016-07-07
+2310,1668,53.21,Bed Net Distribution,2017-05-28
+2311,4671,69.81,Bed Net Distribution,2017-02-09
+2312,4194,58.2,Indoor Residual Spraying,2017-09-02
+2313,3322,59.41,Larvicide Application,2019-12-23
+2314,1802,79.77,Indoor Residual Spraying,2019-12-03
+2315,3754,47.19,Indoor Residual Spraying,2023-01-05
+2316,705,62.09,Larvicide Application,2021-05-25
+2317,755,84.89,Larvicide Application,2020-09-20
+2318,2380,67.65,Environmental Management,2022-08-07
+2319,2301,86.04,Bed Net Distribution,2017-05-20
+2320,472,91.66,Environmental Management,2023-06-07
+2321,2364,41.55,Larvicide Application,2015-04-17
+2322,453,57.7,Bed Net Distribution,2015-08-30
+2323,2317,41.34,Indoor Residual Spraying,2023-02-02
+2324,2866,68.42,Larvicide Application,2015-01-04
+2325,3344,64.2,Larvicide Application,2019-02-20
+2326,1912,45.25,Environmental Management,2022-09-08
+2327,3137,53.37,Bed Net Distribution,2015-08-12
+2328,3365,51.79,Bed Net Distribution,2018-03-12
+2329,1930,79.87,Environmental Management,2015-02-01
+2330,3859,71.66,Environmental Management,2023-05-02
+2331,3891,71.09,Bed Net Distribution,2021-09-03
+2332,220,60.74,Bed Net Distribution,2017-07-06
+2333,546,85.87,Environmental Management,2022-09-17
+2334,274,58.92,Environmental Management,2018-11-05
+2335,4010,79.07,Bed Net Distribution,2022-08-24
+2336,3698,45.19,Larvicide Application,2019-04-26
+2337,2569,40.92,Larvicide Application,2022-10-11
+2338,3365,59.68,Larvicide Application,2015-04-11
+2339,1636,49.18,Indoor Residual Spraying,2018-07-01
+2340,1867,86.99,Larvicide Application,2015-03-07
+2341,3330,50.23,Bed Net Distribution,2019-11-19
+2342,4547,82.79,Bed Net Distribution,2021-09-07
+2343,1822,54.96,Environmental Management,2018-10-10
+2344,2491,45.59,Bed Net Distribution,2022-10-12
+2345,551,47.02,Environmental Management,2017-03-20
+2346,3602,77.65,Indoor Residual Spraying,2020-12-13
+2347,2367,52.29,Larvicide Application,2015-11-26
+2348,3109,93.55,Larvicide Application,2018-08-08
+2349,1765,55.84,Larvicide Application,2015-06-12
+2350,2203,93.68,Indoor Residual Spraying,2021-09-12
+2351,786,49.55,Bed Net Distribution,2015-02-04
+2352,2499,79.56,Environmental Management,2015-06-19
+2353,732,58.62,Environmental Management,2020-08-30
+2354,1768,91.4,Environmental Management,2016-04-17
+2355,4138,57.09,Larvicide Application,2023-02-07
+2356,1116,68.79,Larvicide Application,2015-11-06
+2357,2727,74.11,Indoor Residual Spraying,2015-06-13
+2358,2243,89.29,Larvicide Application,2017-12-09
+2359,4621,77.55,Indoor Residual Spraying,2018-03-19
+2360,1086,91.15,Bed Net Distribution,2021-11-24
+2361,1530,45.5,Larvicide Application,2021-09-16
+2362,782,47.72,Indoor Residual Spraying,2017-12-15
+2363,2741,69.73,Indoor Residual Spraying,2015-06-10
+2364,1796,83.42,Environmental Management,2023-02-13
+2365,2591,71.67,Larvicide Application,2016-05-17
+2366,681,81.36,Environmental Management,2017-08-04
+2367,933,55.77,Environmental Management,2017-07-31
+2368,4853,94.42,Larvicide Application,2015-09-06
+2369,1348,71.69,Environmental Management,2023-12-31
+2370,1206,52.41,Bed Net Distribution,2019-02-11
+2371,4478,94.16,Bed Net Distribution,2016-10-29
+2372,3278,63.97,Environmental Management,2021-01-14
+2373,4727,67.99,Indoor Residual Spraying,2015-11-17
+2374,1145,84.28,Environmental Management,2017-10-05
+2375,1875,60.39,Larvicide Application,2016-07-18
+2376,3891,53.08,Bed Net Distribution,2016-06-04
+2377,237,53.77,Indoor Residual Spraying,2016-06-29
+2378,3997,40.42,Larvicide Application,2015-02-16
+2379,3665,66.9,Larvicide Application,2017-11-21
+2380,3886,56.54,Bed Net Distribution,2023-01-05
+2381,2018,44.02,Indoor Residual Spraying,2023-11-25
+2382,1806,71.36,Indoor Residual Spraying,2018-11-13
+2383,4271,94.39,Bed Net Distribution,2018-06-08
+2384,4581,90.34,Larvicide Application,2023-04-05
+2385,1520,60.17,Indoor Residual Spraying,2016-08-13
+2386,1453,51.98,Bed Net Distribution,2022-04-29
+2387,3051,46.14,Environmental Management,2018-06-15
+2388,1339,53.68,Larvicide Application,2018-04-29
+2389,4548,72.22,Indoor Residual Spraying,2021-10-16
+2390,3069,89.68,Indoor Residual Spraying,2017-12-04
+2391,1668,66.69,Indoor Residual Spraying,2019-07-20
+2392,3818,76.65,Environmental Management,2018-03-07
+2393,4238,94.89,Indoor Residual Spraying,2020-03-25
+2394,3545,59.78,Bed Net Distribution,2015-06-19
+2395,4146,45.16,Bed Net Distribution,2017-05-04
+2396,3249,50.39,Bed Net Distribution,2017-10-15
+2397,4352,57.18,Indoor Residual Spraying,2022-01-04
+2398,3835,89.12,Indoor Residual Spraying,2018-10-15
+2399,1005,62.05,Indoor Residual Spraying,2018-06-12
+2400,3995,47.65,Indoor Residual Spraying,2022-09-06
+2401,3123,75.79,Bed Net Distribution,2022-02-09
+2402,685,65.42,Bed Net Distribution,2022-11-04
+2403,2496,55.75,Indoor Residual Spraying,2021-06-30
+2404,2345,65.63,Indoor Residual Spraying,2019-08-09
+2405,3236,40.77,Larvicide Application,2016-12-02
+2406,238,76.19,Larvicide Application,2015-05-07
+2407,4758,41.62,Bed Net Distribution,2020-08-15
+2408,713,74.15,Bed Net Distribution,2021-05-15
+2409,402,43.38,Larvicide Application,2015-02-12
+2410,1462,69.38,Larvicide Application,2017-05-03
+2411,2225,86.88,Environmental Management,2015-06-24
+2412,2089,62.89,Bed Net Distribution,2016-05-27
+2413,4209,67.56,Bed Net Distribution,2023-02-23
+2414,984,81.84,Larvicide Application,2020-04-16
+2415,1328,52.35,Bed Net Distribution,2021-03-20
+2416,2464,50.19,Bed Net Distribution,2015-12-14
+2417,2586,91.98,Environmental Management,2020-10-20
+2418,4576,54.72,Larvicide Application,2015-04-27
+2419,4932,80.69,Larvicide Application,2020-09-28
+2420,3216,85.67,Indoor Residual Spraying,2015-03-31
+2421,2472,89.02,Larvicide Application,2022-03-24
+2422,4878,67.48,Environmental Management,2020-04-24
+2423,1612,62.32,Environmental Management,2016-07-26
+2424,2844,80.0,Bed Net Distribution,2019-05-20
+2425,4838,76.37,Environmental Management,2015-07-25
+2426,2833,53.72,Larvicide Application,2015-03-27
+2427,2246,76.35,Indoor Residual Spraying,2015-06-07
+2428,4455,58.62,Indoor Residual Spraying,2021-05-05
+2429,4109,52.5,Indoor Residual Spraying,2017-08-28
+2430,217,43.25,Larvicide Application,2020-07-31
+2431,1452,79.49,Environmental Management,2023-12-02
+2432,1591,55.57,Indoor Residual Spraying,2016-10-31
+2433,4244,40.72,Larvicide Application,2017-04-21
+2434,4470,85.84,Indoor Residual Spraying,2023-05-20
+2435,1518,81.52,Bed Net Distribution,2016-09-10
+2436,1089,57.39,Environmental Management,2018-11-03
+2437,4064,63.09,Larvicide Application,2022-06-16
+2438,2075,58.04,Bed Net Distribution,2017-08-15
+2439,4266,74.9,Indoor Residual Spraying,2020-07-05
+2440,3251,67.53,Larvicide Application,2020-11-07
+2441,4854,59.4,Bed Net Distribution,2017-07-24
+2442,4855,73.3,Bed Net Distribution,2017-09-19
+2443,695,45.93,Indoor Residual Spraying,2023-05-29
+2444,3640,68.35,Environmental Management,2023-06-21
+2445,2576,43.32,Environmental Management,2019-08-11
+2446,3594,50.34,Indoor Residual Spraying,2018-12-04
+2447,4578,69.46,Bed Net Distribution,2017-11-10
+2448,3019,40.39,Bed Net Distribution,2016-03-17
+2449,2592,91.99,Environmental Management,2020-04-01
+2450,3933,81.35,Environmental Management,2018-09-26
+2451,4663,52.15,Environmental Management,2020-08-08
+2452,1516,71.47,Larvicide Application,2022-08-07
+2453,514,62.82,Bed Net Distribution,2020-12-30
+2454,4727,59.65,Environmental Management,2015-11-29
+2455,543,62.18,Bed Net Distribution,2015-08-14
+2456,3546,94.03,Larvicide Application,2021-11-11
+2457,1297,91.05,Indoor Residual Spraying,2023-07-16
+2458,866,73.01,Larvicide Application,2019-01-10
+2459,593,54.16,Environmental Management,2018-02-17
+2460,3864,68.18,Larvicide Application,2021-10-12
+2461,399,40.73,Bed Net Distribution,2019-04-05
+2462,3138,55.19,Environmental Management,2023-02-04
+2463,4556,73.05,Larvicide Application,2023-12-30
+2464,3089,94.31,Environmental Management,2020-11-25
+2465,3445,53.47,Larvicide Application,2022-10-03
+2466,287,82.29,Bed Net Distribution,2017-09-25
+2467,3163,81.34,Indoor Residual Spraying,2015-07-02
+2468,2737,42.21,Environmental Management,2023-10-06
+2469,2528,60.35,Larvicide Application,2021-08-23
+2470,2018,65.84,Environmental Management,2015-05-23
+2471,735,73.35,Environmental Management,2015-01-14
+2472,1073,44.76,Larvicide Application,2021-11-26
+2473,1151,58.74,Larvicide Application,2020-09-11
+2474,2830,68.25,Larvicide Application,2018-10-19
+2475,1367,90.41,Bed Net Distribution,2021-02-09
+2476,2275,46.88,Larvicide Application,2017-11-08
+2477,1619,73.37,Larvicide Application,2015-10-20
+2478,1330,44.07,Bed Net Distribution,2019-10-04
+2479,1212,57.9,Environmental Management,2022-03-24
+2480,4414,56.81,Indoor Residual Spraying,2019-07-30
+2481,1644,41.93,Larvicide Application,2021-05-10
+2482,4760,89.95,Larvicide Application,2019-04-05
+2483,3842,63.07,Bed Net Distribution,2019-01-23
+2484,2221,40.96,Bed Net Distribution,2015-11-26
+2485,1296,42.08,Larvicide Application,2021-11-05
+2486,310,73.77,Indoor Residual Spraying,2022-08-11
+2487,3323,65.21,Environmental Management,2018-08-25
+2488,3147,63.17,Environmental Management,2017-04-12
+2489,2253,76.55,Environmental Management,2015-07-18
+2490,1511,79.21,Indoor Residual Spraying,2021-12-14
+2491,2652,93.16,Environmental Management,2017-08-16
+2492,4586,94.24,Larvicide Application,2021-07-06
+2493,751,85.16,Indoor Residual Spraying,2017-06-14
+2494,3455,76.38,Larvicide Application,2020-03-05
+2495,1927,79.75,Indoor Residual Spraying,2023-05-16
+2496,220,42.43,Bed Net Distribution,2023-08-14
+2497,3158,79.66,Indoor Residual Spraying,2017-01-14
+2498,3102,41.95,Larvicide Application,2017-07-15
+2499,1035,44.8,Bed Net Distribution,2018-06-20
+2500,1936,74.59,Bed Net Distribution,2021-05-12
+2501,504,41.65,Bed Net Distribution,2018-08-10
+2502,1450,52.06,Indoor Residual Spraying,2018-03-29
+2503,166,60.13,Bed Net Distribution,2018-01-23
+2504,708,73.91,Larvicide Application,2019-10-24
+2505,3416,80.71,Bed Net Distribution,2021-11-02
+2506,4191,73.55,Indoor Residual Spraying,2020-03-05
+2507,450,55.19,Environmental Management,2021-03-10
+2508,4596,58.38,Bed Net Distribution,2019-02-07
+2509,514,44.89,Larvicide Application,2023-11-17
+2510,460,77.95,Environmental Management,2020-05-26
+2511,4226,49.3,Indoor Residual Spraying,2018-02-12
+2512,4937,93.29,Environmental Management,2019-01-03
+2513,4831,77.11,Environmental Management,2016-05-29
+2514,3352,69.83,Bed Net Distribution,2018-12-25
+2515,826,75.6,Indoor Residual Spraying,2019-11-03
+2516,306,43.54,Indoor Residual Spraying,2019-11-06
+2517,796,90.28,Bed Net Distribution,2017-04-16
+2518,4598,68.7,Bed Net Distribution,2021-04-03
+2519,2887,78.95,Larvicide Application,2020-08-26
+2520,1055,93.0,Larvicide Application,2023-12-02
+2521,3946,74.66,Bed Net Distribution,2022-11-22
+2522,1386,66.45,Larvicide Application,2023-09-08
+2523,4224,87.68,Larvicide Application,2023-10-12
+2524,4162,46.17,Larvicide Application,2017-04-07
+2525,4171,59.19,Environmental Management,2016-11-27
+2526,4281,87.41,Bed Net Distribution,2023-02-24
+2527,4100,86.21,Bed Net Distribution,2019-07-23
+2528,2413,82.92,Indoor Residual Spraying,2022-05-26
+2529,980,82.65,Bed Net Distribution,2016-01-22
+2530,4148,67.02,Larvicide Application,2019-05-04
+2531,1387,62.54,Bed Net Distribution,2015-11-01
+2532,817,82.3,Indoor Residual Spraying,2023-10-03
+2533,4505,41.3,Bed Net Distribution,2016-05-09
+2534,1130,54.67,Larvicide Application,2017-02-10
+2535,3883,68.95,Larvicide Application,2018-04-26
+2536,3952,55.92,Bed Net Distribution,2015-10-30
+2537,1962,61.94,Larvicide Application,2022-04-10
+2538,1218,83.02,Environmental Management,2016-10-30
+2539,2752,72.1,Indoor Residual Spraying,2018-09-27
+2540,4991,45.5,Larvicide Application,2016-10-27
+2541,4368,77.85,Environmental Management,2020-07-27
+2542,1912,92.68,Bed Net Distribution,2020-09-24
+2543,1856,49.73,Bed Net Distribution,2019-06-29
+2544,3592,58.76,Bed Net Distribution,2019-02-04
+2545,1186,51.15,Larvicide Application,2019-02-21
+2546,2213,91.38,Larvicide Application,2023-11-24
+2547,1710,88.67,Larvicide Application,2016-05-30
+2548,3179,73.17,Larvicide Application,2015-10-30
+2549,368,57.98,Larvicide Application,2019-04-14
+2550,3754,59.21,Larvicide Application,2018-11-15
+2551,3166,85.04,Bed Net Distribution,2021-05-15
+2552,3993,72.28,Environmental Management,2023-02-01
+2553,1236,49.02,Bed Net Distribution,2019-02-19
+2554,2517,53.18,Bed Net Distribution,2017-12-27
+2555,3459,71.83,Indoor Residual Spraying,2023-07-25
+2556,105,90.56,Indoor Residual Spraying,2020-10-08
+2557,4326,53.19,Larvicide Application,2016-08-17
+2558,1272,81.19,Environmental Management,2017-11-28
+2559,4112,84.74,Indoor Residual Spraying,2015-04-08
+2560,1104,70.12,Bed Net Distribution,2015-10-12
+2561,3200,49.82,Indoor Residual Spraying,2023-05-13
+2562,4902,67.79,Larvicide Application,2019-10-17
+2563,3993,67.89,Environmental Management,2023-03-12
+2564,1711,86.45,Indoor Residual Spraying,2021-12-25
+2565,3024,92.13,Larvicide Application,2015-03-20
+2566,3817,66.06,Indoor Residual Spraying,2018-04-26
+2567,934,43.61,Indoor Residual Spraying,2019-09-07
+2568,625,79.71,Environmental Management,2015-03-26
+2569,4154,57.65,Bed Net Distribution,2017-09-12
+2570,3095,49.49,Bed Net Distribution,2020-10-12
+2571,2560,85.13,Larvicide Application,2020-07-07
+2572,4679,83.37,Larvicide Application,2015-12-31
+2573,3838,58.81,Larvicide Application,2023-05-07
+2574,4797,69.39,Larvicide Application,2021-10-06
+2575,4285,47.47,Larvicide Application,2017-12-23
+2576,4761,82.12,Larvicide Application,2017-01-20
+2577,3332,51.54,Larvicide Application,2022-01-12
+2578,3398,57.27,Indoor Residual Spraying,2021-12-11
+2579,965,68.02,Larvicide Application,2023-10-04
+2580,671,83.48,Larvicide Application,2022-02-15
+2581,4168,74.0,Indoor Residual Spraying,2016-10-20
+2582,1959,46.16,Larvicide Application,2020-09-16
+2583,1272,61.8,Environmental Management,2016-01-16
+2584,3111,67.46,Indoor Residual Spraying,2019-05-17
+2585,3263,44.45,Environmental Management,2018-12-29
+2586,4509,73.11,Indoor Residual Spraying,2016-04-19
+2587,4175,56.47,Larvicide Application,2015-01-05
+2588,2426,68.62,Larvicide Application,2020-04-26
+2589,2387,60.32,Environmental Management,2022-07-28
+2590,4208,65.03,Environmental Management,2015-04-10
+2591,4056,64.41,Indoor Residual Spraying,2018-12-20
+2592,4383,94.7,Larvicide Application,2017-03-28
+2593,3904,75.77,Indoor Residual Spraying,2021-10-17
+2594,3449,52.59,Bed Net Distribution,2023-01-25
+2595,124,67.29,Bed Net Distribution,2016-11-28
+2596,4707,89.63,Indoor Residual Spraying,2015-12-29
+2597,3160,74.84,Bed Net Distribution,2020-09-21
+2598,3261,41.45,Larvicide Application,2016-01-25
+2599,3991,85.58,Indoor Residual Spraying,2018-05-17
+2600,4134,90.94,Larvicide Application,2015-11-22
+2601,4798,84.06,Bed Net Distribution,2017-11-04
+2602,4591,47.09,Bed Net Distribution,2015-12-08
+2603,1603,60.66,Bed Net Distribution,2022-03-22
+2604,1835,92.67,Larvicide Application,2018-04-03
+2605,376,53.56,Larvicide Application,2018-11-26
+2606,286,53.29,Bed Net Distribution,2021-07-05
+2607,3191,52.61,Bed Net Distribution,2017-10-19
+2608,3385,69.85,Environmental Management,2018-07-30
+2609,190,51.7,Larvicide Application,2021-02-12
+2610,314,58.89,Larvicide Application,2016-03-17
+2611,858,63.7,Bed Net Distribution,2015-06-11
+2612,535,76.49,Bed Net Distribution,2021-06-13
+2613,2740,70.02,Environmental Management,2020-09-16
+2614,4884,85.49,Environmental Management,2021-08-27
+2615,792,47.38,Larvicide Application,2022-11-03
+2616,4156,77.3,Larvicide Application,2022-10-28
+2617,2575,92.26,Larvicide Application,2016-05-04
+2618,368,58.09,Bed Net Distribution,2022-12-16
+2619,2794,61.09,Larvicide Application,2022-04-05
+2620,2062,76.37,Indoor Residual Spraying,2015-01-28
+2621,2987,82.37,Indoor Residual Spraying,2018-12-22
+2622,3665,67.45,Bed Net Distribution,2016-11-06
+2623,1764,63.54,Bed Net Distribution,2016-08-01
+2624,226,77.73,Bed Net Distribution,2021-04-13
+2625,2724,60.04,Larvicide Application,2018-10-28
+2626,2731,79.39,Indoor Residual Spraying,2022-09-26
+2627,847,78.91,Indoor Residual Spraying,2015-01-06
+2628,2871,84.05,Indoor Residual Spraying,2015-10-11
+2629,3649,64.8,Bed Net Distribution,2023-07-06
+2630,2200,60.57,Larvicide Application,2016-05-06
+2631,2198,51.69,Larvicide Application,2018-06-28
+2632,4613,86.4,Indoor Residual Spraying,2017-05-06
+2633,3575,66.0,Environmental Management,2015-02-21
+2634,2014,75.98,Larvicide Application,2021-04-24
+2635,3955,67.02,Larvicide Application,2018-06-26
+2636,4447,85.98,Larvicide Application,2015-08-16
+2637,1015,54.59,Bed Net Distribution,2021-03-06
+2638,1540,75.57,Larvicide Application,2019-04-14
+2639,897,79.8,Indoor Residual Spraying,2019-05-01
+2640,4379,40.58,Bed Net Distribution,2021-07-02
+2641,2003,55.53,Indoor Residual Spraying,2015-02-16
+2642,3029,83.94,Larvicide Application,2021-04-15
+2643,1507,52.19,Environmental Management,2021-06-16
+2644,666,45.45,Larvicide Application,2022-10-16
+2645,3773,74.35,Environmental Management,2022-09-11
+2646,3928,67.89,Bed Net Distribution,2015-02-17
+2647,1712,66.27,Indoor Residual Spraying,2018-04-07
+2648,4489,51.24,Environmental Management,2016-09-12
+2649,493,90.72,Larvicide Application,2016-02-24
+2650,1154,55.07,Larvicide Application,2022-06-05
+2651,2792,90.72,Bed Net Distribution,2018-10-15
+2652,1318,77.25,Environmental Management,2022-09-29
+2653,3711,67.94,Larvicide Application,2021-11-05
+2654,488,61.27,Indoor Residual Spraying,2021-10-14
+2655,1224,53.52,Environmental Management,2020-08-09
+2656,642,50.87,Environmental Management,2018-05-31
+2657,4135,51.42,Indoor Residual Spraying,2021-12-04
+2658,1012,42.09,Indoor Residual Spraying,2022-08-20
+2659,4086,83.12,Indoor Residual Spraying,2019-01-02
+2660,3602,44.56,Larvicide Application,2021-09-13
+2661,2420,55.52,Indoor Residual Spraying,2023-05-06
+2662,804,83.65,Larvicide Application,2022-05-30
+2663,4619,72.98,Bed Net Distribution,2020-04-02
+2664,1768,92.65,Larvicide Application,2020-02-25
+2665,775,87.54,Environmental Management,2017-03-14
+2666,2267,76.26,Bed Net Distribution,2017-04-16
+2667,1928,49.45,Larvicide Application,2018-03-10
+2668,443,88.8,Larvicide Application,2023-05-07
+2669,4420,43.44,Environmental Management,2015-02-11
+2670,2358,40.78,Indoor Residual Spraying,2015-01-01
+2671,888,48.29,Larvicide Application,2018-10-25
+2672,230,76.2,Bed Net Distribution,2020-12-24
+2673,296,86.92,Environmental Management,2016-10-05
+2674,2849,49.46,Larvicide Application,2017-11-28
+2675,2405,66.7,Indoor Residual Spraying,2016-03-19
+2676,3521,87.77,Indoor Residual Spraying,2018-02-12
+2677,4169,91.1,Bed Net Distribution,2021-08-30
+2678,3198,44.82,Indoor Residual Spraying,2018-10-29
+2679,4504,54.08,Bed Net Distribution,2020-03-15
+2680,1594,52.81,Bed Net Distribution,2020-10-20
+2681,4189,77.0,Environmental Management,2015-08-31
+2682,3601,73.02,Larvicide Application,2017-09-08
+2683,4402,88.95,Larvicide Application,2015-01-29
+2684,958,66.11,Larvicide Application,2016-03-05
+2685,3258,52.57,Indoor Residual Spraying,2018-09-08
+2686,1847,59.26,Bed Net Distribution,2019-04-26
+2687,1592,73.03,Larvicide Application,2019-08-09
+2688,1466,74.98,Indoor Residual Spraying,2017-05-07
+2689,1858,85.1,Bed Net Distribution,2020-02-28
+2690,1366,68.78,Indoor Residual Spraying,2015-06-16
+2691,2265,70.85,Environmental Management,2015-09-17
+2692,2459,63.28,Indoor Residual Spraying,2017-03-28
+2693,4992,62.9,Bed Net Distribution,2022-07-05
+2694,4078,56.42,Environmental Management,2021-01-13
+2695,1888,41.69,Environmental Management,2015-04-05
+2696,3710,83.65,Environmental Management,2020-10-27
+2697,154,73.85,Larvicide Application,2023-12-03
+2698,2819,40.02,Indoor Residual Spraying,2018-07-06
+2699,4979,62.46,Larvicide Application,2015-04-22
+2700,3958,90.61,Environmental Management,2020-06-07
+2701,2593,69.76,Larvicide Application,2022-02-05
+2702,4522,50.83,Environmental Management,2019-06-13
+2703,2483,74.29,Bed Net Distribution,2023-08-21
+2704,1599,54.87,Larvicide Application,2023-06-05
+2705,4098,52.13,Environmental Management,2021-03-10
+2706,4674,89.62,Larvicide Application,2018-06-05
+2707,924,79.56,Bed Net Distribution,2022-01-20
+2708,793,63.0,Larvicide Application,2015-02-27
+2709,1453,93.57,Environmental Management,2022-05-25
+2710,273,45.73,Larvicide Application,2023-12-31
+2711,3149,89.2,Larvicide Application,2022-09-20
+2712,1329,77.15,Larvicide Application,2022-03-24
+2713,4289,84.08,Indoor Residual Spraying,2021-06-01
+2714,3041,85.85,Larvicide Application,2018-01-08
+2715,2301,65.15,Larvicide Application,2021-12-09
+2716,4109,72.58,Larvicide Application,2015-11-18
+2717,3321,67.27,Indoor Residual Spraying,2022-03-22
+2718,2434,62.84,Bed Net Distribution,2022-03-22
+2719,2617,76.52,Larvicide Application,2016-03-05
+2720,4357,81.36,Larvicide Application,2016-11-21
+2721,3959,86.88,Environmental Management,2019-05-29
+2722,4402,40.48,Indoor Residual Spraying,2023-02-22
+2723,1110,55.62,Bed Net Distribution,2015-01-02
+2724,2438,52.31,Indoor Residual Spraying,2020-09-08
+2725,3252,51.95,Environmental Management,2022-01-05
+2726,3808,63.99,Environmental Management,2015-09-24
+2727,2245,57.27,Environmental Management,2021-06-23
+2728,1928,74.14,Larvicide Application,2018-03-18
+2729,3580,64.82,Larvicide Application,2016-05-12
+2730,4370,79.84,Bed Net Distribution,2020-12-30
+2731,1317,79.01,Environmental Management,2022-06-03
+2732,2854,79.58,Larvicide Application,2018-08-16
+2733,1516,54.44,Larvicide Application,2022-05-24
+2734,2857,70.5,Environmental Management,2022-03-24
+2735,2184,64.3,Larvicide Application,2018-07-09
+2736,1016,78.87,Bed Net Distribution,2019-12-13
+2737,4691,64.77,Larvicide Application,2019-04-16
+2738,4965,43.09,Indoor Residual Spraying,2018-03-24
+2739,1949,63.5,Bed Net Distribution,2019-07-11
+2740,3895,63.55,Indoor Residual Spraying,2023-03-23
+2741,2524,93.71,Larvicide Application,2020-02-08
+2742,4262,44.79,Indoor Residual Spraying,2023-07-08
+2743,456,84.92,Larvicide Application,2016-11-22
+2744,2811,50.1,Indoor Residual Spraying,2023-10-10
+2745,612,77.01,Indoor Residual Spraying,2023-09-11
+2746,1260,52.2,Environmental Management,2023-07-22
+2747,1012,61.14,Larvicide Application,2022-05-18
+2748,2771,66.74,Larvicide Application,2015-01-15
+2749,3904,81.83,Environmental Management,2021-05-19
+2750,4744,43.11,Larvicide Application,2019-02-10
+2751,1261,84.68,Environmental Management,2023-11-01
+2752,1452,40.68,Bed Net Distribution,2023-04-19
+2753,2688,79.72,Larvicide Application,2022-06-17
+2754,4731,69.75,Environmental Management,2021-04-12
+2755,1108,82.03,Larvicide Application,2021-08-14
+2756,678,85.71,Larvicide Application,2015-06-21
+2757,185,94.54,Environmental Management,2022-09-13
+2758,2938,74.9,Bed Net Distribution,2019-03-09
+2759,2671,76.88,Environmental Management,2018-08-28
+2760,3526,50.16,Indoor Residual Spraying,2021-04-13
+2761,530,72.66,Larvicide Application,2016-06-30
+2762,4541,63.9,Larvicide Application,2017-06-16
+2763,4501,92.18,Environmental Management,2015-11-14
+2764,1728,60.12,Indoor Residual Spraying,2019-02-07
+2765,2022,52.95,Environmental Management,2016-08-16
+2766,1010,81.36,Larvicide Application,2015-05-21
+2767,931,86.43,Indoor Residual Spraying,2018-04-23
+2768,4542,71.56,Larvicide Application,2019-01-07
+2769,988,78.53,Indoor Residual Spraying,2022-10-14
+2770,3594,45.11,Bed Net Distribution,2015-09-30
+2771,308,45.38,Indoor Residual Spraying,2018-02-09
+2772,2857,89.77,Environmental Management,2021-10-04
+2773,3622,54.24,Environmental Management,2023-08-29
+2774,3052,64.66,Larvicide Application,2018-11-29
+2775,3007,42.7,Environmental Management,2016-12-05
+2776,3810,80.38,Environmental Management,2016-09-27
+2777,3418,64.4,Larvicide Application,2018-03-20
+2778,1263,67.98,Indoor Residual Spraying,2020-08-22
+2779,2859,74.19,Indoor Residual Spraying,2018-03-20
+2780,3725,87.37,Indoor Residual Spraying,2022-02-09
+2781,1596,83.27,Indoor Residual Spraying,2019-06-02
+2782,2285,41.8,Bed Net Distribution,2015-06-19
+2783,2423,50.43,Larvicide Application,2017-11-30
+2784,3545,69.61,Environmental Management,2022-06-16
+2785,2032,53.94,Indoor Residual Spraying,2019-12-26
+2786,4820,66.64,Environmental Management,2019-05-29
+2787,4922,67.48,Bed Net Distribution,2018-06-15
+2788,703,54.52,Indoor Residual Spraying,2018-08-24
+2789,4853,94.55,Bed Net Distribution,2017-06-15
+2790,3314,41.89,Larvicide Application,2022-01-26
+2791,192,42.63,Larvicide Application,2021-01-05
+2792,3984,52.79,Bed Net Distribution,2023-10-12
+2793,2021,79.13,Larvicide Application,2022-02-11
+2794,3110,73.14,Indoor Residual Spraying,2023-02-25
+2795,2888,64.47,Indoor Residual Spraying,2023-04-26
+2796,3761,43.7,Indoor Residual Spraying,2016-09-22
+2797,1829,88.98,Larvicide Application,2015-07-05
+2798,1252,67.74,Larvicide Application,2017-02-06
+2799,3584,82.51,Larvicide Application,2020-10-16
+2800,2547,64.73,Indoor Residual Spraying,2016-09-02
+2801,3784,50.18,Indoor Residual Spraying,2020-02-05
+2802,3736,51.28,Bed Net Distribution,2017-10-10
+2803,4517,78.85,Indoor Residual Spraying,2021-08-18
+2804,3104,41.72,Indoor Residual Spraying,2017-10-27
+2805,893,52.94,Bed Net Distribution,2015-03-08
+2806,3931,61.23,Environmental Management,2019-11-17
+2807,3078,74.57,Larvicide Application,2021-11-06
+2808,3559,49.7,Larvicide Application,2015-07-06
+2809,4647,67.9,Larvicide Application,2021-07-15
+2810,815,91.55,Environmental Management,2020-12-07
+2811,2006,58.87,Environmental Management,2016-01-26
+2812,3890,55.95,Bed Net Distribution,2016-12-11
+2813,634,72.15,Bed Net Distribution,2023-12-09
+2814,2570,57.53,Bed Net Distribution,2022-11-21
+2815,3079,78.96,Bed Net Distribution,2023-04-03
+2816,820,47.26,Bed Net Distribution,2018-09-16
+2817,3393,87.33,Bed Net Distribution,2016-12-12
+2818,1554,62.24,Larvicide Application,2021-04-25
+2819,3490,88.25,Environmental Management,2020-03-10
+2820,3104,49.25,Indoor Residual Spraying,2015-04-27
+2821,2561,80.67,Indoor Residual Spraying,2016-06-25
+2822,1317,81.87,Larvicide Application,2016-09-14
+2823,4230,64.01,Larvicide Application,2015-11-08
+2824,3247,51.57,Larvicide Application,2016-10-19
+2825,1790,54.07,Indoor Residual Spraying,2016-12-20
+2826,4022,51.12,Bed Net Distribution,2021-03-14
+2827,3070,58.21,Environmental Management,2020-10-02
+2828,3583,41.56,Environmental Management,2017-03-10
+2829,2116,48.52,Indoor Residual Spraying,2017-04-07
+2830,1029,58.88,Bed Net Distribution,2020-01-26
+2831,2599,72.7,Larvicide Application,2019-11-24
+2832,4302,76.55,Environmental Management,2021-07-07
+2833,1605,81.58,Bed Net Distribution,2023-07-17
+2834,1966,90.48,Indoor Residual Spraying,2015-10-07
+2835,296,63.12,Environmental Management,2020-08-01
+2836,1777,92.61,Indoor Residual Spraying,2016-10-13
+2837,2950,58.78,Larvicide Application,2023-10-10
+2838,1571,50.08,Bed Net Distribution,2019-08-16
+2839,702,70.41,Indoor Residual Spraying,2017-07-20
+2840,3069,53.54,Indoor Residual Spraying,2021-08-30
+2841,1523,85.26,Environmental Management,2023-10-03
+2842,3500,76.76,Indoor Residual Spraying,2018-11-06
+2843,4052,51.9,Indoor Residual Spraying,2018-06-11
+2844,1889,87.88,Larvicide Application,2017-04-07
+2845,2211,65.13,Larvicide Application,2022-07-13
+2846,4276,43.39,Indoor Residual Spraying,2015-07-03
+2847,1970,92.83,Larvicide Application,2023-12-30
+2848,2649,44.59,Environmental Management,2020-09-08
+2849,336,43.87,Larvicide Application,2023-12-18
+2850,4974,72.49,Environmental Management,2016-10-01
+2851,1147,76.67,Environmental Management,2018-03-22
+2852,877,86.87,Indoor Residual Spraying,2016-12-14
+2853,4898,88.54,Bed Net Distribution,2019-10-26
+2854,1973,70.54,Indoor Residual Spraying,2022-10-04
+2855,1640,79.16,Larvicide Application,2016-04-16
+2856,2714,75.18,Indoor Residual Spraying,2022-03-26
+2857,152,66.27,Larvicide Application,2023-05-01
+2858,1157,58.64,Indoor Residual Spraying,2015-05-27
+2859,3068,88.92,Bed Net Distribution,2019-05-02
+2860,4915,50.93,Environmental Management,2023-03-05
+2861,904,44.43,Environmental Management,2015-11-30
+2862,1682,41.91,Environmental Management,2017-08-19
+2863,201,40.62,Bed Net Distribution,2016-01-12
+2864,3731,69.12,Environmental Management,2023-11-04
+2865,881,66.73,Indoor Residual Spraying,2018-08-03
+2866,3298,57.6,Bed Net Distribution,2021-04-09
+2867,397,53.53,Environmental Management,2018-04-13
+2868,3178,63.62,Bed Net Distribution,2018-10-05
+2869,2202,48.1,Larvicide Application,2018-04-08
+2870,2283,77.14,Larvicide Application,2020-11-10
+2871,4106,63.29,Indoor Residual Spraying,2020-07-09
+2872,4662,92.48,Indoor Residual Spraying,2016-11-20
+2873,1701,92.03,Indoor Residual Spraying,2016-06-07
+2874,3100,64.04,Larvicide Application,2022-09-29
+2875,2808,92.59,Larvicide Application,2015-07-02
+2876,2506,44.25,Bed Net Distribution,2023-06-03
+2877,3809,50.96,Bed Net Distribution,2016-09-04
+2878,1538,55.98,Bed Net Distribution,2023-06-23
+2879,1985,48.07,Environmental Management,2018-10-29
+2880,2470,44.21,Indoor Residual Spraying,2022-03-26
+2881,2688,42.12,Bed Net Distribution,2020-01-02
+2882,4028,71.15,Environmental Management,2022-12-23
+2883,3887,89.94,Bed Net Distribution,2019-04-19
+2884,3446,59.3,Bed Net Distribution,2022-01-12
+2885,3970,84.18,Larvicide Application,2015-11-19
+2886,2231,54.75,Environmental Management,2019-06-06
+2887,2563,93.87,Environmental Management,2018-03-29
+2888,2559,69.14,Larvicide Application,2023-01-10
+2889,515,81.11,Environmental Management,2015-06-23
+2890,4715,45.86,Larvicide Application,2017-09-27
+2891,4756,52.46,Environmental Management,2015-12-26
+2892,1079,88.59,Environmental Management,2017-09-03
+2893,4870,68.71,Larvicide Application,2019-08-25
+2894,1545,41.87,Bed Net Distribution,2023-07-02
+2895,611,50.07,Bed Net Distribution,2021-04-13
+2896,4809,83.79,Larvicide Application,2022-01-22
+2897,2181,42.64,Indoor Residual Spraying,2021-10-25
+2898,4423,55.78,Bed Net Distribution,2016-01-10
+2899,2792,91.57,Larvicide Application,2019-10-12
+2900,724,70.54,Indoor Residual Spraying,2019-12-09
+2901,832,67.66,Larvicide Application,2015-03-30
+2902,2753,66.25,Environmental Management,2022-01-30
+2903,4555,44.94,Bed Net Distribution,2018-12-22
+2904,3775,63.39,Larvicide Application,2021-11-17
+2905,3599,56.15,Environmental Management,2023-09-15
+2906,715,81.32,Environmental Management,2017-10-18
+2907,1552,92.6,Indoor Residual Spraying,2016-02-12
+2908,3644,77.09,Indoor Residual Spraying,2018-11-16
+2909,1607,72.22,Larvicide Application,2017-11-15
+2910,4751,69.2,Indoor Residual Spraying,2016-02-25
+2911,3547,78.6,Indoor Residual Spraying,2019-09-14
+2912,3043,58.66,Environmental Management,2023-03-29
+2913,2199,57.23,Indoor Residual Spraying,2015-02-24
+2914,2019,69.8,Environmental Management,2018-08-27
+2915,1858,64.35,Larvicide Application,2022-06-15
+2916,1492,82.45,Larvicide Application,2017-09-29
+2917,4392,89.41,Larvicide Application,2018-02-21
+2918,4346,94.56,Larvicide Application,2023-12-07
+2919,238,85.39,Bed Net Distribution,2015-06-19
+2920,1262,72.73,Environmental Management,2020-01-20
+2921,3024,47.2,Bed Net Distribution,2023-12-27
+2922,101,80.2,Environmental Management,2019-09-14
+2923,3874,60.87,Indoor Residual Spraying,2015-03-28
+2924,984,69.57,Larvicide Application,2015-12-09
+2925,4548,55.6,Larvicide Application,2019-01-27
+2926,2236,77.99,Indoor Residual Spraying,2016-04-30
+2927,931,61.18,Larvicide Application,2016-06-23
+2928,796,76.37,Larvicide Application,2020-12-26
+2929,2555,43.83,Environmental Management,2016-03-09
+2930,2985,42.58,Indoor Residual Spraying,2017-01-03
+2931,3460,78.35,Bed Net Distribution,2017-12-13
+2932,4758,80.51,Larvicide Application,2023-02-22
+2933,4633,52.76,Bed Net Distribution,2020-09-26
+2934,3918,66.26,Environmental Management,2015-07-06
+2935,459,64.93,Larvicide Application,2022-01-12
+2936,349,60.21,Larvicide Application,2016-05-16
+2937,3096,82.77,Larvicide Application,2018-11-01
+2938,861,68.83,Bed Net Distribution,2018-05-04
+2939,4002,45.78,Environmental Management,2018-08-13
+2940,2619,71.32,Bed Net Distribution,2015-11-02
+2941,833,75.31,Indoor Residual Spraying,2015-11-28
+2942,3723,92.9,Indoor Residual Spraying,2020-01-30
+2943,2210,59.93,Environmental Management,2015-03-08
+2944,2880,52.84,Indoor Residual Spraying,2023-06-10
+2945,4006,85.0,Indoor Residual Spraying,2019-02-05
+2946,3923,55.98,Larvicide Application,2018-03-25
+2947,1628,94.94,Bed Net Distribution,2021-09-06
+2948,4524,89.02,Larvicide Application,2022-04-28
+2949,2354,91.09,Environmental Management,2019-09-25
+2950,1916,81.3,Larvicide Application,2018-01-02
+2951,1220,49.7,Indoor Residual Spraying,2022-04-05
+2952,104,42.27,Larvicide Application,2021-05-15
+2953,1193,42.22,Indoor Residual Spraying,2017-07-29
+2954,451,49.87,Larvicide Application,2021-11-10
+2955,2477,41.12,Bed Net Distribution,2021-01-31
+2956,4708,60.44,Indoor Residual Spraying,2023-03-31
+2957,4156,55.57,Bed Net Distribution,2021-02-12
+2958,2674,78.56,Indoor Residual Spraying,2021-05-28
+2959,1439,80.27,Indoor Residual Spraying,2017-10-03
+2960,2971,71.76,Indoor Residual Spraying,2021-08-24
+2961,4094,55.07,Bed Net Distribution,2022-09-12
+2962,3410,79.04,Bed Net Distribution,2022-05-02
+2963,4053,74.91,Larvicide Application,2023-08-16
+2964,4729,75.51,Bed Net Distribution,2015-07-15
+2965,2167,54.79,Larvicide Application,2022-02-13
+2966,1191,92.29,Environmental Management,2020-07-24
+2967,541,51.4,Bed Net Distribution,2020-06-23
+2968,1609,58.39,Indoor Residual Spraying,2015-06-21
+2969,743,92.62,Environmental Management,2023-07-02
+2970,3164,67.06,Indoor Residual Spraying,2016-03-21
+2971,263,55.98,Environmental Management,2020-02-24
+2972,762,52.45,Bed Net Distribution,2021-03-15
+2973,2670,71.87,Environmental Management,2019-11-09
+2974,4909,40.37,Indoor Residual Spraying,2023-10-15
+2975,2485,57.67,Indoor Residual Spraying,2019-01-22
+2976,3790,78.31,Larvicide Application,2021-09-04
+2977,4155,90.09,Bed Net Distribution,2021-06-05
+2978,2683,69.32,Indoor Residual Spraying,2023-12-22
+2979,1447,57.28,Larvicide Application,2022-08-13
+2980,593,93.89,Larvicide Application,2017-01-03
+2981,2642,45.98,Environmental Management,2020-02-22
+2982,4723,53.18,Larvicide Application,2022-11-27
+2983,4648,42.55,Larvicide Application,2018-02-24
+2984,1823,57.81,Environmental Management,2015-01-12
+2985,4028,47.62,Environmental Management,2018-12-15
+2986,2974,93.39,Indoor Residual Spraying,2017-11-18
+2987,1030,71.64,Bed Net Distribution,2023-05-28
+2988,1051,88.09,Bed Net Distribution,2015-03-18
+2989,3024,81.52,Indoor Residual Spraying,2015-06-17
+2990,400,43.29,Environmental Management,2018-11-02
+2991,1785,41.07,Indoor Residual Spraying,2018-11-29
+2992,4663,42.46,Larvicide Application,2020-02-06
+2993,3481,71.01,Bed Net Distribution,2018-10-07
+2994,713,46.32,Environmental Management,2017-06-24
+2995,478,85.53,Indoor Residual Spraying,2017-06-13
+2996,4883,60.03,Environmental Management,2019-01-29
+2997,611,86.04,Bed Net Distribution,2021-11-06
+2998,966,67.88,Larvicide Application,2022-06-05
+2999,2553,64.2,Environmental Management,2016-03-25
