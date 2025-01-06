@@ -14,15 +14,15 @@ class MalariaOutbreakPredictor:
     def __init__(self, host, user, password, database):
         """Initialize the predictor with database credentials"""
         self.db_config = {
-            'host': "127.0.0.1",
-            'user': "admin",
-            'password': "admin",
-            'database': "malaria"
+            'host': host,
+            'user': user,
+            'password': password,
+            'database': database
         }
         self.model = None
         self.encoders = {}
         self.scaler = StandardScaler()
-        
+
     def create_engine(self):
         """Create SQLAlchemy engine"""
         return create_engine(
@@ -102,7 +102,7 @@ class MalariaOutbreakPredictor:
         # Create derived features
         df['Rain_Temperature_Index'] = df['Rainfall'] * df['Temperature']
         df['Healthcare_Access_Score'] = (df['Medical_staff'] / 
-                                       np.maximum(df['Population_density'], 1))  # Avoid division by zero
+                                       np.maximum(df['Population_density'], 1))
         df['Prevention_Coverage'] = (df['Spray_coverage'] + 
                                    df['Nets_distributed']/np.maximum(df['Population_density'], 1))/2
         df['Environmental_Risk'] = df['Distance_to_water'] * df['Humidity']
@@ -152,41 +152,109 @@ class MalariaOutbreakPredictor:
         
         return X_train, X_test, y_train, y_test
 
-    # ... [rest of the class methods remain the same] ...
+    def evaluate_model(self, X_test, y_test):
+        """Evaluate the trained model using various metrics and visualizations"""
+        if self.model is None:
+            raise ValueError("Model has not been trained yet")
+            
+        # Get predictions
+        y_pred = self.model.predict(X_test)
+        y_pred_proba = self.model.predict_proba(X_test)[:, 1]
+        
+        # Calculate metrics
+        print("\nClassification Report:")
+        print(classification_report(y_test, y_pred))
+        
+        print("\nROC-AUC Score:", roc_auc_score(y_test, y_pred_proba))
+        
+        # Create confusion matrix heatmap
+        plt.figure(figsize=(8, 6))
+        cm = confusion_matrix(y_test, y_pred)
+        sns.heatmap(cm, annot=True, fmt='d', cmap='Blues')
+        plt.title('Confusion Matrix')
+        plt.ylabel('True Label')
+        plt.xlabel('Predicted Label')
+        plt.savefig('confusion_matrix.png')
+        plt.close()
+        
+        # Feature importance analysis
+        feature_importance = pd.DataFrame({
+            'feature': X_test.columns,
+            'importance': self.model.feature_importances_
+        }).sort_values('importance', ascending=False)
+        
+        # Plot feature importance
+        plt.figure(figsize=(12, 6))
+        sns.barplot(x='importance', y='feature', data=feature_importance.head(15))
+        plt.title('Top 15 Most Important Features')
+        plt.xlabel('Feature Importance')
+        plt.tight_layout()
+        plt.savefig('feature_importance.png')
+        plt.close()
+        
+        # Save feature importance to CSV
+        feature_importance.to_csv('feature_importance.csv', index=False)
+        
+        print("\nFeature Importance Analysis:")
+        print("\nTop 10 Most Important Features:")
+        print(feature_importance.head(10))
+        
+        return feature_importance.to_dict()
+
+    def save_model(self, filename=None):
+        """Save the trained model and preprocessing objects"""
+        if self.model is None:
+            raise ValueError("No model to save. Please train the model first.")
+            
+        if filename is None:
+            filename = f"malaria_model_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
+            
+        # Save the model
+        joblib.dump(self.model, f'{filename}_model.joblib')
+        
+        # Save the encoders
+        joblib.dump(self.encoders, f'{filename}_encoders.joblib')
+        
+        # Save the scaler
+        joblib.dump(self.scaler, f'{filename}_scaler.joblib')
+        
+        print(f"\nModel and preprocessing objects saved with prefix: {filename}")
 
 def main():
-    # Initialize predictor
-    predictor = MalariaOutbreakPredictor(
-        host="localhost",
-        user="your_username",
-        password="your_password",
-        database="malaria"
-    )
-    
-    # Fetch and prepare data
-    print("Fetching data...")
-    df = predictor.fetch_data()
-    if df is None:
-        return
-    
-    print("Data shape:", df.shape)
-    print("\nTarget variable distribution:")
-    print(df['Outbreak_status'].value_counts(normalize=True))
-    
-    # Preprocess data
-    print("\nPreprocessing data...")
-    processed_df = predictor.preprocess_data(df)
-    
-    # Separate features and target
-    X = processed_df.drop('Outbreak_status', axis=1)
-    y = processed_df['Outbreak_status']
-    
-    print("\nFeatures shape:", X.shape)
-    print("Target shape:", y.shape)
-    
-    # Train model
-    print("\nTraining model...")
+    """Main execution function"""
     try:
+        # Initialize predictor
+        predictor = MalariaOutbreakPredictor(
+            host="127.0.0.1",  # Update these with your actual database credentials
+            user="admin",
+            password="admin",
+            database="malaria"
+        )
+        
+        # Fetch data
+        print("\nFetching data...")
+        df = predictor.fetch_data()
+        if df is None:
+            print("Error: Could not fetch data from database")
+            return
+        
+        print(f"\nData shape: {df.shape}")
+        print("\nTarget variable distribution:")
+        print(df['Outbreak_status'].value_counts(normalize=True))
+        
+        # Preprocess data
+        print("\nPreprocessing data...")
+        processed_df = predictor.preprocess_data(df)
+        
+        # Separate features and target
+        X = processed_df.drop('Outbreak_status', axis=1)
+        y = processed_df['Outbreak_status']
+        
+        print(f"\nFeatures shape: {X.shape}")
+        print(f"Target shape: {y.shape}")
+        
+        # Train model
+        print("\nTraining model...")
         X_train, X_test, y_train, y_test = predictor.train_model(X, y)
         
         # Evaluate model
@@ -194,10 +262,14 @@ def main():
         feature_importance = predictor.evaluate_model(X_test, y_test)
         
         # Save model
+        print("\nSaving model...")
         predictor.save_model()
         
+        print("\nProcess completed successfully!")
+        
     except Exception as e:
-        print(f"An error occurred: {e}")
+        print(f"\nAn error occurred during execution: {e}")
+        raise
 
 if __name__ == "__main__":
     main()
