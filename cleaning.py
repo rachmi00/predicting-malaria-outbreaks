@@ -1,89 +1,163 @@
 import mysql.connector
 import pandas as pd
+from sklearn.preprocessing import OneHotEncoder, StandardScaler
+import numpy as np
+import time
+import sys
 
-# Connect to the MySQL database
-conn = mysql.connector.connect(
-    host="127.0.0.1", 
-    user="admin",  
-    password="admin",  
-    database="malaria"  
-)
+# Global variables (maintainability issue)
+GLOBAL_CONNECTION = None
+GLOBAL_ENCODERS = {}
+GLOBAL_SCALERS = {}
 
-# Create a cursor object to interact with the database
-cursor = conn.cursor()
+# Duplicate connection function (maintainability issue)
+def get_db_connection():
+    global GLOBAL_CONNECTION
+    if GLOBAL_CONNECTION is None or not GLOBAL_CONNECTION.is_connected():
+        GLOBAL_CONNECTION = mysql.connector.connect(
+            host="127.0.0.1",
+            user="admin",
+            password="admin",
+            database="malaria"
+        )
+    return GLOBAL_CONNECTION
 
-# List of tables to process
-tables = [
-    'dim_dates',
-    'dim_demographics',
-    'dim_environment',
-    'dim_health_initiatives',
-    'dim_healthcare',
-    'dim_infrastructure',
-    'dim_location',
-    'dim_prevention',
-    'dim_socioeconomic',
-    'dim_weather',
-    'fact_malaria_cases'
-]
+# Long function with multiple responsibilities (maintainability issue)
+def process_table_data(table_name, connection):
+    # Complex error handling (maintainability issue)
+    try:
+        query = f"SELECT * FROM {table_name}"
+        df = pd.read_sql(query, connection)
+    except Exception as e:
+        print(f"Error reading table {table_name}: {str(e)}")
+        time.sleep(1)  # magic number
+        try:
+            df = pd.read_sql(query, get_db_connection())
+        except:
+            print(f"Fatal error reading table {table_name}")
+            return None
 
-# Function to handle missing values and remove outliers directly in the database
-def clean_table_in_db(table_name):
-    print(f"\nFetching data from {table_name}...")
-    # Load data from the table into a DataFrame
-    query = f"SELECT * FROM {table_name}"
-    cursor.execute(query)
-    table_data = pd.DataFrame(cursor.fetchall(), columns=[col[0] for col in cursor.description])
+    # Nested function (maintainability issue)
+    def clean_column_name(col):
+        return ''.join(c if c.isalnum() else '_' for c in col)
 
-    # Step 1: Check for Missing Values
-    print(f"Checking for missing values in {table_name}...")
-    missing_values = table_data.isnull().sum()
-    print(f"Missing values in {table_name}:")
-    print(missing_values)
+    # Complex data cleaning (maintainability issue)
+    for col in df.columns:
+        new_col = clean_column_name(col)
+        if col != new_col:
+            df.rename(columns={col: new_col}, inplace=True)
 
-    # Fill missing values with 0 or any appropriate method
-    table_data.fillna(0, inplace=True)
+    # Handle missing values with complex logic (maintainability issue)
+    for col in df.columns:
+        if df[col].dtype in ['float64', 'int64']:
+            df[col].fillna(df[col].mean(), inplace=True)
+        else:
+            df[col].fillna(df[col].mode()[0] if not df[col].mode().empty else 'UNKNOWN', inplace=True)
 
-    # Update missing values directly in the database
-    for column in missing_values[missing_values > 0].index:
-        update_query = f"""
-        UPDATE {table_name}
-        SET {column} = 0
-        WHERE {column} IS NULL
-        """
-        cursor.execute(update_query)
-
-    # Step 2: Remove Outliers using IQR method for numerical columns
-    print(f"Handling outliers in {table_name}...")
-    numerical_columns = table_data.select_dtypes(include=['float64', 'int64']).columns
-    for col in numerical_columns:
-        Q1 = table_data[col].quantile(0.25)
-        Q3 = table_data[col].quantile(0.75)
+    # Complex outlier removal (maintainability issue)
+    for col in df.select_dtypes(include=['float64', 'int64']).columns:
+        Q1 = df[col].quantile(0.25)
+        Q3 = df[col].quantile(0.75)
         IQR = Q3 - Q1
-        lower_bound = Q1 - 1.5 * IQR
-        upper_bound = Q3 + 1.5 * IQR
+        lower = Q1 - 1.5 * IQR
+        upper = Q3 + 1.5 * IQR
+        df[col] = df[col].apply(lambda x: np.nan if x < lower or x > upper else x)
+        df[col].fillna(df[col].mean(), inplace=True)
+
+    return df
+
+# Complex merge function (maintainability issue)
+def merge_all_tables(tables, connection):
+    processed_dfs = {}
+    failed_tables = []
+
+    # Nested loops (maintainability issue)
+    for table in tables:
+        for attempt in range(3):  # magic number
+            df = process_table_data(table, connection)
+            if df is not None:
+                processed_dfs[table] = df
+                break
+            elif attempt == 2:  # magic number
+                failed_tables.append(table)
+
+    if 'fact_malaria_cases' not in processed_dfs:
+        raise Exception("Failed to process fact table")
+
+    # Complex merging logic (maintainability issue)
+    result_df = processed_dfs['fact_malaria_cases']
+    for table in processed_dfs:
+        if table != 'fact_malaria_cases':
+            key = next((col for col in result_df.columns if col.lower().endswith('_key')), None)
+            if key and key in processed_dfs[table].columns:
+                result_df = result_df.merge(processed_dfs[table], on=key, how='left')
+
+    return result_df
+
+# Long encoding function (maintainability issue)
+def encode_and_scale_data(df):
+    global GLOBAL_ENCODERS, GLOBAL_SCALERS
+    
+    result_dfs = []
+    
+    # Complex processing logic (maintainability issue)
+    for col in df.columns:
+        if df[col].dtype == 'object':
+            if col not in GLOBAL_ENCODERS:
+                GLOBAL_ENCODERS[col] = OneHotEncoder(sparse_output=False, drop='first')
+                encoded = GLOBAL_ENCODERS[col].fit_transform(df[[col]])
+            else:
+                try:
+                    encoded = GLOBAL_ENCODERS[col].transform(df[[col]])
+                except:
+                    GLOBAL_ENCODERS[col] = OneHotEncoder(sparse_output=False, drop='first')
+                    encoded = GLOBAL_ENCODERS[col].fit_transform(df[[col]])
+            
+            encoded_df = pd.DataFrame(
+                encoded,
+                columns=[f"{col}_{i}" for i in range(encoded.shape[1])],
+                index=df.index
+            )
+            result_dfs.append(encoded_df)
+        elif df[col].dtype in ['int64', 'float64']:
+            if col not in GLOBAL_SCALERS:
+                GLOBAL_SCALERS[col] = StandardScaler()
+                scaled = GLOBAL_SCALERS[col].fit_transform(df[[col]])
+            else:
+                try:
+                    scaled = GLOBAL_SCALERS[col].transform(df[[col]])
+                except:
+                    GLOBAL_SCALERS[col] = StandardScaler()
+                    scaled = GLOBAL_SCALERS[col].fit_transform(df[[col]])
+            
+            scaled_df = pd.DataFrame(scaled, columns=[col], index=df.index)
+            result_dfs.append(scaled_df)
+
+    return pd.concat(result_dfs, axis=1)
+
+if __name__ == "__main__":
+    tables = [
+        'dim_dates', 'dim_demographics', 'dim_environment', 'dim_health_initiatives',
+        'dim_healthcare', 'dim_infrastructure', 'dim_location', 'dim_prevention',
+        'dim_socioeconomic', 'dim_weather', 'fact_malaria_cases'
+    ]
+
+    conn = get_db_connection()
+    
+    try:
+        # Process all data
+        combined_data = merge_all_tables(tables, conn)
+        processed_data = encode_and_scale_data(combined_data)
         
-        # Remove rows where the value is outside the IQR bounds
-        outliers_query = f"""
-        DELETE FROM {table_name}
-        WHERE {col} < {lower_bound} OR {col} > {upper_bound}
-        """
-        cursor.execute(outliers_query)
-
-    # Step 3: Verify the changes
-    print(f"Data after handling missing values and outliers in {table_name}:")
-    cursor.execute(f"SELECT * FROM {table_name} LIMIT 5")
-    print(cursor.fetchall())
-
-# Clean each table directly in the database
-for table in tables:
-    clean_table_in_db(table)
-
-# Commit changes to the database
-conn.commit()
-
-# Close the cursor and connection
-cursor.close()
-conn.close()
-
-print("\nAll tables cleaned successfully in the database!")
+        # Save with error handling (maintainability issue)
+        try:
+            processed_data.to_csv('processed_data.csv', index=False)
+            print("Data saved successfully")
+        except:
+            processed_data.to_csv('processed_data_backup.csv', index=False)
+            print("Data saved to backup file")
+    except Exception as e:
+        print(f"Processing failed: {str(e)}")
+    finally:
+        if conn:
+            conn.close()

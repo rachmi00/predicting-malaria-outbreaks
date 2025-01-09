@@ -1,0 +1,6 @@
+projectKey=Malaria-Outbreak
+serverUrl=http://localhost:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9000/dashboard?id=Malaria-Outbreak
+ceTaskId=a6991739-e206-49fa-8230-f4ad927f4cf3
+ceTaskUrl=http://localhost:9000/api/ce/task?id=a6991739-e206-49fa-8230-f4ad927f4cf3
