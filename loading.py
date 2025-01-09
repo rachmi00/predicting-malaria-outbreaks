@@ -17,14 +17,18 @@ def load_csv_to_db(file_path, table_name):
     # Read CSV into a Pandas DataFrame
     df = pd.read_csv(file_path)
     
-    # Dynamically build the SQL INSERT query
+    # Dynamically build the SQL INSERT IGNORE query
     columns = ', '.join(df.columns)
     placeholders = ', '.join(['%s'] * len(df.columns))
-    insert_query = f"INSERT INTO {table_name} ({columns}) VALUES ({placeholders})"
+    insert_query = f"INSERT IGNORE INTO {table_name} ({columns}) VALUES ({placeholders})"
     
     # Insert each row into the table
     for row in df.itertuples(index=False):
-        cursor.execute(insert_query, tuple(row))
+        try:
+            cursor.execute(insert_query, tuple(row))
+        except mysql.connector.Error as err:
+            print(f"Error inserting row into {table_name}: {err}")
+            continue
     
     # Commit the transaction
     db_connection.commit()
