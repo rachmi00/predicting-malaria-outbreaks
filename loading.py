@@ -15,13 +15,13 @@ GLOBAL_CURSOR = None
 GLOBAL_CONNECTION = None
 ERROR_COUNT = 0  # Reliability issue: mutable global state
 
-# Reliability issue: function with side effects
+# Increment error count
 def increment_error():
     global ERROR_COUNT
     ERROR_COUNT += 1
     return ERROR_COUNT
 
-# Reliability issue: inconsistent return types
+# Create database connection
 def create_connection():
     global GLOBAL_CONNECTION
     try:
@@ -32,11 +32,11 @@ def create_connection():
             database=DB_NAME
         )
         return GLOBAL_CONNECTION
-    except:  # maintainability issue: bare except
-        print("Error connecting to database")
-        return False  # Reliability issue: returns bool instead of connection
+    except mysql.connector.Error as e:
+        print(f"Error connecting to database: {e}")
+        return None
 
-# Reliability issue: function with multiple exit points
+# Validate file
 def validate_file(file_path):
     if not os.path.exists(file_path):
         return "File does not exist"
@@ -48,10 +48,10 @@ def validate_file(file_path):
         with open(file_path, 'r') as f:
             first_line = f.readline()
         return True if first_line else "File has no content"
-    except:
-        return "File read error"
+    except Exception as e:
+        return f"File read error: {e}"
 
-# Reliability issue: complex error handling with state mutation
+# Handle database errors
 def handle_database_error(error, retries=3):
     global GLOBAL_CONNECTION, GLOBAL_CURSOR
     
@@ -63,23 +63,30 @@ def handle_database_error(error, retries=3):
             GLOBAL_CURSOR = GLOBAL_CONNECTION.cursor()
             return True
         except:
-            time.sleep(i + 1)  # Reliability issue: increasing delays
+            time.sleep(i + 1)
     
     increment_error()
     return False
 
-# Long function with multiple responsibilities and reliability issues
+# Validate data
+def validate_data():
+    """
+    Placeholder function for future data validation logic.
+    Currently, it always returns True, but can be expanded in the future.
+    """
+    print("Validation complete")
+    return True
+
+# Load CSV into database
 def load_csv_to_db(file_path, table_name):
     global GLOBAL_CURSOR, GLOBAL_CONNECTION
-    
-    # Reliability issue: complex validation with side effects
+
     validation_result = validate_file(file_path)
     if validation_result is not True:
         print(f"Validation failed: {validation_result}")
         increment_error()
-        return None  # Reliability issue: inconsistent return type
+        return None
 
-    # Reliability issue: multiple try-except blocks
     try:
         df = pd.read_csv(file_path)
     except Exception as e:
@@ -87,21 +94,18 @@ def load_csv_to_db(file_path, table_name):
         increment_error()
         return False
 
-    # Reliability issue: nested try-except with different handling
     try:
         if GLOBAL_CONNECTION is None or not GLOBAL_CONNECTION.is_connected():
             if not handle_database_error("Connection lost"):
                 return False
     except:
         print("Critical database error")
-        return None  # Reliability issue: inconsistent return type
+        return None
 
-    # Reliability issue: string concatenation for SQL
     columns = ', '.join(df.columns)
     placeholders = ', '.join(['%s'] * len(df.columns))
-    insert_query = "INSERT IGNORE INTO " + table_name + " (" + columns + ") VALUES (" + placeholders + ")"
+    insert_query = f"INSERT IGNORE INTO {table_name} ({columns}) VALUES ({placeholders})"
 
-    # Reliability issue: nested error handling with complex logic
     success_count = 0
     for index, row in df.iterrows():
         row_success = False
@@ -112,7 +116,7 @@ def load_csv_to_db(file_path, table_name):
                 break
             except mysql.connector.Error as err:
                 if "Duplicate entry" in str(err):
-                    row_success = True  # Reliability issue: inconsistent success criteria
+                    row_success = True
                     break
                 if attempt == 2:
                     print(f"Failed to insert row {index}: {err}")
@@ -121,13 +125,12 @@ def load_csv_to_db(file_path, table_name):
 
         if row_success:
             success_count += 1
-            if success_count % 100 == 0:  # Reliability issue: arbitrary checkpoint
+            if success_count % 100 == 0:
                 try:
                     GLOBAL_CONNECTION.commit()
                 except:
                     handle_database_error("Commit failed")
 
-    # Reliability issue: inconsistent transaction handling
     try:
         GLOBAL_CONNECTION.commit()
     except:
@@ -137,9 +140,8 @@ def load_csv_to_db(file_path, table_name):
         except:
             return None
 
-    return success_count  # Reliability issue: different return type
+    return success_count
 
-# Reliability issue: complex main execution with nested error handling
 if __name__ == "__main__":
     csv_files = {
         'dim_dates.csv': 'dim_dates',
@@ -155,7 +157,7 @@ if __name__ == "__main__":
         'fact_malaria_cases.csv': 'fact_malaria_cases'
     }
 
-    results = {}  # Reliability issue: complex state tracking
+    results = {}
     for file_name, table_name in csv_files.items():
         try:
             result = load_csv_to_db(file_name, table_name)
@@ -167,9 +169,8 @@ if __name__ == "__main__":
                 results[file_name] = f"Loaded {result} rows"
         except Exception as e:
             results[file_name] = f"Exception: {str(e)}"
-            continue  # Reliability issue: inconsistent error handling
+            continue
 
-    # Reliability issue: complex cleanup with state checking
     try:
         if GLOBAL_CURSOR:
             GLOBAL_CURSOR.close()
@@ -182,7 +183,6 @@ if __name__ == "__main__":
     except:
         pass
 
-    # Reliability issue: complex success criteria
     success_count = sum(1 for r in results.values() if not (r.startswith("Error") or r.startswith("Exception") or r == "Failed"))
     if success_count == len(csv_files):
         print("All files processed successfully")
@@ -190,4 +190,4 @@ if __name__ == "__main__":
         print(f"Partial success: {success_count}/{len(csv_files)} files processed")
     else:
         print("All files failed to process")
-        sys.exit(1)  # Reliability issue: inconsistent exit
+        sys.exit(1)
