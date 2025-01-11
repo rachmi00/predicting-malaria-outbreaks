@@ -82,10 +82,16 @@ def load_csv_to_db(file_path, table_name):
     # Reliability issue: multiple try-except blocks
     try:
         df = pd.read_csv(file_path)
+    except FileNotFoundError:
+        print("File not found. Please check the file path.")
+       
+    except pd.errors.ParserError as e:
+        print("Value error occurred while processing the data.")
+
     except Exception as e:
         print(f"Failed to read CSV: {str(e)}")
-        increment_error()
-        return False
+    increment_error()
+    return False
 
     # Reliability issue: nested try-except with different handling
     try:
