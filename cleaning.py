@@ -22,16 +22,47 @@ def get_db_connection():
         )
     return GLOBAL_CONNECTION
 
-# Long function with multiple responsibilities (maintainability issue)
-def process_table_data(table_name, connection):
-    # Attempt to read the data from the database
+# Function to fetch data from the database table
+def fetch_table_data(table_name, connection):
     try:
         query = f"SELECT * FROM {table_name}"
-        df = pd.read_sql(query, connection)
+        return pd.read_sql(query, connection)
     except Exception as e:
-        print(f"Error reading table {table_name}: {str(e)}")
-        time.sleep(1)  # magic number
-        return retry_reading_table(query)
+        print(f"Error fetching data for table {table_name}: {e}")
+        return None
+
+# Function to clean column names
+def clean_column_names(df):
+    df.columns = [''.join(c if c.isalnum() else '_' for c in col) for col in df.columns]
+    return df
+
+# Function to handle missing values
+def handle_missing_values(df):
+    for col in df.columns:
+        if df[col].dtype in ['float64', 'int64']:
+            df[col].fillna(df[col].mean(), inplace=True)
+        else:
+            df[col].fillna(df[col].mode()[0] if not df[col].mode().empty else 'UNKNOWN', inplace=True)
+    return df
+
+# Function to remove outliers
+def remove_outliers(df):
+    for col in df.select_dtypes(include=['float64', 'int64']).columns:
+        Q1 = df[col].quantile(0.25)
+        Q3 = df[col].quantile(0.75)
+        IQR = Q3 - Q1
+        lower = Q1 - 1.5 * IQR
+        upper = Q3 + 1.5 * IQR
+        df[col] = df[col].apply(lambda x: np.nan if x < lower or x > upper else x)
+        df[col].fillna(df[col].mean(), inplace=True)
+    return df
+
+# Updated process_table_data function
+def process_table_data(table_name, connection):
+    # Fetch data from the table
+    df = fetch_table_data(table_name, connection)
+    if df is None:
+        return None
 
     # Clean column names
     clean_column_names(df)
