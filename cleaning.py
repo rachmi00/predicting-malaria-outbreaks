@@ -24,37 +24,47 @@ def get_db_connection():
 
 # Long function with multiple responsibilities (maintainability issue)
 def process_table_data(table_name, connection):
-    # Complex error handling (maintainability issue)
+    # Attempt to read the data from the database
     try:
         query = f"SELECT * FROM {table_name}"
         df = pd.read_sql(query, connection)
     except Exception as e:
         print(f"Error reading table {table_name}: {str(e)}")
         time.sleep(1)  # magic number
-        try:
-            df = pd.read_sql(query, get_db_connection())
-        except:
-            print(f"Fatal error reading table {table_name}")
-            return None
+        return retry_reading_table(query)
 
-    # Nested function (maintainability issue)
-    def clean_column_name(col):
-        return ''.join(c if c.isalnum() else '_' for c in col)
+    # Clean column names
+    clean_column_names(df)
 
-    # Complex data cleaning (maintainability issue)
+    # Handle missing values
+    handle_missing_values(df)
+
+    # Remove outliers
+    remove_outliers(df)
+
+    return df
+
+def retry_reading_table(query):
+    try:
+        return pd.read_sql(query, get_db_connection())
+    except Exception:
+        print(f"Fatal error reading table.")
+        return None
+
+def clean_column_names(df):
     for col in df.columns:
-        new_col = clean_column_name(col)
+        new_col = ''.join(c if c.isalnum() else '_' for c in col)
         if col != new_col:
             df.rename(columns={col: new_col}, inplace=True)
 
-    # Handle missing values with complex logic (maintainability issue)
+def handle_missing_values(df):
     for col in df.columns:
         if df[col].dtype in ['float64', 'int64']:
             df[col].fillna(df[col].mean(), inplace=True)
         else:
             df[col].fillna(df[col].mode()[0] if not df[col].mode().empty else 'UNKNOWN', inplace=True)
 
-    # Complex outlier removal (maintainability issue)
+def remove_outliers(df):
     for col in df.select_dtypes(include=['float64', 'int64']).columns:
         Q1 = df[col].quantile(0.25)
         Q3 = df[col].quantile(0.75)
@@ -64,7 +74,6 @@ def process_table_data(table_name, connection):
         df[col] = df[col].apply(lambda x: np.nan if x < lower or x > upper else x)
         df[col].fillna(df[col].mean(), inplace=True)
 
-    return df
 
 # Complex merge function (maintainability issue)
 def merge_all_tables(tables, connection):
