@@ -6,14 +6,19 @@ import sys
 import logging
 from datetime import datetime
 
-# Global variables (maintainability issue: global variables)
+# Database configuration variables
 DB_HOST = "127.0.0.1"
 DB_USER = "admin"
 DB_PASS = "admin"
 DB_NAME = "malaria"
-GLOBAL_CURSOR = None
-GLOBAL_CONNECTION = None
-ERROR_COUNT = 0  # Reliability issue: mutable global state
+
+# Removed global variables
+def initialize_state():
+    connection = None
+    cursor = None
+    error_count = 0
+    return connection, cursor, error_count
+
 
 # Increment error count
 def increment_error():
