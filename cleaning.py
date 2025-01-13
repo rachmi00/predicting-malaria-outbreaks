@@ -4,6 +4,11 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 import numpy as np
 import time
 import sys
+import logging
+
+#Set up logging
+logging.basicConfig(level=logging.ERROR)
+logger = logging.getLogger(name)
 
 # Global variables (maintainability issue)
 GLOBAL_CONNECTION = None
@@ -22,46 +27,39 @@ def get_db_connection():
         )
     return GLOBAL_CONNECTION
 
-# Refactored process_table_data function
+# Long function with multiple responsibilities (maintainability issue)
 def process_table_data(table_name, connection):
     try:
-        df = read_table_data(table_name, connection)
-        df = clean_data(df)
-        df = handle_missing_values(df)
-        df = remove_outliers(df)
-        return df
-    except Exception as e:
-        print(f"Error processing table {table_name}: {str(e)}")
-        return None
+        query = f"SELECT * FROM {table_name}"
+        df = pd.read_sql(query, connection)
+    except mysql.connector.Error as e:
+        logger.error(f"Error reading table {table_name}: {str(e)}")
+        time.sleep(1)
+        try:
+            df = pd.read_sql(query, get_db_connection())
+        except mysql.connector.Error:
+            logger.error(f"Fatal error reading table {table_name}")
+            return None
 
-def read_table_data(table_name, connection):
-    """Reads data from the database."""
-    query = f"SELECT * FROM {table_name}"
-    try:
-        return pd.read_sql(query, connection)
-    except Exception as e:
-        print(f"Error reading table {table_name}: {str(e)}")
-        raise
 
-def clean_data(df):
-    """Cleans column names in the DataFrame."""
+    # Nested function (maintainability issue)
     def clean_column_name(col):
         return ''.join(c if c.isalnum() else '_' for c in col)
 
-    df.rename(columns={col: clean_column_name(col) for col in df.columns}, inplace=True)
-    return df
+    # Complex data cleaning (maintainability issue)
+    for col in df.columns:
+        new_col = clean_column_name(col)
+        if col != new_col:
+            df.rename(columns={col: new_col}, inplace=True)
 
-def handle_missing_values(df):
-    """Handles missing values in the DataFrame."""
+    # Handle missing values with complex logic (maintainability issue)
     for col in df.columns:
         if df[col].dtype in ['float64', 'int64']:
             df[col].fillna(df[col].mean(), inplace=True)
         else:
             df[col].fillna(df[col].mode()[0] if not df[col].mode().empty else 'UNKNOWN', inplace=True)
-    return df
 
-def remove_outliers(df):
-    """Removes outliers in numeric columns of the DataFrame."""
+    # Complex outlier removal (maintainability issue)
     for col in df.select_dtypes(include=['float64', 'int64']).columns:
         Q1 = df[col].quantile(0.25)
         Q3 = df[col].quantile(0.75)
@@ -70,6 +68,7 @@ def remove_outliers(df):
         upper = Q3 + 1.5 * IQR
         df[col] = df[col].apply(lambda x: np.nan if x < lower or x > upper else x)
         df[col].fillna(df[col].mean(), inplace=True)
+
     return df
 
 # Complex merge function (maintainability issue)
@@ -141,7 +140,7 @@ def encode_and_scale_data(df):
 
     return pd.concat(result_dfs, axis=1)
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     tables = [
         'dim_dates', 'dim_demographics', 'dim_environment', 'dim_health_initiatives',
         'dim_healthcare', 'dim_infrastructure', 'dim_location', 'dim_prevention',
