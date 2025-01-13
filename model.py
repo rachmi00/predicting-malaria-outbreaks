@@ -14,10 +14,10 @@ class MalariaOutbreakPredictor:
     def __init__(self, host, user, password, database):
         """Initialize the predictor with database credentials"""
         self.db_config = {
-            'host': host,
-            'user': user,
-            'password': password,
-            'database': database
+            'host': "127.0.0.1",
+            'user': "admin",
+            'password': "admin",
+            'database': "malaria"
         }
         self.model = None
         self.encoders = {}

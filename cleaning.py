@@ -1,163 +1,119 @@
 import mysql.connector
 import pandas as pd
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
-import numpy as np
-import time
-import sys
 
-# Global variables (maintainability issue)
-GLOBAL_CONNECTION = None
-GLOBAL_ENCODERS = {}
-GLOBAL_SCALERS = {}
+# Database connection
+def connect_to_db():
+    return mysql.connector.connect(
+        host="127.0.0.1",
+        user="admin",
+        password="admin",
+        database="malaria"
+    )
 
-# Duplicate connection function (maintainability issue)
-def get_db_connection():
-    global GLOBAL_CONNECTION
-    if GLOBAL_CONNECTION is None or not GLOBAL_CONNECTION.is_connected():
-        GLOBAL_CONNECTION = mysql.connector.connect(
-            host="127.0.0.1",
-            user="admin",
-            password="admin",
-            database="malaria"
-        )
-    return GLOBAL_CONNECTION
+# Fetch data from a specific table
+def fetch_table_data(table_name, conn):
+    print(f"Fetching data from {table_name}...")
+    query = f"SELECT * FROM {table_name}"
+    return pd.read_sql(query, conn)
 
-# Long function with multiple responsibilities (maintainability issue)
-def process_table_data(table_name, connection):
-    # Complex error handling (maintainability issue)
-    try:
-        query = f"SELECT * FROM {table_name}"
-        df = pd.read_sql(query, connection)
-    except Exception as e:
-        print(f"Error reading table {table_name}: {str(e)}")
-        time.sleep(1)  # magic number
-        try:
-            df = pd.read_sql(query, get_db_connection())
-        except:
-            print(f"Fatal error reading table {table_name}")
-            return None
+# Handle missing values
+def handle_missing_values(df):
+    print("Handling missing values...")
+    return df.fillna(0)
 
-    # Nested function (maintainability issue)
-    def clean_column_name(col):
-        return ''.join(c if c.isalnum() else '_' for c in col)
-
-    # Complex data cleaning (maintainability issue)
-    for col in df.columns:
-        new_col = clean_column_name(col)
-        if col != new_col:
-            df.rename(columns={col: new_col}, inplace=True)
-
-    # Handle missing values with complex logic (maintainability issue)
-    for col in df.columns:
-        if df[col].dtype in ['float64', 'int64']:
-            df[col].fillna(df[col].mean(), inplace=True)
-        else:
-            df[col].fillna(df[col].mode()[0] if not df[col].mode().empty else 'UNKNOWN', inplace=True)
-
-    # Complex outlier removal (maintainability issue)
+# Remove outliers using IQR method
+def remove_outliers(df):
+    print("Removing outliers...")
     for col in df.select_dtypes(include=['float64', 'int64']).columns:
         Q1 = df[col].quantile(0.25)
         Q3 = df[col].quantile(0.75)
         IQR = Q3 - Q1
-        lower = Q1 - 1.5 * IQR
-        upper = Q3 + 1.5 * IQR
-        df[col] = df[col].apply(lambda x: np.nan if x < lower or x > upper else x)
-        df[col].fillna(df[col].mean(), inplace=True)
-
+        lower_bound = Q1 - 1.5 * IQR
+        upper_bound = Q3 + 1.5 * IQR
+        df = df[(df[col] >= lower_bound) & (df[col] <= upper_bound)]
     return df
 
-# Complex merge function (maintainability issue)
-def merge_all_tables(tables, connection):
-    processed_dfs = {}
-    failed_tables = []
+# Preprocess a table
+def preprocess_table(table_name, conn):
+    df = fetch_table_data(table_name, conn)
+    df = handle_missing_values(df)
+    df = remove_outliers(df)
+    return df
 
-    # Nested loops (maintainability issue)
-    for table in tables:
-        for attempt in range(3):  # magic number
-            df = process_table_data(table, connection)
-            if df is not None:
-                processed_dfs[table] = df
-                break
-            elif attempt == 2:  # magic number
-                failed_tables.append(table)
+# Combine fact table with dimension tables
+def combine_dataframes(tables, conn):
+    print("\nCombining data from all tables...")
+    dfs = {table: preprocess_table(table, conn) for table in tables}
 
-    if 'fact_malaria_cases' not in processed_dfs:
-        raise Exception("Failed to process fact table")
+    fact_df = dfs.pop('fact_malaria_cases')
+    merged_df = fact_df.copy()
 
-    # Complex merging logic (maintainability issue)
-    result_df = processed_dfs['fact_malaria_cases']
-    for table in processed_dfs:
-        if table != 'fact_malaria_cases':
-            key = next((col for col in result_df.columns if col.lower().endswith('_key')), None)
-            if key and key in processed_dfs[table].columns:
-                result_df = result_df.merge(processed_dfs[table], on=key, how='left')
+    join_keys = {
+        'dim_dates': 'Date_key',
+        'dim_demographics': 'Demographic_key',
+        'dim_environment': 'Environment_key',
+        'dim_health_initiatives': 'Initiative_key',
+        'dim_healthcare': 'Healthcare_key',
+        'dim_infrastructure': 'Infrastructure_key',
+        'dim_location': 'Location_key',
+        'dim_prevention': 'Prevention_key',
+        'dim_socioeconomic': 'Socioeconomic_key',
+        'dim_weather': 'Weather_key',
+    }
 
-    return result_df
+    for dim_table, key in join_keys.items():
+        if dim_table in dfs:
+            print(f"Merging {dim_table} with fact_malaria_cases on {key}...")
+            merged_df = merged_df.merge(dfs[dim_table], on=key, how='left')
 
-# Long encoding function (maintainability issue)
-def encode_and_scale_data(df):
-    global GLOBAL_ENCODERS, GLOBAL_SCALERS
-    
-    result_dfs = []
-    
-    # Complex processing logic (maintainability issue)
-    for col in df.columns:
-        if df[col].dtype == 'object':
-            if col not in GLOBAL_ENCODERS:
-                GLOBAL_ENCODERS[col] = OneHotEncoder(sparse_output=False, drop='first')
-                encoded = GLOBAL_ENCODERS[col].fit_transform(df[[col]])
-            else:
-                try:
-                    encoded = GLOBAL_ENCODERS[col].transform(df[[col]])
-                except:
-                    GLOBAL_ENCODERS[col] = OneHotEncoder(sparse_output=False, drop='first')
-                    encoded = GLOBAL_ENCODERS[col].fit_transform(df[[col]])
-            
-            encoded_df = pd.DataFrame(
-                encoded,
-                columns=[f"{col}_{i}" for i in range(encoded.shape[1])],
-                index=df.index
-            )
-            result_dfs.append(encoded_df)
-        elif df[col].dtype in ['int64', 'float64']:
-            if col not in GLOBAL_SCALERS:
-                GLOBAL_SCALERS[col] = StandardScaler()
-                scaled = GLOBAL_SCALERS[col].fit_transform(df[[col]])
-            else:
-                try:
-                    scaled = GLOBAL_SCALERS[col].transform(df[[col]])
-                except:
-                    GLOBAL_SCALERS[col] = StandardScaler()
-                    scaled = GLOBAL_SCALERS[col].fit_transform(df[[col]])
-            
-            scaled_df = pd.DataFrame(scaled, columns=[col], index=df.index)
-            result_dfs.append(scaled_df)
+    return merged_df
 
-    return pd.concat(result_dfs, axis=1)
+# Encode categorical and scale numerical data
+def encode_and_scale(df):
+    print("\nEncoding categorical data and scaling numerical data...")
+    numerical_columns = df.select_dtypes(include=['float64', 'int64']).columns
+    categorical_columns = df.select_dtypes(include=['object']).columns
 
-if __name__ == "__main__":
+    # Encode categorical data
+    encoder = OneHotEncoder(sparse_output=False, drop='first')
+    encoded_categories = pd.DataFrame(
+        encoder.fit_transform(df[categorical_columns]),
+        columns=encoder.get_feature_names_out(categorical_columns),
+        index=df.index
+    )
+
+    # Scale numerical data
+    scaler = StandardScaler()
+    scaled_numerics = pd.DataFrame(
+        scaler.fit_transform(df[numerical_columns]),
+        columns=numerical_columns,
+        index=df.index
+    )
+
+    # Combine processed data
+    processed_df = pd.concat([scaled_numerics, encoded_categories], axis=1)
+    print("Encoding and scaling complete.")
+    return processed_df
+
+# Main processing
+if __name__ == "_main_":
+    conn = connect_to_db()
+
     tables = [
         'dim_dates', 'dim_demographics', 'dim_environment', 'dim_health_initiatives',
         'dim_healthcare', 'dim_infrastructure', 'dim_location', 'dim_prevention',
         'dim_socioeconomic', 'dim_weather', 'fact_malaria_cases'
     ]
 
-    conn = get_db_connection()
-    
-    try:
-        # Process all data
-        combined_data = merge_all_tables(tables, conn)
-        processed_data = encode_and_scale_data(combined_data)
-        
-        # Save with error handling (maintainability issue)
-        try:
-            processed_data.to_csv('processed_data.csv', index=False)
-            print("Data saved successfully")
-        except:
-            processed_data.to_csv('processed_data_backup.csv', index=False)
-            print("Data saved to backup file")
-    except Exception as e:
-        print(f"Processing failed: {str(e)}")
-    finally:
-        if conn:
-            conn.close()
+    # Combine all data
+    combined_data = combine_dataframes(tables, conn)
+
+    # Encode and scale the data
+    preprocessed_data = encode_and_scale(combined_data)
+
+    # Save the processed data for machine learning
+    preprocessed_data.to_csv('processed_data.csv', index=False)
+    print("\nData preprocessing complete. Saved processed data to 'processed_data.csv'.")
+
+    conn.close()
