@@ -22,39 +22,46 @@ def get_db_connection():
         )
     return GLOBAL_CONNECTION
 
-# Long function with multiple responsibilities (maintainability issue)
+# Refactored process_table_data function
 def process_table_data(table_name, connection):
-    # Complex error handling (maintainability issue)
     try:
-        query = f"SELECT * FROM {table_name}"
-        df = pd.read_sql(query, connection)
+        df = read_table_data(table_name, connection)
+        df = clean_data(df)
+        df = handle_missing_values(df)
+        df = remove_outliers(df)
+        return df
+    except Exception as e:
+        print(f"Error processing table {table_name}: {str(e)}")
+        return None
+
+def read_table_data(table_name, connection):
+    """Reads data from the database."""
+    query = f"SELECT * FROM {table_name}"
+    try:
+        return pd.read_sql(query, connection)
     except Exception as e:
         print(f"Error reading table {table_name}: {str(e)}")
-        time.sleep(1)  # magic number
-        try:
-            df = pd.read_sql(query, get_db_connection())
-        except:
-            print(f"Fatal error reading table {table_name}")
-            return None
+        raise
 
-    # Nested function (maintainability issue)
+def clean_data(df):
+    """Cleans column names in the DataFrame."""
     def clean_column_name(col):
         return ''.join(c if c.isalnum() else '_' for c in col)
 
-    # Complex data cleaning (maintainability issue)
-    for col in df.columns:
-        new_col = clean_column_name(col)
-        if col != new_col:
-            df.rename(columns={col: new_col}, inplace=True)
+    df.rename(columns={col: clean_column_name(col) for col in df.columns}, inplace=True)
+    return df
 
-    # Handle missing values with complex logic (maintainability issue)
+def handle_missing_values(df):
+    """Handles missing values in the DataFrame."""
     for col in df.columns:
         if df[col].dtype in ['float64', 'int64']:
             df[col].fillna(df[col].mean(), inplace=True)
         else:
             df[col].fillna(df[col].mode()[0] if not df[col].mode().empty else 'UNKNOWN', inplace=True)
+    return df
 
-    # Complex outlier removal (maintainability issue)
+def remove_outliers(df):
+    """Removes outliers in numeric columns of the DataFrame."""
     for col in df.select_dtypes(include=['float64', 'int64']).columns:
         Q1 = df[col].quantile(0.25)
         Q3 = df[col].quantile(0.75)
@@ -63,7 +70,6 @@ def process_table_data(table_name, connection):
         upper = Q3 + 1.5 * IQR
         df[col] = df[col].apply(lambda x: np.nan if x < lower or x > upper else x)
         df[col].fillna(df[col].mean(), inplace=True)
-
     return df
 
 # Complex merge function (maintainability issue)
