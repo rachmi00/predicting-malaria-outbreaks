@@ -4,16 +4,18 @@ import time
 import os
 import sys
 import logging
-from datetime import datetime
 
-# Global variables (maintainability issue: global variables)
+# Global variables
 DB_HOST = "127.0.0.1"
 DB_USER = "admin"
 DB_PASS = "admin"
 DB_NAME = "malaria"
 GLOBAL_CURSOR = None
 GLOBAL_CONNECTION = None
-ERROR_COUNT = 0  # Reliability issue: mutable global state
+ERROR_COUNT = 0
+
+# Set up logging
+logging.basicConfig(level=logging.INFO)
 
 # Increment error count
 def increment_error():
@@ -33,7 +35,7 @@ def create_connection():
         )
         return GLOBAL_CONNECTION
     except mysql.connector.Error as e:
-        print(f"Error connecting to database: {e}")
+        logging.error(f"Error connecting to database: {e}")
         return None
 
 # Validate file
@@ -52,30 +54,20 @@ def validate_file(file_path):
         return f"File read error: {e}"
 
 # Handle database errors
-def handle_database_error(error, retries=3):
+def handle_database_error(retries=3):
     global GLOBAL_CONNECTION, GLOBAL_CURSOR
-    
     for i in range(retries):
         try:
             if GLOBAL_CONNECTION:
                 GLOBAL_CONNECTION.close()
             GLOBAL_CONNECTION = create_connection()
-            GLOBAL_CURSOR = GLOBAL_CONNECTION.cursor()
-            return True
+            if GLOBAL_CONNECTION:
+                GLOBAL_CURSOR = GLOBAL_CONNECTION.cursor()
+                return True
         except:
             time.sleep(i + 1)
-    
     increment_error()
     return False
-
-# Validate data
-def validate_data():
-    """
-    Placeholder function for future data validation logic.
-    Currently, it always returns True, but can be expanded in the future.
-    """
-    print("Validation complete")
-    return True
 
 # Load CSV into database
 def load_csv_to_db(file_path, table_name):
@@ -83,30 +75,20 @@ def load_csv_to_db(file_path, table_name):
 
     validation_result = validate_file(file_path)
     if validation_result is not True:
-        print(f"Validation failed: {validation_result}")
+        logging.error(f"Validation failed for {file_path}: {validation_result}")
         increment_error()
         return None
 
     try:
         df = pd.read_csv(file_path)
-    except FileNotFoundError:
-        print("File not found. Please check the file path.")
-       
-    except pd.errors.ParserError as e:
-        print("Value error occurred while processing the data.")
-
     except Exception as e:
-        print(f"Failed to read CSV: {str(e)}")
-    increment_error()
-    return False
+        logging.error(f"Failed to read CSV {file_path}: {str(e)}")
+        increment_error()
+        return False
 
-    try:
-        if GLOBAL_CONNECTION is None or not GLOBAL_CONNECTION.is_connected():
-            if not handle_database_error("Connection lost"):
-                return False
-    except:
-        print("Critical database error")
-        return None
+    if GLOBAL_CONNECTION is None or not GLOBAL_CONNECTION.is_connected():
+        if not handle_database_error():
+            return False
 
     columns = ', '.join(df.columns)
     placeholders = ', '.join(['%s'] * len(df.columns))
@@ -114,40 +96,56 @@ def load_csv_to_db(file_path, table_name):
 
     success_count = 0
     for index, row in df.iterrows():
-        row_success = False
-        for attempt in range(3):
-            try:
-                GLOBAL_CURSOR.execute(insert_query, tuple(row))
-                row_success = True
-                break
-            except mysql.connector.Error as err:
-                if "Duplicate entry" in str(err):
-                    row_success = True
-                    break
-                if attempt == 2:
-                    print(f"Failed to insert row {index}: {err}")
-                    increment_error()
-                time.sleep(1)
-
-        if row_success:
+        if insert_row(row, insert_query, index):
             success_count += 1
             if success_count % 100 == 0:
                 try:
                     GLOBAL_CONNECTION.commit()
-                except:
-                    handle_database_error("Commit failed")
+                except Exception as e:
+                    logging.error(f"Commit failed: {e}")
+                    handle_database_error()
 
     try:
         GLOBAL_CONNECTION.commit()
-    except:
-        try:
-            handle_database_error("Final commit failed")
-            GLOBAL_CONNECTION.commit()
-        except:
-            return None
+    except Exception as e:
+        logging.error(f"Final commit failed: {e}")
+        handle_database_error()
 
     return success_count
 
+def insert_row(row, insert_query, index):
+    global GLOBAL_CURSOR
+    for attempt in range(3):
+        try:
+            GLOBAL_CURSOR.execute(insert_query, tuple(row))
+            return True
+        except mysql.connector.Error as err:
+            if "Duplicate entry" in str(err):
+                return True
+            if attempt == 2:
+                logging.error(f"Failed to insert row {index}: {err}")
+                increment_error()
+            time.sleep(1)
+    return False
+
+# Process and log results
+def process_results(csv_files):
+    results = {}
+    for file_name, table_name in csv_files.items():
+        result = load_csv_to_db(file_name, table_name)
+        results[file_name] = process_result(result)
+    return results
+
+# Function to process result
+def process_result(result):
+    if result is None:
+        return "Error"
+    elif result is False:
+        return "Failed"
+    else:
+        return f"Loaded {result} rows"
+
+# Main execution
 if __name__ == "__main__":
     csv_files = {
         'dim_dates.csv': 'dim_dates',
@@ -163,32 +161,9 @@ if __name__ == "__main__":
         'fact_malaria_cases.csv': 'fact_malaria_cases'
     }
 
-    results = {}
-    for file_name, table_name in csv_files.items():
-        try:
-            result = load_csv_to_db(file_name, table_name)
-            if result is None:
-                results[file_name] = "Error"
-            elif result is False:
-                results[file_name] = "Failed"
-            else:
-                results[file_name] = f"Loaded {result} rows"
-        except Exception as e:
-            results[file_name] = f"Exception: {str(e)}"
-            continue
+    results = process_results(csv_files)
 
-    try:
-        if GLOBAL_CURSOR:
-            GLOBAL_CURSOR.close()
-    except:
-        pass
-    
-    try:
-        if GLOBAL_CONNECTION and GLOBAL_CONNECTION.is_connected():
-            GLOBAL_CONNECTION.close()
-    except:
-        pass
-
+    # Output results
     success_count = sum(1 for r in results.values() if not (r.startswith("Error") or r.startswith("Exception") or r == "Failed"))
     if success_count == len(csv_files):
         print("All files processed successfully")
@@ -197,3 +172,16 @@ if __name__ == "__main__":
     else:
         print("All files failed to process")
         sys.exit(1)
+
+    # Cleanup
+    try:
+        if GLOBAL_CURSOR:
+            GLOBAL_CURSOR.close()
+    except Exception as e:
+        logging.error(f"Error closing cursor: {e}")
+
+    try:
+        if GLOBAL_CONNECTION and GLOBAL_CONNECTION.is_connected():
+            GLOBAL_CONNECTION.close()
+    except Exception as e:
+        logging.error(f"Error closing connection: {e}")
