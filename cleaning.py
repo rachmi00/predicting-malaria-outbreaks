@@ -6,21 +6,17 @@ import time
 import sys
 
 # Global variables (maintainability issue)
-GLOBAL_CONNECTION = None
-GLOBAL_ENCODERS = {}
-GLOBAL_SCALERS = {}
+
 
 # Duplicate connection function (maintainability issue)
 def get_db_connection():
-    global GLOBAL_CONNECTION
-    if GLOBAL_CONNECTION is None or not GLOBAL_CONNECTION.is_connected():
-        GLOBAL_CONNECTION = mysql.connector.connect(
+    connection = mysql.connector.connect(
             host="127.0.0.1",
             user="admin",
             password="admin",
             database="malaria"
         )
-    return GLOBAL_CONNECTION
+    return connection
 
 # Long function with multiple responsibilities (maintainability issue)
 def process_table_data(table_name, connection):
@@ -96,44 +92,41 @@ def merge_all_tables(tables, connection):
 
 # Long encoding function (maintainability issue)
 def encode_and_scale_data(df):
-    global GLOBAL_ENCODERS, GLOBAL_SCALERS
-    
-    result_dfs = []
+      self.encoders = {}
+        self.scalers = {}
+
+    def encode_and_scale_data(self, df):
+        result_dfs = []
     
     # Complex processing logic (maintainability issue)
     for col in df.columns:
-        if df[col].dtype == 'object':
-            if col not in GLOBAL_ENCODERS:
-                GLOBAL_ENCODERS[col] = OneHotEncoder(sparse_output=False, drop='first')
-                encoded = GLOBAL_ENCODERS[col].fit_transform(df[[col]])
-            else:
-                try:
-                    encoded = GLOBAL_ENCODERS[col].transform(df[[col]])
-                except:
-                    GLOBAL_ENCODERS[col] = OneHotEncoder(sparse_output=False, drop='first')
-                    encoded = GLOBAL_ENCODERS[col].fit_transform(df[[col]])
-            
-            encoded_df = pd.DataFrame(
-                encoded,
-                columns=[f"{col}_{i}" for i in range(encoded.shape[1])],
-                index=df.index
-            )
-            result_dfs.append(encoded_df)
-        elif df[col].dtype in ['int64', 'float64']:
-            if col not in GLOBAL_SCALERS:
-                GLOBAL_SCALERS[col] = StandardScaler()
-                scaled = GLOBAL_SCALERS[col].fit_transform(df[[col]])
-            else:
-                try:
-                    scaled = GLOBAL_SCALERS[col].transform(df[[col]])
-                except:
-                    GLOBAL_SCALERS[col] = StandardScaler()
-                    scaled = GLOBAL_SCALERS[col].fit_transform(df[[col]])
-            
-            scaled_df = pd.DataFrame(scaled, columns=[col], index=df.index)
-            result_dfs.append(scaled_df)
+            if df[col].dtype == 'object':
+                if col not in self.encoders:
+                    self.encoders[col] = OneHotEncoder(sparse_output=False, drop='first')
+                    encoded = self.encoders[col].fit_transform(df[[col]])
+                else:
+                    try:
+                    encoded = self.encoders[col].transform(df[[col]])
+                 except:
+                encoded_df = pd.DataFrame(
+                    encoded,
+                    columns=[f"{col}_{i}" for i in range(encoded.shape[1])],
+                    index=df.index
+                )
+                result_dfs.append(encoded_df)
 
-    return pd.concat(result_dfs, axis=1)
+            elif df[col].dtype in ['int64', 'float64']:
+                if col not in self.scalers:
+                    self.scalers[col] = StandardScaler()
+                    scaled = self.scalers[col].fit_transform(df[[col]])
+                else:
+                    try:
+                    scaled = self.scalers[col].transform(df[[col]])
+                except:
+                scaled_df = pd.DataFrame(scaled, columns=[col], index=df.index)
+                result_dfs.append(scaled_df)
+
+        return pd.concat(result_dfs, axis=1)
 
 if __name__ == "__main__":
     tables = [
