@@ -1,0 +1,37 @@
+2025-01-15 19:16:27,207 - INFO - Model loaded successfully
+2025-01-15 19:18:01,982 - ERROR - Error making prediction: X has 16 features, but RandomForestClassifier is expecting 20 features as input.
+2025-01-15 19:18:01,983 - ERROR - Application error: X has 16 features, but RandomForestClassifier is expecting 20 features as input.
+2025-01-15 19:31:08,674 - INFO - Model loaded successfully
+2025-01-15 19:33:16,211 - ERROR - Error making prediction: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- humidity_risk
+- rainfall_risk
+- seasonal_risk
+- temp_risk_score
+- weather_interaction_score
+- ...
+
+2025-01-15 19:33:16,214 - ERROR - Application error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- humidity_risk
+- rainfall_risk
+- seasonal_risk
+- temp_risk_score
+- weather_interaction_score
+- ...
+
+2025-01-15 19:37:45,164 - INFO - Model loaded successfully
+2025-01-15 19:39:02,188 - ERROR - Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- environmental_risk
+- healthcare_access_score
+- high_risk_conditions
+- temp_humidity_interaction
+
+2025-01-15 19:39:02,191 - ERROR - Application error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- environmental_risk
+- healthcare_access_score
+- high_risk_conditions
+- temp_humidity_interaction
+
