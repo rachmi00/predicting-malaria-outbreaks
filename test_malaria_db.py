@@ -59,7 +59,7 @@ class TestPreprocessingFunctions:
         with patch('cleaning.fetch_table_data', return_value=sample_data):
             result = cleaning.preprocess_table('test_table', mock_db_connection)
             assert result is not None
-            assert result['numeric_col'].isna().sum() == 0
+            assert result['numeric_col'].isna().sum() == 0 
 
     def test_combine_dataframes(self, mock_db_connection):
         mock_tables = {
