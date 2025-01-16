@@ -4,11 +4,10 @@ import numpy as np
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 import sys
 import time
-from typing import Dict, Any
+from typing import Dict, Any, Tuple
 
 class OutbreakPredictor:
     def __init__(self, model_path='malaria_model.pkl'):
-        # Load the trained model
         try:
             with open(model_path, 'rb') as f:
                 self.model = pickle.load(f)
@@ -23,6 +22,14 @@ class OutbreakPredictor:
             'housing_type': ['Urban', 'Rural', 'Suburban'],
             'weather_pattern': ['Rainy', 'Dry', 'Mixed'],
             'land_use_type': ['Agricultural', 'Residential', 'Industrial']
+        }
+        
+        # Define probability thresholds for risk levels
+        self.risk_thresholds = {
+            'low': 0.25,
+            'moderate': 0.5,
+            'high': 0.75,
+            'very_high': 0.9
         }
 
     def get_user_input(self) -> Dict[str, Any]:
@@ -122,15 +129,33 @@ class OutbreakPredictor:
         
         return df
 
-    def predict(self, data: Dict[str, Any]) -> tuple:
-        """Make prediction and return probability"""
+    def predict(self, data: Dict[str, Any]) -> Tuple[str, float, Dict[str, float]]:
+        """Make prediction and return risk level and probability"""
         df = self.preprocess_data(data)
         probability = self.model.predict_proba(df)[0][1]
-        prediction = self.model.predict(df)[0]
-        return prediction, probability
+        
+        # Determine risk level based on probability
+        if probability >= self.risk_thresholds['very_high']:
+            risk_level = 'very_high'
+        elif probability >= self.risk_thresholds['high']:
+            risk_level = 'high'
+        elif probability >= self.risk_thresholds['moderate']:
+            risk_level = 'moderate'
+        else:
+            risk_level = 'low'
 
-def display_prediction_result(prediction: int, probability: float):
-    """Display the prediction result with a simple animation"""
+        # Calculate risk components
+        engineered = self.engineer_features(data)
+        risk_components = {
+            'Environmental Risk': engineered['environmental_risk'] / 3,  # Normalize to 0-1
+            'Healthcare Access': min(engineered['healthcare_access_score'] / 10, 1),
+            'Climate Conditions': (engineered['temp_humidity_interaction'] / (50 * 100))  # Normalize based on max values
+        }
+        
+        return risk_level, probability, risk_components
+
+def display_prediction_result(risk_level: str, probability: float, risk_components: Dict[str, float]):
+    """Enhanced display of the prediction result"""
     print("\nAnalyzing data", end="")
     for _ in range(3):
         time.sleep(0.5)
@@ -138,25 +163,57 @@ def display_prediction_result(prediction: int, probability: float):
     print("\n")
     
     time.sleep(1)
-    print("=" * 50)
-    if prediction == 1:
-        print("\n🚨 WARNING: High Risk of Malaria Outbreak 🚨")
-        print(f"Probability: {probability:.1%}")
-        print("\nRecommended Actions:")
-        print("1. Alert local health authorities")
-        print("2. Increase surveillance")
+    print("=" * 60)
+    
+    # Risk level indicators and colors
+    risk_indicators = {
+        'very_high': ('🔴', 'VERY HIGH RISK'),
+        'high': ('🟠', 'HIGH RISK'),
+        'moderate': ('🟡', 'MODERATE RISK'),
+        'low': ('🟢', 'LOW RISK')
+    }
+    
+    icon, level_text = risk_indicators[risk_level]
+    print(f"\n{icon} Malaria Outbreak Risk Level: {level_text}")
+    print(f"Risk Probability: {probability:.1%}\n")
+    
+    # Display risk components
+    print("Risk Component Analysis:")
+    for component, value in risk_components.items():
+        bar_length = 20
+        filled = int(value * bar_length)
+        bar = '█' * filled + '░' * (bar_length - filled)
+        print(f"{component:20} [{bar}] {value:.1%}")
+    
+    print("\nRecommended Actions:")
+    if risk_level == 'very_high':
+        print("🚨 IMMEDIATE ACTION REQUIRED:")
+        print("1. Alert health authorities immediately")
+        print("2. Mobilize emergency medical resources")
+        print("3. Implement intensive surveillance")
+        print("4. Activate emergency response protocols")
+    elif risk_level == 'high':
+        print("⚠️ URGENT ACTION REQUIRED:")
+        print("1. Notify health authorities")
+        print("2. Increase surveillance measures")
         print("3. Prepare medical supplies")
-        print("4. Consider preventive measures")
-    else:
-        print("\n✅ Low Risk of Malaria Outbreak")
-        print(f"Probability: {probability:.1%}")
-        print("\nRecommended Actions:")
-        print("1. Continue regular monitoring")
-        print("2. Maintain preventive measures")
-    print("=" * 50)
+        print("4. Review emergency protocols")
+    elif risk_level == 'moderate':
+        print("⚠️ HEIGHTENED VIGILANCE REQUIRED:")
+        print("1. Enhance monitoring systems")
+        print("2. Review medical preparedness")
+        print("3. Update prevention measures")
+        print("4. Alert relevant stakeholders")
+    else:  # low
+        print("✓ STANDARD MEASURES:")
+        print("1. Maintain routine surveillance")
+        print("2. Continue preventive measures")
+        print("3. Regular monitoring")
+    
+    print("=" * 60)
 
 def main():
-    print("\n=== Malaria Outbreak Prediction System ===")
+    print("\n=== Enhanced Malaria Outbreak Prediction System ===")
     print("This system predicts the likelihood of malaria outbreaks")
     print("based on environmental and social factors.\n")
 
@@ -166,8 +223,8 @@ def main():
         print("\nPlease enter the following information:")
         data = predictor.get_user_input()
         
-        prediction, probability = predictor.predict(data)
-        display_prediction_result(prediction, probability)
+        risk_level, probability, risk_components = predictor.predict(data)
+        display_prediction_result(risk_level, probability, risk_components)
         
         while True:
             again = input("\nWould you like to make another prediction? (yes/no): ").lower()
@@ -178,7 +235,7 @@ def main():
         if again == 'no':
             print("\nThank you for using the Malaria Outbreak Prediction System!")
             break
-        print("\n" + "=" * 50)
+        print("\n" + "=" * 60)
 
 if __name__ == "__main__":
     try:
