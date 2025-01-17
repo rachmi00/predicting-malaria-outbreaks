@@ -26,8 +26,8 @@ class OutbreakPredictor:
         
         # Define probability thresholds for risk levels
         self.risk_thresholds = {
-            'low': 0.25,
-            'moderate': 0.5,
+            'low': 0.30,
+            'moderate': 0.55,
             'high': 0.75,
             'very_high': 0.9
         }
@@ -89,26 +89,6 @@ class OutbreakPredictor:
                     print("Please enter 'yes' or 'no'")
 
         return data
-
-    def engineer_features(self, data: Dict[str, Any]) -> Dict[str, Any]:
-        """Engineer additional features from input data"""
-        engineered = data.copy()
-        
-        # Calculate derived features
-        engineered['temp_humidity_interaction'] = data['temperature'] * data['humidity']
-        engineered['healthcare_access_score'] = (data['bed_capacity'] / 100 +
-                                               data['medical_staff'] / 20 +
-                                               data['access_to_healthcare'] * 2)
-        engineered['environmental_risk'] = ((data['temperature'] > 28) +
-                                          (data['humidity'] > 75) +
-                                          (data['rainfall'] > 150))
-        engineered['high_risk_conditions'] = int(
-            (engineered['environmental_risk'] >= 2) and
-            (data['access_to_healthcare'] == 0)
-        )
-        
-        return engineered
-
     def preprocess_data(self, data: Dict[str, Any]) -> pd.DataFrame:
         """Preprocess the input data for prediction"""
         # Engineer features
@@ -129,10 +109,69 @@ class OutbreakPredictor:
         
         return df
 
+    def engineer_features(self, data: Dict[str, Any]) -> Dict[str, Any]:
+        """Engineer additional features from input data"""
+        engineered = data.copy()
+        
+        # Calculate derived features with adjusted weights
+        engineered['temp_humidity_interaction'] = (data['temperature'] * data['humidity']) / (50 * 100)  # Normalize to 0-1
+        engineered['healthcare_access_score'] = (
+            (data['bed_capacity'] / 1000) * 0.3 +  # Normalize to reasonable max capacity
+            (data['medical_staff'] / 100) * 0.3 +  # Normalize to reasonable staff size
+            (data['access_to_healthcare']) * 0.4   # Binary factor weighted more heavily
+        )
+        
+        # Environmental risk calculation (0-1 scale)
+        engineered['environmental_risk'] = (
+            (int(data['temperature'] > 28) * 0.4) +  # Temperature threshold
+            (int(data['humidity'] > 65) * 0.3) +     # Humidity threshold
+            (int(data['rainfall'] > 150) * 0.3)      # Rainfall threshold
+        )
+        
+        # High risk conditions (0-1 scale)
+        engineered['high_risk_conditions'] = float(
+            (engineered['environmental_risk'] >= 0.6) and  # High environmental risk
+            (data['access_to_healthcare'] == 0)           # No healthcare access
+        )
+        
+        return engineered
+
+    def calculate_final_probability(self, components: Dict[str, float]) -> float:
+        """Calculate final probability based on weighted risk components"""
+        # Define weights for each component
+        weights = {
+            'Environmental Risk': 0.35,
+            'Healthcare Access': -0.25,  # Negative because higher access reduces risk
+            'Climate Conditions': 0.40
+        }
+        
+        # Calculate weighted sum
+        weighted_sum = 0
+        for component, value in components.items():
+            weight = weights.get(component, 0)
+            if component == 'Healthcare Access':
+                weighted_sum += weight * (1 - value)  # Invert healthcare access
+            else:
+                weighted_sum += weight * value
+        
+        # Convert to probability (0-1 scale)
+        probability = np.clip(weighted_sum + 0.5, 0, 1)  # Add 0.5 to center around middle
+        return probability
+
     def predict(self, data: Dict[str, Any]) -> Tuple[str, float, Dict[str, float]]:
         """Make prediction and return risk level and probability"""
         df = self.preprocess_data(data)
-        probability = self.model.predict_proba(df)[0][1]
+        
+        # Calculate risk components
+        engineered = self.engineer_features(data)
+        risk_components = {
+            'Environmental Risk': engineered['environmental_risk'],
+            'Healthcare Access': engineered['healthcare_access_score'],
+            'Climate Conditions': engineered['temp_humidity_interaction']
+        }
+        
+        # Calculate final probability based on components
+        probability = self.calculate_final_probability(risk_components)
         
         # Determine risk level based on probability
         if probability >= self.risk_thresholds['very_high']:
@@ -143,14 +182,6 @@ class OutbreakPredictor:
             risk_level = 'moderate'
         else:
             risk_level = 'low'
-
-        # Calculate risk components
-        engineered = self.engineer_features(data)
-        risk_components = {
-            'Environmental Risk': engineered['environmental_risk'] / 3,  # Normalize to 0-1
-            'Healthcare Access': min(engineered['healthcare_access_score'] / 10, 1),
-            'Climate Conditions': (engineered['temp_humidity_interaction'] / (50 * 100))  # Normalize based on max values
-        }
         
         return risk_level, probability, risk_components
 

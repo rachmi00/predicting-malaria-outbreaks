@@ -24,7 +24,7 @@ class DatabaseConnector:
 
     def fetch_historical_data(self, start_date=None, end_date=None):
        
-        print(f"Fetching historical data from database for period: {start_date} to {end_date}")
+        print(f"Fetching historical data from database from period: {start_date} ")
         
         n_samples = 1000
         dates = pd.date_range(start=start_date, end=end_date, periods=n_samples)
@@ -34,7 +34,7 @@ class DatabaseConnector:
         
         data = {
             'record_date': dates,
-            'location_id': np.random.randint(1, 51, n_samples),  # Simulate 50 different locations
+            'location_id': np.random.randint(1, 51, n_samples),  
             'temperature': np.random.normal(25, 5, n_samples),
             'humidity': np.random.uniform(60, 90, n_samples),
             'rainfall': np.random.exponential(100, n_samples),
@@ -55,9 +55,9 @@ class DatabaseConnector:
         
         # Simulate getting outbreak status from a different table
         print("Joining with outbreak_records table...")
-        outbreak_prob = (0.3 * (data['temperature'] > 28) +
-                        0.3 * (data['humidity'] > 75) +
-                        0.4 * (data['rainfall'] > 150))
+        outbreak_prob = (0.3* (data['temperature'] > 28) +
+                        0.3* (data['humidity'] > 65) +
+                         0.4*(data['rainfall'] > 150))
         data['outbreak_status'] = (outbreak_prob + np.random.normal(0, 0.1, n_samples) > 0.5).astype(int)
         
         return pd.DataFrame(data)
@@ -143,13 +143,13 @@ class MalariaPredictor:
         print("Engineering features based on domain knowledge...")
         df_engineered = df.copy()
         df_engineered['temp_humidity_interaction'] = df_engineered['temperature'] * df_engineered['humidity'] *2
-        df_engineered['healthcare_access_score'] = (df_engineered['bed_capacity'] / 100 +
-                                                  df_engineered['medical_staff'] / 20 +
-                                                  df_engineered['access_to_healthcare'] * 2)
-        df_engineered['environmental_risk'] = ((df_engineered['temperature'] > 28).astype(int) +
-                                             (df_engineered['humidity'] > 75).astype(int) +
-                                             (df_engineered['rainfall'] > 150).astype(int))
-        df_engineered['high_risk_conditions'] = ((df_engineered['environmental_risk'] >= 2) &
+        df_engineered['healthcare_access_score'] = ((df_engineered['bed_capacity'] / 1000 )+
+                                                 ( df_engineered['medical_staff'] / 100)+
+                                                  (df_engineered['access_to_healthcare']))
+        df_engineered['environmental_risk'] = (((df_engineered['temperature'] > 28) ).astype(int) +
+                                             ((df_engineered['humidity'] > 75) ).astype(int) +
+                                             ((df_engineered['rainfall'] > 150)).astype(int))
+        df_engineered['high_risk_conditions'] = ((df_engineered['environmental_risk'] >= 0.6) &
                                                (df_engineered['access_to_healthcare'] == 0)).astype(int)
         return df_engineered
 
