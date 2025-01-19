@@ -11,9 +11,9 @@ db_connection = mysql.connector.connect(
 
 cursor = db_connection.cursor()
 
-# Step 3: Function to create an insert query from a DataFrame
+
 def load_csv_to_db(file_path, table_name):
-    # Read CSV into a Pandas DataFrame
+    
     df = pd.read_csv(file_path)
     
     # Dynamically build the SQL INSERT IGNORE query
@@ -52,6 +52,6 @@ csv_files = {
 for file_name, table_name in csv_files.items():
     load_csv_to_db(file_name, table_name)
 
-# Close the cursor and connection
+
 cursor.close()
 db_connection.close()
