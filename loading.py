@@ -9,7 +9,6 @@ db_connection = mysql.connector.connect(
     database="malaria"
 )
 
-# Step 2: Create a cursor object
 cursor = db_connection.cursor()
 
 # Step 3: Function to create an insert query from a DataFrame
